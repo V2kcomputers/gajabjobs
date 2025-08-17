@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+{{ .Title }}
+<h2>Latest  Pdf  Forms ( फार्म)</h2>
+<a href="https://forms.gle/sFESSsRuqVJG6BAn8" target="_blank"> <button class="upload-button">+ New Upload</button></a>
+<a href="/pdf/uploaded-pdf-forms/" target="_blank"> <button class="upload-button">Your Forms</button></a>
+    <!-- Header Partial -->
+    {{ partial "list-update/pdf-forms-list.html" . }}
+    {{ partial "baseof-part/dynamic-link.html" . }}
+    <div class="content">
+        {{ .Content }}
+    </div>
+{{ end }}

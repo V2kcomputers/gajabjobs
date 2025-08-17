@@ -1,0 +1,19 @@
+{{ with .Params.how_to }}
+ 
+  <ul class="yp-steps-container">
+    {{ range . }}
+  {{ $step1 := replace . ":" "///" }}
+  {{ $clean := replace $step1 "ःः" "///" }}
+  {{ $parts := split $clean "///" }}
+ 
+        {{ if eq (len $parts) 2 }}
+            <p class="step-item"><b>{{ index $parts 0 }}:</b> <br>
+              <span> {{ index $parts 1 }}</span> </p>
+        {{ else }}
+         <li class="step-item">  {{ . }}</li>
+        {{ end }}
+     
+    {{ end }}
+   </ul>
+{{ end }}
+   

@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+{{ .Title }}
+
+
+    <!-- Header Partial -->
+    {{ partial "manual-update/about.html" . }}
+
+    <!-- Content Section -->
+    <div class="content">
+        {{ .Content }}
+    </div>
+{{ end }}

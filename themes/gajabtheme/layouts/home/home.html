@@ -1,0 +1,39 @@
+
+<head>
+  {{ partial "style/yp-base-main" . }}
+</head>
+
+  {{ partial "main-part/yp-header" . }}
+
+
+<div class="main-container">
+
+  <aside class="left-sidebar" id="leftSidebar">
+   {{ partial "main-part/left-sidebar" . }}
+  </aside>
+
+  <main class="main-content">
+ 
+    <div id="home" class="list active">
+
+      {{ partial "homelist/list-posts.html" . }}
+      <iframe  src="/quick/" frameborder="0" marginheight="0" marginwidth="0" height="50px" width="100%" >Loading…</iframe>
+      {{ partial "adsense.html" . }}
+      {{ partial "homelist/grid-container.html" . }}
+      </div>
+  </main>
+
+  <aside class="right-sidebar">
+    {{ partial "baseof-part/sidebar" . }}
+  </aside>
+
+</div>
+
+<footer class="footer">
+  {{ partial "baseof-part/footer" . }}
+</footer>
+
+
+{{ partial "script/left-top-header" . }}
+
+

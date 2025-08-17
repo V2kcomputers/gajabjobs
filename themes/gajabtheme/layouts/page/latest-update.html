@@ -1,0 +1,11 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ partial "list-update/latest-update-list.html" . }}
+{{ partial "baseof-part/dynamic-link.html" . }}
+<div class="content">
+    {{ .Content }}
+</div>
+
+
+{{ end }}
+

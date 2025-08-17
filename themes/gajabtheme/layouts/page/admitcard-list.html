@@ -1,0 +1,11 @@
+
+{{ define "main" }}
+<h2 style="text-align:center;" > {{ .Title }} </h2>
+    <!-- Header Partial -->
+    {{ partial "list-update/admitcard-list.html" . }}
+
+    <!-- Content Section -->
+    <div class="content">
+        {{ .Content }}
+    </div>
+{{ end }}

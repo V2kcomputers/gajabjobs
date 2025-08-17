@@ -1,0 +1,58 @@
+
+<div class="main-sidebar">
+    
+    <div class="sidebar-section">
+      <span>« Advertisement »</span> 
+      <div class="right-ads">
+          {{ partial "ads/max-height-300.html" . }}
+         </div> </div>
+<div class="sidebar-section">
+<h3>Latest Schemes Update</h3>
+    <ul class="card-list">
+
+    {{ range first 5 (where .Site.RegularPages ".Params.post-type" "schemes") }}
+    {{ $lastdate := .Params.lastdate | default "9999-12-31" }} 
+    {{ if ge $lastdate (now.Format "2006-01-02") }}
+        <li class="card-item">
+            <a class="card-title" href="{{ .RelPermalink }}" target="_blank">{{ .Title }}</a>
+            <div class="card-tags">
+        {{ if eq .Params.extended "yes" }}<a href="/extended/">📌 Extended</a>{{ end }}
+        {{ if eq .Params.pdfForm "yes" }}<a href="/pdf-forms/">📄 PDF Form</a>{{ end }}
+      </div>
+
+      <div class="card-date">📅 {{ .Date.Format "02 Jan 2006" }}</div>
+        </li>
+       
+    {{ end }}
+{{ end }}
+<hr>
+      <p > <a  class="card-title" href="/latest-schemes/"  target="_blank"> <div style="text-align:right;"> More >> </div></a></p>
+  
+
+
+</div>
+<div  class="sidebar-section">
+
+ <h3>Latest Jobs Update</h3>
+    <ul class="card-list">
+    {{ range first 5 (where .Site.RegularPages ".Params.post-type" "latest-jobs") }}
+    {{ $lastdate := .Params.lastdate | default "9999-12-31" }} 
+    {{ if ge $lastdate (now.Format "2006-01-02") }}
+        <li class="card-item">
+            <a class="card-title"  href="{{ .RelPermalink }}" >{{ .Title }}</a>
+           <div class="card-tags">
+        {{ if eq .Params.extended "yes" }}<a href="/extended/">📌 Extended</a>{{ end }}
+        {{ if eq .Params.pdfForm "yes" }}<a href="/pdf-forms/">📄 PDF Form</a>{{ end }}
+      </div>
+
+      <div class="card-date">📅 {{ .Date.Format "02 Jan 2006" }}</div>
+        </li>
+
+    {{ end }}
+{{ end }}
+<hr>
+<p > <a  class="card-title" href="/latest-jobs/"  target="_blank"> <div style="text-align:right;"> More >> </div></a></p>
+</details>
+
+</div>
+</div>

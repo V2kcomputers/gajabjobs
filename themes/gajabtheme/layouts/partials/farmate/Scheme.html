@@ -1,0 +1,124 @@
+{{ partial "imp-codes/breadcrumb.html" . }}
+ {{ partial "farmate/parts/stricky-anchor.html" . }}
+
+<div class="yp-container">
+  <div class="post-card">
+<section class="scheme-box">
+  {{ with .Params.Department }}
+    <div class="department-badge">{{ . }}</div>
+  {{ end }}
+
+  {{ if or .Params.SchemeName .Params.state }}
+    <div class="scheme-title">
+      {{ with .Params.SchemeName }}{{ . }}{{ end }}
+      {{ if and .Params.SchemeName .Params.state }}
+        <span class="separator"> - </span>
+      {{ end }}
+      {{ with .Params.state }}
+        <span class="state-name">{{ . }}</span>
+      {{ end }}
+    </div>
+  {{ end }}
+</section>
+
+      
+          {{ if .Params.Whatis }}
+        <div open class="section" id="Whatis" >  <h2> 🔸<strong> {{ .Params.YojnaName }} की संक्षिप्त जानकारी (short details)</strong> </h2>
+            {{ partial "farmate/parts/scheme/Whatis.html" . }}
+        </div>    {{ end }}
+        
+     
+        {{ partial "imp-codes/video-iframe.html" . }}
+      {{ if .Params.objective }}
+      <div class="section" id="objective">
+          <h3>🔸{{ .Params.YojnaName }} का उद्देश्य (Objective)</h3>
+         {{ partial "farmate/parts/scheme/objective.html" . }}
+      </div>
+      {{ end }}
+
+   {{ if .Params.impdates }}
+      <div class="section" id="impdates">
+          <h3>🔸{{ .Params.YojnaName }} महत्वपूर्ण तिथियाँ (Important Dates)</h3>
+          {{ partial "farmate/parts/impdates.html" . }}
+      </div>
+      {{ end }}
+
+
+      {{ partial "adsense.html" . }}
+      {{ if .Params.eligibility }}
+      <div class="section" id="eligibility">
+          <h3>🔸{{ .Params.YojnaName }} हेतु पात्रता (Eligibility)</h3>
+           {{ partial "farmate/parts/scheme/eligibility.html" . }}
+      </div>
+      {{ end }}
+
+      {{ if .Params.benefits }}
+      <div class="section" id="benefits">
+          <h3>🔸{{ .Params.YojnaName }} से लाभ (Benefits)</h3>
+           {{ partial "farmate/parts/scheme/benefits.html" . }}
+      </div>
+      {{ end }}
+      
+      {{ if .Params.documents }}
+      <div class="section" id="documents">
+          <h3>🔸{{ .Params.YojnaName }} के लिए आवश्यक दस्तावेज़ (Required Documents)</h3>
+         {{ partial "farmate/parts/documents.html" . }}
+      </div>
+      {{ end }}
+
+      {{ if or (.Params.apply_online) (.Params.apply_offline) (.Params.how_to) (.Params.how_to_offline)}}
+      <div class="section" id="how_to">
+          <h3>🔸 {{ .Params.YojnaName }} के लिए आवेदन प्रक्रिया (How to Apply)</h3>
+       {{ partial "farmate/parts/scheme/how_to.html" . }}
+        {{ partial "farmate/parts/scheme/how_to_offline.html" . }}
+      </div>
+      {{ end }}
+    
+   
+
+  
+
+     
+      {{ if .Params.conclusion }}
+      <div class="section" id="conclusion">
+          <h3>🔚{{ .Params.YojnaName }} का निष्कर्ष (Conclusion)</h3>
+          {{ partial "farmate/parts/scheme/conclusion.html" . }}
+      </div>
+      {{ end }}
+  
+  
+  {{ if .Params.faqs }}
+  <div class="faqs" id="faqs">
+    <b>🙋‍♀️ अक्सर पूछे जाने वाले प्रश्न - {{ .Params.YojnaName }}</b>
+  <div class="faq">
+  {{ partial "farmate/parts/faqs.html" . }}
+    </div>
+    {{ end }} 
+</div>
+  <div class="content" id="content">
+    {{ .Content }}
+</div>
+{{ if .Params.links }}
+<div class="yp-table-wrapper" id="links">
+   {{ partial "farmate/parts/link-table.html" . }}
+  </div>
+  {{ end }}
+
+  {{ partial "imp-codes/imageBanner.html" . }}
+</div>
+{{ if or .Params.objective .Params.eligibility .Params.benefits .Params.important_dates .Params.apply_online }}
+
+
+{{ end }}
+{{ if .Params.impnote }}
+
+
+    <p class="notice">{{ .Params.impnote | safeHTML }}</p>
+
+{{ end }}
+</div>
+
+{{ partial "imp-codes/random-list.html" . }}
+{{ partial "manual-update/button-group.html" . }}
+{{ partial "adsense.html" . }}
+{{ partial "imp-codes/keywords.html" . }}

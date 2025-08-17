@@ -1,0 +1,129 @@
+{{ if site.Params.adminMode }}
+<head>
+ <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>Sitemap</title>
+<style>
+  body { font-family: Arial, sans-serif; }
+  #searchBox {
+    padding: 10px;
+    width: 100%;
+    max-width: 500px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 15px;
+  }
+  th, td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #eee;
+  }
+  th {
+    background-color: #f9f9f9;
+    color: #444;
+  }
+  tr:hover {
+    background-color: #f1f7ff;
+  }
+  code {
+    background-color: #f2f2f2;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  .edit-link a {
+    background-color: #007bff;
+    color: #fff;
+    padding: 5px 10px;
+    text-decoration: none;
+    font-size: 14px;
+    border-radius: 5px;
+  }
+  .edit-link a:hover {
+    background-color: #0056b3;
+  }
+  @media (max-width: 600px) {
+    table, thead, tbody, th, td, tr {
+      display: block;
+    }
+    th { display: none; }
+    td {
+      padding: 10px;
+      border: none;
+      border-bottom: 1px solid #eee;
+    }
+    td::before {
+      content: attr(data-label);
+      font-weight: bold;
+      display: block;
+      margin-bottom: 5px;
+      color: #333;
+    }
+  }
+</style>
+</head>
+<h1>🗂 Sitemap</h1>
+<input type="text" id="searchBox" placeholder="🔍 Search title, folder or file...">
+
+<table id="sitemapTable">
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>URL</th>
+      <th>Folder</th>
+      <th>File Name</th>
+      <th>Path</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range .Site.RegularPages }}
+      {{ $file := .File }}
+      <tr>
+        <td data-label="Title">{{ .Title }}</td>
+        <td data-label="URL"><code>{{ .RelPermalink }}</code></td>
+        <td data-label="Folder"><code>{{ $file.Dir }}</code></td>
+        <td data-label="File"><code>{{ $file.BaseFileName }}{{ $file.Ext }}</code></td>
+        {{ $dir := replace $file.Dir "\\" "/" }}
+        <td class="edit-link" data-label="Edit">
+          <button onclick="copyToClipboard('/{{ $dir }}{{ $file.BaseFileName }}.html')">Copy</button>
+        </td>
+        
+      </tr>
+    {{ end }}
+  </tbody>
+</table>
+
+<script>
+  const searchBox = document.getElementById("searchBox");
+  const tableRows = document.querySelectorAll("#sitemapTable tbody tr");
+
+  searchBox.addEventListener("input", function () {
+    const value = this.value.toLowerCase();
+    tableRows.forEach(row => {
+      const text = row.innerText.toLowerCase();
+      row.style.display = text.includes(value) ? "" : "none";
+    });
+  });
+</script>
+<script>
+    function copyToClipboard(text) {
+      navigator.clipboard.writeText(text)
+        .then(() => {
+          alert("Copied to clipboard: " + text);
+        })
+        .catch(err => {
+          console.error("Failed to copy: ", err);
+        });
+    }
+  </script>
+  
+{{ else }}
+<h2 style="color:red;">⛔ Access Denied: This page is only visible to the site admin.</h2>
+{{ end }}

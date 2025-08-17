@@ -1,0 +1,893 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>baner update</title>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+        <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                
+                
+            }
+
+ .profile-container {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .profile-image {
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      overflow: hidden;
+      border:1px solid black;
+
+    }
+    .profile-image img {
+      width: 100%;
+      height: 100%;
+    }
+    .profile-info {
+      font-size: 18px;
+    }
+    .profile-info .name {
+      font-weight: bold;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+    .profile-info .name .verified {
+      color: #1DA1F2; /* Twitter blue */
+      font-size: 16px;
+    }
+    .profile-info .time {
+        font-size: xx-small;
+      color: gray;
+    }
+    .icons {
+      display: flex;
+      gap: 10px;
+      margin-left: auto;
+    }
+    .icons .icon {
+      width: 20px;
+      height: 20px;
+     
+      cursor: pointer;
+    }
+    .icons .icon img {
+      width: 100%;
+      height: 100%;
+    }
+
+     .verified {
+    position: relative; 
+}
+
+.upper {
+    position: relative; 
+    z-index: 3; 
+    top:3px;
+    left:2px;
+    padding:4px;
+    color:white;
+    font-size:12px;
+
+}
+
+.bihind {
+    position: absolute; 
+   font-size:24px;
+    top: 0; 
+    left: 0; 
+    z-index: 1; 
+    
+    
+}
+
+
+
+
+           .post-container {
+    max-width: 600px;
+  background: white;
+    padding: 10px;
+    margin: auto;
+    overflow: hidden; /* Prevents text from overflowing the container */
+    word-wrap: break-word; /* Breaks long words to the next line */
+    white-space: normal; /* Ensures the text wraps to the next line */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    margin-bottom: 10px;
+}
+            .main-post {
+                border: 1px double #000;
+                padding:10px 1px;
+                min-height: 300px;
+                max-width: 400px;
+                border-radius: 8px;
+                position: relative;
+                margin: auto;
+                
+
+            }
+
+
+.top-degine { 
+position: absolute; 
+width:100%;
+height: 20px;
+z-index:1;
+top:0;
+left:0;
+border-top-right-radius: 6px;
+border-top-left-radius: 6px; }
+
+
+.down-degine { 
+position: absolute;
+
+ background: linear-gradient(to left, #33ccff 0%, #ff99cc 100%);
+width:100%;
+height:5px; 
+bottom:0;
+left:0;
+border-bottom-right-radius: 6px;
+border-bottom-left-radius: 6px; }
+
+
+
+
+            .editable {
+                cursor:text;
+                transition: background-color 0.2s;
+                padding: 5px;
+            }
+            .editable:hover {
+                background-color: rgba(0, 0, 0, 0.05);
+            }
+            .editable::after {
+                content: '✎';
+                position: absolute;
+                right: 5px;
+                font-size: 1.2em;
+                color: gray;
+                opacity: 0;
+                transition: opacity 0.2s;
+            }
+            .editable:hover::after {
+                opacity: 1;
+            }
+            .title {
+                text-align: center;
+                font-size: 1.4em;
+                font-weight: bold;
+                margin-bottom: 2px;
+                background-color: white;
+            }
+            .portal-logo {
+                text-align: center;
+                margin: 5px 0;
+                color: #ff6b00;
+                font-weight: bold;
+                border: 1px solid #fff;
+            }
+            .card-title {
+                text-align: center;
+                font-size: 2em;
+                font-weight: bold;
+                border: 1px dashed #000;
+                padding: 10px;
+                margin: 5px 0;
+            }
+            .info-text,
+            .scheme-text,
+            .documents {
+                text-align: center;
+                margin: 2px 0;
+            }
+            .scheme-text {
+                font-size: 1.3em;
+                font-weight: bold;
+                border: 1px dashed #000;
+                padding: 10px;
+            }
+            .documents {
+                color: #ff0000;
+                font-size: 1.1em;
+                 border: 1px solid #fff;
+            }
+            .button-container {
+                display: flex;
+                justify-content: space-around;
+                flex-wrap: wrap;
+                gap: 2px;
+                margin-top: 2px;
+                border-bottom: 1px solid black;
+                padding: 5px;
+                border-radius: 10px;
+                
+
+            }
+            .button {
+                width: 60px;
+                height: 40px;
+                border-radius: 5px;
+                border: none;
+                cursor: pointer;
+                font-size: 11px;
+                padding: 0 5px;
+                transition: transform 0.2s;
+            }
+           .button .fas { font-size: 24px;}
+            .fas:hover { color:#1DA1F2;}
+            
+            .button:hover {
+                transform: scale(1.1);
+            }
+            .info-btn { background-color: #fff; }
+            .edit-btn { background-color: #fff; }
+            .download-btn { background-color: #fff; }
+            .share-btn { background-color: #fff; }
+            .tool-button { background-color: #fff; }
+            .modal {
+                display: none;
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background-color: rgba(0, 0, 0, 0.5);
+                z-index: 1000;
+            }
+            .modal-content {
+                background-color: white;
+                padding: 20px;
+                border-radius: 10px;
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                min-width: 300px;
+            }
+            .close-btn {
+                float: right;
+                cursor: pointer;
+                font-size: 20px;
+            }
+            .edit-controls {
+                margin-top: 15px;
+            }
+            .edit-controls label {
+                display: block;
+                margin: 10px 0;
+            }
+            .edit-controls input, .edit-controls select {
+                width: 100%;
+                padding: 5px;
+                margin-bottom: 10px;
+            }
+             .toolbar-content {margin:auto;}
+             .toolbar {
+                transition: opacity 0.3s ease-in-out;
+            }
+            button {padding: 0px 5px;}
+
+input[type="color"] {
+  /* Basic styling */
+  width: 20px;
+  height: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 0;
+
+  /* Optional: Hover and focus effects */
+  &:hover,
+  &:focus {
+    border-color: #999;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.2);
+  }
+}
+input[type="number"] {
+  /* Basic styling */
+  width: 40px;
+  height: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 0;
+
+  /* Optional: Hover and focus effects */
+  &:hover,
+  &:focus {
+    border-color: #999;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.2);
+  }
+}
+select {max-width: 80px;}
+.summary {margin: -10px -10px -10px 0px;
+font-size: small;}
+ .summary a {text-decoration: none;
+ }
+ .profile-container a  {text-decoration: none;
+ color: black;
+}
+.tools-container1 {
+    display: flex; /* Create a flex container */
+    justify-content: space-between; /* Push items to left and right */
+    align-items: flex-start; /* Align items at the top */
+    gap: 20px; /* Optional: Adjust spacing between sections */
+  }
+.font-container {
+    max-width: 400px;
+    display: flex;
+    flex-wrap: wrap; /* Enable wrapping */
+    gap: 2px;
+    border-right: 1px solid black;
+    
+  }
+  
+
+.border-style-options {
+    max-width: 400px;
+    display: flex;
+    flex-wrap: wrap; /* Enable wrapping */
+    gap: 2px;
+    border-right: 1px solid black;
+    
+  }
+  
+    .border-style-options div {
+        cursor: pointer;
+        margin: 5px 0;
+        padding: 5px 20px;
+        text-align: center;
+      
+        background-color: #f9f9f9;
+        height: 5px;
+      }
+      .border-style-options div:hover {
+        background-color: #e0e0e0;
+      }
+   .solid {
+    border: 2px solid black; 
+  }
+   .dashed {
+    border: 2px dashed black; 
+  }
+   .dotted {
+    border: 2px dotted black; 
+  }
+   .double {
+    border: 3px double black; 
+  }
+  .groove {
+    border: 3px groove; 
+  }
+  .ridge {
+    border: 3px ridge; 
+  }
+  .inset {
+    border: 3px  inset; 
+  }
+  .outset {
+    border: 3px  outset; 
+  }
+  
+@media (max-width: 768px) { /* टैबलेट और छोटे स्क्रीन के लिए */
+    .post-container {
+        max-width: 500px; /* स्क्रीन की चौड़ाई का 90% */
+    }
+}
+
+@media (max-width: 480px) { /* मोबाइल स्क्रीन के लिए */
+    .post-container {
+        max-width: 400px; /* पूरी स्क्रीन की चौड़ाई */
+    }
+}
+
+        </style>
+    </head>
+    <body>
+        {{ range first 20 (where .Site.RegularPages ".Params.baner" "yes") }}
+
+<div class="post-container" data-post-id="{{ .File.UniqueID }}">
+
+
+<div class="profile-container">
+    <div class="profile-image">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ_eV9opBbEP0TwP-5auzkLDO26dIQbg5gEZmslbmOVcpzcFc0TmD3SlWiT-E3iXUZljg1dqDuwQvqlIpaMkA2ofpRwggZqlqDSN-h6bvi3oDgybcG7CAqcvBeUxakoIGJoTxog0meJT4MQF38awNQGn5vrMXQX1Kc24UReadTLuj_sSUPHXjxKFnwyw/s1600/Yojna%20Portal%20Logo%20%281%29.png" alt="Profile Image">
+  </div>
+  <div class="profile-info">
+    
+    <div class="name">
+      Yojna Portal
+      <span class="verified"><div class="verified">
+        
+        <div class="upper"><i class="fa fa-check"></i></div>
+        <div class="bihind"> <i class='fas fa-certificate'></i></div>
+    </div>
+</span>
+    </div>
+    <div class="time">
+        
+        {{- $now := now -}}
+        {{- $postDate := .Date -}}
+        {{- $diff := $now.Sub $postDate -}}
+        
+        {{- if lt $diff (mul 60 1e9) -}} <!-- 1 second in nanoseconds -->
+            Just Now
+        {{- else if lt $diff (mul 60 60 1e9) -}} <!-- 1 minute in nanoseconds -->
+            {{ $minutes := div $diff.Seconds 60 }} <!-- Convert seconds to minutes -->
+            {{ $roundedMinutes := printf "%.0f" $minutes }} <!-- Round to the nearest integer -->
+            {{ $roundedMinutes }} minutes ago
+        {{- else if lt $diff (mul 24 60 60 1e9) -}} <!-- 1 hour in nanoseconds -->
+            {{ $hours := div $diff.Hours 1 }} <!-- Convert seconds to hours -->
+            {{ $roundedHours := printf "%.0f" $hours }} <!-- Round to the nearest integer -->
+            {{ $roundedHours }} hours ago
+        {{- else if lt $diff (mul 48 60 60 1e9) -}} <!-- 48 hours in nanoseconds -->
+            Yesterday
+        {{- else -}} 
+            {{ $postDate.Format "02 Jan, 2006" }}
+        {{- end -}}
+        <span>•</span> <span><i class="fas fa-globe-americas"> </i>
+          </span></div>
+  </div>
+
+  <div class="icons">
+    <div class="icon" id="whatsapp-share" onclick="shareOnWhatsApp('{{ .File.UniqueID }}')" >
+        <i class='fas fa-share-square' style='font-size:24px'></i>
+    </div>
+    <div class="icon"  onclick="toggleEditToolbar('{{ .File.UniqueID }}')" > <i class='fas fa-edit' style='font-size:24px'></i></div>
+  </div>
+</div>
+<div class="summary"> <p>{{ .Summary }} <a href="{{ .Permalink }}">Read More...</a></p></div>
+
+
+        <div id="editToolbar" class="toolbar" style="display: none;" data-post-id="{{ .File.UniqueID }}">
+ 
+    
+        <div class="toolbar-section" data-post-id="{{ .File.UniqueID }}">
+            <div class="tools-container">
+            <div class="font-container">
+            <lable><i class='fas fa-font'></i></lable>
+             <select onchange="changeFontFamily(this.value)" title="Font Family">
+                <option value="Arial">Arial</option>
+                <option value="Verdana">Verdana</option>
+                <option value="Times New Roman">Times New Roman</option>
+
+                 
+                 <label for="color-picker">
+    <i style="color:red;">A</i>
+  </label>
+  <input type="color" id="color-picker" onchange="changeTextColor(this.value)" title="Choose a color">
+
+            <button class="tool-button" onclick="toggleBold()" title="Bold">𝗕</button>
+            <button class="tool-button" onclick="toggleItalic()" title="Italic">𝘐</button>
+            <button class="tool-button" onclick="toggleUnderline()" title="Underline">U̲</button>
+              <button class="tool-button" onclick="changeTextAlignment('left')" title="Align Left"><i class='fas fa-align-left'></i></button>
+            <button class="tool-button" onclick="changeTextAlignment('center')" title="Align Center"><i class='fas fa-align-center'></i></button>
+            <button class="tool-button" onclick="changeTextAlignment('right')" title="Align Right"><i class='fas fa-align-right'></i></button>
+            <button class="tool-button" onclick="changeTextAlignment('justify')" title="Align Right"><i class='fas fa-align-justify'></i></button>
+            <label for="bg-color">
+                <i style="color:red;">BG</i>
+              </label>
+              <input type="color" id="bg-color" onchange="changeBackgroundColor(this.value)" title="Background Color">
+            <input type="range" value="16" onchange="changeFontSize(this.value)" title="Font Size">
+        </div>
+            
+            
+        </div>
+            <lable><i class='fas fa-border-style'></i></lable> 
+          
+                <div class="border-style-options">
+            
+                   <option> <div class="solid" onclick="changeBorderStyle('solid')"> </div></option>
+                     <div class="dashed" onclick="changeBorderStyle('dashed')"> </div>
+                     <div  class="dotted" onclick="changeBorderStyle('dotted')"> </div>
+                     <div class="double" onclick="changeBorderStyle('double')"> </div>
+                      <div class="groove" onclick="changeBorderStyle('groove')"> </div>
+                      <div class="ridge" onclick="changeBorderStyle('ridge')"> </div>
+                      <div class="inset" onclick="changeBorderStyle('inset')"> </div>
+                      <div class="outset" onclick="changeBorderStyle('outset')"></div>
+                     <div class="none"  onclick="changeBorderStyle('none')"><i class='fas fa-ban'></i> none</div>
+                     <input type="color" class="color-picker" onchange="changeBorderColor(this.value)" title="Border Color">
+                     <input type="range" min="0" max="50" value="0" onchange="changeBorderWidth(this.value)" title="Border Weight">
+                    <input type="range" min="0" max="50" value="0" onchange="changeBorderRadius(this.value)" title="Border Radius">
+                    
+                    </div>
+                </div>
+                 
+                  
+                    
+                  <lable><i class='fas fa-vector-square'></i></lable> 
+                   <input type="range" min="0" max="50" value="0" onchange="changePadding(this.value)" title="Padding">
+                  <lable><i class='fas fa-vector-square'></i></lable> 
+                   <input type="range" min="0" max="50" value="0" onchange="changeMargin(this.value)" title="Margin">
+                  
+  
+
+                    
+
+    </div>
+
+        
+            <div class="main-post">
+                <div ><svg class="top-degine" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" preserveAspectRatio="none">
+        <defs>
+            <linearGradient id="curveGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop id="gradientStop1" offset="0%" />
+                <stop id="gradientStop2" offset="100%" />
+            </linearGradient>
+        </defs>
+        <path 
+            d="M0,150 
+               C400,50 800,200 1200,150 
+               L1200,0 
+               L0,0 
+               Z" 
+            fill="url(#curveGradient)"
+        />
+    </svg></div> 
+                <div class="title editable" contenteditable="true">{{ .Title }}</div>
+                <div class="portal-logo editable" contenteditable="true">{{ .Site.Params.portalName }}</div>
+                <div class="card-title editable" contenteditable="true">{{ .Params.cardTitle }}</div>
+                <div class="info-text editable" contenteditable="true">{{ .Params.infoText }}</div>
+                <div class="editable" contenteditable="true">{{ .Params.schemeText }}</div>
+                <div class="editable documents" contenteditable="true">{{ .Params.documents }}</div>
+                <div > 
+
+<div class="down-degine"> </div>
+
+            </div></div>
+
+
+
+
+
+ 
+            <div class="button-container">
+                <a href="{{ .Permalink }}" target="_blank">
+                <button class="button info-btn" onclick="showMoreInfo('{{ .File.UniqueID }}')"> <i class="fas fa-link"></i> <br> Details </button>
+</a>
+                <button class="button edit-btn" onclick="toggleEditToolbar('{{ .File.UniqueID }}')"> <i class="fas fa-edit"></i> <br> edit </button>
+
+<button class="button tool-button" onclick="addNewText('{{ .File.UniqueID }}')" title="Add New Text"> <i class="fas fa-plus"></i> <br> add text </button>
+
+                <button class="button download-btn" onclick="downloadAsPNG('{{ .File.UniqueID }}')"> <i class="fas fa-download"></i> <br> Download </button> 
+                <button class="button share-btn" id="whatsapp-share" onclick="shareOnWhatsApp('{{ .File.UniqueID }}')"> <i class="fas fa-share"></i> <br> Share </button>
+            </div>
+        </div>
+        {{ end }}
+
+   
+
+
+
+        <script>
+            let currentPostId = null;
+
+            // Show edit modal
+            function showEditModal(postId) {
+                currentPostId = postId;
+                document.getElementById('editModal').style.display = 'block';
+            }
+
+            // Close edit modal
+            function closeEditModal() {
+                currentPostId = null;
+                document.getElementById('editModal').style.display = 'none';
+            }
+
+            // Update post style
+            function updatePostStyle(property, value) {
+                if (currentPostId) {
+                    const post = document.querySelector(`[data-post-id="${currentPostId}"] .main-post`);
+                    post.style[property] = value;
+                }
+            }
+
+            function addNewText(postId) {
+                // Find the specific main post container based on postId
+                const postContainer = document.querySelector(`[data-post-id="${postId}"] .main-post`);
+                
+                if (!postContainer) {
+                    console.error(`Main post container not found for post ID: ${postId}`);
+                    return;
+                }
+            
+                // Create a new editable text element
+                const newElement = document.createElement('div');
+                newElement.textContent = 'Website: www.yojnaportal.com'; // Pre-filled text
+                newElement.classList.add('editable');
+                newElement.setAttribute('contenteditable', 'true');
+                newElement.style.padding = '10px';
+                newElement.style.margin = '2px 0';
+                newElement.style.border = '1px solid #ccc';
+                newElement.style.cursor = 'pointer';
+            
+                // Automatically set the new element as active
+                activeElement = newElement;
+                document.querySelectorAll('.editable').forEach(el => {
+                    el.classList.remove('editable-active');
+                });
+                newElement.classList.add('editable-active');
+            
+                // Append the new element to the correct main post container
+                postContainer.appendChild(newElement);
+            
+                // Set click behavior for future edits
+                newElement.addEventListener('click', () => {
+                    activeElement = newElement;
+                    document.querySelectorAll('.editable').forEach(el => {
+                        el.classList.remove('editable-active');
+                    });
+                    newElement.classList.add('editable-active');
+                });
+            }
+            
+
+
+
+            // Download post as PNG
+         async function downloadAsPNG(postId) {
+    const post = document.querySelector(`[data-post-id="${postId}"] .main-post`);
+    
+    // Extract the title from the editable title element
+    const title = post.querySelector('.title.editable')?.innerText || `post-${postId}`;
+    
+    // Create a high-resolution canvas
+    const canvas = await html2canvas(post, {
+        scale: 3, // Increase scale for higher quality (e.g., 3x)
+        useCORS: true, // Ensures cross-origin resources are used
+        allowTaint: true // Allows images without proper CORS headers
+    });
+    
+    const link = document.createElement('a');
+    
+    // Sanitize the title for a safe file name
+    const sanitizedTitle = title.replace(/[^a-zA-Z0-9-_ ]/g, '').replace(/\s+/g, '-');
+    link.download = `${sanitizedTitle}.png`;
+    
+    // Convert canvas to data URL with maximum quality
+    link.href = canvas.toDataURL('image/png', 1.0);
+    link.click();
+}
+
+            // Share post on WhatsApp
+            function shareOnWhatsApp(postId) {
+                // Identify the post container using the postId
+                const postContainer = document.querySelector(`.post-container[data-post-id="${postId}"]`);
+                
+                if (!postContainer) {
+                  console.error(`Post with ID ${postId} not found.`);
+                  return;
+                }
+              
+                // Gather content dynamically from the post container
+                const title = postContainer.querySelector('.title')?.textContent.trim() || '';
+                const portalLogo = postContainer.querySelector('.portal-logo')?.textContent.trim() || '';
+                const cardTitle = postContainer.querySelector('.card-title')?.textContent.trim() || '';
+                const infoText = postContainer.querySelector('.info-text')?.textContent.trim() || '';
+                const schemeText = postContainer.querySelector('.editable:not(.documents)')?.textContent.trim() || '';
+                const documents = postContainer.querySelector('.editable.documents')?.textContent.trim() || '';
+                
+                // Get permalink dynamically passed via Hugo
+                const permalink = postContainer.querySelector('a')?.href || '';
+              
+                // Construct WhatsApp message
+                const message = `*${title}*\n\n${portalLogo}\n\n${cardTitle}\n${infoText}\n${schemeText}\n${documents}\n\nRead more: ${permalink}`;
+              
+                // Encode message for URL
+                const whatsappUrl = `https://wa.me/?text=${encodeURIComponent(message)}`;
+              
+                // Open WhatsApp share URL
+                window.open(whatsappUrl, '_blank');
+              }
+
+            document.querySelectorAll('.editable').forEach(element => {
+                element.addEventListener('click', () => {
+                    element.setAttribute('contenteditable', 'true'); // Enable contenteditable
+                    element.focus();
+                });
+    
+                // Disable contenteditable on blur
+                element.addEventListener('blur', () => {
+                    element.setAttribute('contenteditable', 'false');
+                });
+            });
+
+        </script>
+
+        <script>
+    let isToolbarVisible = false;
+    let activeElement = null;
+
+    // Toggle toolbar visibility
+    function toggleEditToolbar(postId) {
+        const toolbar = document.getElementById('editToolbar');
+        if (!isToolbarVisible) {
+            isToolbarVisible = true;
+            toolbar.style.display = 'block';
+
+            // Set active element if edit button is clicked
+            const post = document.querySelector(`[data-post-id="${postId}"]`);
+            if (post) {
+                activeElement = post.querySelector('.editable');
+            }
+        } else {
+            isToolbarVisible = false;
+            toolbar.style.display = 'none';
+            activeElement = null;
+        }
+    }
+
+    // Text alignment
+    function changeTextAlignment(alignment) {
+        if (activeElement) {
+            activeElement.style.textAlign = alignment;
+        }
+    }
+
+    // Border radius
+    function changeBorderRadius(radius) {
+        if (activeElement) {
+            activeElement.style.borderRadius = `${radius}px`;
+        }
+    }
+
+    // Text styles
+    function toggleBold() {
+        if (activeElement) {
+            activeElement.style.fontWeight = 
+                activeElement.style.fontWeight === 'bold' ? 'normal' : 'bold';
+        }
+    }
+
+    function toggleItalic() {
+        if (activeElement) {
+            activeElement.style.fontStyle = 
+                activeElement.style.fontStyle === 'italic' ? 'normal' : 'italic';
+        }
+    }
+
+    function toggleUnderline() {
+        if (activeElement) {
+            activeElement.style.textDecoration = 
+                activeElement.style.textDecoration === 'underline' ? 'none' : 'underline';
+        }
+    }
+
+    // Change text color
+    function changeTextColor(color) {
+        if (activeElement) {
+            activeElement.style.color = color;
+        }
+    }
+
+    // Change background color
+    function changeBackgroundColor(color) {
+        if (activeElement) {
+            activeElement.style.backgroundColor = color;
+        }
+    }
+
+    // Change font size
+    function changeFontSize(size) {
+        if (activeElement) {
+            activeElement.style.fontSize = `${size}px`;
+        }
+    }
+
+    // Change font family
+    function changeFontFamily(fontFamily) {
+        if (activeElement) {
+            activeElement.style.fontFamily = fontFamily;
+        }
+    }
+     function changeTextColor(color) {
+            if (activeElement) activeElement.style.color = color;
+        }
+
+        function changeBackgroundColor(color) {
+            if (activeElement) activeElement.style.backgroundColor = color;
+        }
+
+        function changeFontSize(size) {
+            if (activeElement) activeElement.style.fontSize = `${size}px`;
+        }
+
+        function changeFontFamily(fontFamily) {
+            if (activeElement) activeElement.style.fontFamily = fontFamily;
+        }
+ function changeBorderColor(color) {
+                if (activeElement) activeElement.style.borderColor = color;
+            }
+
+            function changeBorderStyle(style) {
+                if (activeElement) activeElement.style.borderStyle = style;
+            }
+
+            function changeBorderWidth(width) {
+                if (activeElement) activeElement.style.borderWidth = `${width}px`;
+            }
+
+            function changePadding(padding) {
+                if (activeElement) activeElement.style.padding = `${padding}px`;
+            }
+            
+            function changeMargin(margin) {
+                if (activeElement) activeElement.style.margin = `${margin}px`;
+            }
+            
+
+            function changeBorderRadius(radius) {
+                if (activeElement) activeElement.style.borderRadius = `${radius}px`;
+            }
+
+
+    // Activate editable on click
+    document.querySelectorAll('.editable').forEach(el => {
+        el.addEventListener('click', () => {
+            activeElement = el;
+        });
+    });
+</script>
+<script>
+    // Function to generate random hex color
+    function getRandomColor() {
+        return `#${Math.floor(Math.random() * 16777215).toString(16).padStart(6, '0')}`;
+    }
+
+    // Apply random colors to the gradient stops
+    const stop1 = document.getElementById('gradientStop1');
+    const stop2 = document.getElementById('gradientStop2');
+
+    // Set random colors only once
+    stop1.style.stopColor = getRandomColor();
+    stop2.style.stopColor = getRandomColor();
+</script>
+  <script>
+        // Function to generate a random color
+        function getRandomColor() {
+            return `#${Math.floor(Math.random() * 16777215).toString(16).padStart(6, '0')}`;
+        }
+
+        // Function to create a random gradient
+        function setRandomGradient(element) {
+            const color1 = getRandomColor();
+            const color2 = getRandomColor();
+            const angle = Math.floor(Math.random() * 360); // Random angle for the gradient
+            element.style.background = `linear-gradient(${angle}deg, ${color1}, ${color2})`;
+        }
+
+        // Select the .down-degine element and set a random gradient
+        const downDegineElement = document.querySelector('.down-degine');
+        setRandomGradient(downDegineElement);
+    </script>
+    <script>
+    
+            function toggleEditToolbar(postId) {
+                const toolbar = document.querySelector(`#editToolbar[data-post-id="${postId}"]`);
+            
+                if (toolbar) {
+                    // Toggle visibility
+                    if (toolbar.style.display === "none" || toolbar.style.display === "") {
+                        toolbar.style.display = "block";
+                    } else {
+                        toolbar.style.display = "none";
+                    }
+                } else {
+                    console.error(`Toolbar not found for post ID: ${postId}`);
+                }
+            }
+        
+    </script>
+
+    </body>
+</html>

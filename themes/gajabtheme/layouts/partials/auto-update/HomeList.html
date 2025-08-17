@@ -1,0 +1,72 @@
+
+<head>
+  <link rel="stylesheet" href="\css\main\homelist.css">
+</head>
+<body>
+
+<div class="grid-container">
+  <!-- First Row -->
+  <div class="card">
+    <div class="card-header">Latest Schemes</div>
+    <div class="card-content">
+      {{ partial "Update-Schemes.html" . }}
+    </div>
+    <div class="card-footer">
+      <a href="/latest-schemes/" class="more-link">more</a>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header">Latest Update</div>
+    <div class="card-content">
+      {{ partial "homelist/latest-update.html" . }}
+    </div>
+    <div class="card-footer">
+      <a href="/latest-update/" class="more-link">more</a>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header">Students</div>
+    <div class="card-content">
+      {{ partial "Update-Students.html" . }}
+    </div>
+    <div class="card-footer">
+      <a href="/student-help/" class="more-link">more</a>
+    </div>
+  </div>
+
+  <!-- Second Row -->
+  <div class="card">
+    <div class="card-header">Results</div>
+    <div class="card-content">
+      {{ partial "Update-Results.html" . }}
+    </div>
+    <div class="card-footer">
+      <a href="/resutls/" class="more-link">more</a>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header">Admit Card</div>
+    <div class="card-content">
+      {{ partial "homelist/admitcard.html" . }}
+    </div>
+    <div class="card-footer">
+      <a href="/admitcard/" class="more-link">more</a>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header">Latest Job</div>
+    <div class="card-content">
+      {{ partial "Update-Jobs.html" . }}
+    </div>
+    <div class="card-footer">
+      <a href="#" class="more-link">more</a>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

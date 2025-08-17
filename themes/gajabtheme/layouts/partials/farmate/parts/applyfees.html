@@ -1,0 +1,9 @@
+{{ with .Params.applyfees }}
+ <div class="impdates">
+  <ul>
+    {{ range . }}
+      <li>{{ .  | safeHTML}}</li>
+    {{ end }}
+  </ul>
+  </div>
+{{ end }}

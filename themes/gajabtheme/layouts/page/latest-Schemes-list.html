@@ -1,0 +1,11 @@
+{{ define "main" }}
+
+{{ .Title }}
+
+
+{{ partial "list-update/schemes-list.html" . }}
+{{ partial "baseof-part/dynamic-link.html" . }}
+    <div class="content">
+        {{ .Content }}
+    </div>
+{{ end }}

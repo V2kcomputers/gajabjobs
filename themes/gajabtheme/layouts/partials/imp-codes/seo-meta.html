@@ -1,0 +1,38 @@
+{{/* SEO Meta Partial */}}
+<!-- Canonical URL -->
+<link rel="canonical" href="{{ .Permalink }}">
+<!-- Open Graph (Facebook/WhatsApp) -->
+<meta property="og:site_name" content="Yojna Portal">
+<meta property="og:url" content="{{ if .Params.shorturl }}{{ .Site.BaseURL }}{{ .Params.shorturl }}{{ else }}{{ .Permalink }}{{ end }}">
+<meta property="og:title" content="{{ with .Params.seo_title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
+<meta property="og:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
+<meta property="og:type" content="website">
+<meta property="og:image" content="{{ .Params.imageBanner | absURL }}">
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ with .Params.seo_title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
+<meta name="twitter:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
+<meta name="twitter:image" content="{{ .Params.imageBanner | absURL }}">
+<meta name="twitter:site" content="@yojnaportal">
+
+<!-- Extra Meta -->
+<meta name="application-name" content="Yojna Portal">
+<meta name="theme-color" content="#0084ff">
+<meta name="robots" content="index, follow">
+<meta name="distribution" content="global">
+<meta name="debug" content="JSON-LD Loaded">
+<meta name="dmca-site-verification" content="T256Y3p2alQ4QW03ZzdEcGd3MWpwQT090" />
+<meta http-equiv="content-language" content="en-hi">
+<meta http-equiv="Permissions-Policy" content="interest-cohort=()">
+
+<!-- Favicon -->
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon.png">
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+
+<!-- Last Modified -->
+<!-- Last Modified -->
+{{- $date := cond (not .Date.IsZero) .Date now }}
+{{- $last := cond (not .Lastmod.IsZero) .Lastmod $date }}
+<meta property="article:published_time" content="{{ $date.Format "2006-01-02T15:04:05Z07:00" }}">
+<meta name="lastmod" content="{{ $last.Format "2006-01-02T15:04:05Z07:00" }}">

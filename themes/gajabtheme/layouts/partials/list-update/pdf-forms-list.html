@@ -1,0 +1,45 @@
+
+	<div class="search-container">
+        <input type="text" id="searchBar" class="search-bar" onkeyup="searchTable()" placeholder="Search for forms...">
+        <button class="close-button" onclick="location.reload();">×</button>
+
+        <select id="categoryFilter" onchange="populateInputAndSearch()">
+            {{ $seen := slice }}
+            {{ range (where .Site.RegularPages ".Params.pdfForm" "yes") }}
+              {{ $cat := .Params.category | default "Forms" }}
+              {{ if not (in $seen $cat) }}
+                <option value="{{ $cat }}">{{ $cat }}</option>
+                {{ $seen = $seen | append $cat }}
+              {{ end }}
+            {{ end }}
+        </select>
+    </div>
+
+
+
+    
+    <table class="post-table" id="formsTable">
+    <thead>
+        <tr>
+            <th>Post Date</th>
+            <th> Download PDF / Form </th> 
+        </tr>
+    </thead>
+    <tbody>
+        {{ range  (where .Site.RegularPages ".Params.pdfForm" "yes") }}
+        <tr>
+            <td style="font-size:0.8rem;">{{ .Date.Format "02/01/2006" }}</td>
+            <td rowspan="2">
+                {{ if .Params.pdfName }}
+                    <a href="{{ .RelPermalink }}" target="_blank">{{ .Params.pdfName }}</a>
+                {{ else }}
+                    <a href="{{ .RelPermalink }}" target="_blank">{{ .Title }}</a>
+                {{ end }}
+            </td>
+        </tr>
+        <tr> <td style="font-size:0.8rem;"> <a href="#" class="dynamic-link" data-search="{{ with .Params.category }}{{ . }}{{ else }}forms{{ end }}"> {{ with .Params.category }}{{ . }}{{ else }}forms{{ end }}  </a></td></tr>
+        {{ end }}
+    </tbody>
+</table>
+
+

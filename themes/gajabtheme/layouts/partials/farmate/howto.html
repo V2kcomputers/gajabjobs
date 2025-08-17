@@ -1,0 +1,64 @@
+
+{{ partial "imp-codes/breadcrumb.html" . }}
+<div class="yp-container">
+  <div class="post-card">
+    {{ if .Params.department }}
+       <h2 class="depart"> {{ .Params.department }} </h2>
+       {{ end }}
+      <h2 class="postname">{{ if .Params.PostName }}
+        {{ .Params.PostName}}
+        {{ end }}    </h2> </div>
+  {{ partial "adsense.html" . }}
+
+<div class ="back-card">
+{{ with .Params.shortinfo }}
+<section class="yp-section">
+  <div class="yp-card">
+    <h2 class="head-card">📝 Short Info</h2>
+    {{ partial "farmate/parts/shortinfo.html" $ }}
+  </div>
+</section>
+{{ end }}
+
+{{ with .Params.how_to }}
+<section class="yp-section">
+  <div class="yp-card">
+<div class="head-card">👨‍💻 How to do: </div> 
+  {{ partial "farmate/parts/other/how_to.html" $ }}
+  </div>
+  </section>
+{{ end }}
+
+{{ with .Params.documents }}
+<section class="yp-section">
+  <div class="yp-card">
+<div class="head-card" >📄 Importent Documents/Details </div> 
+  {{ partial "farmate/parts/documents.html" $ }}
+  </div> </section>
+{{ end }}
+
+{{ .Content }}
+
+{{ with .Params.faqs }}
+<section class="yp-section">
+  <div class="yp-card">
+<div class="head-card">🙋‍♂️Faqs❓ </div> 
+  {{ partial "farmate/parts/faqs.html" $ }}
+  </div> </section>
+{{ end }}
+
+{{ with .Params.links }}
+<section class="yp-section">
+  <div class="yp-card">
+<div class="head-card" >🔗 Some Useful Link : </div> 
+  {{ partial "farmate/parts/link-table.html" $ }}
+  </div> </section>
+{{ end }}
+</div>
+  {{ partial "imp-codes/imageBanner.html" . }}
+
+
+  {{ partial "imp-codes/random-list.html" . }}
+  {{ partial "manual-update/button-group.html" . }}
+  {{ partial "adsense.html" . }}
+  {{ partial "imp-codes/keywords.html" . }}

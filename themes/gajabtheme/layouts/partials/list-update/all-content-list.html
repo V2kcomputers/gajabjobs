@@ -1,0 +1,70 @@
+<!-- layouts/partials/list-update/all-content-list.html -->
+
+<input type="text" id="searchInput" placeholder="Search here..." onkeyup="filterTable()" />
+
+<table class="post-table" id="dataTable">
+    <thead>
+        <tr>
+          <th>Post Date</th>
+            <th>Latest</th>
+            <th>category</th>
+            <th>Detail</th>
+        </tr>
+    </thead>
+    {{ $paginator := .paginator }}
+
+    {{ range $paginator.Pages }}
+    <tr>
+      <td>{{ .Date.Format "02/01/2006" }}</td>
+        <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+        <td>{{ with .Params.category }}{{ . }}{{ else }}N/A{{ end }}</td>
+        
+        <td><a href="{{ .RelPermalink }}" target="_blank">Click here</a></td>
+    </tr>
+    {{ end }}
+</table>
+
+<div class="pagination">
+    {{ if $paginator.HasPrev }}
+    <a href="{{ $paginator.Prev.URL }}">Previous</a>
+    {{ end }}
+
+    {{ range $paginator.Pagers }}
+    {{ if eq $paginator.PageNumber .PageNumber }}
+    <strong>{{ .PageNumber }}</strong>
+    {{ else }}
+    <a href="{{ .URL }}">{{ .PageNumber }}</a>
+    {{ end }}
+    {{ end }}
+
+    {{ if $paginator.HasNext }}
+    <a href="{{ $paginator.Next.URL }}">Next</a>
+    {{ end }}
+</div>
+<script>
+  
+    function filterTable() {
+        const input = document.getElementById("searchInput");
+        const filter = input.value.toLowerCase();
+        const table = document.getElementById("dataTable");
+        const rows = table.getElementsByTagName("tr");
+    
+        for (let i = 1; i < rows.length; i++) { // Skip header row
+            const cells = rows[i].getElementsByTagName("td");
+            let match = false;
+    
+            // Check all cells in a row
+            for (let j = 0; j < cells.length; j++) {
+                if (cells[j] && cells[j].textContent.toLowerCase().indexOf(filter) > -1) {
+                    match = true;
+                    break;
+                }
+            }
+    
+            // Show or hide row based on match
+            rows[i].style.display = match ? "" : "none";
+        }
+    }
+    </script>
+    
+

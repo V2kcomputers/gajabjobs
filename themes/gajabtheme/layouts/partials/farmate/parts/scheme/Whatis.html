@@ -1,0 +1,18 @@
+{{ with .Params.Whatis }}
+<div>
+    {{ range . }}
+      {{ $step1 := replace . "+++" "//" }}
+      {{ $clean := replace $step1 "+++" "//" }}
+      {{ $parts := split $clean "//" }}
+    
+        {{ if eq (len $parts) 2 }}
+          <p><b>{{ index $parts 0 | safeHTML}}</b>: {{ index $parts 1 | safeHTML}}</p>
+        {{ else }}
+          <p colspan="2">{{ . | safeHTML}}</p>
+        {{ end }}
+     
+    {{ else }}
+
+    {{ end }}
+      </div>
+{{ end }}
