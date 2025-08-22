@@ -1,6 +1,6 @@
 baseURL = 'https://www.gajabjobs.com/'
 languageCode = 'en-US'
-title = 'My New Hugo Site'
+title = 'GAJAB JOBS'
 
 [[menus.main]]
 name = 'Home'
