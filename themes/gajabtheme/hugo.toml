@@ -1,7 +1,7 @@
 baseURL = 'https://www.gajabjobs.com/'
 languageCode = 'en-US'
 title = 'GAJAB JOBS'
-
+enableRobotsTXT = true
 [[menus.main]]
 name = 'Home'
 pageRef = '/'
@@ -21,3 +21,8 @@ weight = 30
   [module.hugoVersion]
     extended = false
     min = "0.116.0"
+
+[sitemap]
+  filename = "sitemap.xml"
+  changefreq = "daily"
+  priority = 0.5
