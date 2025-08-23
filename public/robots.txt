@@ -36,3 +36,10 @@ User-agent: meta-externalagent
 Disallow: /
 
 # END Cloudflare Managed Content
+
+# ---- Allow search engine indexing ----
+User-agent: *
+Allow: /
+
+# ---- Sitemap location ----
+Sitemap: https://www.gajabjobs.com/sitemap.xml
