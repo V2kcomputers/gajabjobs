@@ -1,0 +1,5 @@
+{{ with .Params.applyfees }}
+    {{ range . }}
+      <li>{{ .  | safeHTML}}</li>
+    {{ end }}
+{{ end }}

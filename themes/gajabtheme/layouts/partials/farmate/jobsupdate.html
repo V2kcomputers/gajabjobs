@@ -1,0 +1,155 @@
+<style>
+.yp-table-wrapper {
+  width: 100%;
+  margin: 10px auto;
+  overflow-x: auto;
+}
+
+.yp-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+.yp-table td {
+  border: 1px solid #ddd;
+  padding: 15px;
+  vertical-align: top;
+}
+.yp-table td {
+  border: 1px solid #ddd;
+  padding: 15px;
+  vertical-align: top;
+}
+
+.yp-heading {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.yp-table h3 {
+  margin: 0 0 10px;
+  font-size: 1rem;
+  color: #007c11;
+  display: inline-block;
+  padding-bottom: 3px;
+   font-size: 1rem;
+}
+
+.yp-table ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.yp-table li {
+  margin-bottom: 6px;
+  line-height: 1.5;
+}
+</style>
+<div class="yp-table-wrapper">
+  <table class="yp-table">
+    <tr>
+      <td colspan="2" class="yp-heading">
+        <span style="color: #ff00ff">{{ .Params.department }}</span> <br>
+       <span style="color: #007c11">  {{ .Params.recruitment }} </span> <br>
+        <span style="color: #fc0606"> {{ .Params.Notification }}</span><br>
+         <span style="color: #000000"> www.gajabjobs.com</span>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>Important Date</h3>
+        <ul>
+        {{ partial "farmate/parts/jobsupdate/impdates.html" . }}
+      </td>
+      <td>
+        <h3>Application Fee</h3>
+        <ul>
+          {{ partial "farmate/parts/jobsupdate/applyfees" . }}
+        </ul>
+      </td>
+    </tr>
+    <tr>
+        <td colspan="2"> <strong> <span style="color: #ff00ff">Bihar BPSC AES Notification 2025 </span>: <span style="color: #007c11"> Age Limits As On 01 August 2025</span> </strong></td>
+      </tr>
+    <tr>
+        <td colspan="2">
+
+        <ul>
+          <li>As on 01/01/2025</li>
+          <li>Minimum Age: 18 years</li>
+          <li>Maximum Age: 40 years</li>
+          <li>For relaxation, read official notification "MPESB Paramedical Vacancy 2025".</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+<div class="yp-table-wrapper">
+  <table border="1" cellspacing="0" cellpadding="8" class="yp-table">
+   
+  <thead>
+     <tr><td colspan="3"> <strong> <span style="color: #ff00ff" >  BPSC AEDO Recruitment 2025 </span> : <span style="color: #007c11"> Total Post 2225 Vacancy Details  </span></strong></td> </tr>
+    <tr>
+      <th>Post Name</th>
+      <th>Total Posts</th>
+      <th>Qualification</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Physiotherapist</td>
+      <td>41</td>
+      <td>
+        Bachelor's Degree in Physiotherapy (BPT)<br>
+        Registration in MP Council of Medical Science
+      </td>
+    </tr>
+    <tr>
+      <td>Counselor</td>
+      <td>10</td>
+      <td>
+        Master's Degree in Social Work (MSW)<br>
+        OR PG Diploma in Counseling and Family Therapy (PGDCFT)
+      </td>
+    </tr>
+    <tr>
+      <td>Pharmacist Grade-II</td>
+      <td>313</td>
+      <td>
+        10+2 with PCB stream (Physics, Chemistry, Biology)<br>
+        Diploma or Degree in Pharmacy<br>
+        Registration in MP Pharmacy Council
+      </td>
+    </tr>
+    <tr>
+      <td>Ophthalmic Assistant</td>
+      <td>100</td>
+      <td>
+        10+2 with PCB stream (Physics, Chemistry, Biology)<br>
+        Diploma in Ophthalmic Assistant<br>
+        Registration in Council
+      </td>
+    </tr>
+    <tr>
+      <td>O.T. Technician</td>
+      <td>288</td>
+      <td>
+        10+2 with PCB stream (Physics, Chemistry, Biology)<br>
+        1-year Diploma in O.T. Technician<br>
+        Registration in MP Paramedical Council
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<table class="yp-table">
+    <tr>
+        <td colspan="2"> <strong> <span style="color: #ff00ff">Bihar BPSC AES Notification 2025 </span>: <span style="color: #007c11"> How To Apply</span> </strong></td>
+      </tr>
+    <tr> <td><li>Visit the Official Website: Go to the official BTSC website btsc.bihar.gov.in</li><li>Read the Official Notification: Carefully read the complete advertisement/notification for eligibility and instructions.</li><li>Register as a New User: If you are a new user, click on "New Registration" and fill in the basic details to create your account.</li><li>Login to Your Account: Use your registered email/mobile number and password to log in.</li><li>Fill the Application Form: Enter personal details, qualifications, and other required information.</li><li>Upload Documents: Upload scanned copies of your photograph, signature, and relevant documents.</li><li>Pay the Application Fee: Pay the fee online via Debit Card / Credit Card / Net Banking / UPI.</li><li>Preview and Submit: Check all details carefully and submit the form.</li><li>Print the Final Application Form: After successful submission, download or print the final application form for your records.</li> </td></tr>
+</table>
+ {{ partial "farmate/parts/link-table.html" . }}
+</div>
