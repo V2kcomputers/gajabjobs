@@ -1,4 +1,4 @@
 baseURL = 'https://www.gajabjobs.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Gajab Jobs'
 theme = 'gajabtheme'

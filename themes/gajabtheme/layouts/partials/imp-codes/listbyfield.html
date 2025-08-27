@@ -1,0 +1,8 @@
+{{ $field := .field }}
+{{ $pages := where .pages (printf "Params.%s" $field) "ne" nil }}
+{{ $pages = where $pages (printf "Params.%s" $field) "ne" "" }}
+{{ range first .limit $pages }}
+  <li><a href="{{ .Permalink }}" target="_blank">{{ index .Params $field }}</a>{{ if eq (.Date.Format "2006-01-02") (now.Format "2006-01-02") }}
+    <a href="{{ .RelPermalink }}" target="_blank"><img src="/gif/new.gif" alt="New" style="width: 40px; vertical-align: middle;" /></a> 
+{{ end }}</li><hr>
+{{ end }}
