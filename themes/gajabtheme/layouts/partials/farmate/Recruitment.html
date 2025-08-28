@@ -175,12 +175,12 @@
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="290">
         <h3>Important Date</h3>
         <ul>
         {{ partial "farmate/parts/jobsupdate/impdates.html" . }}
       </td>
-      <td>
+      <td width="290">
         <h3>Application Fee</h3>
         <ul>
           {{ partial "farmate/parts/jobsupdate/applyfees" . }}
@@ -206,8 +206,8 @@
 
 <table class="yp-table">
     <tr>
-        <td> <strong> <span style="color: #ff00ff "> How To Apply for</span>  <span style="color: #007c11">{{ .Params.PostName }} Vacancy {{ with .Params.lastdate }} {{ . | time.Format "2006" }}{{ end }} </span>:</strong></td>
-      </tr> <td> {{ partial "farmate/parts/jobsupdate/howto" . }} </td></tr>
+        <td width="300"> <strong> <span style="color: #ff00ff "> How To Apply for</span>  <span style="color: #007c11">{{ .Params.PostName }} Vacancy {{ with .Params.lastdate }} {{ . | time.Format "2006" }}{{ end }} </span>:</strong></td>
+      </tr> <td width="300"> {{ partial "farmate/parts/jobsupdate/howto" . }} </td></tr>
 </table>
  {{ partial "farmate/parts/link-table.html" . }}
 </div>
