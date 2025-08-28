@@ -3,7 +3,7 @@
 <html lang="{{ .Params.lang | default .Site.Language.Lang }}">
 <head>
 <meta charset="UTF-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1.0" id="viewportTag" />
+<meta name="viewport" content="width=600">
 <!-- Basic Meta -->
 <title>{{ with .Params.seo_title }}{{ . }}{{ else }}{{ .Title }} | GAJAB JOBS {{ end }}</title>
 <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
@@ -41,11 +41,6 @@
       gtag('js', new Date());
       gtag('config', 'G-GWSRPE5DVE', { 'anonymize_ip': true });
     </script>
-    <script>
-  // If user prefers homepage, redirect from / to /homepage/
-  if (window.location.pathname === '/' && localStorage.getItem("preferredHome") === "homepage") {
-    window.location.href = "/homepage/";
-  }
 </script>
 </head>
 
