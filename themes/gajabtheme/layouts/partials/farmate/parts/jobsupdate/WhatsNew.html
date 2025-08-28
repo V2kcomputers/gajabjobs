@@ -1,0 +1,8 @@
+
+<ul style="list-style-type: '🔹 '; padding-left: 1em;">
+  {{ $colors := slice "#d9534f" "#ff00ff" "#fc0606"  }}
+      {{ range $index, $item := . }}
+        {{ $color := index $colors (mod $index 7) }}
+        <li style="color: {{ $color }}; font-weight: 500;">{{ $item }}</li>
+      {{ end }}
+     </ul>

@@ -1,185 +1,210 @@
 <style>
- </style>
+.yp-table-wrapper {
+  width: 100%;
+  margin: 10px auto;
+  overflow-x: auto;
+}
+
+.yp-table {
+   width: 100%;
+  margin: 10px auto;
+  border-collapse: collapse;
+  border: 1px solid #ddd;
+  background-color: #fff;
+  border-radius: var(--border-radius);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+.yp-table td {
+  border: 1px solid #ddd;
+  padding: 15px;  
+  vertical-align: top;
+}
+.yp-table td {
+  border: 1px solid #ddd;
+  padding: 15px;
+  vertical-align: top;
+}
+
+.yp-heading {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.yp-table h3 {
+  margin: 0 0 10px;
+  font-size: 1rem;
+  color: #007c11;
+  display: inline-block;
+  padding-bottom: 3px;
+   font-size: 1rem;
+}
+
+.yp-table ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.yp-table li {
+  margin-bottom: 6px;
+  line-height: 1.5;
+}
+/* Table Styles */
+.yp-table-wrapper {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
 
 
 
+.yp-table th {
+  background-color: #fcd9c5;
+  color: black;
+  font-weight: bold;
+  padding: 0.75rem 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
 
-<div class="job-wrapper">
+.yp-table td {
+  padding: 0.75rem 1rem;
+  border-top: 1px solid #ddd;
+  font-size: 1rem;
+  color: var(--text-color);
+}
 
-  {{ partial "imp-codes/breadcrumb.html" . }}
+.yp-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
 
-<div class="yp-job-head">
-    <h2 style="margin-top:0; color:rgb(247, 113, 3)" >
-      {{ with .Params.seo_title }}{{ . }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}
-    </h2>
-  
-    <p><b>Last Update:</b> {{ .Date | time.Format "02/01/2006 | 03:04 PM" }}</p>
-      {{ partial "farmate/parts/other/whatsnew" . }}
-    <p><b>Description:</b> 
-      <a href="{{ .Params.OfficialSource }}" target="_blank" style="color:#007BFF;">
+.yp-table tr:hover {
+  background-color: #f5e6a160;
+}
+
+.yp-table a {
+  text-decoration: none;
+}
+
+.yp-table a:hover {
+  color: #bb0b0b;
+}
+  .label{color:red; font-weight:bold;}
+
+.toptable {
+  border-collapse: collapse;
+  width: 100%;
+}
+.toptable td {
+  padding: 6px 8px;
+  vertical-align: top;
+  border: none; /* border हटाने के लिए */
+}
+.toptable td:first-child {
+  font-weight: bold;
+  width: 180px; /* पहली column fix चौड़ाई */
+  color: #333;
+}
+/* Tooltip */
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  max-width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: 100%;
+  left: 0%;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+</style>
+<div class="topinfo"> 
+  <table class="toptable"> 
+    <tr> 
+      <td class="label"> <span class="label">Name of Post: </span></td> 
+      <td><span style="color: #000; font-weight: bold;"> {{ with .Params.seo_title }}{{ . }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }} </span></td> 
+    </tr>
+    <tr> 
+      <td> <span class="label">Post Date / Update:</span></td> 
+      <td><b> {{ .Date | time.Format "02/01/2006 | 03:04 PM" }} </b></td> 
+    </tr>
+    {{ with .Params.WhatsNew }}
+     <tr> 
+      <td> <span class="label">Whats New:</span></td> 
+      <td> {{ partial "farmate/parts/jobsupdate/whatsnew" . }}</td> 
+    </tr>
+{{ end }}
+    <tr> 
+      <td> <span class="label"> Short Information : </span></td> 
+      <td><a href="{{ .Params.OfficialSource }}" target="_blank" style="color:#006d09; font-weight: bold;">
         {{ .Params.department }}
       </a> has released a <span class="tooltip"> Official Notification  <span class="tooltiptext"> {{ .Params.Notification }}</span></span>  of <b>{{ .Params.postName}}</b>. 
       The application process will be open from <b>   {{ with .Params.begindate }} {{ . | time.Format "02 Jan" }}{{ end }}</b> to <b>{{ with .Params.lastdate }} </span> {{ . | time.Format "02 Jan 2006" }}{{ end }}  </b>. 
       Candidates must meet the required eligibility criteria including <b>{{ .Params.qualified }}</b>. 
       As per the official notification, <b>{{ .Params.postdetails }}</b>. 
       Interested candidates are advised to check the important dates and ensure they apply before the last date. 
-      For complete information, download the official notification and apply online using the links provided below.
-    </p>
-    {{ if .Params.Notification }} 
-    <p><b>Notification :</b> 
-      <span style="text-align:center; color:#2563eb "> {{ .Params.Notification | default "N/A" }} </span>
-         {{ with .Params.notificationdate }} </span>(Dated: {{ . | time.Format "02 January 2006" }}){{ end }}
-        
-    {{ end }}</p>
-    </div>
-    {{ partial "adsense.html" . }}
-    <div class="posthead" tabindex="0">
-    
-    {{ if .Params.department }}
-      <h2 class="Department">{{ .Params.department }}</h2>
-    {{ end }}
-    {{ if .Params.recruitment }}
-      <div class="PostName">{{ .Params.recruitment }}</div>
-    {{ end }}
-   <a href="/" style="text-decoration:none;"><span style="font-weight:700; color:chocolate;"> WWW.YOJNAPORTAL.COM </span> </a>
-  </div>
-  <br>
-    
-  <div class="grid">
-    {{ if .Params.impdates }}
-      <div class="card" tabindex="0">
-        <h3>📅 Important Dates</h3>
-      {{ partial "farmate/parts/impdates.html" . }}
-      </div>
-    {{ end }}
-  
-    {{ if .Params.applyfees }}
-      <div class="card" tabindex="0">
-         <h3>💸 Application Fee</h3>
-         {{ partial "farmate/parts/applyfees" . }}
-      </div>
-    {{ end }} 
-  </div>
-  
-  
-  
-  {{ if .Params.Eligibility }}
-  <div class="card" tabindex="0">
-      <h3>🧾 Eligibility Criteria</h3>
-      <div class="eligibility">
-    {{ if .Params.age_limit }}
-  {{ partial "farmate/parts/Criteria/age-limit.html" . }}
-
-{{ end }}
-
-  {{ if .Params.physical }}
-  {{ partial "farmate/parts/Criteria/physical-test.html" . }}
-{{ end }}
- {{ if .Params.castewise }}
-  {{ partial "farmate/parts/Criteria/castewise.html" . }}
-{{ end }}
- {{ if .Params.qualification }}
-  {{ partial "farmate/parts/Criteria/qualification.html" . }}
-{{ end }}
-
-   </div>
-  {{ end }}
-</div>
-    
-  {{ if .Params.content_html }}
-  {{ partial "farmate/parts/default/content_html.html" . }}
-{{ end }}
-
-  <div class="content">
-    {{ .Content }}
-
-    
-    {{ if .Params.how_to }}
-  <div class="card" tabindex="0">
-        {{ partial "farmate/parts/how_to.html" . }}
-   </div>
-  {{ end }}
-  {{ partial "farmate/parts/link-table.html" . }}
-
-<hr>
-
-  <div style="overflow-x:auto;">
-  <table class="yp-table">
-   <tr>
-    <th>Highlight</th>
-    <th>Short Details | <a href="/{{.Params.shorturl}}/"> #{{.Params.shorturl}}</a></th>
-   </tr>
-    {{ with .Params.postName }}
-    <tr>
-      <td><strong>📰Post Name </strong></td>
-      <td><b style="color:green">{{ . | safeHTML }} </b></td>
+      For complete information, download the official notification and apply online using the links provided below.  </td> 
     </tr>
-    {{ end }}
-    {{ with .Params.totalPost }}
-    <tr>
-      <td > <strong> 🔖Vacancy</strong></td>
-      <td >{{ . | safeHTML }}</td>
-    </tr>
-    {{ end }}
-    {{ with .Params.Domicile }}
-    <tr>
-      <td ><strong>📍Domicile </strong> </td>
-      <td >{{ . | safeHTML }}</td>
-    </tr>
-    {{ end }}
-    {{ with .Params.Eligibility }}
-    <tr>
-      <td ><strong> 🎓Qualification </strong> </td>
-       <td>  {{ . | safeHTML }}</td>
-    </tr>
-    {{ end }}
- {{ with .Params.candidates}}
-    <tr>
-      <td><strong>👥Candidates </strong> </td>
-      <td> {{ . | safeHTML }} </td>
-    </tr>
-    {{ end }}
-
-    {{ with .Params.age_limit }}
-    <tr>
-      <td> <strong> 👨🏼‍🎓Age Limit</strong></td>
-      <td>{{ range . }}
-       {{ partial "imp-codes/cleanlist.html" .  | safeHTML}} <b style="color:red;">|</b>
-    {{ end }}</td>
-    </tr>
-    {{ end }}
-    {{ if .Params.lastdate}}
-    <tr>
-      <td><strong>📅Apply Date </strong> </td>
-      <td> <b style="color:red"> {{ with .Params.begindate }} {{ . | time.Format "02 Jan" }}{{ end }} </b> to <b style="color:red">{{ with .Params.lastdate }} </span> {{ . | time.Format "02 Jan 2006" }}{{ end }} </b></td>
-    </tr>
-    {{ end }}
-  
-  
-    {{ if .Params.OfficialSource }}
-    <tr>
-      <td><strong>🏬Department </strong></td>
-      <td><a href="{{ .Params.OfficialSource | safeHTML }}"> {{ .Params.department }} </a></td>
-    </tr>
-    {{ end }}
   </table>
 </div>
- {{ if .Params.faqs }}
-  <div class="faqs" id="faqs">
-    <b>🙋‍♀️ Frequently Asked Questions (FAQs) - {{ .Params.YojnaName }}</b>
-  <div class="faq">
-  {{ partial "farmate/parts/faqs.html" . }}
-    </div>
-    {{ end }} 
-</div>
-  
-  <!-- बाकी के partials जैसे adsense, random-list, keywords -->
-  {{ partial "imp-codes/imageBanner.html" . }}
-  {{ partial "imp-codes/random-list.html" . }}
-  {{ partial "manual-update/button-group.html" . }}
-  {{ partial "adsense.html" . }}
-  {{ partial "imp-codes/keywords.html" . }}
 
-</div>
+<div class="yp-table-wrapper">
+  <table class="yp-table">
+    <tr>
+      <td colspan="2" class="yp-heading">
+        <span style="color: #ff00ff">{{ .Params.department }}</span> <br>
+       <span style="color: #007c11">  {{ .Params.recruitment }} </span> <br>
+        <span style="color: #fc0606"> {{ .Params.Notification }}</span><br>
+         <span style="color: #000000"> www.gajabjobs.com</span>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>Important Date</h3>
+        <ul>
+        {{ partial "farmate/parts/jobsupdate/impdates.html" . }}
+      </td>
+      <td>
+        <h3>Application Fee</h3>
+        <ul>
+          {{ partial "farmate/parts/jobsupdate/applyfees" . }}
+        </ul>
+      </td>
+    </tr>
+    <tr>
+        <td colspan="2"> <strong> <span style="color: #ff00ff">{{ .Params.PostName }} Notification {{ with .Params.lastdate }} {{ . | time.Format "2006" }}{{ end }}</span>: <span style="color: #007c11"> Eligibility Criteria</span> </strong></td>
+      </tr>
+    <tr>
+        <td colspan="2">
 
-    
+        <ul>
+           {{ partial "farmate/parts/jobsupdate/age_limit" . }}
+          <li>For relaxation, read official notification "<b>{{ .Params.Notification }}</b>".</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+<table class="yp-table"> <tr><td colspan="3"> <strong> <span style="color: #ff00ff" > {{ .Params.PostName }} Recruitment {{ with .Params.lastdate }} {{ . | time.Format "2006" }}{{ end }} </span> : <span style="color: #007c11"> Total Post {{ .Params.TotalPost }} Vacancy Details  </span></strong></td> </tr></table>
+{{ .Content }}
+
+<table class="yp-table">
+    <tr>
+        <td> <strong> <span style="color: #ff00ff "> How To Apply for</span>  <span style="color: #007c11">{{ .Params.PostName }} Vacancy {{ with .Params.lastdate }} {{ . | time.Format "2006" }}{{ end }} </span>:</strong></td>
+      </tr> <td> {{ partial "farmate/parts/jobsupdate/howto" . }} </td></tr>
+</table>
+ {{ partial "farmate/parts/link-table.html" . }}
+</div>

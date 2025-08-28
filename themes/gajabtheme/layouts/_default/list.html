@@ -1,16 +1,5 @@
 
 
+   {{ partial "homepages/home1/list1/home" . }}
+   {{ partial "style/home1/list1" . }}
 
-{{ define "main" }}
-
-{{ partial "style/home-grid.html" . }}
-<body>
-<div id="home" class="list active">
-
-        {{ partial "homelist/list-posts.html" . }}
-        <iframe title="home Search" src="/quick/" frameborder="0" marginheight="0" marginwidth="0" height="50px" width="100%" >Loading…</iframe>
-        {{ partial "adsense.html" . }}
-        {{ partial "homelist/grid-container.html" . }}
-        </div>
-</body>
-{{ end }}
