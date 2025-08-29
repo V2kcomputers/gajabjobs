@@ -269,85 +269,78 @@ function setPreferredHome() {
     <main class="main-content">
    
     <style>
-  body { font-size:1rem;}
+   
+html {
+  font-size: 16px;  
+}
+body {
+  font-size: 1rem;  
+  line-height: 1.6;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+ 
+.toptable {
+  border-collapse: collapse;
+  width: 100%;
+  word-wrap: break-word;
+  word-break: break-word;
+  white-space: normal;
+  font-size: 0.95rem;  
+}
+.toptable td {
+  padding: 6px 8px;
+  vertical-align: top;
+  border: none;
+}
+.toptable td:first-child {
+  font-weight: bold;
+  color: #333;
+}
+.label {
+  color: red;
+  font-weight: bold;
+}
+
+ 
 .yp-table-wrapper {
   width: 100%;
   margin: 10px auto;
   overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
+ 
 .yp-table {
-
+  width: 100%;
   margin: 10px auto;
   border-collapse: collapse;
   border: 1px solid #ddd;
   background-color: #fff;
   border-radius: var(--border-radius);
-   word-wrap: break-word;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  word-wrap: break-word;
   word-break: break-word;
   white-space: normal;
-  font-size: 0.95rem; 
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
-.yp-table td {
+
+.yp-table td,
+.yp-table th {
+  font-size: 1rem;  
+  padding: 0.75rem 1rem;
   border: 1px solid #ddd;
-  padding: 15px;  
   vertical-align: top;
+  color: var(--text-color, #000);
 }
-.yp-table td {
-  border: 1px solid #ddd;
-  padding: 15px;
-  vertical-align: top;
-  font-size: 1rem;
-}
-
-.yp-heading {
-  text-align: center;
-  font-weight: bold;
-}
-
-.yp-table h3 {
-  margin: 0 0 10px;
-  color: #007c11;
-  display: inline-block;
-  padding-bottom: 3px;
-
-}
-
-.yp-table ul {
-  margin: 0;
-  padding-left: 20px;
-}
-
-.yp-table li {
-  margin-bottom: 6px;
-  line-height: 1.5;
-
-}
- 
-.yp-table-wrapper {
-  width: 100%;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
-}
-
-
 
 .yp-table th {
   background-color: #fcd9c5;
   color: black;
   font-weight: bold;
-  padding: 0.75rem 1rem;
   text-transform: uppercase;
   letter-spacing: 0.5px;
-}
-
-.yp-table td {
-  padding: 0.75rem 1rem;
-  min-width: 180px;
-  border-top: 1px solid #ddd;
-  font-size: 1rem;
-  color: var(--text-color);
 }
 
 .yp-table tr:nth-child(even) {
@@ -365,53 +358,66 @@ function setPreferredHome() {
 .yp-table a:hover {
   color: #bb0b0b;
 }
-  .label{color:red; font-weight:bold;}
 
-.toptable {
-  border-collapse: collapse;
-  width: 100%;
-   word-wrap: break-word;
-  word-break: break-word;
-  white-space: normal;
-  font-size: 0.95rem; 
-}
-.toptable td {
-   font-size: 1rem;
-  padding: 6px 8px;
-  vertical-align: top;
-  border: none;  
-}
-.toptable td:first-child {
+ 
+.yp-heading {
+  text-align: center;
   font-weight: bold;
-  width: 180px;  
-  color: #333;
 }
+.yp-table h3 {
+  margin: 0 0 10px;
+  color: #007c11;
+  display: inline-block;
+  padding-bottom: 3px;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+ 
+.yp-table ul {
+  margin: 0;
+  padding-left: 20px;
+}
+.yp-table li {
+  margin-bottom: 6px;
+  line-height: 1.5;
+  font-size: 1rem;
+}
+
  
 .tooltip {
   position: relative;
   display: inline-block;
   border-bottom: 1px dotted black;
 }
-
 .tooltip .tooltiptext {
   visibility: hidden;
-  max-width: 120px;
+  max-width: 160px;
   background-color: black;
   color: #fff;
   text-align: center;
   border-radius: 6px;
-  padding: 5px 0;
+  padding: 5px 8px;
   position: absolute;
   z-index: 1;
   top: 100%;
-  left: 0%;
+  left: 0;
+  font-size: 0.85rem;
 }
-
 .tooltip:hover .tooltiptext {
   visibility: visible;
 }
+
+ 
+@media (min-width: 768px) {
+  body { font-size: 1.05rem; }    
+}
+@media (min-width: 1200px) {
+  body { font-size: 1.1rem; }     
+}
+
 </style>
-<div class="topinfo"> 
+<div class="yp-table-wrapper">
   <table class="toptable"> 
     <tr> 
       <td class="label"> <span class="label">Name of Post: </span></td><td><span style="color: #000; font-weight: bold;"> HP JBT Teacher Recruitment 2025 – Apply Online, Eligibility, Age Limit &amp; Last Date </span></td> 
@@ -435,7 +441,7 @@ function setPreferredHome() {
 
     <tr> 
       <td> <span class="label"> Short Information : </span></td> 
-<td  width="400"><a href="https://hprca.hp.gov.in/" target="_blank" style="color:#006d09; font-weight: bold;">
+<td ><a href="https://hprca.hp.gov.in/" target="_blank" style="color:#006d09; font-weight: bold;">
         Himachal Pradesh Rajya Chayan Aayog (HPRCA)
       </a> has released a <span class="tooltip"> Official Notification  <span class="tooltiptext"> Advt. No.: 02/2025</span></span>  of <b>Junior Basic Teacher</b>.The application process will be open from <b>    14 Aug</b> to <b> </span> 17 Sep 2025  </b>. Candidates must meet the required eligibility criteria including <b></b>.  As per the official notification, <b>there are 600 vacancies available for male and female candidates</b>.  Interested candidates are advised to check the important dates and ensure they apply before the last date. For complete information, download the official notification and apply online using the links provided below.  </td> 
     </tr>
@@ -535,7 +541,7 @@ function setPreferredHome() {
     
 
       </td>
-      <td>
+      <td >
         <h3>Application Fee</h3>
         <ul>
           
@@ -608,10 +614,10 @@ function setPreferredHome() {
 </table>
 </div>
 
-<table class="yp-table">
+<table class="yp-table" >
     <tr>
-        <td> <strong> <span style="color: #ff00ff "> How To Apply for</span>  <span style="color: #007c11">Junior Basic Teacher Vacancy  2025 </span>:</strong></td>
-      </tr> <td> 
+        <td > <strong> <span style="color: #ff00ff "> How To Apply for</span>  <span style="color: #007c11">Junior Basic Teacher Vacancy  2025 </span>:</strong></td>
+      </tr> <td width="300"> 
   
     <li>Visit the Official Website: Go to hprca.hp.gov.in</li>
   

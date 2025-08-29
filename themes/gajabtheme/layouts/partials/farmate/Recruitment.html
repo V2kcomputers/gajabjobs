@@ -113,9 +113,9 @@
 }
 .toptable td:first-child {
   font-weight: bold;
-  width: 180px; /* पहली column fix चौड़ाई */
+width: 180px;/* पहली column fix चौड़ाई */
   color: #333;
-}
+}  
 /* Tooltip */
 .tooltip {
   position: relative;
@@ -140,6 +140,7 @@
 .tooltip:hover .tooltiptext {
   visibility: visible;
 }
+table td { height:20px; }
 </style>
 <div class="topinfo"> 
   <table class="toptable"> 
@@ -157,7 +158,7 @@
 {{ end }}
     <tr> 
       <td> <span class="label"> Short Information : </span></td> 
-<td  width="400"><a href="{{ .Params.OfficialSource }}" target="_blank" style="color:#006d09; font-weight: bold;">
+<td ><a href="{{ .Params.OfficialSource }}" target="_blank" style="color:#006d09; font-weight: bold;">
         {{ .Params.department }}
       </a> has released a <span class="tooltip"> Official Notification  <span class="tooltiptext"> {{ .Params.Notification }}</span></span>  of <b>{{ .Params.postName}}</b>.The application process will be open from <b>   {{ with .Params.begindate }} {{ . | time.Format "02 Jan" }}{{ end }}</b> to <b>{{ with .Params.lastdate }} </span> {{ . | time.Format "02 Jan 2006" }}{{ end }}  </b>. Candidates must meet the required eligibility criteria including <b>{{ .Params.qualified }}</b>.  As per the official notification, <b>{{ .Params.postdetails }}</b>.  Interested candidates are advised to check the important dates and ensure they apply before the last date. For complete information, download the official notification and apply online using the links provided below.  </td> 
     </tr>
@@ -175,12 +176,12 @@
       </td>
     </tr>
     <tr>
-      <td width="290">
+      <td>
         <h3>Important Date</h3>
         <ul>
         {{ partial "farmate/parts/jobsupdate/impdates.html" . }}
       </td>
-      <td width="290">
+      <td >
         <h3>Application Fee</h3>
         <ul>
           {{ partial "farmate/parts/jobsupdate/applyfees" . }}
@@ -204,10 +205,10 @@
 <table class="yp-table"> <tr><td colspan="3"> <strong> <span style="color: #ff00ff" > {{ .Params.PostName }} Recruitment {{ with .Params.lastdate }} {{ . | time.Format "2006" }}{{ end }} </span> : <span style="color: #007c11"> Total Post {{ .Params.TotalPost }} Vacancy Details  </span></strong></td> </tr></table>
 {{ .Content }}
 
-<table class="yp-table">
+<table class="yp-table" >
     <tr>
-        <td width="300"> <strong> <span style="color: #ff00ff "> How To Apply for</span>  <span style="color: #007c11">{{ .Params.PostName }} Vacancy {{ with .Params.lastdate }} {{ . | time.Format "2006" }}{{ end }} </span>:</strong></td>
-      </tr> <td width="300"> {{ partial "farmate/parts/jobsupdate/howto" . }} </td></tr>
+        <td > <strong> <span style="color: #ff00ff "> How To Apply for</span>  <span style="color: #007c11">{{ .Params.PostName }} Vacancy {{ with .Params.lastdate }} {{ . | time.Format "2006" }}{{ end }} </span>:</strong></td>
+      </tr> <td > {{ partial "farmate/parts/jobsupdate/howto" . }} </td></tr>
 </table>
  {{ partial "farmate/parts/link-table.html" . }}
 </div>
