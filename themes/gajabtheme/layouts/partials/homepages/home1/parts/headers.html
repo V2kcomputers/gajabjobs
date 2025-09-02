@@ -1,10 +1,9 @@
 	<center>
 <div id="header1">
 	<div id="headerimg">
-		<a href="/homepage/"><img src="/logo-192X192.png" height="150" width="150"/></a>
+		<a href="/homepage/"><img src="{{ .Site.Params.homelogo | relURL }}" height="150" width="150"/></a>
 	</div>
-	<div id="headerS">
-		GAJAB JOBS<br>
+	<div id="headerS"> {{ .Site.Title }}<br>
 		 <p>WWW.GAJABJOBS.COM</p>
 		
 		
@@ -24,6 +23,5 @@
 		</ul>
 	</div>
 </div>
-
 
 </center>

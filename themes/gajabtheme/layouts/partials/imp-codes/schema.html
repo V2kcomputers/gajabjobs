@@ -8,19 +8,19 @@
     },
     "headline": {{ with .Params.seo_title }}"{{ . | plainify | htmlEscape }}"{{ else }}"{{ .Title | plainify | htmlEscape }}"{{ end }},
     "description": {{ with .Params.description }}"{{ . | plainify | htmlEscape }}"{{ else }}"{{ .Summary | plainify | htmlEscape }}"{{ end }},
-    "image": "{{ with .Params.imageBanner }}{{ . | absURL }}{{ else }}{{ "logo/logo-100x100.png" | absURL }}{{ end }}",
+    "image": "{{ with .Params.imageBanner }}{{ . | absURL }}{{ else }}{{ .Site.Params.logo | relURL }}{{ end }}",
     "author": {
       "@type": "Organization",
-      "name": "Yojna Portal",     
-      "url": "https://www.yojnaportal.com/"
+      "name": "{{ .Site.Title }}",     
+      "url": "{{ .Site.BaseURL }}"
     },
     
     "publisher": {
       "@type": "Organization",
-      "name": "Yojna Portal",
+      "name": "{{ .Site.Title }}",
       "logo": {
         "@type": "ImageObject",
-        "url": "{{ "logo/logo-100x100.png" | absURL }}"
+        "url": "{{ .Site.Params.logo | relURL }}" alt="{{ .Site.Title }}"
       }
     },
     "datePublished": "{{ with .Date }}{{ .Format "2006-01-02" }}{{ else }}{{ now.Format "2006-01-02" }}{{ end }}",
