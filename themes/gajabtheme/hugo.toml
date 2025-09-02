@@ -28,5 +28,9 @@ weight = 30
   priority = 0.5
 
 [params]
+description = "Stay updated with the latest government schemes, Sarkari Yojna news, and policy updates on Yojna Portal."
+paginate = 20
   logo = "logo/GajabJobs540x100.png"
   homelogo = "logo/logo-192x192.png"
+  [outputs]
+home = ["HTML", "RSS", "JSON"]
