@@ -34,3 +34,5 @@ paginate = 20
   homelogo = "logo/logo-192x192.png"
   [outputs]
 home = ["HTML", "RSS", "JSON"]
+section = ["HTML", "JSON"]
+page = ["HTML"]

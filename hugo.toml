@@ -2,3 +2,7 @@ baseURL = 'https://www.gajabjobs.com/'
 languageCode = 'en-us'
 title = 'Gajab Jobs'
 theme = 'gajabtheme'
+ [outputs]
+home = ["HTML", "RSS", "JSON"]
+section = ["HTML", "JSON"]
+page = ["HTML"]

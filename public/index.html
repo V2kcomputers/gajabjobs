@@ -1,8 +1,20 @@
+<script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><style>
+#search-results div {
+  border-bottom: 1px solid #ccc;
+  padding: 5px 0;
+}
+#search-results a {
+  font-weight: bold;
+  text-decoration: none;
+}
+</style>
 
+<input type="text" id="search-input" placeholder="Search here..." />
+<div id="search-results"></div>
 
    <!DOCTYPE html>
 <head>
-	<meta name="generator" content="Hugo 0.148.2"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<meta name="generator" content="Hugo 0.148.2">
 
 <html lang="en">
 
@@ -1412,7 +1424,7 @@ excepteur excepteur pariatur nostrud qui irure ullamco.">
 
 
 
-                                                                                
+                                                                           
 
 
 
@@ -1573,31 +1585,6 @@ excepteur excepteur pariatur nostrud qui irure ullamco.">
         
         
           UP Police Sub Inspector SI Vacancy 2025
-        
-      </a>
-      
-
-
-
-
-
-
-
-
-    
-
-
-
-
-    
-
-    </li>
-  
-    <li>
-      <a href="/jobs/hpsc-assistant-district-attorney-vacancy-2025/" target="_blank" >
-        
-        
-          HPSC Assistant District Attorney ADA Vacancy 2025
         
       </a>
       
@@ -2035,3 +2022,30 @@ excepteur excepteur pariatur nostrud qui irure ullamco.">
     <link rel="stylesheet" href="/css/home/home1.min.e95bda12b09ba6b83212831c0c3aaf89d2ee71d8bd79b4f6dddd8c7c51e7cd7c.css" integrity="sha256-6VvaErCbprgyEoMcDDqvidLucdi9ebT23d2MfFHnzXw=">
   
 
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
+
+<script>
+fetch('/index.json')
+  .then(response => response.json())
+  .then(posts => {
+    const fuse = new Fuse(posts, {
+      keys: ['title', 'summary'],
+      threshold: 0.3
+    });
+
+    const input = document.getElementById('search-input');
+    const resultsDiv = document.getElementById('search-results');
+
+    input.addEventListener('input', () => {
+      const query = input.value;
+      if (!query) {
+        resultsDiv.innerHTML = '';
+        return;
+      }
+      const results = fuse.search(query);
+      resultsDiv.innerHTML = results.map(r => 
+        `<div><a href="${r.item.url}">${r.item.title}</a><p>${r.item.summary}</p></div>`
+      ).join('');
+    });
+  });
+</script>
