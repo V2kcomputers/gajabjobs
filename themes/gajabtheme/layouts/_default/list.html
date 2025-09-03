@@ -1,43 +1,4 @@
-<style>
-#search-results div {
-  border-bottom: 1px solid #ccc;
-  padding: 5px 0;
-}
-#search-results a {
-  font-weight: bold;
-  text-decoration: none;
-}
-</style>
 
-<input type="text" id="search-input" placeholder="Search here..." />
-<div id="search-results"></div>
 
    {{ partial "homepages/home1/list1/home" . }}
    {{ partial "style/home1/list1" . }}
-<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
-
-<script>
-fetch('/index.json')
-  .then(response => response.json())
-  .then(posts => {
-    const fuse = new Fuse(posts, {
-      keys: ['title', 'summary'],
-      threshold: 0.3
-    });
-
-    const input = document.getElementById('search-input');
-    const resultsDiv = document.getElementById('search-results');
-
-    input.addEventListener('input', () => {
-      const query = input.value;
-      if (!query) {
-        resultsDiv.innerHTML = '';
-        return;
-      }
-      const results = fuse.search(query);
-      resultsDiv.innerHTML = results.map(r => 
-        `<div><a href="${r.item.url}">${r.item.title}</a><p>${r.item.summary}</p></div>`
-      ).join('');
-    });
-  });
-</script>
