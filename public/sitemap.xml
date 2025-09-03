@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/about-us/</loc>
+    <lastmod>2025-09-03T19:49:43+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/info/</loc>
+    <lastmod>2025-09-03T19:49:43+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/jobtable/</loc>
     <lastmod>2025-08-27T16:13:15+05:30</lastmod>
   </url><url>
@@ -494,9 +500,6 @@
     <loc>http://localhost:1313/jobs/mp/mpesb-iti-training-officer-aug24/</loc>
     <lastmod>2024-12-28T19:49:51+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2024-11-08T19:23:23+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/newbase1/</loc>
     <lastmod>2024-11-08T19:23:23+05:30</lastmod>
   </url><url>
@@ -658,5 +661,11 @@
     <loc>http://localhost:1313/download/loader/</loc>
   </url><url>
     <loc>http://localhost:1313/download/pdf/</loc>
+  </url><url>
+    <loc>http://localhost:1313/info/disclaimer/</loc>
+  </url><url>
+    <loc>http://localhost:1313/info/privacy-policy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/about-us/</loc>
   </url>
 </urlset>
