@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'Gajab Jobs'
 theme = 'gajabtheme'
  [outputs]
-home = ["HTML", "RSS", "JSON"]
+home = ["HTML", "RSS", "JSON" , "NEWJSON",]
 section = ["HTML", "JSON"]
 page = ["HTML"]
+
+[outputFormats.NEWJSON]
+mediaType = "application/json"
+baseName = "new"

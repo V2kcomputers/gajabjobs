@@ -1,0 +1,10 @@
+{{- $.Scratch.Add "data" slice -}}
+{{- range .Pages -}}
+  {{- $.Scratch.Add "data" (dict 
+      "title" .Title 
+      "date" .Date 
+      "summary" .Summary 
+      "url" .Permalink
+  ) -}}
+{{- end -}}
+{{- $.Scratch.Get "data" | jsonify -}}
