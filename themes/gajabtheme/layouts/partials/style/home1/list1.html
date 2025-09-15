@@ -1,6 +1,1 @@
-{{ $basemainStyles := slice "css/home/listtable.css" "css/home/noticetable.css" "css/home/home1.css" }}
-{{ range $basemainStyles }}
-  {{ with resources.Get . | resources.Minify | resources.Fingerprint }}
-    <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}">
-  {{ end }}
-{{ end }}
+{{ $basemainStyles := slice "css/home/listtable.css" "css/home/noticetable.css" "css/home/home1.css" }}{{ range $basemainStyles }}{{ with resources.Get . | resources.Minify | resources.Fingerprint }}<link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}">  {{ end }}{{ end }}
