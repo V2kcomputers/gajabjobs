@@ -1,0 +1,5 @@
+{{ with .Params.applyfees }}
+  {{ range . }}
+    <li>{{ . | replaceRE "^(.*?):(.*)$" "${1}: <b>${2}</b>" | safeHTML }}</li>
+  {{ end }}
+{{ end }}

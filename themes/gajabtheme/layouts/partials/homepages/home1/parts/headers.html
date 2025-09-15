@@ -1,12 +1,11 @@
 	<center>
 <div id="header1">
 	<div id="headerimg">
-		<a href="/homepage/"><img src="/logo/logo-100x100.png" height="150" width="150"/></a>
+		<a href="/homepage/"><img src="{{ .Site.Params.homelogo | relURL }}" height="150" width="150"/></a>
 	</div>
-	<div id="headerS">
-		YOJNA PORTAL<br>
-		 <p>WWW.YOJNAPORTAL.COM</p>
-		 <button onclick="setPreferredHome()">🏠 Switch Home</button>
+	<div id="headerS"> {{ .Site.Title }}<br>
+		 <p>WWW.GAJABJOBS.COM</p>
+		
 		
 	</div>
 </div>
@@ -24,19 +23,5 @@
 		</ul>
 	</div>
 </div>
-
-
-<script>
-function setPreferredHome() {
-  const currentPref = localStorage.getItem("preferredHome");
-  if (currentPref === "homepage") {
-    localStorage.removeItem("preferredHome");
-    window.location.href = '/';
-  } else {
-    localStorage.setItem("preferredHome", "homepage");
-    window.location.href = '/homepage/';
-  }
-}
-</script>
 
 </center>

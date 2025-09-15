@@ -1,4 +1,12 @@
 baseURL = 'https://www.gajabjobs.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Gajab Jobs'
 theme = 'gajabtheme'
+ [outputs]
+home = ["HTML", "RSS", "JSON" , "NEWJSON",]
+section = ["HTML", "JSON"]
+page = ["HTML"]
+
+[outputFormats.NEWJSON]
+mediaType = "application/json"
+baseName = "new"

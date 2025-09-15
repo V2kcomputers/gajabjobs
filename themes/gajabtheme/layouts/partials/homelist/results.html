@@ -1,9 +1,1 @@
-{{ range first 12 (where  .Site.RegularPages ".Params.result" "yes") }}
-<li>
-  <a href="{{ .Permalink }}" target="_blank">{{ .Params.ResultName }}</a>
- {{/* पोस्ट आज की तारीख को डाली गई हो तो NEW */}}
-{{ if eq (.Date.Format "2006-01-02") (now.Format "2006-01-02") }}
-    <a href="{{ .RelPermalink }}" target="_blank"><img src="/gif/new.gif" alt="New" style="width: 40px; vertical-align: middle;" /></a> 
-{{ end }}
-</li><hr>
-{{ end }}
+{{ partial "imp-codes/listbyfield.html" (dict "field" "ResultName" "pages" .Site.RegularPages "limit" 15) }}

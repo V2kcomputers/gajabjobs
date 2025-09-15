@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <head>
-{{ partial "homepages/home1/parts/head.html" . }}
+  {{ partial "homepages/home1/parts/head.html" . }}{{ partial "style/home1/list1" . }}
 </head>
 <body>
 {{ partial "homepages/home1/parts/headers.html" . }} <br>
+{{/* ads1 */}}<br>
 {{ partial "homepages/home1/parts/marquee.html" . }} <br>
-{{ partial "homepages/home1/parts/ads1.html" . }}
 {{ partial "homepages/home1/parts/mostactive.html" . }}
-{{ partial "homepages/home1/parts/ads2.html" . }}
+{{/* ads2 */}}
 <table>
   <tr>
     <td><div class="listdivs" >{{ partial "homepages/home1/parts/lists/Admitcard.html" . }} </div></td>
@@ -24,6 +24,7 @@
     <td><div class="listdivs1" >{{ partial "homepages/home1/parts/lists/Important.html" . }} </div></td>
   </tr>
 </table>
-{{ partial "homepages/home1/parts/ads3.html" . }} <br>
+<br>
+{{/* ads3 */}}<br>
 {{ partial "homepages/home1/parts/textfooter.html" . }}
 {{ partial "homepages/home1/parts/footer.html" . }}

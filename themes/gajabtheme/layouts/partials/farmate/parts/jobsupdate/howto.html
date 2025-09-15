@@ -1,0 +1,6 @@
+{{ with .Params.how_to }}
+  {{ range . }}
+    <li>{{ . | replaceRE "[\"'“”]([^\"'“”]+)[\"'“”]" "<b>${1}</b>" | safeHTML }}</li>
+  {{ end }}
+{{ end }}
+

@@ -12,12 +12,11 @@
         <div class="burger-line"></div>
       </div>
        <a href="/" class="brand">
-        <img class="logo-img" src="/GajabJobs540x100.png" alt="{{ .Site.Title }}"  loading="lazy" />
+        <img class="logo-img" src="{{ .Site.Params.logo | relURL }}" alt="{{ .Site.Title }}"  loading="lazy" />
       </a>
        
       <div class="menu" id="menu">
         <ul class="menu-inner">
-        
           <li><a href="/" class="menu-link"> Home</a></li>
           <li> <a href="/pdf-forms/" class="menu-link">Forms</a></li> 
           <li><a href="/baner-poster-update/" class="menu-link">Poster</a></li>

@@ -1,0 +1,10 @@
+{{ with .Params.age_limit }}
+  {{ range . }}
+    <li>
+      {{ . 
+         | replaceRE "^(.*?):(.*)$" "${1}: <b>${2}</b>" 
+         | replaceRE "[\"'“”]([^\"'“”]+)[\"'“”]" "<b>${1}</b>" 
+         | safeHTML }}
+    </li>
+  {{ end }}
+{{ end }}

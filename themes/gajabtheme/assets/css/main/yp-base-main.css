@@ -288,7 +288,7 @@ header {
 .main-container {
   display: flex;
   max-width: 100%;
-   background-color: #efefef;
+   background-color: #ffffff00;
   margin: auto;
   flex: 1;
   margin-top: 70px;

@@ -49,25 +49,25 @@
 
 
   <!-- Second Row -->
-  <div class="card">
-    <span id="Education"> </span>
-    <div class="card-header" >Education</div>
-    <div class="card-content">
-      {{ partial "homelist/students.html" . }}
-    </div>
-    <div class="card-footer">
-      <a href="/student-help/" class="more-link" title="View all resources available for students">More student resources</a>
-    </div>
+<div class="card">
+  <span  id="Forms"> </span>
+  <div class="card-header" >AnswerKey</div>
+  <div class="card-content">
+    {{ partial "homelist/answerkey" . }}
   </div>
+  <div class="card-footer">
+    <a href="/answerkey/" class="more-link" title="View and download Anwerkey">View all Answerkey</a>
+  </div>
+</div>
 
   <div class="card">
     <span id="Schemes"> </span>
-    <div class="card-header" >Schemes</div>
+    <div class="card-header">Syllabus</div>
     <div class="card-content" >
-      {{ partial "homelist/schemes.html" . }}
+      {{ partial "homelist/syllabus.html" . }}
     </div>
     <div class="card-footer" >
-      <a href="/latest-schemes/" class="more-link" title="View all latest government schemes">View all schemes</a>
+      <a href="/syllabus/" class="more-link" title="View all syllabus">View Syllabus</a>
     </div>
   </div>
 
@@ -83,16 +83,6 @@
     </div>
   </div>
 <!-- 3rd Row -->
-<div class="card">
-  <span  id="Forms"> </span>
-  <div class="card-header" >Latest Forms</div>
-  <div class="card-content">
-    {{ partial "homelist/pdf-forms" . }}
-  </div>
-  <div class="card-footer">
-    <a href="/pdf-forms/" class="more-link" title="View and download all useful PDF forms">View all PDF forms</a>
-  </div>
-</div>
 <div class="card">
   <span  id="Certificate"> </span>
   <div class="card-header" > Certificates </div>

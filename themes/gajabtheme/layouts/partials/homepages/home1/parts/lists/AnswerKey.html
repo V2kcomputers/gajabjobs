@@ -1,14 +1,14 @@
 <div id="header6A_H">
-					<a href="/pdf-forms/" target="_blank">PDF Forms</a>
+					<a href="/pdf-forms/" target="_blank">AnswerKey</a>
 				</div>
 				<div id="header6LI">
-					  {{ range first 4 (where  .Site.RegularPages ".Params.pdfForm" "yes") }}
+					  {{ range first 4 (where  .Site.RegularPages ".Params.Answerkey" "yes") }}
 					<ul>
 						<li>
 							<a href="{{ .Permalink }}" 
 							target="_blank">
-                              {{ if .Params.pdfName }}
-        {{ .Params.pdfName }}
+                              {{ if .Params.AnswerKeyName }}
+        {{ .Params.AnswerKeyName }}
       {{ else }}
         {{ .Title }}
       {{ end }}

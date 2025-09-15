@@ -2,7 +2,7 @@
 <!-- Canonical URL -->
 <link rel="canonical" href="{{ .Permalink }}">
 <!-- Open Graph (Facebook/WhatsApp) -->
-<meta property="og:site_name" content="Gajab Jobs">
+<meta property="og:site_name" content="{{ .Site.Title }}">
 <meta property="og:url" content="{{ if .Params.shorturl }}{{ .Site.BaseURL }}{{ .Params.shorturl }}{{ else }}{{ .Permalink }}{{ end }}">
 <meta property="og:title" content="{{ with .Params.seo_title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
 <meta property="og:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
@@ -11,15 +11,15 @@
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{{ with .Params.seo_title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
-<meta name="twitter:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
+<meta name="twitter:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary | plainify | htmlEscape }}{{ end }}">
 <meta name="twitter:image" content="{{ .Params.imageBanner | absURL }}">
 <meta name="twitter:site" content="@gajabjobs">
 
 <!-- Extra Meta -->
-<meta name="application-name" content="Gajab Jobs">
+<meta name="application-name" content="{{ .Site.Title }}">
 <meta name="theme-color" content="#0084ff">
 <meta name="robots" content="index, follow">
-<meta name="distribution" content="global">
+<meta name="distribution" content="global">  
 <meta name="debug" content="JSON-LD Loaded">
 <meta name="dmca-site-verification" content="T256Y3p2alQ4QW03ZzdEcGd3MWpwQT090" />
 <meta http-equiv="content-language" content="en-hi">
