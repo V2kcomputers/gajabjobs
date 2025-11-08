@@ -2,11 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/jobs/rssb-upper-primary-teacher-recruitment-nov-2025/</loc>
-    <lastmod>2025-11-07T18:18:57+05:30</lastmod>
+    <loc>http://localhost:1313/jobs/up-home-guard-recruitment-nov-2025/</loc>
+    <lastmod>2025-11-08T12:11:50+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jobs/nabard-assistant-manager-recruitment-nov-2025/</loc>
+    <lastmod>2025-11-08T12:02:08+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jobs/npcil-deputy-manager-recruitment-nov-2025/</loc>
+    <lastmod>2025-11-08T11:30:01+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/otr/</loc>
+    <lastmod>2025-11-08T10:08:19+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/otr/upprpb-otr-online/</loc>
+    <lastmod>2025-11-08T10:08:19+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/jobs/rssb-primary-teacher-recruitment-nov-2025/</loc>
-    <lastmod>2025-11-07T16:22:43+05:30</lastmod>
+    <lastmod>2025-11-07T18:28:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jobs/rssb-upper-primary-teacher-recruitment-nov-2025/</loc>
+    <lastmod>2025-11-07T18:18:57+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/jobs/ccrh-mlt-recruitment-nov-2025/</loc>
     <lastmod>2025-11-05T16:08:45+05:30</lastmod>
@@ -34,9 +49,6 @@
   </url><url>
     <loc>http://localhost:1313/jobs/pnb-lbo-recruitment-nov-2025/</loc>
     <lastmod>2025-11-05T11:38:08+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/jobs/nabard-assistant-manager-recruitment-nov-2025/</loc>
-    <lastmod>2025-11-05T11:15:21+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/jobs/sbi-clerk-junior-associate-vacancy-aug-2025/</loc>
     <lastmod>2025-11-05T09:56:35+05:30</lastmod>
