@@ -1,2 +1,88 @@
 +++
+adsense = true
+pin = "" # "first" या "last" या खाली रहने दें
+highlights = ""  # #fff9c4 , #ffeb3b
+date = {{ .Date }}
+lastmod = {{ .Date }}
+WhatsNew = [
+""
+]
+url = "/{{ .Dir }}{{ .File.ContentBaseName }}/" # ✅ Main SEO Friendly URL
+aliases = [
+    "/{{ .File.ContentBaseName }}/" ,
+  "/{{ .File.Path | md5 | truncate 6 "" }}/"
+]
+shorturl ="{{ .File.Path | md5 | truncate 6 "" }}"
+postdetails = "there are -- vacancies available for male and female candidates"
+RecommendName ="{{ replace .File.ContentBaseName "-" " " | title }}"
+title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+seo_title = ""
+post-type = "" #hint>> imp-link , student, schemes, results, admitcard, latest-jobs
+Syllabus = " Vacancy 2025 Syllabus" #Name
+lang = "hi" #hindi hi English en
+State ="Madhya Pradesh"
+Domicile = "All States Eligible"
+bgcolor = "olive"
+expiryDate = "9024-10-03" # date must be in YYYY-MM-DD format more and equl today
+begindate= "" # date must be in YYYY-MM-DD format more and equl today
+correction ="no"
+correctionName = ""
+lastdate = "" # date must be in YYYY-MM-DD format more and equl today
+activedate=""
+extended = "no"
+from_date = "" # date must be in YYYY-MM-DD format
+to_date = "" # date must be in YYYY-MM-DD format
+resultDate = ""
+category = ""
+recommend ="no"
+admitcard ="no" 
+AdmitcardName = ''
+result = "no"
+ResultName = ''
+pdfForm  = "no"   # yes if offiline pdf form availble
+Videolink= ""
+pdfName = ""
+important ="no" # yes if this important for cyber cafe
+baner = "no"
+imageBanner =""
+authors = ["Vikram Singh"]
+keywords = ["{{ replace .File.ContentBaseName "-" " " | title }} {{ now.Year }}", "{{ .File.TranslationBaseName }}", "{{/* {{ .File.Path | md5 | truncate 6 "" }} */}}", "{{ .File.Path | md5 | truncate 6 }}", "yojna Portal"]
+description = ""
+cssStyles = ["css/posts/jobs.css"]
+jsFiles = ["js/main/default.js"]
+Summary =""
+
+YojnaName = " "
+type= "yojna"
+impnote= "<b>🔔 ध्यान दें:</b> किसी भी निर्णय या आवेदन से पहले कृपया योजना की आधिकारिक वेबसाइट पर उपलब्ध नवीनतम दिशा-निर्देश और पात्रता शर्तें अवश्य जांच लें। यह जानकारी केवल संदर्भ हेतु दी गई है।"
+Whatis =" "
+objective= " " # उद्देश्य 
+qualified = " "
+AdmissionName =" "
+age = "18-30"
+benefits= " " # लाभ 
+apply_online= " " # आनलाइन साइट
+apply_offline= " " # ऑफलाइन जानकारी
+links= " " # महत्वपूर्ण लिंक
+faqs= " " # प्रश्न
+conclusion= " " # निष्कर्ष
+InnerPost = "योजना का उद्देश्य । आवदेन । लाभ । पात्रता । महत्तपूर्ण लिंक"
+Department = " "  # अधिकारित सोर्स
+documents= " " # दस्तावेज
+important_dates= " " # महत्वपूर्ण तिथिा 
+application_fee= " " # आववेदन शुल्क
+OfficialSource = " "  # अधिकारित लिंक
+eligibility= " " # पात्रता 
+Notification= " " # विज्ञापन नाम
+notificationdate= ""
+recruitment= " " # जॉब / परीक्षा नाम
+totalPost = " " # कुल पद
+Qualification = " " # न्यूनतम योग्यता
+ageLimit = " " # आयु सीमा
+selection = " " # चयन प्रकिया
+salary = " " # वेतन भुगतान  
+postName = " " # पद का नाम
+
 +++
+<div class="yp-table-wrapper"> </div>
+<div class="yp-table-wrapper"> </div>

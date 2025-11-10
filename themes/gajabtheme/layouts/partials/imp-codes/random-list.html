@@ -1,16 +1,129 @@
-<details open class="sidebar-list" >
-    <summary class="summary"> Recommended Post</summary>
-    {{ range first 10 (shuffle .Site.RegularPages) }}
-    {{ $lastdate := .Params.lastdate | default "9999-12-31" }}
-    {{ if ge $lastdate (now.Format "2006-01-02") }}
+<style>
+.post-section {
+  margin: 40px auto;
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  padding: 20px;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Stylish Heading */
+.post-section h2 {
+  font-size: 1.6rem;
+  color: #007bff;
+  margin-bottom: 15px;
+  position: relative;
+  padding-bottom: 8px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-transform: capitalize;
+}
+
+.post-section h2::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 3px;
+  width: 60px;
+  background: linear-gradient(90deg, #007bff, #00c6ff);
+  border-radius: 2px;
+}
+
+/* Post List */
+.post-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.post-list li {
+  border-bottom: 1px solid #eee;
+}
+
+.post-list li:last-child {
+  border-bottom: none;
+}
+
+.post-list a {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 14px 20px;
+  text-decoration: none;
+  color: #007bff;
+  font-size: 1.05rem;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  border-radius: 10px;
+}
+
+.post-list a::after {
+  content: "›";
+  font-size: 1.4rem;
+  color: #007bff;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.post-list a:hover {
+  background: #f0f7ff;
+  color: #0056b3;
+}
+
+.post-list a:hover::after {
+  transform: translateX(5px);
+  color: #0056b3;
+}
+
+/* ✅ "More" link style like list item */
+.more-link {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 14px 20px;
+  text-decoration: none;
+  color: #007bff;
+  font-size: 1.05rem;
+  font-weight: 500;
+  border-top: 1px solid #eee;
+  transition: all 0.3s ease;
+}
+
+.more-link::after {
+  content: "›";
+  font-size: 1.4rem;
+  color: #007bff;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.more-link:hover {
+  background: #f0f7ff;
+  color: #0056b3;
+}
+
+.more-link:hover::after {
+  transform: translateX(5px);
+  color: #0056b3;
+}
+</style>
+
+<div class="post-section">
+  <h2>Latest Posts</h2>
+
+  <ul class="post-list">
+    {{ $today := now.Format "2006-01-02" }}
+    {{ $pages := where .Site.RegularPages ".Params.lastdate" "ge" $today }}  <!-- only with lastdate >= today -->
+    {{ $pages = shuffle $pages }}
+
+    {{ range first 5 $pages }}
       <li>
-        <a href="{{ .RelPermalink }}" >{{ .Title }}</a>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         {{ if eq .Params.extended "yes" }} • <a href="/extended/">Extended</a>{{ end }}
         {{ if eq .Params.pdfForm "yes" }} • <a href="/pdf-forms/">PDF</a>{{ end }}
       </li>
-   
     {{ end }}
-  {{ end }}
-  <hr>
-  <p > <a href="/latest-update/" target="_blank"> <div style="text-align:right;"> More >> </div></a></p>
-  </details>
+  </ul>
+
+  <a href="/latest-update/" class="more-link" target="_blank">More</a>
+</div>

@@ -178,14 +178,11 @@ table td { height:20px; }
     <tr>
       <td>
         <h3>Important Date</h3>
-        <ul>
-        {{ partial "farmate/parts/jobsupdate/impdates.html" . }}
+        <ul>{{ partial "farmate/parts/jobsupdate/impdates.html" . }}</ul>
       </td>
       <td >
         <h3>Application Fee</h3>
-        <ul>
-          {{ partial "farmate/parts/jobsupdate/applyfees" . }}
-        
+        <ul>{{ partial "farmate/parts/jobsupdate/applyfees" . }}</ul>
       </td>
     </tr>
     <tr>
@@ -208,7 +205,14 @@ table td { height:20px; }
 <table class="yp-table" >
     <tr>
         <td > <strong> <span style="color: #ff00ff "> How To Apply for</span>  <span style="color: #007c11">{{ .Params.PostName }} Vacancy {{ with .Params.lastdate }} {{ . | time.Format "2006" }}{{ end }} </span>:</strong></td>
-      </tr> <td > {{ partial "farmate/parts/jobsupdate/howto" . }} </td></tr>
+      </tr> <td > <ul> {{ partial "farmate/parts/jobsupdate/howto" . }} </ul> </td></tr>
 </table>
  {{ partial "farmate/parts/link-table.html" . }}
-</div>
+
+  {{ partial "imp-codes/random-list.html" . }}
+{{ partial "imp-codes/imageBanner.html" . }}
+
+  {{ partial "manual-update/button-group.html" . }}
+  {{ partial "imp-codes/keywords.html" . }}
+
+  </div>
