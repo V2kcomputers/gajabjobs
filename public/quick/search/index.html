@@ -883,7 +883,7 @@
         document.getElementById('mobileSearchForm').addEventListener('submit', function(event) {
             event.preventDefault();
             const query = document.getElementById('mobileQuery').value;
-            const url = `https://www.yojnaportal.com/search/#gsc.tab=0&gsc.sort=&gsc.q=${encodeURIComponent(query)}`;
+            const url = `/search/#gsc.tab=0&gsc.sort=&gsc.q=${encodeURIComponent(query)}`;
             window.open(url, '_blank');
         });
     </script>
