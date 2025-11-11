@@ -10,3 +10,7 @@ page = ["HTML"]
 [outputFormats.NEWJSON]
 mediaType = "application/json"
 baseName = "new"
+[sitemap]
+  filename = "sitemap.xml"
+  changefreq = "daily"
+  priority = 0.5
