@@ -3,7 +3,57 @@ languageCode = 'en-us'
 title = 'Gajab Jobs'
 theme = 'gajabtheme'
  [outputs]
-home = ["HTML", "RSS", "JSON" , "NEWJSON",]
+home = ["HTML", "RSS", "JSON" , "NEWJSON", "SITEMAPINDEX","SITEMAPPOSTS1","SITEMAPPOSTS2","SITEMAPCATEGORY","SITEMAPAPPRENTICE", "SITEMAPJOBS","SITEMAPALL"]
+
+[outputFormats.SITEMAPINDEX]
+  name = "sitemapindex"
+  baseName = "sitemap"
+  mediaType = "application/xml"
+  isPlainText = true
+  notAlternative = true
+  rel = "sitemap"
+
+[outputFormats.SITEMAPPOSTS1]
+  baseName = "sitemap-posts1"
+  mediaType = "application/xml"
+  isPlainText = true
+  notAlternative = true
+
+[outputFormats.SITEMAPPOSTS2]
+  baseName = "sitemap-posts2"
+  mediaType = "application/xml"
+  isPlainText = true
+  notAlternative = true
+
+  [outputFormats.SITEMAPCATEGORY]
+  baseName = "sitemap-category"
+  mediaType = "application/xml"
+  isPlainText = true
+  notAlternative = true
+  [outputFormats.SITEMAPAPPRENTICE]
+  name = "sitemapapprentice"
+  baseName = "sitemap-apprentice"
+  mediaType = "application/xml"
+  isPlainText = true
+  notAlternative = true
+  rel = "sitemap"
+
+  [outputFormats.SITEMAPJOBS]
+  name = "sitemapjobs"
+  baseName = "sitemap-jobs"
+  mediaType = "application/xml"
+  isPlainText = true
+  notAlternative = true
+  rel = "sitemap"
+  
+  [outputFormats.SITEMAPALL]
+  name = "sitemapall"
+  baseName = "sitemap-all"
+  mediaType = "application/xml"
+  isPlainText = true
+  notAlternative = true
+  rel = "sitemap"
+
 section = ["HTML", "JSON"]
 page = ["HTML"]
 

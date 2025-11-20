@@ -6,7 +6,7 @@ enableRobotsTXT = true
 name = 'Home'
 pageRef = '/'
 weight = 10
-
+disableKinds = ["sitemap"]
 [[menus.main]]
 name = 'Posts'
 pageRef = '/posts'

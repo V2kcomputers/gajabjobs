@@ -1,0 +1,15 @@
+
+{{- /* sitemap-jobs.xml  Auto List All content/apprentice/ */ -}}
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+  {{- range where .Site.RegularPages "Section" "apprentice" }}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    <lastmod>{{ (or .Lastmod .Date).Format "2006-01-02T15:04:05Z07:00" }}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  {{- end }}
+
+</urlset>

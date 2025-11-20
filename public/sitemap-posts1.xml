@@ -1,0 +1,11 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url><loc>http://localhost:1313/posts/post-3/</loc></url>
+  
+  <url><loc>http://localhost:1313/posts/post-2/</loc></url>
+  
+  <url><loc>http://localhost:1313/posts/post-1/</loc></url>
+  
+</urlset>
