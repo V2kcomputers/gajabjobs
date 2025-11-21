@@ -1,7 +1,0 @@
-{{/* sitemap-posts1.xml */}}
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
-  {{ range first 1000 (where .Site.RegularPages "Section" "posts") }}
-  <url><loc>{{ .Permalink }}</loc></url>
-  {{ end }}
-</urlset>
