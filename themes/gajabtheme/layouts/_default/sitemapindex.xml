@@ -13,11 +13,6 @@
   </sitemap>
 
   <sitemap>
-    <loc>{{ .Site.BaseURL }}sitemap-category.xml</loc>
-    <lastmod>{{ now.UTC.Format "2006-01-02T15:04:05Z" }}</lastmod>
-  </sitemap>
-
-  <sitemap>
     <loc>{{ .Site.BaseURL }}sitemap-all.xml</loc>
     <lastmod>{{ now.UTC.Format "2006-01-02T15:04:05Z" }}</lastmod>
   </sitemap>
