@@ -1,7 +1,5 @@
 
 <html lang="{{ .Params.lang | default .Site.Language.Lang }}">
-
-
 <!-- Basic Meta -->
 <title>{{ with .Params.seo_title }}{{ . }}{{ else }}{{ .Title }} | GAJAB JOBS {{ end }}</title>
 <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
