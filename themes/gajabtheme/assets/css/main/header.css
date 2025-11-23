@@ -1,103 +1,66 @@
-/* -------- Header Top -------- */
-
-#header1 {
-  background-color:#ab183d;
-  margin-top:5px;
+/* Header */
+#header1{
+  background:#ab183d;
+  margin:5px auto 0;
   height:175px;
   max-width:1010px;
-  font-family: Arial,Helvetica,sans-serif;
-  margin-left:auto;
-  margin-right:auto;
+  font-family:Arial,Helvetica,sans-serif;
   color:#fff;
 }
+#headerimg{padding:10px 0;float:left;margin-left:20px;}
+#headerS{padding-top:40px;font-weight:700;font-size:45px;}
+#headerS p{font-size:18px;}
 
-#headerimg {
-  padding: 10px 0;
-  float: left;
-  margin-left: 20px;
-}
-
-#headerS {
-  padding-top: 40px;
-  font-weight: 700;
-  font-size: 45px;
-  color: #fff;
-}
-
-#headerS p {
-  font-size:18px;
-}
-
-/* -------- Menu Bar Background -------- */
-
-#header2 {
+/* Menu Bar */
+#header2{
   height:50px;
-  max-width: 1010px;
-  background-color:black;
-  font-family: Arial,Helvetica,sans-serif;
-  margin-left:auto;
-  margin-right:auto;
+  max-width:1010px;
+  background:#000;
+  margin:auto;
+  font-family:Arial,Helvetica,sans-serif;
 }
 
-/* -------- Scrollable Nav Wrapper -------- */
+/* Scroll Nav */
+#header2UL{
+  overflow-x:auto;
+  white-space:nowrap;
+  scroll-behavior:smooth;
+}
+#header2UL::-webkit-scrollbar{height:0;}
 
-#header2UL {
-  position: relative;
-  overflow-x: auto;
-  white-space: nowrap;
-  scroll-behavior: smooth;
+#header2UL ul{
+  display:flex;
+  margin:0;
+  padding:0;
+  list-style:none;
+  width:max-content;
 }
 
-/* Optional: scrollbar hide (WebKit) */
-#header2UL::-webkit-scrollbar {
-  height: 0;
+#header2UL li{
+  min-width:130px;
+  height:50px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  border-right:1px solid #fff;
+  background:#000;
+  flex-shrink:0;
 }
+#header2UL li:last-child{border-right:none;}
 
-/* -------- UL as Flex Row -------- */
-
-#header2UL ul {
-  display: flex;
-  padding: 0;
-  margin: 0;
-  list-style: none;
-  width: max-content;          /* jitne items honge utni width */
-}
-
-/* -------- LI items -------- */
-
-#header2UL li {
-  min-width: 130px;
-  height: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  border-right: 1px solid #fff;
-  background: black;
-  flex-shrink: 0;
-}
-
-#header2UL li:last-child {
-  border-right: none;
-}
-
-/* -------- Links -------- */
-
-#header2UL a {
-  color:white;
+#header2UL a{
+  color:#fff;
   text-decoration:none;
-  font-weight:bold;
   font-size:14px;
-  display:block;
+  font-weight:bold;
   width:100%;
   text-align:center;
 }
 
-/* ✅ Last item fixed-right (stable) */
-
-#header2UL li.fixed-item {
-  position: sticky;
-  right: 0;
-  z-index: 5;
-  background:black;
-  border-left: 1px solid #fff;
+#header2UL li.fixed-item{
+  position:sticky;
+  right:0;
+  z-index:5;
+  background:#000;
+  border-left:1px solid #fff;
 }
