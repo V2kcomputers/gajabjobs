@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-24T06:09:33Z</lastmod>
+    <lastmod>2025-11-24T08:54:39Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -39,6 +39,12 @@
   <url>
     <loc>http://localhost:1313/contact/</loc>
     <lastmod>2025-11-23T16:02:27+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/admission/jnv-navodaya-admission-6th-2026/</loc>
+    <lastmod>2025-11-18T11:34:56+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

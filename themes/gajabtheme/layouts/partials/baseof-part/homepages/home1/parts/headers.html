@@ -26,17 +26,5 @@
 </div>
 
 
-<script>
-function setPreferredHome() {
-  const currentPref = localStorage.getItem("preferredHome");
-  if (currentPref === "homepage") {
-    localStorage.removeItem("preferredHome");
-    window.location.href = '/';
-  } else {
-    localStorage.setItem("preferredHome", "homepage");
-    window.location.href = '/homepage/';
-  }
-}
-</script>
 
 </center>
