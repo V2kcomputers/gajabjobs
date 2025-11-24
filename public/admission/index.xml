@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Admissions on Gajab Jobs</title>
+    <title>Latest Jobs on Gajab Jobs</title>
     <link>http://localhost:1313/admission/</link>
-    <description>Recent content in Admissions on Gajab Jobs</description>
+    <description>Recent content in Latest Jobs on Gajab Jobs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Nov 2025 11:34:56 +0530</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/admission/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Jawahar Navodaya Vidyalaya Selection Test - 2026 Admit Card</title>
-      <link>http://localhost:1313/admission/jnv-navodaya-admission-6th-2026/</link>
-      <pubDate>Tue, 18 Nov 2025 11:34:56 +0530</pubDate>
-      <guid>http://localhost:1313/admission/jnv-navodaya-admission-6th-2026/</guid>
-      <description>Apply for Jawahar Navodaya Vidyalaya Selection Test (JNVST) 2026 for Class 6 admission. Last date is 29 July 2025. Check eligibility, exam date, prospectus PDF &amp;amp; online application link.</description>
-    </item>
   </channel>
 </rss>
