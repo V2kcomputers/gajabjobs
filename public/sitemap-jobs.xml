@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/up-police-computer-operator-2024/</loc>
+    <lastmod>2025-11-25T10:43:51Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/ssc-junior-engineer-je-vacancy-2025/</loc>
     <lastmod>2025-11-08T07:23:09Z</lastmod>
     <changefreq>daily</changefreq>
