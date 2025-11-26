@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infoes on Gajab Jobs</title>
+    <link>http://localhost:1313/info/</link>
+    <description>Recent content in Infoes on Gajab Jobs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Sep 2025 19:49:43 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us - Gajab Jobs</title>
+      <link>http://localhost:1313/about-us/</link>
+      <pubDate>Wed, 03 Sep 2025 19:49:43 +0530</pubDate>
+      <guid>http://localhost:1313/about-us/</guid>
+      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html lang=&#34;en&#34;&gt;&#xA;&lt;head&gt;&#xA;  &lt;meta charset=&#34;UTF-8&#34;&gt;&#xA;  &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;&#xA;  &lt;title&gt;About Us - Gajab Jobs&lt;/title&gt;&#xA;  &lt;meta name=&#34;description&#34; content=&#34;About Gajab Jobs - Your trusted source for government jobs, yojana updates, and career opportunities.&#34;&gt;&#xA;  &lt;style&gt;&#xA;&#xA;&#xA;    .container { max-width: 900px; margin: 40px auto; padding: 20px; background: #fff; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);}&#xA;    h1 { color: #004aad; }&#xA;    h2 { margin-top: 30px; color: #222; }&#xA;    p { margin-bottom: 15px; }&#xA;    ul { margin: 15px 0; padding-left: 20px; }&#xA;&#xA;  &lt;/style&gt;&#xA;&lt;/head&gt;&#xA;&lt;body&gt;&#xA;  &lt;header&gt;&#xA;    &lt;h1&gt;About Us&lt;/h1&gt;&#xA;  &lt;/header&gt;&#xA;&#xA;  &lt;div class=&#34;container&#34;&gt;&#xA;    &lt;h2&gt;Welcome to Gajab Jobs&lt;/h2&gt;&#xA;    &lt;p&gt;&#xA;      &lt;strong&gt;Gajab Jobs&lt;/strong&gt; is your trusted source for the latest government jobs, yojana updates, career opportunities, and educational resources.  &#xA;      We aim to provide accurate, timely, and easy-to-understand information to help students, job seekers, and individuals stay updated with important news and opportunities.&#xA;    &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact Us - Gajab Jobs</title>
+      <link>http://localhost:1313/contact-us/</link>
+      <pubDate>Wed, 03 Sep 2025 19:49:43 +0530</pubDate>
+      <guid>http://localhost:1313/contact-us/</guid>
+      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html lang=&#34;en&#34;&gt;&#xA;&lt;head&gt;&#xA;    &lt;meta charset=&#34;UTF-8&#34;&gt;&#xA;    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;&#xA;    &lt;style&gt;&#xA;&#xA;        .container {&#xA;            max-width: 800px;&#xA;            margin:  auto;&#xA;&#xA;            padding: 20px;&#xA;            background: #fff;&#xA;            border-radius: 8px;&#xA;            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);&#xA;        }&#xA;        h1 {&#xA;            text-align: center;&#xA;            color: #0056b3;&#xA;        }&#xA;        p {&#xA;            font-size: 16px;&#xA;            line-height: 1.5;&#xA;        }&#xA;      &#xA;      #Message-container {&#xA;              margin:auto;&#xA;              max-width:500px; }&#xA;    &lt;/style&gt;&#xA;&lt;/head&gt;&#xA;&lt;body&gt;&#xA;    &lt;div class=&#34;container&#34;&gt;&#xA;        &lt;h1&gt;Contact Us&lt;/h1&gt;&#xA;        &lt;p&gt;&#xA;            If you have any questions, feedback, or need support regarding Yojna Portal, feel free to contact us using the form below or reach us via email or phone.&#xA;        &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Disclaimer - Gajab Jobs</title>
+      <link>http://localhost:1313/disclaimer/</link>
+      <pubDate>Wed, 03 Sep 2025 19:49:43 +0530</pubDate>
+      <guid>http://localhost:1313/disclaimer/</guid>
+      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html lang=&#34;en&#34;&gt;&#xA;&lt;head&gt;&#xA;  &lt;meta charset=&#34;UTF-8&#34;&gt;&#xA;  &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;&#xA;  &lt;title&gt;Disclaimer - Gajab Jobs&lt;/title&gt;&#xA;  &lt;meta name=&#34;description&#34; content=&#34;Disclaimer of Gajab Jobs - Read our terms of responsibility regarding job notifications, yojana updates, and other information provided on this website.&#34;&gt;&#xA;  &lt;style&gt;&#xA;&#xA;    .container { max-width: 900px; margin: 40px auto; padding: 20px; background: #fff; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);}&#xA;  &lt;/style&gt;&#xA;&lt;/head&gt;&#xA;&lt;body&gt;&#xA;  &lt;header&gt;&#xA;    &lt;h1&gt;Disclaimer&lt;/h1&gt;&#xA;  &lt;/header&gt;&#xA;&#xA;  &lt;div class=&#34;container&#34;&gt;&#xA;    &lt;p&gt;&#xA;      The information provided on &lt;strong&gt;Gajab Jobs&lt;/strong&gt; (https://www.gajabjobs.com) is for general informational purposes only.  &#xA;      While we strive to provide accurate and up-to-date details regarding government jobs, yojanas, and career opportunities, we make no warranties of any kind about the completeness, reliability, or accuracy of the information.&#xA;    &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy - Gajab Jobs</title>
+      <link>http://localhost:1313/privacy-policy/</link>
+      <pubDate>Wed, 03 Sep 2025 19:49:43 +0530</pubDate>
+      <guid>http://localhost:1313/privacy-policy/</guid>
+      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html lang=&#34;en&#34;&gt;&#xA;&lt;head&gt;&#xA;  &lt;meta charset=&#34;UTF-8&#34;&gt;&#xA;  &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;&#xA;  &lt;title&gt;Privacy Policy - Gajab Jobs&lt;/title&gt;&#xA;  &lt;meta name=&#34;description&#34; content=&#34;Privacy Policy of Gajab Jobs - Learn how we collect, use, and protect your personal information when you visit our website.&#34;&gt;&#xA;  &lt;style&gt;&#xA;    &#xA;    .container { max-width: 900px; margin: 40px auto; padding: 20px; background: #fff; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);}&#xA;  &lt;/style&gt;&#xA;&lt;/head&gt;&#xA;&lt;body&gt;&#xA;  &lt;header&gt;&#xA;    &lt;h1&gt;Privacy Policy&lt;/h1&gt;&#xA;  &lt;/header&gt;&#xA;&#xA;  &lt;div class=&#34;container&#34;&gt;&#xA;    &lt;p&gt;&#xA;      At &lt;strong&gt;Gajab Jobs&lt;/strong&gt; (https://www.gajabjobs.com), we respect your privacy and are committed to protecting your personal information.  &#xA;      This Privacy Policy explains how we collect, use, and safeguard the data you share with us.&#xA;    &lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

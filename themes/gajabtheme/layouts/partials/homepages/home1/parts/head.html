@@ -1,7 +1,5 @@
 
 <html lang="{{ .Params.lang | default .Site.Language.Lang }}">
-
-
 <!-- Basic Meta -->
 <title>{{ with .Params.seo_title }}{{ . }}{{ else }}{{ .Title }} | GAJAB JOBS {{ end }}</title>
 <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
@@ -9,17 +7,7 @@
 {{ partial "imp-codes/seo-meta.html" . }}
 {{ partial "imp-codes/schema.html" . }}
 <meta name="google-site-verification" content="uUXL4H0iN6AG6uy4W7z-lbQMA-Bm-7ORGSMo07dVYpo" />
+{{ with .Params.cssStyles }}{{ range . }}{{ $css := resources.Get . | resources.Minify | resources.Fingerprint }}<link rel="stylesheet" href="{{ $css.Permalink }}" integrity="{{ $css.Data.Integrity }}">{{ end }}{{ end }}
 {{ if eq .Params.adsense true }}
->
-{{ end }}
-{{ with .Params.cssStyles }}
-  {{ range . }}
-    {{ $css := resources.Get . | resources.Minify | resources.Fingerprint }}
-    <link rel="stylesheet" href="{{ $css.Permalink }}" integrity="{{ $css.Data.Integrity }}">
-  {{ end }}
-{{ end }}
-
-{{ if .Params.cssStyle }}
-<link rel="preload" as="style" href="{{ .Params.cssStyle | relURL }}" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="{{ .Params.cssStyle | relURL }}"></noscript>
+<meta name="google-adsense-account" content="ca-pub-6290829776158207">
 {{ end }}

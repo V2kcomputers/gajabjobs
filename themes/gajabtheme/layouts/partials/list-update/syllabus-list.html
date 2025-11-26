@@ -1,0 +1,23 @@
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href=" \css\list-table.css">
+  <title>Download Latest Syllabus - Gajab Jobs</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Latest Syllabus, New Admit Card , Latest Exams, New Syllabus, रिजल्ट, परीक्षा परिणाम, .">
+</head>
+<table class="post-table">
+  <thead>
+      <tr>
+   <th>Download Latest Syllabus</th>
+
+      </tr>
+  </thead>
+  <tbody> 
+ {{ range (where  .Site.RegularPages ".Params.syllabus" "yes") }}
+      <tr>
+          <td><a href="{{ .RelPermalink }}" target="_blank">{{ .Params.syllabusName }}</a></td>
+     </tr>
+      {{ end }}
+  </tbody>
+</table>
+  </div>

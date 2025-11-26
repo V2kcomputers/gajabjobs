@@ -1,0 +1,10 @@
+
+{{ define "main" }}
+<h2 style="text-align:center;" > {{ .Title }} </h2>
+    <!-- Header Partial -->
+    {{ partial "farmate/tatkal-update/tatkal.html" . }}
+    <!-- Content Section -->
+    <div class="content">
+        {{ .Content }}
+    </div>
+{{ end }}

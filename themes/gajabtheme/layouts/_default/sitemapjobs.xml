@@ -1,0 +1,21 @@
+{{- /* sitemap-jobs.xml  Auto List All content/jobs/ */ -}}
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+     <url>
+    <loc>{{ .Permalink }}jobs/</loc>
+    <lastmod>{{ (or .Lastmod .Date).UTC.Format "2006-01-02T15:04:05Z" }}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.20</priority>
+  </url>
+  {{- range where .Site.RegularPages "Section" "jobs" }}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    <lastmod>{{ (or .Lastmod .Date).UTC.Format "2006-01-02T15:04:05Z" }}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  {{- end }}
+</urlset>
+
+  

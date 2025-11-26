@@ -1,0 +1,43 @@
+# llms.txt for Gajab Jobs
+version: 1.0
+last_updated: 2025-11-12
+creator: Gajab Jobs (https://gajabjobs.com)
+contact: support@gajabjobs.com
+
+# About
+Gajab Jobs is a trusted job and scheme information platform providing verified updates on government jobs, recruitment notifications, admit cards, results, scholarships, and government yojanas.  
+We focus on accuracy, speed, and simplified Hindi-English presentation for Indian candidates.
+
+# Documentation
+homepage: https://gajabjobs.com/
+about: https://gajabjobs.com/about/
+contact: https://gajabjobs.com/contact/
+privacy: https://gajabjobs.com/privacy-policy/
+terms: https://gajabjobs.com/terms-and-conditions/
+sitemap: https://gajabjobs.com/sitemap.xml
+robots: https://gajabjobs.com/robots.txt
+
+# Crawl Guidelines
+preferred_language: hi,en
+content_focus: government jobs, sarkari result, admit card, syllabus, answer key, scholarships, yojana updates
+update_frequency: daily
+allow_ai_training: true
+data_sources:
+  - https://www.upsc.gov.in
+  - https://www.ssc.gov.in
+  - https://www.rrbcdg.gov.in
+  - https://www.nabard.org
+  - https://www.ibps.in
+  - https://www.mponline.gov.in
+  - https://www.ncs.gov.in
+
+# Publisher Info
+organization_name: Gajab Jobs - Sarkari Updates Platform
+organization_url: https://gajabjobs.com
+owner: Vikram Singh
+location: Guna, Madhya Pradesh, India
+
+# Related Channels
+yojna_portal: https://yojnaportal.com
+whatsapp_channel: https://yojnaportal.com/whatsapp
+youtube: https://youtube.com/@GajabJobs

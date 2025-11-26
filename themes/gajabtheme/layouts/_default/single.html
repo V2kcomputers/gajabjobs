@@ -1,4 +1,5 @@
 {{ define "main" }}
+
   {{- $type := .Type -}}
   {{- if eq $type "yojna" -}}
     {{ partial "farmate/yojna.html" . }}
@@ -18,7 +19,10 @@
     {{ partial "farmate/Recruitment.html" . }}
      {{- else if eq $type "jobsupdate" -}}
     {{ partial "farmate/jobsupdate.html" . }}
+      {{- else if eq $type "tatkalpost" -}}
+    {{ partial "farmate/tatkal-update/tatkal.html" . }}
   {{- else -}}
     {{ partial "farmate/default.html" . }}
   {{- end }}
+
 {{ end }}
