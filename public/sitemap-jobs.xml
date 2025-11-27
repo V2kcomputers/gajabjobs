@@ -8,6 +8,24 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/imd-project-scientist-recruitment-nov-2025/</loc>
+    <lastmod>2025-11-27T10:47:41Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ib-mts-recruitment-nov-2025/</loc>
+    <lastmod>2025-11-27T10:41:51Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/kvs-nvs-recruitment-nov-2025/</loc>
+    <lastmod>2025-11-27T10:30:06Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/rajasthan/rspcb-recruitment-nov-2025/</loc>
     <lastmod>2025-11-27T09:46:37Z</lastmod>
     <changefreq>daily</changefreq>
