@@ -8,6 +8,30 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/ssc-delhi-police-head-constable-admit-card-2025/</loc>
+    <lastmod>2025-11-28T11:31:02Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ssc-delhi-police-hc-ministerial-admit-card-2025/</loc>
+    <lastmod>2025-11-28T11:26:52Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ssc-delhi-police-constable-admit-card-2025/</loc>
+    <lastmod>2025-11-28T11:20:58Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ssc-delhi-police-constable-driver-admit-card-2025/</loc>
+    <lastmod>2025-11-28T11:14:22Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/rrb-ntpc-inter-level-recruitment-sep-2025/</loc>
     <lastmod>2025-11-27T13:43:45Z</lastmod>
     <changefreq>daily</changefreq>

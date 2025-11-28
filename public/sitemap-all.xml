@@ -2,9 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-28T05:07:35Z</lastmod>
+    <lastmod>2025-11-28T11:33:46Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ssc-delhi-police-head-constable-admit-card-2025/</loc>
+    <lastmod>2025-11-28T17:01:02+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ssc-delhi-police-hc-ministerial-admit-card-2025/</loc>
+    <lastmod>2025-11-28T16:56:52+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ssc-delhi-police-constable-admit-card-2025/</loc>
+    <lastmod>2025-11-28T16:50:58+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ssc-delhi-police-constable-driver-admit-card-2025/</loc>
+    <lastmod>2025-11-28T16:44:22+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/eligibility/ctet-february-2026/</loc>
