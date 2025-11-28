@@ -8,6 +8,36 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/uppsc-computer-assistant-admit-card-2025/</loc>
+    <lastmod>2025-11-28T12:37:48Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/uppsc-assistant-teacher-admit-card-2025/</loc>
+    <lastmod>2025-11-28T12:33:45Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/rssb-jamadar-grade-ii-admit-card-2025/</loc>
+    <lastmod>2025-11-28T12:28:04Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/rssb-ayush-officer-admit-card-2025/</loc>
+    <lastmod>2025-11-28T12:26:39Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/bihar-vidhan-parishad-office-attendant-driver-recruitment-2025/</loc>
+    <lastmod>2025-11-28T12:18:09Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/ssc-delhi-police-head-constable-admit-card-2025/</loc>
     <lastmod>2025-11-28T11:31:02Z</lastmod>
     <changefreq>daily</changefreq>
