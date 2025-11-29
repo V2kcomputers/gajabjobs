@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/ssc-cpo-si-capf-recruitment-2025/</loc>
+    <lastmod>2025-11-29T13:08:57Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mppkvvcl-line-attendant-recruitment-dec25/</loc>
     <lastmod>2025-11-29T12:36:31Z</lastmod>
     <changefreq>daily</changefreq>
@@ -184,12 +190,6 @@
   <url>
     <loc>http://localhost:1313/up/up-police-computer-operator-2024/</loc>
     <lastmod>2025-11-25T10:43:51Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/ssc-cpo-si-capf-recruitment-2025/</loc>
-    <lastmod>2025-11-08T07:18:00Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
