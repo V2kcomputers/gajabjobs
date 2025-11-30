@@ -1,17 +1,9 @@
-<head>
-  <meta charset="UTF-8">
-  <link rel="stylesheet" href="/css/list-table.css">
-  <title>Student Help</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Student help, Education help, School news Update, College Update, Scholarship Portal, student portal, Education Portal, विद्यार्थी सहायता, छात्रवृत्ति फार्म, eDistrict, MPTAAS etc Update">
-</head>
-<body>
-  <h2 class="list-title" style="text-align:center;">Upcoming Jobs & Schemes</h2>
+<h2 class="list-title" style="text-align:center;">Upcoming Jobs & Updates</h2>
   <table class="post-table">
     <thead>
       <tr>
         <th>Begin Date</th>
-        <th>Upcoming Jobs  Schemes</th>
+        <th>Upcoming Jobs-</th>
       </tr>
     </thead>
     <tbody>
@@ -21,17 +13,17 @@
       {{ if $filteredPages }}
         {{ range $filteredPages }}
           <tr>
-            <td>{{ (time .Params.BeginDate).Format "02-01-2006" }}</td>
-            <td><a href="{{ .RelPermalink }}" target="_blank">{{ .Title }}</a></td>
+            <td data-label="Begin Date">{{ (time .Params.BeginDate).Format "02-01-2006" }}</td>
+            <td  data-label="Upcoming--"><a href="{{ .RelPermalink }}" target="_blank">{{ .Title }}</a></td>
           
           </tr>
         {{ end }}
       {{ else }}
         <tr>
-          <td colspan="2" style="text-align: center;">No upcoming posts or updates here. If available, they will be updated soon.</td>
+          <td colspan="2" style="text-   : center;">No upcoming posts or updates here. If available, they will be updated soon.</td>
         </tr>
       {{ end }}
       
     </tbody>
   </table>
-</body>
+

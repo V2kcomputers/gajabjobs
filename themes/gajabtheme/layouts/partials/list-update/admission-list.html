@@ -1,118 +1,30 @@
-{{/* ---------- Load All Admission Posts ---------- */}}
-{{ $today := now }}
-{{ $all := where .Site.RegularPages "Section" "admission" }}
+<table class="post-table">
+  <thead>
+    <tr>
+      <th>Latest Admission & Eligibility Test Update Update</th>
+    </tr>
+  </thead>
 
-{{ $active := slice }}
-{{ $expired := slice }}
+  <tbody>
+    {{/* .Site.RegularPages me se sirf admission/student type wali posts lo */}}
+    {{ range .Site.RegularPages }}
+      {{/* Dono type ke keys handle karo: post_type & post-type */}}
+      {{ $ptUnderscore := .Params.post_type }}
+      {{ $ptHyphen     := index .Params "post-type" }}
 
-{{ range $all }}
-  {{ $ld := .Params.lastdate }}
-
-  {{ if not $ld }}
-    {{ $active = $active | append . }}
-  {{ else if ge $ld $today }}
-    {{ $active = $active | append . }}
-  {{ else }}
-    {{ $expired = $expired | append . }}
-  {{ end }}
-{{ end }}
-
-{{ $active = sort $active "Date" "desc" }}
-{{ $expired = sort $expired "Date" "desc" }}
-  
-
-<table class="post-table" id="formsTable">
-<thead>
-  <tr>
-     <th>All Admission Updates</th>
-     <th>📅 Apply Dates</th>
-  </tr>
-</thead>
-
-<tbody>
-
-  <!-- Active -->
-  <tr>
-    <td style="color:green; font-weight:bold; background-color:rgb(210, 248, 199)" colspan="2">
-      ✅ Active Admissions
-    </td>
-  </tr>
-
-  {{ if $active }}
-    {{ range $active }}
-      <tr {{ with .Params.highlights }}style="background-color:{{ . }};"{{ end }}>
-        <td>
-          <a href="{{ .RelPermalink }}" target="_blank" style="font-size:1.2rem;">
-            {{ if .Params.pdfName }}{{ .Params.pdfName }}{{ else }}{{ .Title }}{{ end }}
-          </a>
-
-          {{ partial "main-part/list-comment" . }}
-
-          <br>
-          <span style="font-size:1rem;">
-            ⚡
-            <span style="font-size:0.8rem; color:rgb(1, 36, 1);">
-              {{ .Params.category | default "General" }}
-            </span>
-          </span>
-        </td>
-
-        <td style="font-size:0.9rem;">
-          {{ with .Params.begindate }}
-            Start: <b style="color:green">{{ . | time.Format "02-01-2006" }}</b><br>
-          {{ end }}
-
-          {{ with .Params.lastdate }}
-            End: <b style="color:red">{{ . | time.Format "02-01-2006" }}</b>
-          {{ else }}
-            <span style="color:#777;">Date Not Given</span>
-          {{ end }}
-        </td>
-      </tr>
+      {{ if or (eq $ptUnderscore "admission")
+               (eq $ptUnderscore "student")
+               (eq $ptHyphen "admission")
+               (eq $ptHyphen "student")
+      }}
+        <tr>
+          <td data-label="Check Here 👉">
+            <a href="{{ .RelPermalink }}" target="_blank">
+              {{ if .Params.postName }}{{ .Params.postName }}{{ else }}{{ .Title }}{{ end }}
+            </a>
+          </td>
+        </tr>
+      {{ end }}
     {{ end }}
-  {{ else }}
-    <tr><td colspan="2" style="text-align:center;">No Active Admissions</td></tr>
-  {{ end }}
-
-
-  <!-- Expired -->
-  <tr>
-    <td style="color:red; font-weight:bold; background-color:rgb(250, 201, 137)" colspan="2">
-      🛑 Expired Admissions
-    </td>
-  </tr>
-
-  {{ if $expired }}
-    {{ range $expired }}
-      <tr>
-        <td>
-          <a href="{{ .RelPermalink }}" target="_blank" style="font-size:1.2rem;">
-            {{ if .Params.pdfName }}{{ .Params.pdfName }}{{ else }}{{ .Title }}{{ end }}
-          </a>
-
-          {{ partial "main-part/list-comment" . }}
-
-          <br>
-          <span style="font-size:1rem;">
-            ⚡
-            <span style="font-size:0.8rem; color:rgb(1, 36, 1);">
-              {{ .Params.category | default "General" }}
-            </span>
-          </span>
-        </td>
-
-        <td style="font-size:1rem;">
-          {{ with .Params.lastdate }}
-            Last Date: <b style="color:red">{{ . | time.Format "02-01-2006" }}</b>
-          {{ else }}
-            <span style="color:#777;">Date Not Given</span>
-          {{ end }}
-        </td>
-      </tr>
-    {{ end }}
-  {{ else }}
-    <tr><td colspan="2" style="text-align:center;">No Expired Admissions</td></tr>
-  {{ end }}
-
-</tbody>
+  </tbody>
 </table>
