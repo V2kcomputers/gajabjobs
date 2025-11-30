@@ -1,17 +1,1 @@
-<h2 class="list-title" style="text-align:center;">Upcoming Jobs & Updates</h2>
-<table class="post-table">
-  <thead>
-      <tr>
-   <th>Download Latest Admitcard</th>
-
-      </tr>
-  </thead>
-  <tbody> {{ range (where  .Site.RegularPages ".Params.admitcard" "yes") }}
-      <tr>
-          <td data-label="Check AdmitCard"><a href="{{ .RelPermalink }}" target="_blank">{{ .Params.admitcardName }}</a></td>
-        
-  </tr>
-      {{ end }}
-  </tbody>
-</table>
-  </div>
+<table class="post-table"><thead><tr><th>Latest & Upcoming Admitcard or Examcity Update</th></tr></thead><tbody> {{ range (where  .Site.RegularPages ".Params.admitcard" "yes") }}<tr><td data-label="Check Here 👉"><a href="{{ .RelPermalink }}" target="_blank">{{ .Params.admitcardName }}</a></td></tr>{{ end }}</tbody></table>

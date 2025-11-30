@@ -1,52 +1,72 @@
 <div id="header6A_H">
-					<a href="/student-help/" target="_blank">Admission</a>
-				</div>
-				<div id="header6LI">
-					<ul>
-						{{ $today := now.Format "2006-01-02" }}
-{{ $allStudents := where .Site.RegularPages "Params.post-type" "student" }}
+  <a href="/student-help/" target="_blank">Admission</a>
+</div>
 
-{{/* activedate >= today वाले */}}
-{{ $activePosts := where $allStudents "Params.activedate" "ge" $today }}
-{{ $withDate := where $activePosts "Date" "!=" nil }}
+<div id="header6LI">
+  <ul>
+    {{ $today := now.Format "2006-01-02" }}
 
-{{/* Pinned groups */}}
-{{ $pinFirst := sort (where $withDate "Params.pin" "==" "first") "Date" "desc" }}
-{{ $pinLast := sort (where $withDate "Params.pin" "==" "last") "Date" "desc" }}
-{{ $middle := where $withDate "Params.pin" "!=" "first" }}
-{{ $normal := sort (where $middle "Params.pin" "!=" "last") "Date" "desc" }}
+    {{/* 1) पहले student + admission posts इकट्ठा करें (post_type और post-type दोनों से) */}}
+    {{ $.Scratch.Set "studentAdmissions" (slice) }}
+    {{ range .Site.RegularPages }}
+      {{ $ptUnderscore := .Params.post_type }}
+      {{ $ptHyphen     := index .Params "post-type" }}
+      {{ $activedate   := .Params.activedate | default "" }}
 
-{{/* Merge posts: first → normal → last */}}
-{{ $.Scratch.Set "orderedStudents" (slice) }}
-{{ range $pinFirst }}  {{ $.Scratch.Add "orderedStudents" (slice .) }} {{ end }}
-{{ range $normal }}    {{ $.Scratch.Add "orderedStudents" (slice .) }} {{ end }}
-{{ range $pinLast }}   {{ $.Scratch.Add "orderedStudents" (slice .) }} {{ end }}
-{{ $ordered := first 9 ($.Scratch.Get "orderedStudents") }}
-
-{{/* Final Output */}}
-{{ range $ordered }}
-  <li>
-    <a href="{{ .RelPermalink }}" target="_blank">
-      {{ if or (eq .Params.pin "first") (eq .Params.pin "last") }} <span>📌</span> {{ end }}
-      {{ .Title }}
-    </a>
-
-    {{ if eq (.Date.Format "2006-01-02") (now.Format "2006-01-02") }}
-      <a href="{{ .RelPermalink }}" target="_blank">
-        <img src="/gif/new.gif" alt="New" style="width: 40px; vertical-align: middle;" />
-      </a>
+      {{ if and
+          (or
+            (eq $ptUnderscore "student")
+            (eq $ptUnderscore "admission")
+            (eq $ptHyphen "student")
+            (eq $ptHyphen "admission")
+          )
+          (ge $activedate $today)
+        }}
+        {{ $.Scratch.Add "studentAdmissions" (slice .) }}
+      {{ end }}
     {{ end }}
 
-    {{ if eq .Params.extended "yes" }} • <a href="/extended/" target="_blank">Extended</a> {{ end }}
-  </li>
-{{ end }}
+    {{ $allStudents := $.Scratch.Get "studentAdmissions" }}
+    {{ $withDate := where $allStudents "Date" "!=" nil }}
 
+    {{/* 2) Pinned groups */}}
+    {{ $pinFirst := sort (where $withDate "Params.pin" "==" "first") "Date" "desc" }}
+    {{ $pinLast  := sort (where $withDate "Params.pin" "==" "last")  "Date" "desc" }}
+    {{ $middle   := where $withDate "Params.pin" "!=" "first" }}
+    {{ $normal   := sort (where $middle "Params.pin" "!=" "last") "Date" "desc" }}
 
-					</ul>
-				</div>
-				<div id="header6V" style="margin-top:30px;">
-					<a href="/admission/"  aria-label="View more admission forms and notices" target="_blank">View More</a>
-				</div>
-			</div>
-		</div>
-    
+    {{/* 3) Merge posts: first → normal → last */}}
+    {{ $.Scratch.Set "orderedStudents" (slice) }}
+    {{ range $pinFirst }} {{ $.Scratch.Add "orderedStudents" (slice .) }} {{ end }}
+    {{ range $normal }}   {{ $.Scratch.Add "orderedStudents" (slice .) }} {{ end }}
+    {{ range $pinLast }}  {{ $.Scratch.Add "orderedStudents" (slice .) }} {{ end }}
+
+    {{ $ordered := first 9 ($.Scratch.Get "orderedStudents") }}
+
+    {{/* 4) Final Output */}}
+    {{ range $ordered }}
+      <li>
+        <a href="{{ .RelPermalink }}" target="_blank">
+          {{ if or (eq .Params.pin "first") (eq .Params.pin "last") }}
+            <span>📌</span>
+          {{ end }}
+          {{ .Title }}
+        </a>
+
+        {{ if eq (.Date.Format "2006-01-02") (now.Format "2006-01-02") }}
+          <a href="{{ .RelPermalink }}" target="_blank">
+            <img src="/gif/new.gif" alt="New" style="width: 40px; vertical-align: middle;" />
+          </a>
+        {{ end }}
+
+        {{ if eq .Params.extended "yes" }}
+          • <a href="/extended/" target="_blank">Extended</a>
+        {{ end }}
+      </li>
+    {{ end }}
+  </ul>
+</div>
+
+<div id="header6V" style="margin-top:30px;">
+  <a href="/admission/" aria-label="View more admission forms and notices" target="_blank">View More</a>
+</div>
