@@ -1,17 +1,1 @@
-<table class="post-table">
-  <thead>
-      <tr>
-        <th>Post/Update</th>
-          <th>Latest Result</th>
-    </tr>
-  </thead>
-  <tbody>
-     {{ range (where  .Site.RegularPages ".Params.post_type" "certificate") }}
-  <tr>
-    <td>{{ .Date.Format "02/01/2006" }}</td>
-    <td><a href="{{ .RelPermalink }}" target="_blank">{{ .Params.ResultName }}</a></td>
-  </tr>
-{{ end }}
-  </tbody>
-</table>
-
+<table class="post-table"><thead><tr> <th>Certificate/ Card/ Document Updates</th> </tr></thead><tbody>{{ range (where  .Site.RegularPages ".Params.post_type" "certificate") }}<tr><td><a href="{{ .RelPermalink }}" target="_blank"> {{ if .Params.postName }}{{ .Params.postName }}{{ else }}{{ .Title }}{{ end }}</a></td></tr>{{ end }}</tbody></table>

@@ -62,32 +62,3 @@
   font-size: 15px;
 }
 
-/* Responsive */
-@media (max-width: 600px) {
-  .post-table thead {
-    display: none;
-  }
-
-  .post-table tr {
-    display: block;
-    margin-bottom: 12px;
-    background: white;
-    border-radius: 12px;
-    box-shadow: 0 1px 4px rgba(0,0,0,0.1);
-    padding: 10px;
-  }
-
-  .post-table td {
-    display: flex;
-    justify-content: space-between;
-    padding: 8px 10px;
-    border: none;
-    font-size: 14px;
-  }
-
-  .post-table td:before {
-    content: attr(data-label);
-    font-weight: bold;
-    color: #111827;
-  }
-}
