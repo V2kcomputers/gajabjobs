@@ -3,29 +3,17 @@
 
   <sitemap>
     <loc>http://localhost:1313/sitemap-jobs.xml</loc>
-<<<<<<< HEAD
-    <lastmod>2025-11-30T04:41:28Z</lastmod>
-=======
-    <lastmod>2025-11-29T13:09:09Z</lastmod>
->>>>>>> e6c9204a2539589a8253586da88012034577457d
+    <lastmod>2025-11-30T05:15:48Z</lastmod>
   </sitemap>
 
   <sitemap>
     <loc>http://localhost:1313/sitemap-apprentice.xml</loc>
-<<<<<<< HEAD
-    <lastmod>2025-11-30T04:41:28Z</lastmod>
-=======
-    <lastmod>2025-11-29T13:09:09Z</lastmod>
->>>>>>> e6c9204a2539589a8253586da88012034577457d
+    <lastmod>2025-11-30T05:15:48Z</lastmod>
   </sitemap>
 
   <sitemap>
     <loc>http://localhost:1313/sitemap-all.xml</loc>
-<<<<<<< HEAD
-    <lastmod>2025-11-30T04:41:28Z</lastmod>
-=======
-    <lastmod>2025-11-29T13:09:09Z</lastmod>
->>>>>>> e6c9204a2539589a8253586da88012034577457d
+    <lastmod>2025-11-30T05:15:48Z</lastmod>
   </sitemap>
 
 </sitemapindex>

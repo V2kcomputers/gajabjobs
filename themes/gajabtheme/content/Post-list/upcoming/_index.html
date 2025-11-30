@@ -1,6 +1,15 @@
++++
+title = 'Upcoming Information'
+date = 2024-11-08T19:23:23+05:30
+subtitle = ""
+url ="/upcoming/"
+type="page"
+layout ="upcoming"
++++
+<head>
+    <style>
+        /* ---------- Upcoming Jobs & Schemes Section ---------- */
 
-  <head>
-  <style>
 .list-title {
   font-size: 26px;
   font-weight: 700;
@@ -94,36 +103,6 @@
     color: #111827;
   }
 }
-</style>
-  </head>
 
-  
-  <h2 class="list-title" style="text-align:center;">Upcoming Jobs & Schemes</h2>
-  <table class="post-table">
-    <thead>
-      <tr>
-        <th>Begin Date</th>
-        <th>Upcoming Jobs  Schemes</th>
-      </tr>
-    </thead>
-    <tbody>
-      {{ $today := now.Format "2006-01-02" }}
-      {{ $filteredPages := where .Site.RegularPages "Params.BeginDate" "ge" $today }}
-      
-      {{ if $filteredPages }}
-        {{ range $filteredPages }}
-          <tr>
-            <td data-label="Begin Date">{{ (time .Params.BeginDate).Format "02-01-2006" }}</td>
-            <td  data-label="Upcoming Jobs & Schemes"><a href="{{ .RelPermalink }}" target="_blank">{{ .Title }}</a></td>
-          
-          </tr>
-        {{ end }}
-      {{ else }}
-        <tr>
-          <td colspan="2" style="text-align: center;">No upcoming posts or updates here. If available, they will be updated soon.</td>
-        </tr>
-      {{ end }}
-      
-    </tbody>
-  </table>
-
+    </style>
+</head>
