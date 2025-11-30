@@ -26,9 +26,6 @@
    <button onclick="filterByTag('nextMonth')">Next Month</button>
   <button onclick="filterByTag('thisMonth')">This Month</button>
 </div>
-
-
-
 <table id="postTable">
   <thead>
     <tr>
@@ -37,11 +34,9 @@
     </tr>
   </thead>
   <tbody>
-    {{ partial "auto-update/lastdates/today.html" . }}
-    {{ partial "auto-update/lastdates/upcoming-date.html" . }}
-     {{ partial "auto-update/lastdates/lastmonth.html" . }}
+    {{ partial "auto-update/lastdates/today.html" . }} {{ partial "auto-update/lastdates/upcoming-date.html" . }}  {{ partial "auto-update/lastdates/lastmonth.html" . }}
   </tbody>
-  <tfoot> <tr> <td colspan="2" style="text-align:center; background: #ffae00;font-weight:bold;"> www.YojnaPortal.com </td></tr></tfoot>
+  <tfoot> <tr> <td colspan="2" style="text-align:center; background: #ffae00;font-weight:bold;"> www.GajabJobs.com </td></tr></tfoot>
 </table>
 <br> <hr>
  <button onclick="shareOnWhatsApp()" class="share-btn">

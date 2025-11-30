@@ -189,7 +189,7 @@ function shareOnWhatsApp() {
     const seoTitle = row.dataset.seoTitle?.trim() || title;
     const date = row.cells[1].textContent.trim();
 
-    const finalLink = shorturl ? `https://yojnaportal.com/${shorturl}` : permalink;
+    const finalLink = shorturl ? `https://gajabjobs.com/${shorturl}` : permalink;
 
     message += `🎯 *${seoTitle}* \n📅 _Last Date: ${date}_\n🔗 ${finalLink}\n__________________________________________\n`;
   });
