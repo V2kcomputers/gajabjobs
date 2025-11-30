@@ -1,30 +1,11 @@
 
-
-
-   <!-- head-->
    {{ partial "baseof-part/head/head" . }}
-    <!-- Header -->
    {{ partial "main-part/header/head" . }}
-    
-    
+
   <body>
-    <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PBCHNTR3"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-   <!-- left Sidebar Overlay (mobile only) -->
-  <div class="main-container scroll-fade">
-   
-   <!-- Right Sidebar (desktop only) -->
-    <main class="main-content">
-   
-    {{ block "main" . }} {{ end }}
-    </main>
-
-  </div>
-      <!-- Footer -->
-
-    {{ partial "baseof-part/footer" . }}
+  <div class="main-container scroll-fade"><!-- Right Sidebar (desktop only) -->
+    <main class="main-content">{{ block "main" . }} {{ end }}</main></div>
+ {{ partial "baseof-part/footer" . }}
 
 </body>
 </html>
