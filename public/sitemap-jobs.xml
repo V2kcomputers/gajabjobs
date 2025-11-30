@@ -9,7 +9,13 @@
   </url>
   <url>
     <loc>http://localhost:1313/mp/mp-panchayat-sachiv-recruitment-nov25/</loc>
-    <lastmod>2025-11-30T10:02:13Z</lastmod>
+    <lastmod>2025-11-30T10:19:04Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mppsc-principal-grade-2-recruitment-nov25/</loc>
+    <lastmod>2025-11-30T10:11:44Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
