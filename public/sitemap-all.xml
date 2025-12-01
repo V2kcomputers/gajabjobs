@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-01T07:16:03Z</lastmod>
+    <lastmod>2025-12-01T11:46:05Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cg/cgpsc-sse-recruitment-dec25/</loc>
+    <lastmod>2025-12-01T17:10:29+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/mppgcl-assistant-recruitment-dec25/</loc>
