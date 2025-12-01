@@ -2,19 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-30T10:21:00Z</lastmod>
+    <lastmod>2025-12-01T07:12:13Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mp/mp-panchayat-sachiv-recruitment-nov25/</loc>
-    <lastmod>2025-11-30T15:49:04+05:30</lastmod>
+    <loc>http://localhost:1313/jobs/mppgcl-assistant-recruitment-dec25/</loc>
+    <lastmod>2025-12-01T12:41:18+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/mp/mppsc-principal-grade-2-recruitment-nov25/</loc>
-    <lastmod>2025-11-30T15:41:44+05:30</lastmod>
+    <lastmod>2025-12-01T12:41:18+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/oicl-ao-recruitment-nov-2025/</loc>
+    <lastmod>2025-12-01T12:41:18+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ibps-rrbs-crp-xiv-vacancy-2025/</loc>
+    <lastmod>2025-12-01T12:24:43+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mp-panchayat-sachiv-recruitment-nov25/</loc>
+    <lastmod>2025-11-30T15:49:04+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -27,12 +45,6 @@
   <url>
     <loc>http://localhost:1313/mp/mppkvvcl-line-attendant-recruitment-dec25/</loc>
     <lastmod>2025-11-29T18:06:31+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/mppgcl-assistant-recruitment-dec25/</loc>
-    <lastmod>2025-11-29T16:39:39+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -195,12 +207,6 @@
   <url>
     <loc>http://localhost:1313/jobs/pnb-lbo-recruitment-nov-2025/</loc>
     <lastmod>2025-11-27T15:00:07+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/oicl-ao-recruitment-nov-2025/</loc>
-    <lastmod>2025-11-26T17:01:43+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
