@@ -1,9 +1,7 @@
 
-  <!doctype html>
-<html lang="{{ .Params.lang | default .Site.Language.Lang }}">
+  <!doctype html><html lang="{{ .Params.lang | default .Site.Language.Lang }}">
 <head>
 <meta charset="UTF-8"/>
-
 <meta name="viewport" content="width=599">
 <!-- Basic Meta -->
 <title>{{ with .Params.seo_title }}{{ . }}{{ else }}{{ .Title }} | GAJAB JOBS {{ end }}</title>
@@ -30,7 +28,6 @@
 <link rel="preload" as="style" href="{{ .Params.cssStyle | relURL }}" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="{{ .Params.cssStyle | relURL }}"></noscript>
 {{ end }}
-
 </head>
 
  

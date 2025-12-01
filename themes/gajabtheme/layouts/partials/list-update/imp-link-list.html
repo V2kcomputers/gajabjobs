@@ -1,7 +1,2 @@
-<ul>
-  {{ range first 20 (where  .Pages ".Params.post-type" "schemes") }}
-    <li>
-      <a href="{{ .Permalink }}" target="_blank">{{ .Title }}</a>
-    </li>
-  {{ end }}
-</ul>   
+<table class="post-table"><thead><tr><th>Important Links Update</th></tr></thead><tbody>  {{ range  (where .Site.RegularPages ".Params.important" "yes") }}<tr><td><a href="{{ .RelPermalink }}" target="_blank">{{ if .Params.answerkeyName}}{{ .Params.answerkeyName }}{{ else }}{{ .Title }}{{ end }}</a></td></tr>{{ end }}</tbody></table>
+ 

@@ -47,13 +47,10 @@
     </div>
 
  
-  <a href="/" class="back-button">🏠</a>
+  <a href="/" class="back-button"></a>
   <input type="text" name="Search" class="Advance" id="search-input"
          placeholder="Search for anything...">
-
-
-    <!-- Clear (X) button -->
-    <button type="button" id="clear-button"  onclick="location.reload();"
+<button type="button" id="clear-button"  onclick="location.reload();"
             style="position: absolute; right: 85px; background: none; border: none; font-size: 28px;  cursor: pointer; color:red;">
       &times;
     </button>
@@ -80,7 +77,6 @@
     {{ partial "manual-update/suggestions.html" . }}
     <!-- Dynamic Buttons -->
 <div class="btn-container">
-   {{ partial "adsense" . }}
    {{ $keywords := .Params.keywords }}
 
 <div class="sticky-anchor" >
