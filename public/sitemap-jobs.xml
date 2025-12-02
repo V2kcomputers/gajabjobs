@@ -8,14 +8,62 @@
     <priority>0.20</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mp/mp-panchayat-sachiv-recruitment-nov25/</loc>
-    <lastmod>2025-11-30T10:19:04Z</lastmod>
+    <loc>http://localhost:1313/up/up-police-constable-recruitment-dec25/</loc>
+    <lastmod>2025-12-02T06:40:32Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ibps-probationary-officer-po-15th-vacancy-2025/</loc>
+    <lastmod>2025-12-02T05:55:41Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ssc/ssc-gd-constable-recruitment-dec25/</loc>
+    <lastmod>2025-12-02T05:46:48Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/oicl-ao-recruitment-nov-2025/</loc>
+    <lastmod>2025-12-02T05:46:12Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cg/cgpsc-assistant-professor-recruitment-dec25/</loc>
+    <lastmod>2025-12-01T13:11:10Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cg/cgpsc-sse-recruitment-dec25/</loc>
+    <lastmod>2025-12-01T11:40:29Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/mppgcl-assistant-recruitment-dec25/</loc>
+    <lastmod>2025-12-01T07:11:18Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>http://localhost:1313/mp/mppsc-principal-grade-2-recruitment-nov25/</loc>
-    <lastmod>2025-11-30T10:11:44Z</lastmod>
+    <lastmod>2025-12-01T07:11:18Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ibps-rrbs-crp-xiv-vacancy-2025/</loc>
+    <lastmod>2025-12-01T06:54:43Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mp-panchayat-sachiv-recruitment-nov25/</loc>
+    <lastmod>2025-11-30T10:19:04Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -28,12 +76,6 @@
   <url>
     <loc>http://localhost:1313/mp/mppkvvcl-line-attendant-recruitment-dec25/</loc>
     <lastmod>2025-11-29T12:36:31Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/mppgcl-assistant-recruitment-dec25/</loc>
-    <lastmod>2025-11-29T11:09:39Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -182,12 +224,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/oicl-ao-recruitment-nov-2025/</loc>
-    <lastmod>2025-11-26T11:31:43Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/csir-cdri-recruitment-nov-2025/</loc>
     <lastmod>2025-11-26T10:42:15Z</lastmod>
     <changefreq>daily</changefreq>
@@ -286,12 +322,6 @@
   <url>
     <loc>http://localhost:1313/jobs/rbi-officers-grade-a-and-b-vacancy-2025/</loc>
     <lastmod>2025-11-03T10:58:28Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/ibps-probationary-officer-po-15th-vacancy-2025/</loc>
-    <lastmod>2025-11-03T10:53:24Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
