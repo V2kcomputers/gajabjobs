@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/rrb-je-recruitment-sep-2025/</loc>
+    <lastmod>2025-12-04T07:37:27Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/ssc/ssc-gd-constable-recruitment-dec25/</loc>
     <lastmod>2025-12-04T06:56:17Z</lastmod>
     <changefreq>daily</changefreq>
@@ -352,12 +358,6 @@
   <url>
     <loc>http://localhost:1313/jobs/mppeb-group-2-sub-group-3-vacancy-2025/</loc>
     <lastmod>2025-11-05T06:28:04Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/rrb-je-recruitment-sep-2025/</loc>
-    <lastmod>2025-11-05T06:12:58Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
