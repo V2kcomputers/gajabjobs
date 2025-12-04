@@ -8,6 +8,24 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/ssc/ssc-gd-constable-recruitment-dec25/</loc>
+    <lastmod>2025-12-04T06:56:17Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/oicl-ao-recruitment-nov-2025/</loc>
+    <lastmod>2025-12-04T06:45:57Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/up-police-si-admitcard-2025/</loc>
+    <lastmod>2025-12-04T06:43:30Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/rssb-patwari-bharti-2025/</loc>
     <lastmod>2025-12-04T06:36:20Z</lastmod>
     <changefreq>daily</changefreq>
@@ -76,18 +94,6 @@
   <url>
     <loc>http://localhost:1313/jobs/ibps-probationary-officer-po-15th-vacancy-2025/</loc>
     <lastmod>2025-12-02T05:55:41Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ssc/ssc-gd-constable-recruitment-dec25/</loc>
-    <lastmod>2025-12-02T05:46:48Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/oicl-ao-recruitment-nov-2025/</loc>
-    <lastmod>2025-12-02T05:46:12Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
