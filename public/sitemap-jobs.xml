@@ -8,6 +8,36 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/ssc-delhi-police-head-constable-admit-card-2025/</loc>
+    <lastmod>2025-12-05T06:43:59Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ssc-delhi-police-hc-ministerial-admit-card-2025/</loc>
+    <lastmod>2025-12-05T06:42:10Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ssc-delhi-police-constable-admit-card-2025/</loc>
+    <lastmod>2025-12-05T06:40:54Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ssc-delhi-police-constable-driver-admit-card-2025/</loc>
+    <lastmod>2025-12-05T06:35:25Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/bpsc-sports-officer-vacancy-2025/</loc>
+    <lastmod>2025-12-05T06:32:29Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/bihar-bpsc-aedo-vacancy-2025/</loc>
     <lastmod>2025-12-05T05:51:16Z</lastmod>
     <changefreq>daily</changefreq>
@@ -226,30 +256,6 @@
   <url>
     <loc>http://localhost:1313/jobs/bihar-vidhan-parishad-office-attendant-driver-recruitment-2025/</loc>
     <lastmod>2025-11-28T12:18:09Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/ssc-delhi-police-head-constable-admit-card-2025/</loc>
-    <lastmod>2025-11-28T11:31:02Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/ssc-delhi-police-hc-ministerial-admit-card-2025/</loc>
-    <lastmod>2025-11-28T11:26:52Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/ssc-delhi-police-constable-admit-card-2025/</loc>
-    <lastmod>2025-11-28T11:20:58Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/ssc-delhi-police-constable-driver-admit-card-2025/</loc>
-    <lastmod>2025-11-28T11:14:22Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
