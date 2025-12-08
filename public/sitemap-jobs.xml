@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/hr/haryana-health-department-mo-recruitment-dec25/</loc>
+    <lastmod>2025-12-08T09:56:59Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/rrb-technician-2025/</loc>
     <lastmod>2025-12-08T09:36:41Z</lastmod>
     <changefreq>daily</changefreq>
@@ -16,12 +22,6 @@
   <url>
     <loc>http://localhost:1313/assam/assam-police-constable-recruitment-dec25/</loc>
     <lastmod>2025-12-08T06:23:57Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/hr/haryana-health-department-mo-recruitment-dec25/</loc>
-    <lastmod>2025-12-07T07:21:02Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
