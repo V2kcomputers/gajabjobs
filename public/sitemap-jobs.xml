@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/mp-police-asi-subedar-admitcard-2025/</loc>
+    <lastmod>2025-12-10T13:35:51Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/uppsc-assistant-teacher-result-2025/</loc>
     <lastmod>2025-12-10T13:16:08Z</lastmod>
     <changefreq>daily</changefreq>
@@ -520,12 +526,6 @@
   <url>
     <loc>http://localhost:1313/jobs/nhai-recruitment-nov-2025/</loc>
     <lastmod>2025-11-03T08:58:07Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/mpesb-police-constable-vacancy-2025/</loc>
-    <lastmod>2025-09-15T07:08:11Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
