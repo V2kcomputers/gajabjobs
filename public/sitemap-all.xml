@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-11T12:29:19Z</lastmod>
+    <lastmod>2025-12-11T12:43:33Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/emrs-teaching-non-teaching-admit-card-2025/</loc>
+    <lastmod>2025-12-11T18:12:04+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/2025/csir-ncl-technical-recruitment-dec25/</loc>
@@ -381,12 +387,6 @@
   <url>
     <loc>http://localhost:1313/jobs/up-panchayati-raj-bpm-recruitment-dec25/</loc>
     <lastmod>2025-11-29T15:51:14+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/emrs-teaching-non-teaching-admit-card-2025/</loc>
-    <lastmod>2025-11-29T14:26:35+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
