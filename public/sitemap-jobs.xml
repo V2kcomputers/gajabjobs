@@ -8,6 +8,30 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/btsc-dental-hygienist-recruitment-2025/</loc>
+    <lastmod>2025-12-13T09:34:32Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/btsc-hostel-manager-recruitment-2025/</loc>
+    <lastmod>2025-12-13T09:34:32Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/btsc-works-supervisor-recruitment-2025/</loc>
+    <lastmod>2025-12-13T09:34:32Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/btsc-work-inspector-mechanical-recruitment-dec25/</loc>
+    <lastmod>2025-12-13T09:30:05Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bihar/btsc-junior-engineer-recruitment-dec25/</loc>
     <lastmod>2025-12-13T08:39:14Z</lastmod>
     <changefreq>daily</changefreq>
@@ -208,24 +232,6 @@
   <url>
     <loc>http://localhost:1313/jobs/kvs-nvs-recruitment-nov-2025/</loc>
     <lastmod>2025-12-06T05:01:17Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/btsc-works-supervisor-recruitment-2025/</loc>
-    <lastmod>2025-12-05T09:15:25Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/btsc-hostel-manager-recruitment-2025/</loc>
-    <lastmod>2025-12-05T07:24:14Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/btsc-dental-hygienist-recruitment-2025/</loc>
-    <lastmod>2025-12-05T07:06:49Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
