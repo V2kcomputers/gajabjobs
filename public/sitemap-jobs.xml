@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/iaf-afcat-01-2026-batch-recruitment-nov-2025/</loc>
+    <lastmod>2025-12-13T05:11:33Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/ssc-delhi-police-constable-admit-card-2025/</loc>
     <lastmod>2025-12-13T04:54:21Z</lastmod>
     <changefreq>daily</changefreq>
@@ -112,12 +118,6 @@
   <url>
     <loc>http://localhost:1313/jobs/wbbpe-assistant-teacher-recruitment-nov-2025/</loc>
     <lastmod>2025-12-09T04:59:20Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/iaf-afcat-01-2026-batch-recruitment-nov-2025/</loc>
-    <lastmod>2025-12-09T04:55:56Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
