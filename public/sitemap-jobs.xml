@@ -8,6 +8,36 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/ssc-delhi-police-constable-admit-card-2025/</loc>
+    <lastmod>2025-12-13T04:54:21Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-section-controller-admitcard-2025/</loc>
+    <lastmod>2025-12-13T04:53:53Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/drdo/drdo-ceptam-11-recruitment-dec25/</loc>
+    <lastmod>2025-12-13T04:52:07Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/nainital-bank-po-so-recruitment-dec25/</loc>
+    <lastmod>2025-12-13T04:48:41Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2025/csir-ncl-technical-recruitment-dec25/</loc>
+    <lastmod>2025-12-13T04:46:25Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/2025/kvs-ldce-teaching-and-non-teaching-recruitment-dec25/</loc>
     <lastmod>2025-12-11T13:27:03Z</lastmod>
     <changefreq>daily</changefreq>
@@ -16,24 +46,6 @@
   <url>
     <loc>http://localhost:1313/jobs/emrs-teaching-non-teaching-admit-card-2025/</loc>
     <lastmod>2025-12-11T12:42:04Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/2025/csir-ncl-technical-recruitment-dec25/</loc>
-    <lastmod>2025-12-11T12:24:10Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/nainital-bank-po-so-recruitment-dec25/</loc>
-    <lastmod>2025-12-11T11:21:01Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-section-controller-admitcard-2025/</loc>
-    <lastmod>2025-12-11T10:28:28Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -218,12 +230,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/ssc-delhi-police-constable-admit-card-2025/</loc>
-    <lastmod>2025-12-05T06:40:54Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/ssc-delhi-police-constable-driver-admit-card-2025/</loc>
     <lastmod>2025-12-05T06:35:25Z</lastmod>
     <changefreq>daily</changefreq>
@@ -310,12 +316,6 @@
   <url>
     <loc>http://localhost:1313/jobs/ssc-junior-engineer-je-vacancy-2025/</loc>
     <lastmod>2025-12-03T10:41:57Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/drdo/drdo-ceptam-11-recruitment-dec25/</loc>
-    <lastmod>2025-12-03T10:35:41Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>

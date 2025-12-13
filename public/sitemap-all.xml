@@ -2,9 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-11T13:32:18Z</lastmod>
+    <lastmod>2025-12-13T04:55:14Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ssc-delhi-police-constable-admit-card-2025/</loc>
+    <lastmod>2025-12-13T10:24:21+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-section-controller-admitcard-2025/</loc>
+    <lastmod>2025-12-13T10:23:53+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/drdo/drdo-ceptam-11-recruitment-dec25/</loc>
+    <lastmod>2025-12-13T10:22:07+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/nainital-bank-po-so-recruitment-dec25/</loc>
+    <lastmod>2025-12-13T10:18:41+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2025/csir-ncl-technical-recruitment-dec25/</loc>
+    <lastmod>2025-12-13T10:16:25+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/2025/kvs-ldce-teaching-and-non-teaching-recruitment-dec25/</loc>
@@ -15,24 +45,6 @@
   <url>
     <loc>http://localhost:1313/jobs/emrs-teaching-non-teaching-admit-card-2025/</loc>
     <lastmod>2025-12-11T18:12:04+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/2025/csir-ncl-technical-recruitment-dec25/</loc>
-    <lastmod>2025-12-11T17:54:10+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/nainital-bank-po-so-recruitment-dec25/</loc>
-    <lastmod>2025-12-11T16:51:01+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-section-controller-admitcard-2025/</loc>
-    <lastmod>2025-12-11T15:58:28+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -229,12 +241,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/ssc-delhi-police-constable-admit-card-2025/</loc>
-    <lastmod>2025-12-05T12:10:54+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/ssc-delhi-police-constable-driver-admit-card-2025/</loc>
     <lastmod>2025-12-05T12:05:25+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -327,12 +333,6 @@
   <url>
     <loc>http://localhost:1313/jobs/ssc-junior-engineer-je-vacancy-2025/</loc>
     <lastmod>2025-12-03T16:11:57+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/drdo/drdo-ceptam-11-recruitment-dec25/</loc>
-    <lastmod>2025-12-03T16:05:41+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
