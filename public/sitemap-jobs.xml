@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/mpesb-police-constable-admit-card-2025/</loc>
+    <lastmod>2025-12-13T11:19:23Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bihar/btsc-pump-operator-recruitment-dec25/</loc>
     <lastmod>2025-12-13T11:00:39Z</lastmod>
     <changefreq>daily</changefreq>
@@ -556,12 +562,6 @@
   <url>
     <loc>http://localhost:1313/jobs/rbi-officers-grade-a-and-b-vacancy-2025/</loc>
     <lastmod>2025-11-03T10:58:28Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/mpesb-police-constable-admit-card-2025/</loc>
-    <lastmod>2025-11-03T10:45:51Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
