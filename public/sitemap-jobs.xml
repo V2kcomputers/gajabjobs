@@ -8,6 +8,48 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/2025/aai-ner-recruitment-dec25/</loc>
+    <lastmod>2025-12-14T04:39:20Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cbse/cbse-group-a-b-c-posts-recruitment-dec25/</loc>
+    <lastmod>2025-12-14T04:39:20Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/delhi/dsssb-mts-recruitment-dec25/</loc>
+    <lastmod>2025-12-14T04:39:20Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/sbi-bank-so-recruitment-dec25/</loc>
+    <lastmod>2025-12-14T04:39:20Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ssc/ssc-gd-constable-recruitment-dec25/</loc>
+    <lastmod>2025-12-14T04:39:20Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/up-police-assistant-operator-recruitment-dec25/</loc>
+    <lastmod>2025-12-14T04:39:20Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/up-home-guard-recruitment-nov-2025/</loc>
+    <lastmod>2025-12-14T04:39:20Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/delhi/iimc-non-teaching-recruitment-dec25/</loc>
     <lastmod>2025-12-13T12:04:13Z</lastmod>
     <changefreq>daily</changefreq>
@@ -64,12 +106,6 @@
   <url>
     <loc>http://localhost:1313/bihar/btsc-junior-engineer-recruitment-dec25/</loc>
     <lastmod>2025-12-13T08:39:14Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/delhi/dsssb-mts-recruitment-dec25/</loc>
-    <lastmod>2025-12-13T06:01:13Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -200,12 +236,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ssc/ssc-gd-constable-recruitment-dec25/</loc>
-    <lastmod>2025-12-08T12:30:42Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/rrb-paramedical-various-posts-2025/</loc>
     <lastmod>2025-12-08T12:25:51Z</lastmod>
     <changefreq>daily</changefreq>
@@ -230,12 +260,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/2025/aai-ner-recruitment-dec25/</loc>
-    <lastmod>2025-12-07T06:17:17Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/cg/cgpsc-assistant-professor-recruitment-dec25/</loc>
     <lastmod>2025-12-07T05:30:18Z</lastmod>
     <changefreq>daily</changefreq>
@@ -243,12 +267,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/cg/cgpsc-sse-recruitment-dec25/</loc>
-    <lastmod>2025-12-07T05:30:18Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/sbi-bank-so-recruitment-dec25/</loc>
     <lastmod>2025-12-07T05:30:18Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
@@ -338,12 +356,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/up/up-police-assistant-operator-recruitment-dec25/</loc>
-    <lastmod>2025-12-03T12:08:42Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/csbc-bihar-constable-driver-admit-card-2025/</loc>
     <lastmod>2025-12-03T11:20:11Z</lastmod>
     <changefreq>daily</changefreq>
@@ -352,12 +364,6 @@
   <url>
     <loc>http://localhost:1313/jobs/ssc-junior-engineer-je-vacancy-2025/</loc>
     <lastmod>2025-12-03T10:41:57Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/cbse/cbse-group-a-b-c-posts-recruitment-dec25/</loc>
-    <lastmod>2025-12-03T09:39:27Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -472,12 +478,6 @@
   <url>
     <loc>http://localhost:1313/jobs/bssc-inter-level-recruitment-2025/</loc>
     <lastmod>2025-11-27T11:17:54Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/up-home-guard-recruitment-nov-2025/</loc>
-    <lastmod>2025-11-27T11:09:09Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
