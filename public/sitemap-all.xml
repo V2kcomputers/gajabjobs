@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-15T05:44:16Z</lastmod>
+    <lastmod>2025-12-15T06:05:50Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/delhi-dda-recruitment-2025/</loc>
+    <lastmod>2025-12-15T11:35:06+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/mppgcl-assistant-recruitment-dec25/</loc>
@@ -225,12 +231,6 @@
   <url>
     <loc>http://localhost:1313/mh/bombay-high-court-recruitment-dec25/</loc>
     <lastmod>2025-12-10T14:53:06+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/delhi-dda-recruitment-2025/</loc>
-    <lastmod>2025-12-09T11:16:59+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
