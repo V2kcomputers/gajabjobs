@@ -8,6 +8,30 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/ssc-delhi-police-constable-admit-card-2025/</loc>
+    <lastmod>2025-12-16T05:09:10Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/assam/assam-police-constable-recruitment-dec25/</loc>
+    <lastmod>2025-12-16T05:07:55Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mh/bombay-high-court-recruitment-dec25/</loc>
+    <lastmod>2025-12-16T05:07:55Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/bssc-inter-level-recruitment-2025/</loc>
+    <lastmod>2025-12-16T05:03:03Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/delhi-dda-recruitment-2025/</loc>
     <lastmod>2025-12-15T06:05:06Z</lastmod>
     <changefreq>daily</changefreq>
@@ -140,12 +164,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/ssc-delhi-police-constable-admit-card-2025/</loc>
-    <lastmod>2025-12-13T04:54:21Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/railway/rrb-section-controller-admitcard-2025/</loc>
     <lastmod>2025-12-13T04:53:53Z</lastmod>
     <changefreq>daily</changefreq>
@@ -224,12 +242,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mh/bombay-high-court-recruitment-dec25/</loc>
-    <lastmod>2025-12-10T09:23:06Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/ssc-chsl-result-2025/</loc>
     <lastmod>2025-12-09T05:04:30Z</lastmod>
     <changefreq>daily</changefreq>
@@ -256,12 +268,6 @@
   <url>
     <loc>http://localhost:1313/jobs/rrb-technician-2025/</loc>
     <lastmod>2025-12-08T09:36:41Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/assam/assam-police-constable-recruitment-dec25/</loc>
-    <lastmod>2025-12-08T06:23:57Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -472,12 +478,6 @@
   <url>
     <loc>http://localhost:1313/jobs/mha-intelligence-bureau-acio-vacancy-2025/</loc>
     <lastmod>2025-11-27T11:26:15Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/bssc-inter-level-recruitment-2025/</loc>
-    <lastmod>2025-11-27T11:17:54Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
