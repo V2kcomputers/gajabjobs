@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-17T05:43:35Z</lastmod>
+    <lastmod>2025-12-17T05:52:53Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/delhi/dsssb-mts-recruitment-dec25/</loc>
+    <lastmod>2025-12-17T11:22:45+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/up/upsssc-lekhpal-recruitment-dec25/</loc>
@@ -86,12 +92,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/cbse/cbse-group-a-b-c-posts-recruitment-dec25/</loc>
-    <lastmod>2025-12-14T10:09:20+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/delhi/dsssb-mts-recruitment-dec25/</loc>
     <lastmod>2025-12-14T10:09:20+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
