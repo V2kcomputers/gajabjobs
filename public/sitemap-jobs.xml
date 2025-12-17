@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/upsssc-lekhpal-recruitment-dec25/</loc>
+    <lastmod>2025-12-17T05:32:34Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bank/nainital-bank-po-so-recruitment-dec25/</loc>
     <lastmod>2025-12-16T11:58:13Z</lastmod>
     <changefreq>daily</changefreq>
