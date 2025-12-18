@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-18T08:28:50Z</lastmod>
+    <lastmod>2025-12-18T11:37:06Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/boi-credit-officer-recruitment-dec25/</loc>
+    <lastmod>2025-12-18T17:07:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/mppsc-food-safety-officer-result-2025/</loc>
+    <lastmod>2025-12-18T17:04:53+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/railway/rrb-ministerial-isolated-category-dec25/</loc>
@@ -435,12 +447,6 @@
   <url>
     <loc>http://localhost:1313/jobs/bpsc-atp-admit-card-2025/</loc>
     <lastmod>2025-12-03T18:29:04+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/mppsc-food-safety-officer-admit-card-2025/</loc>
-    <lastmod>2025-12-03T18:23:21+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
