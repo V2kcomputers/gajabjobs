@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-19T04:56:39Z</lastmod>
+    <lastmod>2025-12-19T06:24:45Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rj/rpsc-protection-officer-recruitment-dec25/</loc>
+    <lastmod>2025-12-19T11:36:28+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/bihar-vidhan-parishad-office-attendant-driver-recruitment-2025/</loc>
