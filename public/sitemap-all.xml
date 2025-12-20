@@ -2,9 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-19T14:04:39Z</lastmod>
+    <lastmod>2025-12-20T05:06:04Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/rssb-village-development-officer-vdo-2025/</loc>
+    <lastmod>2025-12-20T10:35:45+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ssc-junior-engineer-je-vacancy-2025/</loc>
+    <lastmod>2025-12-20T10:31:23+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mppkvvcl-line-attendant-recruitment-dec25/</loc>
+    <lastmod>2025-12-20T10:30:45+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/boi-credit-officer-recruitment-dec25/</loc>
+    <lastmod>2025-12-20T10:29:24+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ibps-rrbs-crp-xiv-vacancy-2025/</loc>
+    <lastmod>2025-12-20T10:26:07+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/sbi-probationary-officers-po-bharti-2025/</loc>
@@ -69,12 +99,6 @@
   <url>
     <loc>http://localhost:1313/jobs/emrs-teaching-non-teaching-admit-card-2025/</loc>
     <lastmod>2025-12-19T10:11:45+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/boi-credit-officer-recruitment-dec25/</loc>
-    <lastmod>2025-12-18T17:07:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -511,12 +535,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/ssc-junior-engineer-je-vacancy-2025/</loc>
-    <lastmod>2025-12-03T16:11:57+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/up/up-police-constable-recruitment-dec25/</loc>
     <lastmod>2025-12-02T12:10:32+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -535,12 +553,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/ibps-rrbs-crp-xiv-vacancy-2025/</loc>
-    <lastmod>2025-12-01T12:24:43+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/mp/mp-panchayat-sachiv-recruitment-nov25/</loc>
     <lastmod>2025-11-30T15:49:04+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -549,12 +561,6 @@
   <url>
     <loc>http://localhost:1313/jobs/ssc-cpo-si-capf-recruitment-2025/</loc>
     <lastmod>2025-11-29T18:38:57+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mppkvvcl-line-attendant-recruitment-dec25/</loc>
-    <lastmod>2025-11-29T18:06:31+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
