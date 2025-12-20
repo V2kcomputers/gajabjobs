@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/ssc/ssc-gd-constable-recruitment-dec25/</loc>
+    <lastmod>2025-12-20T10:51:59Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2025/iocl-non-executive-personnel-dec25/</loc>
+    <lastmod>2025-12-20T10:38:23Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/force/bsf-constable-sports-quota-dec25/</loc>
     <lastmod>2025-12-20T06:50:36Z</lastmod>
     <changefreq>daily</changefreq>
@@ -118,12 +130,6 @@
   <url>
     <loc>http://localhost:1313/2025/ncert-non-academic-recruitment-dec25/</loc>
     <lastmod>2025-12-18T07:11:46Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ssc/ssc-gd-constable-recruitment-dec25/</loc>
-    <lastmod>2025-12-18T06:39:58Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
