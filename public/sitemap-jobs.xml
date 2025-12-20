@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/ccrh-research-officer-recruitment-nov-2025/</loc>
+    <lastmod>2025-12-20T05:32:19Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ccrh-mlt-recruitment-nov-2025/</loc>
+    <lastmod>2025-12-20T05:28:01Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/rssb-village-development-officer-vdo-2025/</loc>
     <lastmod>2025-12-20T05:05:45Z</lastmod>
     <changefreq>daily</changefreq>
@@ -262,18 +274,6 @@
   <url>
     <loc>http://localhost:1313/bihar/btsc-junior-engineer-recruitment-dec25/</loc>
     <lastmod>2025-12-13T08:39:14Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/ccrh-research-officer-recruitment-nov-2025/</loc>
-    <lastmod>2025-12-13T05:25:12Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/ccrh-mlt-recruitment-nov-2025/</loc>
-    <lastmod>2025-12-13T05:24:22Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
