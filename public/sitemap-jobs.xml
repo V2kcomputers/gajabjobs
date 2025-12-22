@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/up-home-guard-recruitment-exam-date-2025/</loc>
+    <lastmod>2025-12-22T13:51:32Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/up/uppsc-medical-officer-recruitment-dec25/</loc>
     <lastmod>2025-12-22T13:33:35Z</lastmod>
     <changefreq>daily</changefreq>
@@ -178,12 +184,6 @@
   <url>
     <loc>http://localhost:1313/2025/ncert-non-academic-recruitment-dec25/</loc>
     <lastmod>2025-12-18T07:11:46Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/up-home-guard-recruitment-nov-2025/</loc>
-    <lastmod>2025-12-18T06:34:16Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
