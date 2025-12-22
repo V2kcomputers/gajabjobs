@@ -8,6 +8,30 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/bihar-police-si-recruitment-2025/</loc>
+    <lastmod>2025-12-22T10:48:01Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/rssb-jamadar-grade-ii-admit-card-2025/</loc>
+    <lastmod>2025-12-22T10:38:50Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/rssb-ayush-officer-admit-card-2025/</loc>
+    <lastmod>2025-12-22T10:37:09Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ibps-rrbs-crp-xiv-vacancy-2025/</loc>
+    <lastmod>2025-12-22T10:33:52Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/up/up-police-si-confidential-asi-clerk-accounts-dec25/</loc>
     <lastmod>2025-12-22T04:38:07Z</lastmod>
     <changefreq>daily</changefreq>
@@ -82,12 +106,6 @@
   <url>
     <loc>http://localhost:1313/bank/boi-credit-officer-recruitment-dec25/</loc>
     <lastmod>2025-12-20T04:59:24Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/ibps-rrbs-crp-xiv-vacancy-2025/</loc>
-    <lastmod>2025-12-20T04:56:07Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -538,18 +556,6 @@
   <url>
     <loc>http://localhost:1313/jobs/uppsc-computer-assistant-admit-card-2025/</loc>
     <lastmod>2025-11-28T12:37:48Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/rssb-jamadar-grade-ii-admit-card-2025/</loc>
-    <lastmod>2025-11-28T12:28:04Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/rssb-ayush-officer-admit-card-2025/</loc>
-    <lastmod>2025-11-28T12:26:39Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
