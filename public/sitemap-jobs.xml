@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/railway/rrb-section-controller-admitcard-2025/</loc>
+    <lastmod>2025-12-23T14:00:26Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/bihar-bpsc-aedo-vacancy-2025/</loc>
+    <lastmod>2025-12-23T13:59:49Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
     <lastmod>2025-12-23T09:50:41Z</lastmod>
     <changefreq>daily</changefreq>
@@ -344,12 +356,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/railway/rrb-section-controller-admitcard-2025/</loc>
-    <lastmod>2025-12-13T04:53:53Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/drdo/drdo-ceptam-11-recruitment-dec25/</loc>
     <lastmod>2025-12-13T04:52:07Z</lastmod>
     <changefreq>daily</changefreq>
@@ -466,12 +472,6 @@
   <url>
     <loc>http://localhost:1313/jobs/bpsc-sports-officer-vacancy-2025/</loc>
     <lastmod>2025-12-05T06:32:29Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/bihar-bpsc-aedo-vacancy-2025/</loc>
-    <lastmod>2025-12-05T05:51:16Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
