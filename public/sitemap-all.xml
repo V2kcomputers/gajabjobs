@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-24T05:33:33Z</lastmod>
+    <lastmod>2025-12-24T06:29:29Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mpesb-group-1-sub-group-2-recruitment-dec25/</loc>
+    <lastmod>2025-12-24T11:59:16+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rj/rpsc-protection-officer-recruitment-dec25/</loc>
+    <lastmod>2025-12-24T11:59:16+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/apprentice/bob-apprentice-recruitment-dec25/</loc>
+    <lastmod>2025-12-24T11:41:08+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/bihar/btsc-sports-trainer-recruitment-dec25/</loc>
@@ -211,12 +229,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/rj/rpsc-protection-officer-recruitment-dec25/</loc>
-    <lastmod>2025-12-19T11:36:28+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/bihar-vidhan-parishad-office-attendant-driver-recruitment-2025/</loc>
     <lastmod>2025-12-19T10:25:44+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -279,12 +291,6 @@
   <url>
     <loc>http://localhost:1313/calendar/mpesb-exam-calendar-2026/</loc>
     <lastmod>2025-12-17T16:21:02+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-group-1-sub-group-2-recruitment-dec25/</loc>
-    <lastmod>2025-12-17T13:38:48+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
