@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bihar/btsc-sports-trainer-recruitment-dec25/</loc>
+    <lastmod>2025-12-24T05:28:32Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/railway/rrb-section-controller-admitcard-2025/</loc>
     <lastmod>2025-12-23T14:00:26Z</lastmod>
     <changefreq>daily</changefreq>
