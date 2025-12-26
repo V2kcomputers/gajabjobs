@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/kvs-nvs-recruitment-nov-2025/</loc>
+    <lastmod>2025-12-26T12:07:43Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/up/uppsc-medical-officer-recruitment-dec25/</loc>
     <lastmod>2025-12-26T09:10:36Z</lastmod>
     <changefreq>daily</changefreq>
@@ -352,12 +358,6 @@
   <url>
     <loc>http://localhost:1313/bihar/btsc-pump-operator-recruitment-dec25/</loc>
     <lastmod>2025-12-13T11:00:39Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/kvs-nvs-recruitment-nov-2025/</loc>
-    <lastmod>2025-12-13T10:26:05Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
