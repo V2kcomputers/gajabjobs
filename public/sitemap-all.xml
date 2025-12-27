@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-26T12:09:43Z</lastmod>
+    <lastmod>2025-12-27T05:06:29Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/pnb-lbo-recruitment-nov-2025/</loc>
+    <lastmod>2025-12-27T10:31:50+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/kvs-nvs-recruitment-nov-2025/</loc>
@@ -81,12 +87,6 @@
   <url>
     <loc>http://localhost:1313/mp/mpesb-group-1-sub-group-2-recruitment-dec25/</loc>
     <lastmod>2025-12-25T10:22:46+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/pnb-lbo-recruitment-nov-2025/</loc>
-    <lastmod>2025-12-25T10:19:17+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
