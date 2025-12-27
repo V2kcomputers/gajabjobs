@@ -8,6 +8,30 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/delhi/dsssb-mts-recruitment-dec25/</loc>
+    <lastmod>2025-12-27T11:01:45Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
+    <lastmod>2025-12-27T11:01:45Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/sbi-bank-so-recruitment-dec25/</loc>
+    <lastmod>2025-12-27T11:01:45Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ssc/ssc-gd-constable-recruitment-dec25/</loc>
+    <lastmod>2025-12-27T11:01:45Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/2025/ncert-non-academic-recruitment-dec25/</loc>
     <lastmod>2025-12-27T05:49:56Z</lastmod>
     <changefreq>daily</changefreq>
@@ -45,12 +69,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/bihar/btsc-junior-engineer-recruitment-dec25/</loc>
-    <lastmod>2025-12-26T09:09:25Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
     <lastmod>2025-12-26T09:09:25Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
@@ -110,12 +128,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bank/sbi-bank-so-recruitment-dec25/</loc>
-    <lastmod>2025-12-23T06:34:12Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/cbse/cbse-group-a-b-c-posts-recruitment-dec25/</loc>
     <lastmod>2025-12-23T05:40:12Z</lastmod>
     <changefreq>daily</changefreq>
@@ -154,12 +166,6 @@
   <url>
     <loc>http://localhost:1313/up/up-police-si-confidential-asi-clerk-accounts-dec25/</loc>
     <lastmod>2025-12-22T04:38:07Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ssc/ssc-gd-constable-recruitment-dec25/</loc>
-    <lastmod>2025-12-22T03:53:11Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -280,12 +286,6 @@
   <url>
     <loc>http://localhost:1313/up/up-police-computer-operator-dec25/</loc>
     <lastmod>2025-12-17T06:33:52Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/delhi/dsssb-mts-recruitment-dec25/</loc>
-    <lastmod>2025-12-17T05:52:45Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
