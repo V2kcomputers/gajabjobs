@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/force/bsf-constable-sports-quota-dec25/</loc>
+    <lastmod>2025-12-27T05:15:40Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/pnb-lbo-recruitment-nov-2025/</loc>
     <lastmod>2025-12-27T05:01:50Z</lastmod>
     <changefreq>daily</changefreq>
@@ -166,12 +172,6 @@
   <url>
     <loc>http://localhost:1313/2025/iocl-non-executive-personnel-dec25/</loc>
     <lastmod>2025-12-20T10:38:23Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/force/bsf-constable-sports-quota-dec25/</loc>
-    <lastmod>2025-12-20T06:50:36Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
