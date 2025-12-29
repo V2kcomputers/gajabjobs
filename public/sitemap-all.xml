@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-28T13:36:19Z</lastmod>
+    <lastmod>2025-12-29T05:14:41Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-lekhpal-recruitment-dec25/</loc>
+    <lastmod>2025-12-29T10:43:33+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/calendar/rpsc-exam-calendar-2026/</loc>
@@ -86,12 +92,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/up/uppsc-medical-officer-recruitment-dec25/</loc>
-    <lastmod>2025-12-26T14:40:36+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-lekhpal-recruitment-dec25/</loc>
     <lastmod>2025-12-26T14:40:36+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/upsssc-lekhpal-recruitment-dec25/</loc>
+    <lastmod>2025-12-29T05:13:33Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/delhi/dsssb-mts-recruitment-dec25/</loc>
     <lastmod>2025-12-27T11:01:45Z</lastmod>
     <changefreq>daily</changefreq>
@@ -57,12 +63,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/up/uppsc-medical-officer-recruitment-dec25/</loc>
-    <lastmod>2025-12-26T09:10:36Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-lekhpal-recruitment-dec25/</loc>
     <lastmod>2025-12-26T09:10:36Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
