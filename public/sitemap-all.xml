@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-29T05:14:41Z</lastmod>
+    <lastmod>2025-12-29T06:30:45Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/admission/shramodaya-admission-test-2026%E2%80%9327/</loc>
+    <lastmod>2025-12-29T11:57:53+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/up/upsssc-lekhpal-recruitment-dec25/</loc>
