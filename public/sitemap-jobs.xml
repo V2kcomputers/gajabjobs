@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/cbse/cbse-group-a-b-c-posts-admit-card-2025/</loc>
+    <lastmod>2025-12-30T10:44:41Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/csbc-bihar-constable-driver-result-2025/</loc>
+    <lastmod>2025-12-30T10:41:07Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/railway/rrb-ministerial-isolated-category-dec25/</loc>
     <lastmod>2025-12-30T06:11:14Z</lastmod>
     <changefreq>daily</changefreq>
@@ -172,12 +184,6 @@
   <url>
     <loc>http://localhost:1313/jobs/bihar-bpsc-aedo-vacancy-2025/</loc>
     <lastmod>2025-12-23T13:59:49Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/cbse/cbse-group-a-b-c-posts-recruitment-dec25/</loc>
-    <lastmod>2025-12-23T05:40:12Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -544,12 +550,6 @@
   <url>
     <loc>http://localhost:1313/jobs/bpsc-atp-admit-card-2025/</loc>
     <lastmod>2025-12-03T12:59:04Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/csbc-bihar-constable-driver-admit-card-2025/</loc>
-    <lastmod>2025-12-03T11:20:11Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
