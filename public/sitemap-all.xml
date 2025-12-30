@@ -2,9 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-29T13:32:36Z</lastmod>
+    <lastmod>2025-12-30T06:11:36Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-ministerial-isolated-category-dec25/</loc>
+    <lastmod>2025-12-30T11:41:14+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/boi-credit-officer-recruitment-dec25/</loc>
+    <lastmod>2025-12-30T11:39:52+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/btsc-junior-engineer-recruitment-dec25/</loc>
+    <lastmod>2025-12-30T11:39:52+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/btsc-work-inspector-mechanical-recruitment-dec25/</loc>
+    <lastmod>2025-12-30T11:39:52+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/nainital-bank-po-so-recruitment-dec25/</loc>
+    <lastmod>2025-12-30T11:39:52+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/sbi-bank-so-recruitment-dec25/</loc>
+    <lastmod>2025-12-30T11:39:52+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ssc/ssc-gd-constable-recruitment-dec25/</loc>
+    <lastmod>2025-12-30T11:39:52+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/up-police-computer-operator-dec25/</loc>
+    <lastmod>2025-12-30T11:39:52+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/uppsc-medical-officer-recruitment-dec25/</loc>
+    <lastmod>2025-12-30T11:39:52+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/bihar-police-si-admit-card-2025/</loc>
+    <lastmod>2025-12-30T11:39:22+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/rssb-upper-primary-teacher-recruitment-nov-2025/</loc>
@@ -67,18 +127,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bank/sbi-bank-so-recruitment-dec25/</loc>
-    <lastmod>2025-12-27T16:31:45+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ssc/ssc-gd-constable-recruitment-dec25/</loc>
-    <lastmod>2025-12-27T16:31:45+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/eligibility/ctet-february-2026/</loc>
     <lastmod>2025-12-27T16:28:14+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -105,18 +153,6 @@
   <url>
     <loc>http://localhost:1313/jobs/kvs-nvs-recruitment-nov-2025/</loc>
     <lastmod>2025-12-26T17:37:43+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/uppsc-medical-officer-recruitment-dec25/</loc>
-    <lastmod>2025-12-26T14:40:36+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bihar/btsc-junior-engineer-recruitment-dec25/</loc>
-    <lastmod>2025-12-26T14:39:25+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -211,12 +247,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/bihar-police-si-recruitment-2025/</loc>
-    <lastmod>2025-12-22T16:18:01+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/rssb-jamadar-grade-ii-admit-card-2025/</loc>
     <lastmod>2025-12-22T16:08:50+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -301,12 +331,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bank/boi-credit-officer-recruitment-dec25/</loc>
-    <lastmod>2025-12-20T10:29:24+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/sbi-probationary-officers-po-bharti-2025/</loc>
     <lastmod>2025-12-19T19:33:26+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -367,12 +391,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/railway/rrb-ministerial-isolated-category-dec25/</loc>
-    <lastmod>2025-12-18T13:50:56+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/mpesb-police-constable-result-2025/</loc>
     <lastmod>2025-12-17T19:37:19+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -397,20 +415,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/up/up-police-computer-operator-dec25/</loc>
-    <lastmod>2025-12-17T12:03:52+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/apprentice/bob-apprentice-admit-card-2025/</loc>
     <lastmod>2025-12-16T18:39:20+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/nainital-bank-po-so-recruitment-dec25/</loc>
-    <lastmod>2025-12-16T17:28:13+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -501,12 +507,6 @@
   <url>
     <loc>http://localhost:1313/jobs/btsc-works-supervisor-recruitment-2025/</loc>
     <lastmod>2025-12-13T15:04:32+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bihar/btsc-work-inspector-mechanical-recruitment-dec25/</loc>
-    <lastmod>2025-12-13T15:00:05+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
