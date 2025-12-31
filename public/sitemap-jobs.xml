@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/up-police-constable-recruitment-dec25/</loc>
+    <lastmod>2025-12-31T12:10:15Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/cbse/cbse-group-a-b-c-posts-admit-card-2025/</loc>
     <lastmod>2025-12-30T10:44:41Z</lastmod>
     <changefreq>daily</changefreq>
@@ -550,12 +556,6 @@
   <url>
     <loc>http://localhost:1313/jobs/bpsc-atp-admit-card-2025/</loc>
     <lastmod>2025-12-03T12:59:04Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/up-police-constable-recruitment-dec25/</loc>
-    <lastmod>2025-12-02T06:40:32Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
