@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-30T10:48:51Z</lastmod>
+    <lastmod>2025-12-31T05:44:35Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/mp-set-2025/</loc>
+    <lastmod>2025-12-31T11:10:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/cbse/cbse-group-a-b-c-posts-admit-card-2025/</loc>
@@ -279,12 +285,6 @@
   <url>
     <loc>http://localhost:1313/up/up-police-si-confidential-asi-clerk-accounts-dec25/</loc>
     <lastmod>2025-12-22T10:08:07+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/eligibility/mp-set-2025/</loc>
-    <lastmod>2025-12-22T09:23:11+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
