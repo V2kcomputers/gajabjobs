@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/ssc/ssc-gd-constable-admit-card-2026/</loc>
+    <lastmod>2026-01-02T12:53:19Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bank/sbi-bank-so-recruitment-dec25/</loc>
     <lastmod>2026-01-02T12:02:43Z</lastmod>
     <changefreq>daily</changefreq>
@@ -81,12 +87,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/bihar/btsc-work-inspector-mechanical-recruitment-dec25/</loc>
-    <lastmod>2025-12-30T06:09:52Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ssc/ssc-gd-constable-recruitment-dec25/</loc>
     <lastmod>2025-12-30T06:09:52Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
