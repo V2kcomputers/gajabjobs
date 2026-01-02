@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-02T06:58:55Z</lastmod>
+    <lastmod>2026-01-02T08:05:51Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/admission/soe-som-class-9-admission-2026%E2%80%9327/</loc>
+    <lastmod>2026-01-02T13:32:56+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/hr/haryana-police-constable-recruitment-jan26/</loc>
