@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/hr/haryana-police-constable-recruitment-jan26/</loc>
+    <lastmod>2026-01-02T06:47:46Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mp-anganwadi-worker-helper-phase2-dec25/</loc>
     <lastmod>2026-01-01T01:15:38Z</lastmod>
     <changefreq>daily</changefreq>
