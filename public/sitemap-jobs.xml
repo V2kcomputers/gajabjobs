@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/force/indian-navy-10-2-btech-cadet-entry-recruitment-jan26/</loc>
+    <lastmod>2026-01-03T10:55:42Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
     <lastmod>2026-01-03T09:35:21Z</lastmod>
     <changefreq>daily</changefreq>
