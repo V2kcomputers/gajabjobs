@@ -2,9 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-03T11:20:45Z</lastmod>
+    <lastmod>2026-01-05T05:32:40Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rj/rpsc-protection-officer-recruitment-dec25/</loc>
+    <lastmod>2026-01-05T11:02:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
+    <lastmod>2026-01-05T11:02:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-ministerial-isolated-category-dec25/</loc>
+    <lastmod>2026-01-05T11:02:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/sbi-bank-so-recruitment-dec25/</loc>
+    <lastmod>2026-01-05T11:02:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ssc-delhi-police-hc-ministerial-admit-card-2025/</loc>
+    <lastmod>2026-01-05T10:59:40+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/force/indian-navy-10-2-btech-cadet-entry-recruitment-jan26/</loc>
@@ -15,18 +45,6 @@
   <url>
     <loc>http://localhost:1313/admission/cuet-ug-2026/</loc>
     <lastmod>2026-01-03T15:59:24+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
-    <lastmod>2026-01-03T15:05:21+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-ministerial-isolated-category-dec25/</loc>
-    <lastmod>2026-01-03T15:05:21+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -51,12 +69,6 @@
   <url>
     <loc>http://localhost:1313/ssc/ssc-gd-constable-admit-card-2026/</loc>
     <lastmod>2026-01-02T18:23:19+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/sbi-bank-so-recruitment-dec25/</loc>
-    <lastmod>2026-01-02T17:32:43+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -279,12 +291,6 @@
   <url>
     <loc>http://localhost:1313/calendar/upsc-exam-calendar-2026/</loc>
     <lastmod>2025-12-24T15:40:30+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/rj/rpsc-protection-officer-recruitment-dec25/</loc>
-    <lastmod>2025-12-24T11:59:16+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -663,12 +669,6 @@
   <url>
     <loc>http://localhost:1313/jobs/ssc-delhi-police-head-constable-admit-card-2025/</loc>
     <lastmod>2025-12-05T12:13:59+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/ssc-delhi-police-hc-ministerial-admit-card-2025/</loc>
-    <lastmod>2025-12-05T12:12:10+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
