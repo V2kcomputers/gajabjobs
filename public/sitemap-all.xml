@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-07T13:58:00Z</lastmod>
+    <lastmod>2026-01-07T14:20:44Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/rrb-technician-2025/</loc>
+    <lastmod>2026-01-07T19:49:27+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/rrb-paramedical-various-posts-admit-card-2025/</loc>
@@ -669,12 +675,6 @@
   <url>
     <loc>http://localhost:1313/hr/haryana-health-department-mo-recruitment-dec25/</loc>
     <lastmod>2025-12-08T15:26:59+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/rrb-technician-2025/</loc>
-    <lastmod>2025-12-08T15:06:41+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

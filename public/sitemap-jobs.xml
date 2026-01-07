@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/rrb-technician-2025/</loc>
+    <lastmod>2026-01-07T14:19:27Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/rrb-paramedical-various-posts-admit-card-2025/</loc>
     <lastmod>2026-01-07T13:56:06Z</lastmod>
     <changefreq>daily</changefreq>
@@ -538,12 +544,6 @@
   <url>
     <loc>http://localhost:1313/hr/haryana-health-department-mo-recruitment-dec25/</loc>
     <lastmod>2025-12-08T09:56:59Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/rrb-technician-2025/</loc>
-    <lastmod>2025-12-08T09:36:41Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
