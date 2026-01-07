@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-07T13:11:57Z</lastmod>
+    <lastmod>2026-01-07T13:58:00Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/rrb-paramedical-various-posts-admit-card-2025/</loc>
+    <lastmod>2026-01-07T19:26:06+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/rrb-je-admit-card-2025/</loc>
+    <lastmod>2026-01-07T19:22:38+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/upsc/upsc-cds-1-admit-card-2026/</loc>
+    <lastmod>2026-01-07T19:21:04+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/bihar/bpssc-home-guard-havildar-clerk-jan26/</loc>
@@ -273,12 +291,6 @@
   <url>
     <loc>http://localhost:1313/jobs/kvs-nvs-recruitment-nov-2025/</loc>
     <lastmod>2025-12-26T17:37:43+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/upsc/upsc-cds-1-recruitment-2026/</loc>
-    <lastmod>2025-12-26T14:39:25+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -655,12 +667,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/rrb-paramedical-various-posts-2025/</loc>
-    <lastmod>2025-12-08T17:55:51+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/hr/haryana-health-department-mo-recruitment-dec25/</loc>
     <lastmod>2025-12-08T15:26:59+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -717,12 +723,6 @@
   <url>
     <loc>http://localhost:1313/jobs/bpsc-71th-exam-2025/</loc>
     <lastmod>2025-12-04T16:57:01+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/rrb-je-recruitment-sep-2025/</loc>
-    <lastmod>2025-12-04T13:07:27+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
