@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/rj/rssb-agriculture-supervisor-recruitment-jan26/</loc>
+    <lastmod>2026-01-07T07:05:08Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bihar/bpssc-home-guard-havildar-clerk-jan26/</loc>
     <lastmod>2026-01-06T14:02:48Z</lastmod>
     <changefreq>daily</changefreq>
