@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-07T14:20:44Z</lastmod>
+    <lastmod>2026-01-08T05:30:27Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-ministerial-isolated-category-dec25/</loc>
+    <lastmod>2026-01-08T11:00:09+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
+    <lastmod>2026-01-08T10:57:49+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mpesb-group-1-sub-group-2-recruitment-dec25/</loc>
+    <lastmod>2026-01-08T10:55:52+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/rrb-technician-2025/</loc>
@@ -68,18 +86,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/rj/rpsc-protection-officer-recruitment-dec25/</loc>
-    <lastmod>2026-01-05T11:02:00+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
-    <lastmod>2026-01-05T11:02:00+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-ministerial-isolated-category-dec25/</loc>
     <lastmod>2026-01-05T11:02:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -333,12 +339,6 @@
   <url>
     <loc>http://localhost:1313/apprentice/bob-apprentice-recruitment-dec25/</loc>
     <lastmod>2025-12-25T10:24:24+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-group-1-sub-group-2-recruitment-dec25/</loc>
-    <lastmod>2025-12-25T10:22:46+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
