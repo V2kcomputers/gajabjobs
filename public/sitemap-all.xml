@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-09T11:15:01Z</lastmod>
+    <lastmod>2026-01-09T11:50:49Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/bpsc-project-manager-recruitment-2025/</loc>
+    <lastmod>2026-01-09T17:03:44+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/mp/mppsc-state-service-exam-2026/</loc>
