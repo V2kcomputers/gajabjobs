@@ -8,14 +8,80 @@
     <priority>0.20</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bihar/bpsc-project-manager-recruitment-2025/</loc>
-    <lastmod>2026-01-09T11:33:44Z</lastmod>
+    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
+    <lastmod>2026-01-10T14:10:40Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rj/rajasthan-vanpal-recruitment-jan26/</loc>
+    <lastmod>2026-01-10T14:10:40Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/up-police-constable-recruitment-dec25/</loc>
+    <lastmod>2026-01-10T14:10:40Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/rssb-primary-teacher-recruitment-nov-2025/</loc>
+    <lastmod>2026-01-10T14:10:19Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/rssb-upper-primary-teacher-recruitment-nov-2025/</loc>
+    <lastmod>2026-01-10T14:10:19Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/kvs-nvs-recruitment-nov-2025/</loc>
+    <lastmod>2026-01-10T14:08:36Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/nainital-bank-po-so-admit-card-2025/</loc>
+    <lastmod>2026-01-10T14:06:05Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>http://localhost:1313/mp/mppsc-state-service-exam-2026/</loc>
-    <lastmod>2026-01-09T11:10:56Z</lastmod>
+    <lastmod>2026-01-10T14:05:02Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/mp-police-si-subedar-recruitment-2025/</loc>
+    <lastmod>2026-01-10T14:01:49Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/upsc/upsc-nda-1-admit-card-2026/</loc>
+    <lastmod>2026-01-10T13:56:35Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ssc-combined-graduate-level-exam-2025/</loc>
+    <lastmod>2026-01-10T13:50:23Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ssc/ssc-gd-constable-admit-card-2026/</loc>
+    <lastmod>2026-01-10T13:43:34Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/bpsc-project-manager-recruitment-2025/</loc>
+    <lastmod>2026-01-09T11:33:44Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -34,12 +100,6 @@
   <url>
     <loc>http://localhost:1313/railway/rrb-ministerial-isolated-category-dec25/</loc>
     <lastmod>2026-01-08T05:30:09Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
-    <lastmod>2026-01-08T05:27:49Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -82,12 +142,6 @@
   <url>
     <loc>http://localhost:1313/bihar/bpssc-havildar-clerk-recruitment-jan26/</loc>
     <lastmod>2026-01-07T13:04:04Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/rj/rajasthan-vanpal-recruitment-jan26/</loc>
-    <lastmod>2026-01-07T07:47:50Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -140,26 +194,8 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/up/up-police-constable-recruitment-dec25/</loc>
-    <lastmod>2026-01-03T09:35:02Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/aadhaar-operator-supervisor-recruitment-dec25/</loc>
     <lastmod>2026-01-03T07:45:58Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ssc/ssc-gd-constable-admit-card-2026/</loc>
-    <lastmod>2026-01-02T12:53:19Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/nainital-bank-po-so-admit-card-2025/</loc>
-    <lastmod>2026-01-02T11:58:31Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -236,18 +272,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/rssb-upper-primary-teacher-recruitment-nov-2025/</loc>
-    <lastmod>2025-12-29T13:30:07Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/rssb-primary-teacher-recruitment-nov-2025/</loc>
-    <lastmod>2025-12-29T13:28:10Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/delhi/dsssb-mts-recruitment-dec25/</loc>
     <lastmod>2025-12-27T11:01:45Z</lastmod>
     <changefreq>daily</changefreq>
@@ -268,18 +292,6 @@
   <url>
     <loc>http://localhost:1313/jobs/pnb-lbo-recruitment-nov-2025/</loc>
     <lastmod>2025-12-27T05:01:50Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/kvs-nvs-recruitment-nov-2025/</loc>
-    <lastmod>2025-12-26T12:07:43Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/upsc/upsc-nda-1-recruitment-2026/</loc>
-    <lastmod>2025-12-26T09:09:25Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -394,12 +406,6 @@
   <url>
     <loc>http://localhost:1313/jobs/sbi-probationary-officers-po-bharti-2025/</loc>
     <lastmod>2025-12-19T14:03:26Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/ssc-combined-graduate-level-exam-2025/</loc>
-    <lastmod>2025-12-19T13:59:48Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
