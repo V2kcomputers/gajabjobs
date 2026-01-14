@@ -8,6 +8,24 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/bssc-inter-level-recruitment-2025/</loc>
+    <lastmod>2026-01-14T06:22:21Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ssc-delhi-police-constable-answerkey-2025/</loc>
+    <lastmod>2026-01-14T06:17:17Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rj/rssb-agriculture-supervisor-recruitment-jan26/</loc>
+    <lastmod>2026-01-14T06:15:29Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/hr/haryana-police-constable-recruitment-jan26/</loc>
     <lastmod>2026-01-11T14:22:49Z</lastmod>
     <changefreq>daily</changefreq>
@@ -154,12 +172,6 @@
   <url>
     <loc>http://localhost:1313/rj/rssb-female-supervisor-recruitment-jan26/</loc>
     <lastmod>2026-01-07T07:47:23Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/rj/rssb-agriculture-supervisor-recruitment-jan26/</loc>
-    <lastmod>2026-01-07T07:05:08Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -446,12 +458,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/ssc-delhi-police-constable-admit-card-2025/</loc>
-    <lastmod>2025-12-16T05:09:10Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/assam/assam-police-constable-recruitment-dec25/</loc>
     <lastmod>2025-12-16T05:07:55Z</lastmod>
     <changefreq>daily</changefreq>
@@ -460,12 +466,6 @@
   <url>
     <loc>http://localhost:1313/mh/bombay-high-court-recruitment-dec25/</loc>
     <lastmod>2025-12-16T05:07:55Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/bssc-inter-level-recruitment-2025/</loc>
-    <lastmod>2025-12-16T05:03:03Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
