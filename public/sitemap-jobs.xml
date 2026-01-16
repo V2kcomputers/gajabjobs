@@ -8,6 +8,48 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/aadhaar-operator-supervisor-recruitment-dec25/</loc>
+    <lastmod>2026-01-16T05:06:50Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/up-police-constable-recruitment-dec25/</loc>
+    <lastmod>2026-01-16T05:04:59Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-lekhpal-recruitment-dec25/</loc>
+    <lastmod>2026-01-16T05:04:59Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ssc-combined-graduate-level-exam-2025/</loc>
+    <lastmod>2026-01-16T04:57:57Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-ministerial-isolated-category-dec25/</loc>
+    <lastmod>2026-01-16T04:57:16Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
+    <lastmod>2026-01-16T04:56:35Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/rrb-je-admit-card-2025/</loc>
+    <lastmod>2026-01-16T04:55:18Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bank/uco-bank-generalist-specialist-officers-recruitment-jan26/</loc>
     <lastmod>2026-01-15T12:39:18Z</lastmod>
     <changefreq>daily</changefreq>
@@ -86,18 +128,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
-    <lastmod>2026-01-10T14:10:40Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/up-police-constable-recruitment-dec25/</loc>
-    <lastmod>2026-01-10T14:10:40Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/rssb-primary-teacher-recruitment-nov-2025/</loc>
     <lastmod>2026-01-10T14:10:19Z</lastmod>
     <changefreq>daily</changefreq>
@@ -134,12 +164,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/ssc-combined-graduate-level-exam-2025/</loc>
-    <lastmod>2026-01-10T13:50:23Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/ssc/ssc-gd-constable-admit-card-2026/</loc>
     <lastmod>2026-01-10T13:43:34Z</lastmod>
     <changefreq>daily</changefreq>
@@ -164,12 +188,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/railway/rrb-ministerial-isolated-category-dec25/</loc>
-    <lastmod>2026-01-08T05:30:09Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/mp/mpesb-group-1-sub-group-2-recruitment-dec25/</loc>
     <lastmod>2026-01-08T05:25:52Z</lastmod>
     <changefreq>daily</changefreq>
@@ -184,12 +202,6 @@
   <url>
     <loc>http://localhost:1313/jobs/rrb-paramedical-various-posts-admit-card-2025/</loc>
     <lastmod>2026-01-07T13:56:06Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/rrb-je-admit-card-2025/</loc>
-    <lastmod>2026-01-07T13:52:38Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -238,18 +250,6 @@
   <url>
     <loc>http://localhost:1313/force/indian-navy-10-2-btech-cadet-entry-recruitment-jan26/</loc>
     <lastmod>2026-01-03T10:55:42Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-lekhpal-recruitment-dec25/</loc>
-    <lastmod>2026-01-03T09:35:21Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/aadhaar-operator-supervisor-recruitment-dec25/</loc>
-    <lastmod>2026-01-03T07:45:58Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
