@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bihar/bpsc-stenographer-recruitment-jan26/</loc>
+    <lastmod>2026-01-16T07:53:41Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/aadhaar-operator-supervisor-recruitment-dec25/</loc>
     <lastmod>2026-01-16T05:06:50Z</lastmod>
     <changefreq>daily</changefreq>
