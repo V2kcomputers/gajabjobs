@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-17T07:49:30Z</lastmod>
+    <lastmod>2026-01-17T09:30:19Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/ctet-february-2026/</loc>
+    <lastmod>2026-01-17T14:58:46+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/nabard-development-assistant-recruitment-jan26/</loc>
@@ -447,12 +453,6 @@
   <url>
     <loc>http://localhost:1313/delhi/dsssb-mts-recruitment-dec25/</loc>
     <lastmod>2025-12-27T16:31:45+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/eligibility/ctet-february-2026/</loc>
-    <lastmod>2025-12-27T16:28:14+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
