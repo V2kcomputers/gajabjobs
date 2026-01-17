@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/ssc-mts-exam-date-2025/</loc>
+    <lastmod>2026-01-17T06:51:47Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cbse/cbse-group-a-b-c-posts-admit-card-2025/</loc>
+    <lastmod>2026-01-17T06:46:30Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mp-iti-training-officer-recruitment-jan26/</loc>
     <lastmod>2026-01-17T04:45:04Z</lastmod>
     <changefreq>daily</changefreq>
@@ -310,12 +322,6 @@
   <url>
     <loc>http://localhost:1313/drdo/drdo-ceptam-11-recruitment-dec25/</loc>
     <lastmod>2025-12-31T12:50:19Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/cbse/cbse-group-a-b-c-posts-admit-card-2025/</loc>
-    <lastmod>2025-12-30T10:44:41Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>

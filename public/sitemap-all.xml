@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-17T04:45:10Z</lastmod>
+    <lastmod>2026-01-17T06:59:21Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ssc-mts-exam-date-2025/</loc>
+    <lastmod>2026-01-17T12:21:47+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/education/mp-board-10th-12th-admit-card-2026/</loc>
+    <lastmod>2026-01-17T12:19:06+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cbse/cbse-group-a-b-c-posts-admit-card-2025/</loc>
+    <lastmod>2026-01-17T12:16:30+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/mp/mp-iti-training-officer-recruitment-jan26/</loc>
@@ -15,12 +33,6 @@
   <url>
     <loc>http://localhost:1313/admission/soe-som-class-9-admission-2026%E2%80%9327/</loc>
     <lastmod>2026-01-17T10:11:12+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/education/mp-board-10th-12th-admit-card-2026/</loc>
-    <lastmod>2026-01-16T19:31:33+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -357,12 +369,6 @@
   <url>
     <loc>http://localhost:1313/eligibility/mp-set-2025/</loc>
     <lastmod>2025-12-31T11:10:00+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/cbse/cbse-group-a-b-c-posts-admit-card-2025/</loc>
-    <lastmod>2025-12-30T16:14:41+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
