@@ -8,6 +8,30 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/mp/mppsc-forest-service-exam-2026/</loc>
+    <lastmod>2026-01-18T06:10:33Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mppsc-state-service-exam-2026/</loc>
+    <lastmod>2026-01-18T06:10:33Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rj/rssb-agriculture-supervisor-recruitment-jan26/</loc>
+    <lastmod>2026-01-18T06:10:33Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/up-police-constable-recruitment-dec25/</loc>
+    <lastmod>2026-01-18T06:10:33Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/nabard-development-assistant-recruitment-jan26/</loc>
     <lastmod>2026-01-17T07:39:42Z</lastmod>
     <changefreq>daily</changefreq>
@@ -80,12 +104,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/up/up-police-constable-recruitment-dec25/</loc>
-    <lastmod>2026-01-16T05:04:59Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/up/upsssc-lekhpal-recruitment-dec25/</loc>
     <lastmod>2026-01-16T05:04:59Z</lastmod>
     <changefreq>daily</changefreq>
@@ -128,12 +146,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/rj/rssb-agriculture-supervisor-recruitment-jan26/</loc>
-    <lastmod>2026-01-15T07:22:20Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/rj/rssb-female-supervisor-recruitment-jan26/</loc>
     <lastmod>2026-01-15T07:22:20Z</lastmod>
     <changefreq>daily</changefreq>
@@ -142,18 +154,6 @@
   <url>
     <loc>http://localhost:1313/rj/rajasthan-vanpal-recruitment-jan26/</loc>
     <lastmod>2026-01-15T07:22:20Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mppsc-forest-service-exam-2026/</loc>
-    <lastmod>2026-01-15T07:21:39Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mppsc-state-service-exam-2026/</loc>
-    <lastmod>2026-01-15T07:17:33Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
