@@ -2,9 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-20T05:50:21Z</lastmod>
+    <lastmod>2026-01-20T09:17:00Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hr/haryana-police-constable-recruitment-jan26/</loc>
+    <lastmod>2026-01-20T14:45:52+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/rbi-bank-office-attendant-recruitment-jan26/</loc>
+    <lastmod>2026-01-20T14:45:52+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/uco-bank-generalist-specialist-officers-recruitment-jan26/</loc>
+    <lastmod>2026-01-20T14:45:52+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/rrb-ntpc-graduate-level-recruitment-2025/</loc>
+    <lastmod>2026-01-20T14:44:01+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/admission/shramodaya-admission-test-2026%E2%80%9327/</loc>
@@ -181,18 +205,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bank/uco-bank-generalist-specialist-officers-recruitment-jan26/</loc>
-    <lastmod>2026-01-15T18:09:18+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/rbi-bank-office-attendant-recruitment-jan26/</loc>
-    <lastmod>2026-01-15T16:00:15+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/admission/eklavya-model-school-class-6-admission-2026-27/</loc>
     <lastmod>2026-01-15T15:03:16+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -231,12 +243,6 @@
   <url>
     <loc>http://localhost:1313/jobs/ssc-delhi-police-constable-answerkey-2025/</loc>
     <lastmod>2026-01-14T11:47:17+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/hr/haryana-police-constable-recruitment-jan26/</loc>
-    <lastmod>2026-01-11T19:52:49+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -933,12 +939,6 @@
   <url>
     <loc>http://localhost:1313/jobs/rrb-ntpc-inter-level-recruitment-sep-2025/</loc>
     <lastmod>2025-11-27T19:13:45+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/rrb-ntpc-graduate-level-recruitment-2025/</loc>
-    <lastmod>2025-11-27T19:12:58+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
