@@ -8,6 +8,24 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/mppeb-group-2-sub-group-3-vacancy-2025/</loc>
+    <lastmod>2026-01-23T13:17:13Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/mp-police-si-subedar-recruitment-2025/</loc>
+    <lastmod>2026-01-23T13:12:51Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/force/iaf-agniveervayu-intake-01-2027-batch/</loc>
+    <lastmod>2026-01-23T13:06:59Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/sci-law-clerk-recruitment-jan26/</loc>
     <lastmod>2026-01-21T07:40:45Z</lastmod>
     <changefreq>daily</changefreq>
@@ -226,12 +244,6 @@
   <url>
     <loc>http://localhost:1313/bank/nainital-bank-po-so-admit-card-2025/</loc>
     <lastmod>2026-01-10T14:06:05Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/mp-police-si-subedar-recruitment-2025/</loc>
-    <lastmod>2026-01-10T14:01:49Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -844,12 +856,6 @@
   <url>
     <loc>http://localhost:1313/jobs/mppgcl-recruitment-oct-2025/</loc>
     <lastmod>2025-11-05T06:36:41Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/mppeb-group-2-sub-group-3-vacancy-2025/</loc>
-    <lastmod>2025-11-05T06:28:04Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
