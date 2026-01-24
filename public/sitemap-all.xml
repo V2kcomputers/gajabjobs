@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-23T13:21:31Z</lastmod>
+    <lastmod>2026-01-24T05:35:39Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/cbi-specialist-officer-recruitment-jan26/</loc>
+    <lastmod>2026-01-24T11:05:05+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-ministerial-isolated-category-dec25/</loc>
+    <lastmod>2026-01-24T11:05:05+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hr/haryana-police-constable-recruitment-jan26/</loc>
+    <lastmod>2026-01-24T11:04:18+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/mppeb-group-2-sub-group-3-vacancy-2025/</loc>
@@ -27,18 +45,6 @@
   <url>
     <loc>http://localhost:1313/jobs/sci-law-clerk-recruitment-jan26/</loc>
     <lastmod>2026-01-21T13:10:45+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/cbi-specialist-officer-recruitment-jan26/</loc>
-    <lastmod>2026-01-20T15:31:49+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/hr/haryana-police-constable-recruitment-jan26/</loc>
-    <lastmod>2026-01-20T14:45:52+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -219,12 +225,6 @@
   <url>
     <loc>http://localhost:1313/jobs/ssc-combined-graduate-level-exam-2025/</loc>
     <lastmod>2026-01-16T10:27:57+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-ministerial-isolated-category-dec25/</loc>
-    <lastmod>2026-01-16T10:27:16+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
