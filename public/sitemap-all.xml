@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-25T06:34:06Z</lastmod>
+    <lastmod>2026-01-25T12:33:45Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/mpesb-police-constable-result-2025/</loc>
+    <lastmod>2026-01-25T18:02:25+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/aadhaar-operator-supervisor-recruitment-dec25/</loc>
@@ -693,12 +699,6 @@
   <url>
     <loc>http://localhost:1313/jobs/mppsc-food-safety-officer-result-2025/</loc>
     <lastmod>2025-12-18T17:04:53+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/mpesb-police-constable-result-2025/</loc>
-    <lastmod>2025-12-17T19:37:19+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
