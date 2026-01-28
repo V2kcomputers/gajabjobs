@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-27T06:00:36Z</lastmod>
+    <lastmod>2026-01-28T06:16:27Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/indian-army-jag-124th-course-2026/</loc>
+    <lastmod>2026-01-28T11:41:05+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/rajasthan/rssb-lab-assistant-recruitment-jan26/</loc>
