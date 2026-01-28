@@ -8,7 +8,13 @@
     <priority>0.20</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/indian-army-jag-124th-course-2026/</loc>
+    <loc>http://localhost:1313/force/indian-navy-ssc-officer-st27/</loc>
+    <lastmod>2026-01-28T07:14:03Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/force/indian-army-jag-124th-course-2026/</loc>
     <lastmod>2026-01-28T06:11:05Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
