@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-29T06:30:28Z</lastmod>
+    <lastmod>2026-01-29T07:20:50Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Jharkhand/jpsc-drug-inspector-recruitment-jan26/</loc>
+    <lastmod>2026-01-29T12:46:19+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/bihar/bpsc-auditor-recruitment-jan26/</loc>
