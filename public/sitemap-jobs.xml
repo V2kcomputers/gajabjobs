@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bank/sbi-cbo-recruitment-jan26/</loc>
+    <lastmod>2026-01-29T07:54:51Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/Jharkhand/jpsc-drug-inspector-recruitment-jan26/</loc>
     <lastmod>2026-01-29T07:16:19Z</lastmod>
     <changefreq>daily</changefreq>
