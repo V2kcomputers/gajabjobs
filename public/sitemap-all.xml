@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-29T07:57:54Z</lastmod>
+    <lastmod>2026-01-30T06:10:04Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/csbc-bihar-police-constable-recruitment-jan26/</loc>
+    <lastmod>2026-01-30T11:36:44+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/bssc-inter-level-recruitment-2025/</loc>
+    <lastmod>2026-01-30T11:33:23+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/bank/sbi-cbo-recruitment-jan26/</loc>
@@ -333,12 +345,6 @@
   <url>
     <loc>http://localhost:1313/bihar/bpsc-atps-recruitment-jan26/</loc>
     <lastmod>2026-01-14T12:27:20+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/bssc-inter-level-recruitment-2025/</loc>
-    <lastmod>2026-01-14T11:52:21+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
