@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/up-police-constable-recruitment-dec25/</loc>
+    <lastmod>2026-01-31T06:09:29Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ssc-mts-exam-date-2025/</loc>
+    <lastmod>2026-01-31T06:05:45Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/mppeb-group-2-sub-group-3-vacancy-2025/</loc>
     <lastmod>2026-01-31T05:55:13Z</lastmod>
     <changefreq>daily</changefreq>
@@ -64,12 +76,6 @@
   <url>
     <loc>http://localhost:1313/cbse/cbse-group-a-b-c-posts-admit-card-2025/</loc>
     <lastmod>2026-01-28T13:15:13Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/ssc-mts-exam-date-2025/</loc>
-    <lastmod>2026-01-28T13:13:19Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -189,12 +195,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/rj/rssb-agriculture-supervisor-recruitment-jan26/</loc>
-    <lastmod>2026-01-18T06:10:33Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/up-police-constable-recruitment-dec25/</loc>
     <lastmod>2026-01-18T06:10:33Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
