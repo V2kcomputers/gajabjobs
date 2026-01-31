@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/2026/india-post-gds-recruitment-jan26/</loc>
+    <lastmod>2026-01-31T08:00:15Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bihar/btsc-work-inspector-mechanical-recruitment-dec25/</loc>
     <lastmod>2026-01-31T06:58:53Z</lastmod>
     <changefreq>daily</changefreq>
