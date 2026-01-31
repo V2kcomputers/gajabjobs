@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bihar/bpsc-professor-recruitment-jan26/</loc>
+    <lastmod>2026-01-31T10:45:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/kvs-nvs-recruitment-nov-2025/</loc>
     <lastmod>2026-01-31T09:32:20Z</lastmod>
     <changefreq>daily</changefreq>
