@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-30T06:15:17Z</lastmod>
+    <lastmod>2026-01-31T06:00:57Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/admission/cuet-ug-2026/</loc>
+    <lastmod>2026-01-31T11:29:43+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/mppeb-group-2-sub-group-3-vacancy-2025/</loc>
+    <lastmod>2026-01-31T11:25:13+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
+    <lastmod>2026-01-31T11:18:17+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/bihar/csbc-bihar-police-constable-recruitment-jan26/</loc>
@@ -133,12 +151,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/mppeb-group-2-sub-group-3-vacancy-2025/</loc>
-    <lastmod>2026-01-23T18:47:13+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/mp-police-si-subedar-recruitment-2025/</loc>
     <lastmod>2026-01-23T18:42:51+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -177,12 +189,6 @@
   <url>
     <loc>http://localhost:1313/admission/shramodaya-admission-test-2026%E2%80%9327/</loc>
     <lastmod>2026-01-20T11:20:14+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
-    <lastmod>2026-01-19T18:08:28+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -471,12 +477,6 @@
   <url>
     <loc>http://localhost:1313/force/indian-navy-10-2-btech-cadet-entry-recruitment-jan26/</loc>
     <lastmod>2026-01-03T16:25:42+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/admission/cuet-ug-2026/</loc>
-    <lastmod>2026-01-03T15:59:24+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
