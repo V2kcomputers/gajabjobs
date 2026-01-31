@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-31T10:51:51Z</lastmod>
+    <lastmod>2026-01-31T12:16:26Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2026/delhi-hc-jja-restorer-recruitment-jan26/</loc>
+    <lastmod>2026-01-31T17:43:09+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/bihar/bpsc-professor-recruitment-jan26/</loc>
