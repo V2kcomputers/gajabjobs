@@ -2,18 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-01T06:19:12Z</lastmod>
+    <lastmod>2026-02-01T07:12:36Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/jpsc-cce-2026/</loc>
-    <lastmod>2026-02-01T11:48:51+05:30</lastmod>
+    <loc>http://localhost:1313/jobs/emrs-teaching-non-teaching-result-2025/</loc>
+    <lastmod>2026-02-01T12:41:11+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2026/csb-scientist-recruitment-jan26/</loc>
+    <lastmod>2026-02-01T12:37:22+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/apprentice/yantra-india-limited-apprentice-jan26/</loc>
+    <lastmod>2026-02-01T12:33:29+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jharkhand/jpsc-cce-2026/</loc>
     <lastmod>2026-02-01T11:48:51+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -471,12 +483,6 @@
   <url>
     <loc>http://localhost:1313/bihar/bpssc-havildar-clerk-recruitment-jan26/</loc>
     <lastmod>2026-01-07T18:34:04+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/emrs-teaching-non-teaching-result-2025/</loc>
-    <lastmod>2026-01-05T18:22:55+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

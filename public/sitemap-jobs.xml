@@ -8,7 +8,19 @@
     <priority>0.20</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/jpsc-cce-2026/</loc>
+    <loc>http://localhost:1313/jobs/emrs-teaching-non-teaching-result-2025/</loc>
+    <lastmod>2026-02-01T07:11:11Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2026/csb-scientist-recruitment-jan26/</loc>
+    <lastmod>2026-02-01T07:07:22Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jharkhand/jpsc-cce-2026/</loc>
     <lastmod>2026-02-01T06:18:51Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
@@ -406,12 +418,6 @@
   <url>
     <loc>http://localhost:1313/bihar/bpssc-havildar-clerk-recruitment-jan26/</loc>
     <lastmod>2026-01-07T13:04:04Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/emrs-teaching-non-teaching-result-2025/</loc>
-    <lastmod>2026-01-05T12:52:55Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
