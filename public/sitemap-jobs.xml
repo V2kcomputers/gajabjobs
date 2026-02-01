@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/jpsc-cce-2026/</loc>
+    <lastmod>2026-02-01T06:18:51Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/2026/delhi-hc-jja-restorer-recruitment-jan26/</loc>
     <lastmod>2026-01-31T12:13:09Z</lastmod>
     <changefreq>daily</changefreq>

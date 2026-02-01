@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-31T12:16:26Z</lastmod>
+    <lastmod>2026-02-01T06:19:12Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/jpsc-cce-2026/</loc>
+    <lastmod>2026-02-01T11:48:51+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/apprentice/yantra-india-limited-apprentice-jan26/</loc>
+    <lastmod>2026-02-01T11:48:51+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/2026/delhi-hc-jja-restorer-recruitment-jan26/</loc>
@@ -123,12 +135,6 @@
   <url>
     <loc>http://localhost:1313/jobs/uppsc-computer-assistant-admit-card-2025/</loc>
     <lastmod>2026-01-28T18:40:54+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/apprentice/yantra-india-limited-apprentice-jan26/</loc>
-    <lastmod>2026-01-28T18:12:36+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
