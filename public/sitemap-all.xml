@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-02T11:29:37Z</lastmod>
+    <lastmod>2026-02-02T12:34:53Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/bpssc-radio-asi-recruitment-feb26/</loc>
+    <lastmod>2026-02-02T18:02:21+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/bank/nainital-bank-po-so-result-2025/</loc>
