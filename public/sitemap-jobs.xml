@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bank/nainital-bank-po-so-result-2025/</loc>
+    <lastmod>2026-02-02T11:27:35Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/ssc-mts-admit-card-2025/</loc>
     <lastmod>2026-02-02T06:27:32Z</lastmod>
     <changefreq>daily</changefreq>
@@ -358,12 +364,6 @@
   <url>
     <loc>http://localhost:1313/jobs/rssb-upper-primary-teacher-recruitment-nov-2025/</loc>
     <lastmod>2026-01-10T14:10:19Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/nainital-bank-po-so-admit-card-2025/</loc>
-    <lastmod>2026-01-10T14:06:05Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
