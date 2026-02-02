@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
+    <lastmod>2026-02-02T14:18:22Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/bpssc-si-prohibition-recruitment-jan26/</loc>
+    <lastmod>2026-02-02T14:14:49Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bihar/bpssc-radio-asi-recruitment-feb26/</loc>
     <lastmod>2026-02-02T12:32:21Z</lastmod>
     <changefreq>daily</changefreq>
@@ -100,12 +112,6 @@
   <url>
     <loc>http://localhost:1313/jobs/mppeb-group-2-sub-group-3-vacancy-2025/</loc>
     <lastmod>2026-01-31T05:55:13Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
-    <lastmod>2026-01-31T05:48:17Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
