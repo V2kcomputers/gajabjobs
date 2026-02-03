@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/mp/mpesb-asi-hc-computer-recruitment-feb26/</loc>
+    <lastmod>2026-02-03T13:44:41Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mppsc-atp-recruitment-feb26/</loc>
     <lastmod>2026-02-03T12:53:07Z</lastmod>
     <changefreq>daily</changefreq>
