@@ -8,6 +8,24 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/rj/rssb-female-supervisor-recruitment-jan26/</loc>
+    <lastmod>2026-02-03T14:16:32Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rj/rajasthan-vanpal-recruitment-jan26/</loc>
+    <lastmod>2026-02-03T14:14:58Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/up-police-constable-recruitment-dec25/</loc>
+    <lastmod>2026-02-03T14:12:45Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mpesb-asi-hc-computer-recruitment-feb26/</loc>
     <lastmod>2026-02-03T13:44:41Z</lastmod>
     <changefreq>daily</changefreq>
@@ -136,12 +154,6 @@
   <url>
     <loc>http://localhost:1313/bihar/btsc-pump-operator-recruitment-dec25/</loc>
     <lastmod>2026-01-31T06:56:56Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/up-police-constable-recruitment-dec25/</loc>
-    <lastmod>2026-01-31T06:09:29Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -358,18 +370,6 @@
   <url>
     <loc>http://localhost:1313/jobs/rrb-je-admit-card-2025/</loc>
     <lastmod>2026-01-16T04:55:18Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/rj/rssb-female-supervisor-recruitment-jan26/</loc>
-    <lastmod>2026-01-15T07:22:20Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/rj/rajasthan-vanpal-recruitment-jan26/</loc>
-    <lastmod>2026-01-15T07:22:20Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
