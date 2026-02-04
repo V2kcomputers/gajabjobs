@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/2026/india-post-gds-recruitment-jan26/</loc>
+    <lastmod>2026-02-04T10:57:53Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/cbi-specialist-officer-recruitment-jan26/</loc>
+    <lastmod>2026-02-04T10:55:45Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bihar/bpssc-radio-asi-recruitment-feb26/</loc>
     <lastmod>2026-02-04T05:14:29Z</lastmod>
     <changefreq>daily</changefreq>
@@ -140,12 +152,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/2026/india-post-gds-recruitment-jan26/</loc>
-    <lastmod>2026-01-31T08:00:15Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bihar/btsc-work-inspector-mechanical-recruitment-dec25/</loc>
     <lastmod>2026-01-31T06:58:53Z</lastmod>
     <changefreq>daily</changefreq>
@@ -244,12 +250,6 @@
   <url>
     <loc>http://localhost:1313/jobs/aadhaar-operator-supervisor-recruitment-dec25/</loc>
     <lastmod>2026-01-25T06:33:55Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/cbi-specialist-officer-recruitment-jan26/</loc>
-    <lastmod>2026-01-24T05:35:05Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
