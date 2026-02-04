@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bihar/bpssc-radio-asi-recruitment-feb26/</loc>
+    <lastmod>2026-02-04T05:14:29Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2026/delhi-hc-jja-restorer-recruitment-jan26/</loc>
+    <lastmod>2026-02-04T05:14:29Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/rj/rssb-female-supervisor-recruitment-jan26/</loc>
     <lastmod>2026-02-03T14:16:32Z</lastmod>
     <changefreq>daily</changefreq>
@@ -74,12 +86,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bihar/bpssc-radio-asi-recruitment-feb26/</loc>
-    <lastmod>2026-02-02T12:32:21Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bank/nainital-bank-po-so-result-2025/</loc>
     <lastmod>2026-02-02T11:27:35Z</lastmod>
     <changefreq>daily</changefreq>
@@ -118,12 +124,6 @@
   <url>
     <loc>http://localhost:1313/jharkhand/jpsc-cce-2026/</loc>
     <lastmod>2026-02-01T06:18:51Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/2026/delhi-hc-jja-restorer-recruitment-jan26/</loc>
-    <lastmod>2026-01-31T12:13:09Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>

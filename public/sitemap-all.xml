@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-04T01:13:33Z</lastmod>
+    <lastmod>2026-02-04T05:18:09Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/admission/soe-som-class-9-admission-2026%E2%80%9327/</loc>
+    <lastmod>2026-02-04T10:46:02+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/bpssc-radio-asi-recruitment-feb26/</loc>
+    <lastmod>2026-02-04T10:44:29+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2026/delhi-hc-jja-restorer-recruitment-jan26/</loc>
+    <lastmod>2026-02-04T10:44:29+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/rj/rssb-female-supervisor-recruitment-jan26/</loc>
@@ -91,12 +109,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bihar/bpssc-radio-asi-recruitment-feb26/</loc>
-    <lastmod>2026-02-02T18:02:21+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bank/nainital-bank-po-so-result-2025/</loc>
     <lastmod>2026-02-02T16:57:35+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -141,12 +153,6 @@
   <url>
     <loc>http://localhost:1313/jharkhand/jpsc-cce-2026/</loc>
     <lastmod>2026-02-01T11:48:51+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/2026/delhi-hc-jja-restorer-recruitment-jan26/</loc>
-    <lastmod>2026-01-31T17:43:09+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -363,12 +369,6 @@
   <url>
     <loc>http://localhost:1313/mp/mp-iti-training-officer-recruitment-jan26/</loc>
     <lastmod>2026-01-17T10:15:04+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/admission/soe-som-class-9-admission-2026%E2%80%9327/</loc>
-    <lastmod>2026-01-17T10:11:12+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
