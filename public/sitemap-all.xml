@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-05T04:24:07Z</lastmod>
+    <lastmod>2026-02-05T05:12:16Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/nta-ugc-net-december-2025/</loc>
+    <lastmod>2026-02-05T10:40:24+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/mp/mpesb-asi-hc-computer-recruitment-feb26/</loc>
@@ -441,12 +447,6 @@
   <url>
     <loc>http://localhost:1313/eligibility/cpct-exam-jan-2026/</loc>
     <lastmod>2026-01-16T10:44:20+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/eligibility/nta-ugc-net-december-2025/</loc>
-    <lastmod>2026-01-16T10:32:23+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
