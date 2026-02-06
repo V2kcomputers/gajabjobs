@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-05T11:25:03Z</lastmod>
+    <lastmod>2026-02-06T06:53:41Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/csbc-bihar-police-constable-recruitment-jan26/</loc>
+    <lastmod>2026-02-06T12:22:23+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/haryana/hpsc-civil-service-exam-2026/</loc>
+    <lastmod>2026-02-06T12:22:23+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/eligibility/ctet-february-2026/</loc>
@@ -169,12 +181,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/haryana/hpsc-civil-service-exam-2026/</loc>
-    <lastmod>2026-02-01T13:16:56+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/emrs-teaching-non-teaching-result-2025/</loc>
     <lastmod>2026-02-01T12:41:11+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -231,12 +237,6 @@
   <url>
     <loc>http://localhost:1313/jobs/mppeb-group-2-sub-group-3-vacancy-2025/</loc>
     <lastmod>2026-01-31T11:25:13+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bihar/csbc-bihar-police-constable-recruitment-jan26/</loc>
-    <lastmod>2026-01-30T11:36:44+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
