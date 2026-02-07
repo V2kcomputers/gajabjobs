@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/rrb-ntpc-inter-level-recruitment-sep-2025/</loc>
+    <lastmod>2026-02-07T05:58:15Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bihar/csbc-bihar-police-constable-recruitment-jan26/</loc>
     <lastmod>2026-02-06T06:52:23Z</lastmod>
     <changefreq>daily</changefreq>
@@ -916,12 +922,6 @@
   <url>
     <loc>http://localhost:1313/jobs/rbi-officer-grade-b-vacancy-2025/</loc>
     <lastmod>2025-11-29T08:33:19Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/rrb-ntpc-inter-level-recruitment-sep-2025/</loc>
-    <lastmod>2025-11-27T13:43:45Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
