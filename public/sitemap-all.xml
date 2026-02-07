@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-07T07:25:32Z</lastmod>
+    <lastmod>2026-02-07T12:11:18Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/hssc-stenographer-recruitment-feb26/</loc>
+    <lastmod>2026-02-07T17:34:25+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/apprentice/pnb-apprentice-recruitment-feb26/</loc>

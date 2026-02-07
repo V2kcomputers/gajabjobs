@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/hssc-stenographer-recruitment-feb26/</loc>
+    <lastmod>2026-02-07T12:04:25Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bank/rbi-non-csg-recruitment-feb26/</loc>
     <lastmod>2026-02-07T06:43:57Z</lastmod>
     <changefreq>daily</changefreq>
