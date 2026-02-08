@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-08T10:16:31Z</lastmod>
+    <lastmod>2026-02-08T11:56:03Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/jee-mains-2026-session-2/</loc>
+    <lastmod>2026-02-08T17:19:58+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
