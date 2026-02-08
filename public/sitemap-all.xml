@@ -2,9 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-07T12:53:52Z</lastmod>
+    <lastmod>2026-02-08T05:40:10Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-section-controller-admitcard-2025/</loc>
+    <lastmod>2026-02-08T11:08:55+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/haryana/hpsc-civil-service-exam-2026/</loc>
+    <lastmod>2026-02-08T11:05:12+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/apprentice/pnb-apprentice-recruitment-feb26/</loc>
+    <lastmod>2026-02-08T11:04:19+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/admission/super-100-examination-form-2026/</loc>
+    <lastmod>2026-02-08T11:04:19+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/bank/bob-manager-recruitment-feb26/</loc>
@@ -15,12 +39,6 @@
   <url>
     <loc>http://localhost:1313/haryana/hssc-stenographer-recruitment-feb26/</loc>
     <lastmod>2026-02-07T17:34:25+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/apprentice/pnb-apprentice-recruitment-feb26/</loc>
-    <lastmod>2026-02-07T12:48:18+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -38,12 +56,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/bihar/csbc-bihar-police-constable-recruitment-jan26/</loc>
-    <lastmod>2026-02-06T12:22:23+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/haryana/hpsc-civil-service-exam-2026/</loc>
     <lastmod>2026-02-06T12:22:23+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -183,12 +195,6 @@
   <url>
     <loc>http://localhost:1313/calendar/bpsc-exam-calendar-2026/</loc>
     <lastmod>2026-02-03T13:39:01+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-section-controller-admitcard-2025/</loc>
-    <lastmod>2026-02-03T13:35:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

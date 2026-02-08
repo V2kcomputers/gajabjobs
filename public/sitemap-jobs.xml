@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/railway/rrb-section-controller-admitcard-2025/</loc>
+    <lastmod>2026-02-08T05:38:55Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/haryana/hpsc-civil-service-exam-2026/</loc>
+    <lastmod>2026-02-08T05:35:12Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bank/bob-manager-recruitment-feb26/</loc>
     <lastmod>2026-02-07T12:51:45Z</lastmod>
     <changefreq>daily</changefreq>
@@ -33,12 +45,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/bihar/csbc-bihar-police-constable-recruitment-jan26/</loc>
-    <lastmod>2026-02-06T06:52:23Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/haryana/hpsc-civil-service-exam-2026/</loc>
     <lastmod>2026-02-06T06:52:23Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
@@ -136,12 +142,6 @@
   <url>
     <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
     <lastmod>2026-02-03T10:02:25Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-section-controller-admitcard-2025/</loc>
-    <lastmod>2026-02-03T08:05:00Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
