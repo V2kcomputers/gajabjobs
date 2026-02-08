@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-08T07:10:37Z</lastmod>
+    <lastmod>2026-02-08T10:16:31Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
+    <lastmod>2026-02-08T15:41:11+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/nta-neet-ug-2026/</loc>
+    <lastmod>2026-02-08T15:32:26+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/admission/bihar-rte-admission-2026%E2%80%9327/</loc>
@@ -182,12 +194,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/mp/mppsc-state-service-exam-2026/</loc>
-    <lastmod>2026-02-03T15:32:25+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
     <lastmod>2026-02-03T15:32:25+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
