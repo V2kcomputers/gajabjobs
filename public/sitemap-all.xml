@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-09T07:21:16Z</lastmod>
+    <lastmod>2026-02-09T09:32:32Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/apprentice/pnb-apprentice-recruitment-feb26/</loc>
+    <lastmod>2026-02-09T15:02:25+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/haryana/hssc-cet-group-c-recruitment-feb26/</loc>
@@ -51,12 +57,6 @@
   <url>
     <loc>http://localhost:1313/haryana/hpsc-civil-service-exam-2026/</loc>
     <lastmod>2026-02-08T11:05:12+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/apprentice/pnb-apprentice-recruitment-feb26/</loc>
-    <lastmod>2026-02-08T11:04:19+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
