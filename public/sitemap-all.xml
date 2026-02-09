@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-09T06:00:49Z</lastmod>
+    <lastmod>2026-02-09T07:21:16Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/haryana/hssc-cet-group-c-recruitment-feb26/</loc>
+    <lastmod>2026-02-09T12:49:27+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/2026/ncert-academic-position-recruitment-jan26/</loc>

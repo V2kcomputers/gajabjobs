@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/haryana/hssc-cet-group-c-recruitment-feb26/</loc>
+    <lastmod>2026-02-09T07:19:27Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/2026/ncert-academic-position-recruitment-jan26/</loc>
     <lastmod>2026-02-09T05:59:30Z</lastmod>
     <changefreq>daily</changefreq>
