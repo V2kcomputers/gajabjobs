@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-09T09:32:32Z</lastmod>
+    <lastmod>2026-02-10T05:56:50Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/mp-set-2025/</loc>
+    <lastmod>2026-02-10T11:25:18+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/mppeb-group-2-sub-group-3-vacancy-2025/</loc>
+    <lastmod>2026-02-10T11:20:52+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mppsc-boiler-inspector-grade-2-jan26/</loc>
+    <lastmod>2026-02-10T11:20:16+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/apprentice/pnb-apprentice-recruitment-feb26/</loc>
@@ -199,12 +217,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mp/mppsc-boiler-inspector-grade-2-jan26/</loc>
-    <lastmod>2026-02-03T17:51:33+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/mp/mppsc-forest-service-exam-2026/</loc>
     <lastmod>2026-02-03T15:32:25+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -297,12 +309,6 @@
   <url>
     <loc>http://localhost:1313/admission/cuet-ug-2026/</loc>
     <lastmod>2026-01-31T11:29:43+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/mppeb-group-2-sub-group-3-vacancy-2025/</loc>
-    <lastmod>2026-01-31T11:25:13+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -669,12 +675,6 @@
   <url>
     <loc>http://localhost:1313/drdo/drdo-ceptam-11-recruitment-dec25/</loc>
     <lastmod>2025-12-31T18:20:19+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/eligibility/mp-set-2025/</loc>
-    <lastmod>2025-12-31T11:10:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

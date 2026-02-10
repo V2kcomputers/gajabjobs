@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/mppeb-group-2-sub-group-3-vacancy-2025/</loc>
+    <lastmod>2026-02-10T05:50:52Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mppsc-boiler-inspector-grade-2-jan26/</loc>
+    <lastmod>2026-02-10T05:50:16Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/haryana/hssc-cet-group-c-recruitment-feb26/</loc>
     <lastmod>2026-02-09T07:19:27Z</lastmod>
     <changefreq>daily</changefreq>
@@ -140,12 +152,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mp/mppsc-boiler-inspector-grade-2-jan26/</loc>
-    <lastmod>2026-02-03T12:21:33Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/mp/mppsc-forest-service-exam-2026/</loc>
     <lastmod>2026-02-03T10:02:25Z</lastmod>
     <changefreq>daily</changefreq>
@@ -214,12 +220,6 @@
   <url>
     <loc>http://localhost:1313/bihar/btsc-pump-operator-recruitment-dec25/</loc>
     <lastmod>2026-01-31T06:56:56Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/mppeb-group-2-sub-group-3-vacancy-2025/</loc>
-    <lastmod>2026-01-31T05:55:13Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
