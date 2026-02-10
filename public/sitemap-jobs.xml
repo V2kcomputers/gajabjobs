@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/ib-security-assistant-2025/</loc>
+    <lastmod>2026-02-10T11:18:52Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/mppeb-group-2-sub-group-3-vacancy-2025/</loc>
     <lastmod>2026-02-10T05:50:52Z</lastmod>
     <changefreq>daily</changefreq>
@@ -736,12 +742,6 @@
   <url>
     <loc>http://localhost:1313/jobs/mppsc-food-safety-officer-result-2025/</loc>
     <lastmod>2025-12-18T11:34:53Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/ib-security-assistant-result-2025/</loc>
-    <lastmod>2025-12-17T13:47:31Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>

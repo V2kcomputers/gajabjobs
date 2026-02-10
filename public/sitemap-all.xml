@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-10T07:09:20Z</lastmod>
+    <lastmod>2026-02-10T11:22:18Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ib-security-assistant-2025/</loc>
+    <lastmod>2026-02-10T16:48:52+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/cpct-exam-march-2026/</loc>
+    <lastmod>2026-02-10T16:24:30+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/admission/cuet-ug-2026/</loc>
@@ -517,12 +529,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/eligibility/cpct-exam-jan-2026/</loc>
-    <lastmod>2026-01-16T10:44:20+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/ssc-combined-graduate-level-exam-2025/</loc>
     <lastmod>2026-01-16T10:27:57+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -927,12 +933,6 @@
   <url>
     <loc>http://localhost:1313/jobs/mppsc-food-safety-officer-result-2025/</loc>
     <lastmod>2025-12-18T17:04:53+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/ib-security-assistant-result-2025/</loc>
-    <lastmod>2025-12-17T19:17:31+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
