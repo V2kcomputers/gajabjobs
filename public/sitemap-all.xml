@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-12T06:45:04Z</lastmod>
+    <lastmod>2026-02-12T06:50:04Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/cbse/cbse-group-a-b-c-posts-admit-card-2025/</loc>
+    <loc>http://localhost:1313/cbse/cbse-group-a-b-c-posts-result-2025/</loc>
     <lastmod>2026-02-12T12:11:58+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
