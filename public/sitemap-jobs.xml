@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/force/indian-army-men-ncc-124th-course-oct-2026/</loc>
+    <lastmod>2026-02-12T12:13:26Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bank/sbi-cbo-recruitment-jan26/</loc>
     <lastmod>2026-02-12T10:23:54Z</lastmod>
     <changefreq>daily</changefreq>
