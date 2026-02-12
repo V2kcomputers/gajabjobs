@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-10T12:33:14Z</lastmod>
+    <lastmod>2026-02-12T06:45:04Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cbse/cbse-group-a-b-c-posts-admit-card-2025/</loc>
+    <lastmod>2026-02-12T12:11:58+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mpesb-group-1-sub-group-2-recruitment-dec25/</loc>
+    <lastmod>2026-02-12T12:09:48+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/admission/upbed-2026/</loc>
@@ -361,12 +373,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/cbse/cbse-group-a-b-c-posts-admit-card-2025/</loc>
-    <lastmod>2026-01-28T18:45:13+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/uppsc-computer-assistant-admit-card-2025/</loc>
     <lastmod>2026-01-28T18:40:54+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -609,12 +615,6 @@
   <url>
     <loc>http://localhost:1313/force/indian-army-ssc-tech-67th-men-recruitment-jan26/</loc>
     <lastmod>2026-01-09T11:29:32+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-group-1-sub-group-2-recruitment-dec25/</loc>
-    <lastmod>2026-01-08T10:55:52+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

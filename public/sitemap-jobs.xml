@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/cbse/cbse-group-a-b-c-posts-admit-card-2025/</loc>
+    <lastmod>2026-02-12T06:41:58Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mpesb-group-1-sub-group-2-recruitment-dec25/</loc>
+    <lastmod>2026-02-12T06:39:48Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/ib-security-assistant-2025/</loc>
     <lastmod>2026-02-10T11:28:49Z</lastmod>
     <changefreq>daily</changefreq>
@@ -260,12 +272,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/cbse/cbse-group-a-b-c-posts-admit-card-2025/</loc>
-    <lastmod>2026-01-28T13:15:13Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/uppsc-computer-assistant-admit-card-2025/</loc>
     <lastmod>2026-01-28T13:10:54Z</lastmod>
     <changefreq>daily</changefreq>
@@ -478,12 +484,6 @@
   <url>
     <loc>http://localhost:1313/force/indian-army-ssc-tech-67th-men-recruitment-jan26/</loc>
     <lastmod>2026-01-09T05:59:32Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-group-1-sub-group-2-recruitment-dec25/</loc>
-    <lastmod>2026-01-08T05:25:52Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
