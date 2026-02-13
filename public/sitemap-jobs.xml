@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/force/indian-army-agniveer-rally-recruitment-feb26/</loc>
+    <lastmod>2026-02-13T06:23:47Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/bpsc-professor-recruitment-jan26/</loc>
+    <lastmod>2026-02-13T06:23:29Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/force/indian-army-women-ncc-124th-course-oct-2026/</loc>
     <lastmod>2026-02-12T12:44:24Z</lastmod>
     <changefreq>daily</changefreq>
@@ -232,12 +244,6 @@
   <url>
     <loc>http://localhost:1313/jharkhand/jpsc-cce-2026/</loc>
     <lastmod>2026-02-01T06:18:51Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bihar/bpsc-professor-recruitment-jan26/</loc>
-    <lastmod>2026-01-31T10:45:00Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
