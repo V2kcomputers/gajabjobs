@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/2026/aiims-norcet-10th-nursing-officer-feb26/</loc>
+    <lastmod>2026-02-13T08:01:11Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/upsc/upsc-ies-iss-recruitment-feb26/</loc>
     <lastmod>2026-02-13T07:02:43Z</lastmod>
     <changefreq>daily</changefreq>
