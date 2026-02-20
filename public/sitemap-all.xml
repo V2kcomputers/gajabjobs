@@ -2,12 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-20T10:08:59Z</lastmod>
+    <lastmod>2026-02-20T11:45:56Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/dsssb-01-2026/</loc>
+    <loc>http://localhost:1313/railway/rrc-wr-apprentice-recruitment-feb26/</loc>
+    <lastmod>2026-02-20T17:13:51+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mppsc-atp-recruitment-feb26/</loc>
+    <lastmod>2026-02-20T17:11:16+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/delhi/dsssb-01-2026/</loc>
     <lastmod>2026-02-20T15:29:05+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -333,12 +345,6 @@
   <url>
     <loc>http://localhost:1313/up/up-police-constable-recruitment-dec25/</loc>
     <lastmod>2026-02-03T19:42:45+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mppsc-atp-recruitment-feb26/</loc>
-    <lastmod>2026-02-03T18:23:07+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
