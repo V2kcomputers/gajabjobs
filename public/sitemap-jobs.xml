@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bihar/bpsc-33rd-judicial-services-recruitment-feb26/</loc>
+    <lastmod>2026-02-23T11:25:20Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/2026/sci-assistant-recruitment-feb26/</loc>
     <lastmod>2026-02-23T10:45:37Z</lastmod>
     <changefreq>daily</changefreq>
