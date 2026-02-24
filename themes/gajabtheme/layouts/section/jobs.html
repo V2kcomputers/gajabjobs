@@ -1,13 +1,4 @@
 {{ define "main" }}
 <h1> Latest Jobs Post</h1>
-    <ul class="upsc-link-list">
-        {{ range where .Site.RegularPages "Section" "jobs" }}
-            <li class="upsc-link-item">
-                <a href="{{ .RelPermalink }}" class="upsc-link">{{ .Title }}</a> 
-                <span class="upsc-date">
-                    Last Update: {{ .Lastmod.Format "02 Jan 2006" }}
-                </span>
-            </li>
-        {{ end }}
-    </ul>
+<table class="post-table"><thead><tr><th>Latest & Upcoming Jobs Update</th></tr></thead><tbody> {{ range where .Site.RegularPages "Section" "jobs" }}<tr><td data-label="Check Here 👉"><a href="{{ .RelPermalink }}" target="_blank">{{ .Title }}</a></td></tr>{{ end }}</tbody></table>
 {{ end }}
