@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-24T09:52:02Z</lastmod>
+    <lastmod>2026-02-24T10:39:41Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mpesb-group-1-sub-group-2-recruitment-dec25/</loc>
+    <lastmod>2026-02-24T16:07:34+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/mp/mp-bhulekh-data-entry-operator-deo-vacancy-2026/</loc>
@@ -183,12 +189,6 @@
   <url>
     <loc>http://localhost:1313/cbse/cbse-group-a-b-c-posts-result-2025/</loc>
     <lastmod>2026-02-12T12:11:58+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-group-1-sub-group-2-recruitment-dec25/</loc>
-    <lastmod>2026-02-12T12:09:48+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

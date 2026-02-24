@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/mp/mpesb-group-1-sub-group-2-recruitment-dec25/</loc>
+    <lastmod>2026-02-24T10:37:34Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mp-bhulekh-data-entry-operator-deo-vacancy-2026/</loc>
     <lastmod>2026-02-24T09:48:44Z</lastmod>
     <changefreq>daily</changefreq>
@@ -154,12 +160,6 @@
   <url>
     <loc>http://localhost:1313/cbse/cbse-group-a-b-c-posts-result-2025/</loc>
     <lastmod>2026-02-12T06:41:58Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-group-1-sub-group-2-recruitment-dec25/</loc>
-    <lastmod>2026-02-12T06:39:48Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
