@@ -8,7 +8,13 @@
     <priority>0.20</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/sib-junior-officer-recruitment-feb26/</loc>
+    <loc>http://localhost:1313/mp/mp-bhulekh-data-entry-operator-deo-vacancy-2026/</loc>
+    <lastmod>2026-02-24T09:48:44Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/sib-junior-officer-recruitment-feb26/</loc>
     <lastmod>2026-02-24T05:56:13Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
