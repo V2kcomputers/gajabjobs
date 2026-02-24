@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-24T10:39:41Z</lastmod>
+    <lastmod>2026-02-24T12:46:19Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/upsc/upsc-civil-services-ias-ifs-form-feb26/</loc>
+    <lastmod>2026-02-24T18:15:01+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/mp/mpesb-group-1-sub-group-2-recruitment-dec25/</loc>
@@ -339,12 +345,6 @@
   <url>
     <loc>http://localhost:1313/bihar/bpsc-auditor-recruitment-jan26/</loc>
     <lastmod>2026-02-05T09:53:06+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/upsc/upsc-civil-services-ias-ifs-form-feb26/</loc>
-    <lastmod>2026-02-04T18:46:04+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
