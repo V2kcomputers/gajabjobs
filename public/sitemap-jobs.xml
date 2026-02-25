@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/emrs-teaching-non-teaching-result-2025/</loc>
+    <lastmod>2026-02-25T09:19:59Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/force/iaf-agniveervayu-intake-01-2027-batch/</loc>
     <lastmod>2026-02-25T08:36:39Z</lastmod>
     <changefreq>daily</changefreq>
@@ -352,12 +358,6 @@
   <url>
     <loc>http://localhost:1313/jobs/ssc-mts-admit-card-2025/</loc>
     <lastmod>2026-02-02T06:27:32Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/emrs-teaching-non-teaching-result-2025/</loc>
-    <lastmod>2026-02-01T07:11:11Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
