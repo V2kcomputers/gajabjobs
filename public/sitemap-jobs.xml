@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bihar/bpsc-apo-recruitment-feb26/</loc>
+    <lastmod>2026-02-25T14:31:59Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/emrs-teaching-non-teaching-result-2025/</loc>
     <lastmod>2026-02-25T09:19:59Z</lastmod>
     <changefreq>daily</changefreq>
