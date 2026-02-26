@@ -2,9 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-26T05:08:06Z</lastmod>
+    <lastmod>2026-02-26T05:56:54Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/ctet-february-2026/</loc>
+    <lastmod>2026-02-26T11:25:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-section-controller-vacancy-2025/</loc>
+    <lastmod>2026-02-26T11:21:13+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/rrb-paramedical-various-posts-2025/</loc>
+    <lastmod>2026-02-26T11:18:18+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/rrb-technician-2025/</loc>
+    <lastmod>2026-02-26T11:16:21+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/delhi/dsssb-02-2026/</loc>
@@ -27,12 +51,6 @@
   <url>
     <loc>http://localhost:1313/force/iaf-agniveervayu-intake-01-2027-batch/</loc>
     <lastmod>2026-02-25T14:06:39+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/rrb-technician-2025/</loc>
-    <lastmod>2026-02-25T12:49:54+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -307,12 +325,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/railway/rrb-section-controller-admitcard-2025/</loc>
-    <lastmod>2026-02-08T11:08:55+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/haryana/hpsc-civil-service-exam-2026/</loc>
     <lastmod>2026-02-08T11:05:12+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -351,12 +363,6 @@
   <url>
     <loc>http://localhost:1313/bihar/csbc-bihar-police-constable-recruitment-jan26/</loc>
     <lastmod>2026-02-06T12:22:23+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/eligibility/ctet-february-2026/</loc>
-    <lastmod>2026-02-05T16:27:44+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -747,12 +753,6 @@
   <url>
     <loc>http://localhost:1313/force/indian-army-ssc-tech-67th-men-recruitment-jan26/</loc>
     <lastmod>2026-01-09T11:29:32+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/rrb-paramedical-various-posts-admit-card-2025/</loc>
-    <lastmod>2026-01-07T19:26:06+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
