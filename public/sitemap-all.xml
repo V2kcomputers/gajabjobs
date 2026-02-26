@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-26T05:56:54Z</lastmod>
+    <lastmod>2026-02-26T11:45:37Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/admission/up-rte-admission-2026/</loc>
+    <lastmod>2026-02-26T17:14:27+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/eligibility/ctet-february-2026/</loc>
@@ -213,12 +219,6 @@
   <url>
     <loc>http://localhost:1313/bihar/bpsc-professor-recruitment-jan26/</loc>
     <lastmod>2026-02-13T11:53:29+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/admission/up-rte-admission-2026/</loc>
-    <lastmod>2026-02-12T19:23:33+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
