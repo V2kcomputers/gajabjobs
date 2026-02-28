@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-28T09:11:06Z</lastmod>
+    <lastmod>2026-02-28T09:54:58Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/kvs-nvs-recruitment-nov-2025/</loc>
+    <lastmod>2026-02-28T15:22:50+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/mp/mp-bhulekh-data-entry-operator-deo-vacancy-2026/</loc>
@@ -501,12 +507,6 @@
   <url>
     <loc>http://localhost:1313/apprentice/yantra-india-limited-apprentice-jan26/</loc>
     <lastmod>2026-02-01T12:33:29+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/kvs-nvs-recruitment-nov-2025/</loc>
-    <lastmod>2026-01-31T15:02:20+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

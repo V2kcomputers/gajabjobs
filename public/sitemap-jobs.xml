@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/kvs-nvs-recruitment-nov-2025/</loc>
+    <lastmod>2026-02-28T09:52:50Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mp-bhulekh-data-entry-operator-deo-vacancy-2026/</loc>
     <lastmod>2026-02-28T09:10:59Z</lastmod>
     <changefreq>daily</changefreq>
@@ -388,12 +394,6 @@
   <url>
     <loc>http://localhost:1313/2026/csb-scientist-recruitment-jan26/</loc>
     <lastmod>2026-02-01T07:07:22Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/kvs-nvs-recruitment-nov-2025/</loc>
-    <lastmod>2026-01-31T09:32:20Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
