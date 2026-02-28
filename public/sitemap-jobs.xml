@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/mp/mp-bhulekh-data-entry-operator-deo-vacancy-2026/</loc>
+    <lastmod>2026-02-28T09:10:59Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mpesb-forest-guard-jail-prahari-recruitment-feb26/</loc>
     <lastmod>2026-02-28T07:04:57Z</lastmod>
     <changefreq>daily</changefreq>
@@ -16,12 +22,6 @@
   <url>
     <loc>http://localhost:1313/jharkhand/jpsc-cce-2026/</loc>
     <lastmod>2026-02-27T09:45:56Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mp-bhulekh-data-entry-operator-deo-vacancy-2026/</loc>
-    <lastmod>2026-02-27T05:26:18Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
