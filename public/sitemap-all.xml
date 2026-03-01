@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-28T09:54:58Z</lastmod>
+    <lastmod>2026-03-01T07:01:08Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/csbc-constable-operator-recruitment-feb26/</loc>
+    <lastmod>2026-03-01T12:24:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-pharmacist-recruitment-mar26/</loc>
+    <lastmod>2026-03-01T12:23:46+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/kvs-nvs-recruitment-nov-2025/</loc>
@@ -135,12 +147,6 @@
   <url>
     <loc>http://localhost:1313/bank/sbi-deputy-manager-avp-recruitment-feb26/</loc>
     <lastmod>2026-02-23T18:45:00+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bihar/csbc-constable-operator-recruitment-feb26/</loc>
-    <lastmod>2026-02-23T17:44:44+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bihar/csbc-constable-operator-recruitment-feb26/</loc>
+    <lastmod>2026-03-01T06:54:42Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-pharmacist-recruitment-mar26/</loc>
+    <lastmod>2026-03-01T06:53:46Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/kvs-nvs-recruitment-nov-2025/</loc>
     <lastmod>2026-02-28T09:52:50Z</lastmod>
     <changefreq>daily</changefreq>
@@ -118,12 +130,6 @@
   <url>
     <loc>http://localhost:1313/bank/sbi-deputy-manager-avp-recruitment-feb26/</loc>
     <lastmod>2026-02-23T13:15:00Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bihar/csbc-constable-operator-recruitment-feb26/</loc>
-    <lastmod>2026-02-23T12:14:44Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
