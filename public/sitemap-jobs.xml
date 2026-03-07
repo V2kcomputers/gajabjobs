@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bank/rbi-non-csg-recruitment-feb26/</loc>
+    <lastmod>2026-03-07T06:59:46Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/up-police-si-admitcard-2025/</loc>
+    <lastmod>2026-03-07T06:56:48Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mp-bhulekh-data-entry-operator-deo-vacancy-2026/</loc>
     <lastmod>2026-03-05T04:15:49Z</lastmod>
     <changefreq>daily</changefreq>
@@ -292,12 +304,6 @@
   <url>
     <loc>http://localhost:1313/haryana/hssc-stenographer-recruitment-feb26/</loc>
     <lastmod>2026-02-07T12:04:25Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/rbi-non-csg-recruitment-feb26/</loc>
-    <lastmod>2026-02-07T06:43:57Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -1024,12 +1030,6 @@
   <url>
     <loc>http://localhost:1313/jobs/oicl-ao-recruitment-nov-2025/</loc>
     <lastmod>2025-12-04T06:45:57Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/up-police-si-admitcard-2025/</loc>
-    <lastmod>2025-12-04T06:43:30Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
