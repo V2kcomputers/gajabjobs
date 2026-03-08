@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-07T13:36:41Z</lastmod>
+    <lastmod>2026-03-08T05:35:21Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/idbi-bank-am-jam-recruitment-mar26/</loc>
+    <lastmod>2026-03-08T11:02:53+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/rrb-ntpc-graduate-level-recruitment-2025/</loc>
@@ -15,12 +21,6 @@
   <url>
     <loc>http://localhost:1313/2026/india-post-gds-recruitment-jan26/</loc>
     <lastmod>2026-03-07T19:00:27+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/idbi-bank-am-jam-recruitment-mar26/</loc>
-    <lastmod>2026-03-07T16:01:53+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
