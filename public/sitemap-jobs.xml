@@ -8,6 +8,54 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/upsssc-pharmacist-recruitment-mar26/</loc>
+    <lastmod>2026-03-09T12:55:47Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2026/bsnl-set-recruitment-jan26/</loc>
+    <lastmod>2026-03-09T12:53:39Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/rbi-assistant-recruitment-feb26/</loc>
+    <lastmod>2026-03-09T12:51:54Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-lekhpal-recruitment-dec25/</loc>
+    <lastmod>2026-03-09T12:47:52Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/up-police-si-admitcard-2025/</loc>
+    <lastmod>2026-03-09T12:45:15Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/rrb-paramedical-various-posts-2025/</loc>
+    <lastmod>2026-03-09T12:41:58Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ssc-junior-engineer-je-vacancy-2025/</loc>
+    <lastmod>2026-03-09T12:37:39Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ssc-chsl-2025/</loc>
+    <lastmod>2026-03-09T12:35:05Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bank/idbi-bank-am-jam-recruitment-mar26/</loc>
     <lastmod>2026-03-08T05:32:53Z</lastmod>
     <changefreq>daily</changefreq>
@@ -32,12 +80,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/up-police-si-admitcard-2025/</loc>
-    <lastmod>2026-03-07T06:56:48Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/mp/mp-bhulekh-data-entry-operator-deo-vacancy-2026/</loc>
     <lastmod>2026-03-05T04:15:49Z</lastmod>
     <changefreq>daily</changefreq>
@@ -56,12 +98,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/rrb-paramedical-various-posts-2025/</loc>
-    <lastmod>2026-03-04T12:12:38Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/rrb-je-recruitment-sep-2025/</loc>
     <lastmod>2026-03-04T12:07:55Z</lastmod>
     <changefreq>daily</changefreq>
@@ -76,12 +112,6 @@
   <url>
     <loc>http://localhost:1313/bihar/csbc-constable-operator-recruitment-feb26/</loc>
     <lastmod>2026-03-01T06:54:42Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-pharmacist-recruitment-mar26/</loc>
-    <lastmod>2026-03-01T06:53:46Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -202,12 +232,6 @@
   <url>
     <loc>http://localhost:1313/mp/mppsc-atp-recruitment-feb26/</loc>
     <lastmod>2026-02-20T11:41:16Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/rbi-assistant-recruitment-feb26/</loc>
-    <lastmod>2026-02-16T14:15:20Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -338,12 +362,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/2026/bsnl-set-recruitment-jan26/</loc>
-    <lastmod>2026-02-05T04:23:29Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bihar/bpsc-auditor-recruitment-jan26/</loc>
     <lastmod>2026-02-05T04:23:06Z</lastmod>
     <changefreq>daily</changefreq>
@@ -436,12 +454,6 @@
   <url>
     <loc>http://localhost:1313/Jharkhand/jpsc-drug-inspector-recruitment-jan26/</loc>
     <lastmod>2026-01-29T07:16:19Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-lekhpal-recruitment-dec25/</loc>
-    <lastmod>2026-01-29T05:37:49Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -842,12 +854,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/ssc-junior-engineer-je-vacancy-2025/</loc>
-    <lastmod>2025-12-20T05:01:23Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/mp/mppkvvcl-line-attendant-recruitment-dec25/</loc>
     <lastmod>2025-12-20T05:00:45Z</lastmod>
     <changefreq>daily</changefreq>
@@ -976,12 +982,6 @@
   <url>
     <loc>http://localhost:1313/jobs/ibps-specialist-officer-so-15th-vacancy-2025/</loc>
     <lastmod>2025-12-10T11:35:12Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/ssc-chsl-result-2025/</loc>
-    <lastmod>2025-12-09T05:04:30Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
