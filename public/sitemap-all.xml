@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-09T12:56:05Z</lastmod>
+    <lastmod>2026-03-10T06:15:11Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/education/mp-board-10th-12th-result-2026/</loc>
+    <lastmod>2026-03-10T11:37:11+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/up/upsssc-pharmacist-recruitment-mar26/</loc>
@@ -669,12 +675,6 @@
   <url>
     <loc>http://localhost:1313/jobs/nabard-development-assistant-recruitment-jan26/</loc>
     <lastmod>2026-01-17T13:09:42+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/education/mp-board-10th-12th-admit-card-2026/</loc>
-    <lastmod>2026-01-17T12:19:06+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
