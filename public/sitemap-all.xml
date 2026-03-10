@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-10T07:34:07Z</lastmod>
+    <lastmod>2026-03-10T10:30:24Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/education/bihar-board-10th-12th-result-2026/</loc>
-    <lastmod>2026-03-10T12:39:49+05:30</lastmod>
+    <loc>http://localhost:1313/education/mp-board-10th-12th-result-2026/</loc>
+    <lastmod>2026-03-10T15:49:28+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/education/mp-board-10th-12th-result-2026/</loc>
-    <lastmod>2026-03-10T11:37:11+05:30</lastmod>
+    <loc>http://localhost:1313/education/up-board-10th-12th-result-2026/</loc>
+    <lastmod>2026-03-10T15:47:20+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/education/bihar-board-10th-12th-result-2026/</loc>
+    <lastmod>2026-03-10T12:39:49+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
