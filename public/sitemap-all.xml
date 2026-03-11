@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-10T10:30:24Z</lastmod>
+    <lastmod>2026-03-11T05:03:56Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/admission/shramodaya-admission-test-2026%E2%80%9327/</loc>
+    <lastmod>2026-03-11T10:32:16+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/admission/soe-som-class-9-admission-2026%E2%80%9327/</loc>
+    <lastmod>2026-03-11T10:29:53+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/education/mp-board-10th-12th-result-2026/</loc>
@@ -487,12 +499,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/admission/soe-som-class-9-admission-2026%E2%80%9327/</loc>
-    <lastmod>2026-02-04T12:34:43+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bihar/bpssc-radio-asi-recruitment-feb26/</loc>
     <lastmod>2026-02-04T10:44:29+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -663,12 +669,6 @@
   <url>
     <loc>http://localhost:1313/bank/uco-bank-generalist-specialist-officers-recruitment-jan26/</loc>
     <lastmod>2026-01-20T14:45:52+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/admission/shramodaya-admission-test-2026%E2%80%9327/</loc>
-    <lastmod>2026-01-20T11:20:14+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
