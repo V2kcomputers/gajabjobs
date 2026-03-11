@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-11T05:03:56Z</lastmod>
+    <lastmod>2026-03-11T06:11:46Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/force/indian-navy-ssr-medical-02-2027/</loc>
+    <lastmod>2026-03-11T10:32:16+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/admission/shramodaya-admission-test-2026%E2%80%9327/</loc>
