@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/mp/mpesb-group-5-recruitment-mar26/</loc>
+    <lastmod>2026-03-12T07:44:15Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/force/indian-navy-agniveer-mr-ssr-inet-2026/</loc>
     <lastmod>2026-03-11T07:18:46Z</lastmod>
     <changefreq>daily</changefreq>
