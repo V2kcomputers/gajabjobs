@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/mp/mpesb-asi-hc-computer-recruitment-feb26/</loc>
+    <lastmod>2026-03-18T12:39:22Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/bpsc-33rd-judicial-services-recruitment-feb26/</loc>
+    <lastmod>2026-03-18T12:37:11Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/railway/rrb-alp-recruitment-mar26/</loc>
     <lastmod>2026-03-17T14:12:20Z</lastmod>
     <changefreq>daily</changefreq>
@@ -242,12 +254,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bihar/bpsc-33rd-judicial-services-recruitment-feb26/</loc>
-    <lastmod>2026-02-25T06:00:24Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/2026/aiims-norcet-10th-nursing-officer-feb26/</loc>
     <lastmod>2026-02-24T13:04:15Z</lastmod>
     <changefreq>daily</changefreq>
@@ -424,12 +430,6 @@
   <url>
     <loc>http://localhost:1313/bihar/csbc-bihar-police-constable-recruitment-jan26/</loc>
     <lastmod>2026-02-06T06:52:23Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-asi-hc-computer-recruitment-feb26/</loc>
-    <lastmod>2026-02-05T04:23:51Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
