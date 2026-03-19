@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-19T06:52:07Z</lastmod>
+    <lastmod>2026-03-19T09:06:31Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/emrs-teaching-non-teaching-result-2025/</loc>
+    <lastmod>2026-03-19T14:34:06+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2025/ncert-non-academic-recruitment-dec25/</loc>
+    <lastmod>2026-03-19T14:30:47+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/admission/bihar-iti-cat-2026/</loc>
@@ -345,12 +357,6 @@
   <url>
     <loc>http://localhost:1313/railway/rrb-section-controller-vacancy-2025/</loc>
     <lastmod>2026-02-26T11:21:13+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/emrs-teaching-non-teaching-result-2025/</loc>
-    <lastmod>2026-02-25T14:49:59+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -813,12 +819,6 @@
   <url>
     <loc>http://localhost:1313/bihar/bpsc-acf-recruitment-jan26/</loc>
     <lastmod>2026-01-16T15:55:24+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/2025/ncert-non-academic-recruitment-dec25/</loc>
-    <lastmod>2026-01-16T15:51:47+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
