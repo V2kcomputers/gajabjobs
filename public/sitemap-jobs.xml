@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/mp/mppsc-adpo-recruitment-mar26/</loc>
+    <lastmod>2026-03-20T07:24:17Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mppsc-veo-recruitment-mar26/</loc>
     <lastmod>2026-03-20T06:31:12Z</lastmod>
     <changefreq>daily</changefreq>
