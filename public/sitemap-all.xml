@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-20T09:50:40Z</lastmod>
+    <lastmod>2026-03-21T05:33:55Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/rrb-paramedical-various-posts-2025/</loc>
+    <lastmod>2026-03-21T10:59:30+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/rrb-technician-2025/</loc>
+    <lastmod>2026-03-21T10:56:51+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/drdo/drdo-ceptam-11-recruitment-dec25/</loc>
+    <lastmod>2026-03-21T10:54:52+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/mp/mppsc-scientific-officer-pcb-mar26/</loc>
@@ -81,12 +99,6 @@
   <url>
     <loc>http://localhost:1313/admission/bihar-iti-cat-2026/</loc>
     <lastmod>2026-03-19T12:20:11+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/rrb-technician-2025/</loc>
-    <lastmod>2026-03-19T10:31:31+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -279,12 +291,6 @@
   <url>
     <loc>http://localhost:1313/jobs/up-police-si-admitcard-2025/</loc>
     <lastmod>2026-03-09T18:15:15+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/rrb-paramedical-various-posts-2025/</loc>
-    <lastmod>2026-03-09T18:11:58+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1005,12 +1011,6 @@
   <url>
     <loc>http://localhost:1313/jobs/ssc-delhi-police-constable-driver-admit-card-2025/</loc>
     <lastmod>2025-12-31T19:24:13+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/drdo/drdo-ceptam-11-recruitment-dec25/</loc>
-    <lastmod>2025-12-31T18:20:19+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
