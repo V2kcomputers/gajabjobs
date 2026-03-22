@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-22T10:16:47Z</lastmod>
+    <lastmod>2026-03-22T13:08:07Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/admission/super-100-examination-form-2026/</loc>
+    <lastmod>2026-03-22T18:36:02+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/mp-fsl-recruitment-2026/</loc>
@@ -357,12 +363,6 @@
   <url>
     <loc>http://localhost:1313/2026/india-post-gds-recruitment-jan26/</loc>
     <lastmod>2026-03-07T19:00:27+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/admission/super-100-examination-form-2026/</loc>
-    <lastmod>2026-03-07T12:32:17+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
