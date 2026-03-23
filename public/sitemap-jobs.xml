@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/mp/mp-bhulekh-data-entry-operator-deo-vacancy-2026/</loc>
+    <lastmod>2026-03-23T08:56:59Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2026/bsnl-set-recruitment-jan26/</loc>
+    <lastmod>2026-03-23T08:55:21Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/mp-fsl-recruitment-2026/</loc>
     <lastmod>2026-03-22T10:13:15Z</lastmod>
     <changefreq>daily</changefreq>
@@ -158,12 +170,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mp/mp-bhulekh-data-entry-operator-deo-vacancy-2026/</loc>
-    <lastmod>2026-03-15T06:41:59Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/force/indian-navy-ssr-medical-02-2027/</loc>
     <lastmod>2026-03-15T06:39:03Z</lastmod>
     <changefreq>daily</changefreq>
@@ -202,12 +208,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-pharmacist-recruitment-mar26/</loc>
     <lastmod>2026-03-09T12:55:47Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/2026/bsnl-set-recruitment-jan26/</loc>
-    <lastmod>2026-03-09T12:53:39Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>

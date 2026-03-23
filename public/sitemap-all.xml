@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-23T08:40:59Z</lastmod>
+    <lastmod>2026-03-23T08:57:05Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mp-bhulekh-data-entry-operator-deo-vacancy-2026/</loc>
+    <lastmod>2026-03-23T14:26:59+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2026/bsnl-set-recruitment-jan26/</loc>
+    <lastmod>2026-03-23T14:25:21+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/education/bihar-board-10th-12th-result-2026/</loc>
@@ -229,12 +241,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mp/mp-bhulekh-data-entry-operator-deo-vacancy-2026/</loc>
-    <lastmod>2026-03-15T12:11:59+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/force/indian-navy-ssr-medical-02-2027/</loc>
     <lastmod>2026-03-15T12:09:03+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -303,12 +309,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-pharmacist-recruitment-mar26/</loc>
     <lastmod>2026-03-09T18:25:47+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/2026/bsnl-set-recruitment-jan26/</loc>
-    <lastmod>2026-03-09T18:23:39+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
