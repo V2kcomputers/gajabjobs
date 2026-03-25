@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-25T07:59:27Z</lastmod>
+    <lastmod>2026-03-25T08:37:37Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://localhost:1313/education/mp-board-5th-8th-result-2026/</loc>
-    <lastmod>2026-03-25T10:29:01+05:30</lastmod>
+    <lastmod>2026-03-25T14:07:29+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/education/rajasthan-board-5th-8th-10th-result-2026/</loc>
+    <lastmod>2026-03-25T10:35:01+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -129,12 +135,6 @@
   <url>
     <loc>http://localhost:1313/education/mp-board-10th-12th-result-2026/</loc>
     <lastmod>2026-03-20T10:14:53+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/education/rajasthan-board-10th-12th-result-2026/</loc>
-    <lastmod>2026-03-20T10:10:43+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
