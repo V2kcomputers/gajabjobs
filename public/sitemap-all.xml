@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-25T14:44:40Z</lastmod>
+    <lastmod>2026-03-26T05:56:37Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/mp-police-si-subedar-recruitment-2025/</loc>
+    <lastmod>2026-03-26T11:24:41+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/education/bihar-board-10th-12th-result-2026/</loc>
+    <lastmod>2026-03-26T11:22:11+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/bank/up-co-operative-bank-mar26/</loc>
@@ -39,12 +51,6 @@
   <url>
     <loc>http://localhost:1313/2026/bsnl-set-recruitment-jan26/</loc>
     <lastmod>2026-03-23T14:25:21+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/education/bihar-board-10th-12th-result-2026/</loc>
-    <lastmod>2026-03-23T10:50:27+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -213,12 +219,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-assistant-boring-technician-mar26/</loc>
     <lastmod>2026-03-17T19:02:03+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/mp-police-si-subedar-recruitment-2025/</loc>
-    <lastmod>2026-03-17T15:28:01+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
