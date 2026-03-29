@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-28T06:09:55Z</lastmod>
+    <lastmod>2026-03-29T04:53:51Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/education/bihar-board-10th-12th-result-2026/</loc>
+    <lastmod>2026-03-29T10:22:14+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/bank/idbi-specialist-officer-recruitment-mar26/</loc>
@@ -27,12 +33,6 @@
   <url>
     <loc>http://localhost:1313/jobs/mp-police-si-subedar-recruitment-2025/</loc>
     <lastmod>2026-03-26T11:24:41+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/education/bihar-board-10th-12th-result-2026/</loc>
-    <lastmod>2026-03-26T11:22:11+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
