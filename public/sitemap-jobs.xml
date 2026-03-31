@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bank/punjab-and-sind-bank-lbo-recruitment-2026/</loc>
+    <lastmod>2026-03-31T09:58:05Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/up/upsssc-lower-pcs-recruitment-mar26/</loc>
     <lastmod>2026-03-31T07:41:34Z</lastmod>
     <changefreq>daily</changefreq>
