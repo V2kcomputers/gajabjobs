@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-31T05:05:54Z</lastmod>
+    <lastmod>2026-03-31T06:56:29Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/force/indian-army-agniveer-rally-recruitment-feb26/</loc>
+    <lastmod>2026-03-31T12:25:38+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/ctet-february-2026/</loc>
+    <lastmod>2026-03-31T12:23:15+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/jee-mains-2026-session-2/</loc>
+    <lastmod>2026-03-31T12:20:59+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/education/mp-class-9th-and-11th-result-2026/</loc>
@@ -87,12 +105,6 @@
   <url>
     <loc>http://localhost:1313/jobs/mp-fsl-recruitment-2026/</loc>
     <lastmod>2026-03-22T15:43:15+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/eligibility/jee-mains-2026-session-2/</loc>
-    <lastmod>2026-03-22T12:09:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -445,12 +457,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/eligibility/ctet-february-2026/</loc>
-    <lastmod>2026-02-27T15:13:07+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bihar/bpsc-apo-recruitment-feb26/</loc>
     <lastmod>2026-02-27T10:56:01+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -573,12 +579,6 @@
   <url>
     <loc>http://localhost:1313/upsc/upsc-ies-iss-recruitment-feb26/</loc>
     <lastmod>2026-02-13T12:32:43+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/force/indian-army-agniveer-rally-recruitment-feb26/</loc>
-    <lastmod>2026-02-13T11:53:47+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

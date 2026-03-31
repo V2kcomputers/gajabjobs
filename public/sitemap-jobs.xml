@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/force/indian-army-agniveer-rally-recruitment-feb26/</loc>
+    <lastmod>2026-03-31T06:55:38Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bank/idbi-specialist-officer-recruitment-mar26/</loc>
     <lastmod>2026-03-28T06:06:48Z</lastmod>
     <changefreq>daily</changefreq>
@@ -424,12 +430,6 @@
   <url>
     <loc>http://localhost:1313/upsc/upsc-ies-iss-recruitment-feb26/</loc>
     <lastmod>2026-02-13T07:02:43Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/force/indian-army-agniveer-rally-recruitment-feb26/</loc>
-    <lastmod>2026-02-13T06:23:47Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
