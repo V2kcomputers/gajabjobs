@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/upsssc-lower-pcs-recruitment-mar26/</loc>
+    <lastmod>2026-03-31T07:41:34Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/force/indian-army-agniveer-rally-recruitment-feb26/</loc>
     <lastmod>2026-03-31T06:55:38Z</lastmod>
     <changefreq>daily</changefreq>
