@@ -8,6 +8,24 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/mp/mp-bhulekh-data-entry-operator-deo-vacancy-2026/</loc>
+    <lastmod>2026-04-01T11:24:29Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/mp-fsl-recruitment-2026/</loc>
+    <lastmod>2026-04-01T11:24:29Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/phc-technical-assistant-recruitment-2026/</loc>
+    <lastmod>2026-04-01T11:24:29Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/force/itbp-constable-barber-washerman-recruitment-2026/</loc>
     <lastmod>2026-04-01T07:39:25Z</lastmod>
     <changefreq>daily</changefreq>
@@ -16,12 +34,6 @@
   <url>
     <loc>http://localhost:1313/force/indian-navy-agniveer-mr-musician-02-2026/</loc>
     <lastmod>2026-03-31T13:20:49Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bihar/phc-technical-assistant-recruitment-2026/</loc>
-    <lastmod>2026-03-31T10:43:27Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -74,20 +86,8 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mp/mp-bhulekh-data-entry-operator-deo-vacancy-2026/</loc>
-    <lastmod>2026-03-23T08:56:59Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/2026/bsnl-set-recruitment-jan26/</loc>
     <lastmod>2026-03-23T08:55:21Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/mp-fsl-recruitment-2026/</loc>
-    <lastmod>2026-03-22T10:13:15Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
