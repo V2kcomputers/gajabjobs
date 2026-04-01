@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/upsssc-pharmacist-recruitment-mar26/</loc>
+    <lastmod>2026-04-01T12:57:57Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mp-bhulekh-data-entry-operator-deo-vacancy-2026/</loc>
     <lastmod>2026-04-01T11:24:29Z</lastmod>
     <changefreq>daily</changefreq>
@@ -262,12 +268,6 @@
   <url>
     <loc>http://localhost:1313/upsc/upsc-combined-medical-services-cms-mar26/</loc>
     <lastmod>2026-03-12T08:10:19Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-pharmacist-recruitment-mar26/</loc>
-    <lastmod>2026-03-09T12:55:47Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -1228,12 +1228,6 @@
   <url>
     <loc>http://localhost:1313/mp/mppsc-principal-grade-2-recruitment-nov25/</loc>
     <lastmod>2025-12-01T07:11:18Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mp-panchayat-sachiv-recruitment-nov25/</loc>
-    <lastmod>2025-11-30T10:19:04Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>

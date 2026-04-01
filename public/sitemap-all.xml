@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-01T11:25:17Z</lastmod>
+    <lastmod>2026-04-01T13:00:48Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-pharmacist-recruitment-mar26/</loc>
+    <lastmod>2026-04-01T18:27:57+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mp-gram-panchayat-sachiv-bharti-2026/</loc>
+    <lastmod>2026-04-01T18:15:35+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/mp/mp-bhulekh-data-entry-operator-deo-vacancy-2026/</loc>
@@ -381,12 +393,6 @@
   <url>
     <loc>http://localhost:1313/education/up-board-10th-12th-result-2026/</loc>
     <lastmod>2026-03-10T15:47:20+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-pharmacist-recruitment-mar26/</loc>
-    <lastmod>2026-03-09T18:25:47+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1551,12 +1557,6 @@
   <url>
     <loc>http://localhost:1313/mp/mppsc-principal-grade-2-recruitment-nov25/</loc>
     <lastmod>2025-12-01T12:41:18+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mp-panchayat-sachiv-recruitment-nov25/</loc>
-    <lastmod>2025-11-30T15:49:04+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
