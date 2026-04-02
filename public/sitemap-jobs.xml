@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/mp/mppsc-veo-recruitment-mar26/</loc>
+    <lastmod>2026-04-02T03:51:05Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-pcb-various-post-mar26/</loc>
+    <lastmod>2026-04-02T03:50:41Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/up/upsssc-pharmacist-recruitment-mar26/</loc>
     <lastmod>2026-04-01T12:57:57Z</lastmod>
     <changefreq>daily</changefreq>
@@ -158,12 +170,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mp/mppsc-veo-recruitment-mar26/</loc>
-    <lastmod>2026-03-20T06:31:12Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/emrs-teaching-non-teaching-result-2025/</loc>
     <lastmod>2026-03-19T09:04:06Z</lastmod>
     <changefreq>daily</changefreq>
@@ -256,12 +262,6 @@
   <url>
     <loc>http://localhost:1313/2026/ahc-private-secretary-grade-i-mar26/</loc>
     <lastmod>2026-03-12T10:44:03Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-pcb-various-post-mar26/</loc>
-    <lastmod>2026-03-12T08:49:08Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>

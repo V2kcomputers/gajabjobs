@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-01T13:05:14Z</lastmod>
+    <lastmod>2026-04-02T03:53:15Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/admission/mp-rte-admission-2026-27/</loc>
+    <lastmod>2026-04-02T09:21:37+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mppsc-veo-recruitment-mar26/</loc>
+    <lastmod>2026-04-02T09:21:05+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-pcb-various-post-mar26/</loc>
+    <lastmod>2026-04-02T09:20:41+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/up/upsssc-pharmacist-recruitment-mar26/</loc>
@@ -211,12 +229,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mp/mppsc-veo-recruitment-mar26/</loc>
-    <lastmod>2026-03-20T12:01:12+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/admission/kvs-class-1-admission-form-2026/</loc>
     <lastmod>2026-03-20T10:14:53+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -343,12 +355,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/admission/mp-rte-admission-2026-27/</loc>
-    <lastmod>2026-03-15T12:06:55+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/mp/mpesb-forest-guard-jail-prahari-recruitment-feb26/</loc>
     <lastmod>2026-03-15T12:06:55+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -363,12 +369,6 @@
   <url>
     <loc>http://localhost:1313/2026/ahc-private-secretary-grade-i-mar26/</loc>
     <lastmod>2026-03-12T16:14:03+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-pcb-various-post-mar26/</loc>
-    <lastmod>2026-03-12T14:19:08+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
