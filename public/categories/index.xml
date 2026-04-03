@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Gajab Jobs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Apr 2026 16:54:29 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 11:26:56 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MPESB</title>
+      <link>http://localhost:1313/categories/mpesb/</link>
+      <pubDate>Fri, 03 Apr 2026 11:26:56 +0530</pubDate>
+      <guid>http://localhost:1313/categories/mpesb/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Bihar</title>
       <link>http://localhost:1313/categories/bihar/</link>
