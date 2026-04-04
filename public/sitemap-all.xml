@@ -2,9 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-03T11:48:42Z</lastmod>
+    <lastmod>2026-04-04T01:01:42Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/nabard-development-assistant-recruitment-jan26/</loc>
+    <lastmod>2026-04-04T06:30:13+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/rbi-assistant-recruitment-feb26/</loc>
+    <lastmod>2026-04-04T06:28:18+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/bihar-bpsc-aedo-vacancy-2025/</loc>
+    <lastmod>2026-04-04T06:26:47+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/mp-police-si-subedar-recruitment-2025/</loc>
+    <lastmod>2026-04-04T06:24:56+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/upsc/upsc-nda-1-admit-card-2026/</loc>
+    <lastmod>2026-04-04T06:23:07+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/upsc/upsc-cds-1-admit-card-2026/</loc>
+    <lastmod>2026-04-04T06:21:37+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/mp/mp-police-band-bharti-2026/</loc>
@@ -153,12 +189,6 @@
   <url>
     <loc>http://localhost:1313/eligibility/uptet-2026/</loc>
     <lastmod>2026-03-27T16:45:21+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/mp-police-si-subedar-recruitment-2025/</loc>
-    <lastmod>2026-03-26T11:24:41+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -417,12 +447,6 @@
   <url>
     <loc>http://localhost:1313/education/up-board-10th-12th-result-2026/</loc>
     <lastmod>2026-03-10T15:47:20+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/rbi-assistant-recruitment-feb26/</loc>
-    <lastmod>2026-03-09T18:21:54+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -961,12 +985,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/nabard-development-assistant-recruitment-jan26/</loc>
-    <lastmod>2026-01-17T13:09:42+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bihar/bpsc-boiler-inspector-recruitment-jan26/</loc>
     <lastmod>2026-01-16T18:35:35+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -1051,12 +1069,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/upsc/upsc-nda-1-admit-card-2026/</loc>
-    <lastmod>2026-01-10T19:26:35+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/ssc/ssc-gd-constable-admit-card-2026/</loc>
     <lastmod>2026-01-10T19:13:34+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -1077,12 +1089,6 @@
   <url>
     <loc>http://localhost:1313/force/indian-army-ssc-tech-67th-men-recruitment-jan26/</loc>
     <lastmod>2026-01-09T11:29:32+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/upsc/upsc-cds-1-admit-card-2026/</loc>
-    <lastmod>2026-01-07T19:21:04+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1245,12 +1251,6 @@
   <url>
     <loc>http://localhost:1313/bihar/btsc-sports-trainer-recruitment-dec25/</loc>
     <lastmod>2025-12-24T10:58:32+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/bihar-bpsc-aedo-vacancy-2025/</loc>
-    <lastmod>2025-12-23T19:29:49+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

@@ -8,6 +8,42 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/nabard-development-assistant-recruitment-jan26/</loc>
+    <lastmod>2026-04-04T01:00:13Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/rbi-assistant-recruitment-feb26/</loc>
+    <lastmod>2026-04-04T00:58:18Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/bihar-bpsc-aedo-vacancy-2025/</loc>
+    <lastmod>2026-04-04T00:56:47Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/mp-police-si-subedar-recruitment-2025/</loc>
+    <lastmod>2026-04-04T00:54:56Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/upsc/upsc-nda-1-admit-card-2026/</loc>
+    <lastmod>2026-04-04T00:53:07Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/upsc/upsc-cds-1-admit-card-2026/</loc>
+    <lastmod>2026-04-04T00:51:37Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mp-police-band-bharti-2026/</loc>
     <lastmod>2026-04-03T11:44:04Z</lastmod>
     <changefreq>daily</changefreq>
@@ -94,12 +130,6 @@
   <url>
     <loc>http://localhost:1313/bank/bank-of-baroda-professional-wms-mar26/</loc>
     <lastmod>2026-03-28T05:23:14Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/mp-police-si-subedar-recruitment-2025/</loc>
-    <lastmod>2026-03-26T05:54:41Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -280,12 +310,6 @@
   <url>
     <loc>http://localhost:1313/upsc/upsc-combined-medical-services-cms-mar26/</loc>
     <lastmod>2026-03-12T08:10:19Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/rbi-assistant-recruitment-feb26/</loc>
-    <lastmod>2026-03-09T12:51:54Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -728,12 +752,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/nabard-development-assistant-recruitment-jan26/</loc>
-    <lastmod>2026-01-17T07:39:42Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bihar/bpsc-boiler-inspector-recruitment-jan26/</loc>
     <lastmod>2026-01-16T13:05:35Z</lastmod>
     <changefreq>daily</changefreq>
@@ -806,12 +824,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/upsc/upsc-nda-1-admit-card-2026/</loc>
-    <lastmod>2026-01-10T13:56:35Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/ssc/ssc-gd-constable-admit-card-2026/</loc>
     <lastmod>2026-01-10T13:43:34Z</lastmod>
     <changefreq>daily</changefreq>
@@ -832,12 +844,6 @@
   <url>
     <loc>http://localhost:1313/force/indian-army-ssc-tech-67th-men-recruitment-jan26/</loc>
     <lastmod>2026-01-09T05:59:32Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/upsc/upsc-cds-1-admit-card-2026/</loc>
-    <lastmod>2026-01-07T13:51:04Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -958,12 +964,6 @@
   <url>
     <loc>http://localhost:1313/bihar/btsc-sports-trainer-recruitment-dec25/</loc>
     <lastmod>2025-12-24T05:28:32Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/bihar-bpsc-aedo-vacancy-2025/</loc>
-    <lastmod>2025-12-23T13:59:49Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
