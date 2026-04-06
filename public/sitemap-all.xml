@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-06T06:28:20Z</lastmod>
+    <lastmod>2026-04-06T13:16:38Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-assistant-teacher-jtc-mar26/</loc>
+    <lastmod>2026-04-06T18:46:09+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/rrb-ntpc-graduate-level-recruitment-2025/</loc>
+    <lastmod>2026-04-06T18:41:49+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/mp/mpesb-nursing-officer-sister-tutor-recruitment-2026/</loc>
@@ -409,12 +421,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/up/upsssc-assistant-teacher-jtc-mar26/</loc>
-    <lastmod>2026-03-15T13:01:04+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/force/indian-navy-ssr-medical-02-2027/</loc>
     <lastmod>2026-03-15T12:09:03+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -495,12 +501,6 @@
   <url>
     <loc>http://localhost:1313/eligibility/nta-neet-ug-2026/</loc>
     <lastmod>2026-03-08T19:37:50+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/rrb-ntpc-graduate-level-recruitment-2025/</loc>
-    <lastmod>2026-03-07T19:03:10+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
