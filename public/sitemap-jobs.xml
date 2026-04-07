@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/bihar-brlps-jeevika-form-aug25/</loc>
+    <lastmod>2026-04-07T10:37:41Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cbse/cbse-group-a-b-c-posts-result-2025/</loc>
+    <lastmod>2026-04-07T10:37:41Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/up/upsssc-excise-constable-recruitment-2026/</loc>
     <lastmod>2026-04-06T13:59:38Z</lastmod>
     <changefreq>daily</changefreq>
@@ -536,12 +548,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/cbse/cbse-group-a-b-c-posts-result-2025/</loc>
-    <lastmod>2026-02-12T06:41:58Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/ib-security-assistant-2025/</loc>
     <lastmod>2026-02-10T11:28:49Z</lastmod>
     <changefreq>daily</changefreq>
@@ -1054,12 +1060,6 @@
   <url>
     <loc>http://localhost:1313/jobs/bihar-vidhan-parishad-office-attendant-driver-recruitment-2025/</loc>
     <lastmod>2025-12-19T04:55:44Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/bihar-brlps-jeevika-form-aug25/</loc>
-    <lastmod>2025-12-19T04:49:32Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
