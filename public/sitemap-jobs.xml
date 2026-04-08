@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bank/indian-bank-so-recruitment-2026/</loc>
+    <lastmod>2026-04-08T14:17:22Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jharkhand/jpsc-cce-2026/</loc>
     <lastmod>2026-04-08T06:45:46Z</lastmod>
     <changefreq>daily</changefreq>

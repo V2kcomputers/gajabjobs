@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Gajab Jobs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Apr 2026 19:29:38 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 19:17:02 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bank</title>
+      <link>http://localhost:1313/categories/bank/</link>
+      <pubDate>Wed, 08 Apr 2026 19:17:02 +0530</pubDate>
+      <guid>http://localhost:1313/categories/bank/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Upsssc</title>
       <link>http://localhost:1313/categories/upsssc/</link>
@@ -55,13 +62,6 @@
       <link>http://localhost:1313/categories/force/</link>
       <pubDate>Wed, 01 Apr 2026 13:09:25 +0530</pubDate>
       <guid>http://localhost:1313/categories/force/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bank</title>
-      <link>http://localhost:1313/categories/bank/</link>
-      <pubDate>Tue, 31 Mar 2026 15:28:05 +0530</pubDate>
-      <guid>http://localhost:1313/categories/bank/</guid>
       <description></description>
     </item>
   </channel>
