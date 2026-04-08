@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-07T10:41:35Z</lastmod>
+    <lastmod>2026-04-08T06:52:06Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jharkhand/jpsc-cce-2026/</loc>
+    <lastmod>2026-04-08T12:15:46+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/admission/ofss-11th-admission-2026/</loc>
+    <lastmod>2026-04-08T12:11:34+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/bihar-brlps-jeevika-form-aug25/</loc>
@@ -561,12 +573,6 @@
   <url>
     <loc>http://localhost:1313/jobs/kvs-nvs-recruitment-nov-2025/</loc>
     <lastmod>2026-02-28T15:22:50+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jharkhand/jpsc-cce-2026/</loc>
-    <lastmod>2026-02-27T15:15:56+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jharkhand/jpsc-cce-2026/</loc>
+    <lastmod>2026-04-08T06:45:46Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/bihar-brlps-jeevika-form-aug25/</loc>
     <lastmod>2026-04-07T10:37:41Z</lastmod>
     <changefreq>daily</changefreq>
@@ -418,12 +424,6 @@
   <url>
     <loc>http://localhost:1313/jobs/kvs-nvs-recruitment-nov-2025/</loc>
     <lastmod>2026-02-28T09:52:50Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jharkhand/jpsc-cce-2026/</loc>
-    <lastmod>2026-02-27T09:45:56Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
