@@ -2,9 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-08T15:14:21Z</lastmod>
+    <lastmod>2026-04-11T05:24:22Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mpesb-group-5-recruitment-mar26/</loc>
+    <lastmod>2026-04-11T10:51:10+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2026/india-post-gds-recruitment-jan26/</loc>
+    <lastmod>2026-04-11T10:46:20+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/force/indian-navy-agniveer-mr-musician-02-2026/</loc>
+    <lastmod>2026-04-11T10:46:20+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/mpesb-police-constable-vacancy-2025/</loc>
+    <lastmod>2026-04-11T10:46:20+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/admission/kvs-class-1-admission-form-2026/</loc>
@@ -201,12 +225,6 @@
   <url>
     <loc>http://localhost:1313/force/itbp-constable-barber-washerman-recruitment-2026/</loc>
     <lastmod>2026-04-01T13:09:25+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/force/indian-navy-agniveer-mr-musician-02-2026/</loc>
-    <lastmod>2026-03-31T18:50:49+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -439,12 +457,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mp/mpesb-group-5-recruitment-mar26/</loc>
-    <lastmod>2026-03-17T15:04:08+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/hr/haryana-police-constable-recruitment-jan26/</loc>
     <lastmod>2026-03-17T14:57:36+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -543,12 +555,6 @@
   <url>
     <loc>http://localhost:1313/eligibility/nta-neet-ug-2026/</loc>
     <lastmod>2026-03-08T19:37:50+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/2026/india-post-gds-recruitment-jan26/</loc>
-    <lastmod>2026-03-07T19:00:27+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -693,12 +699,6 @@
   <url>
     <loc>http://localhost:1313/bihar/btsc-dairy-field-officer-recruitment-feb26/</loc>
     <lastmod>2026-02-16T18:49:02+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/mpesb-police-constable-vacancy-2025/</loc>
-    <lastmod>2026-02-14T19:34:51+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

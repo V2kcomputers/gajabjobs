@@ -8,6 +8,30 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/mp/mpesb-group-5-recruitment-mar26/</loc>
+    <lastmod>2026-04-11T05:21:10Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2026/india-post-gds-recruitment-jan26/</loc>
+    <lastmod>2026-04-11T05:16:20Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/force/indian-navy-agniveer-mr-musician-02-2026/</loc>
+    <lastmod>2026-04-11T05:16:20Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/mpesb-police-constable-vacancy-2025/</loc>
+    <lastmod>2026-04-11T05:16:20Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/force/crpf-constable-tradesman-2026/</loc>
     <lastmod>2026-04-08T15:00:44Z</lastmod>
     <changefreq>daily</changefreq>
@@ -170,12 +194,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/force/indian-navy-agniveer-mr-musician-02-2026/</loc>
-    <lastmod>2026-03-31T13:20:49Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bank/punjab-and-sind-bank-lbo-recruitment-2026/</loc>
     <lastmod>2026-03-31T09:58:05Z</lastmod>
     <changefreq>daily</changefreq>
@@ -326,12 +344,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mp/mpesb-group-5-recruitment-mar26/</loc>
-    <lastmod>2026-03-17T09:34:08Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/hr/haryana-police-constable-recruitment-jan26/</loc>
     <lastmod>2026-03-17T09:27:36Z</lastmod>
     <changefreq>daily</changefreq>
@@ -394,12 +406,6 @@
   <url>
     <loc>http://localhost:1313/jobs/ssc-chsl-2025/</loc>
     <lastmod>2026-03-09T12:35:05Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/2026/india-post-gds-recruitment-jan26/</loc>
-    <lastmod>2026-03-07T13:30:27Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -520,12 +526,6 @@
   <url>
     <loc>http://localhost:1313/bihar/btsc-dairy-field-officer-recruitment-feb26/</loc>
     <lastmod>2026-02-16T13:19:02Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/mpesb-police-constable-vacancy-2025/</loc>
-    <lastmod>2026-02-14T14:04:51Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
