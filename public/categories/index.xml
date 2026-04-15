@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Gajab Jobs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Apr 2026 17:28:39 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 18:06:17 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026</title>
+      <link>http://localhost:1313/categories/2026/</link>
+      <pubDate>Wed, 15 Apr 2026 18:06:17 +0530</pubDate>
+      <guid>http://localhost:1313/categories/2026/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Uttar Pradesh</title>
       <link>http://localhost:1313/categories/uttar-pradesh/</link>
@@ -34,13 +41,6 @@
       <link>http://localhost:1313/categories/bihar/</link>
       <pubDate>Sat, 11 Apr 2026 15:45:40 +0530</pubDate>
       <guid>http://localhost:1313/categories/bihar/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>2026</title>
-      <link>http://localhost:1313/categories/2026/</link>
-      <pubDate>Sat, 11 Apr 2026 12:23:54 +0530</pubDate>
-      <guid>http://localhost:1313/categories/2026/</guid>
       <description></description>
     </item>
     <item>

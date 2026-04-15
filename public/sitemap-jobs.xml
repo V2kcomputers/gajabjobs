@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/2026/secl-grade-c-various-post-recruitment-2026/</loc>
+    <lastmod>2026-04-15T12:36:17Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-assistant-boring-technician-mar26/</loc>
+    <lastmod>2026-04-15T12:36:17Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/up/upsssc-vidhan-bhawan-guard-fireman-2026/</loc>
     <lastmod>2026-04-11T11:58:39Z</lastmod>
     <changefreq>daily</changefreq>
@@ -40,12 +52,6 @@
   <url>
     <loc>http://localhost:1313/bihar/btsc-laboratory-assistant-recruitment-2026/</loc>
     <lastmod>2026-04-11T10:15:40Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/2026/secl-grade-c-various-post-recruitment-2026/</loc>
-    <lastmod>2026-04-11T06:53:54Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -364,12 +370,6 @@
   <url>
     <loc>http://localhost:1313/bihar/bpsc-33rd-judicial-services-recruitment-feb26/</loc>
     <lastmod>2026-03-18T12:37:11Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-assistant-boring-technician-mar26/</loc>
-    <lastmod>2026-03-17T13:32:03Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
