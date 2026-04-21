@@ -2,9 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-20T10:24:28Z</lastmod>
+    <lastmod>2026-04-21T06:01:09Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/force/crpf-constable-tradesman-2026/</loc>
+    <lastmod>2026-04-21T11:30:17+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mp-police-band-bharti-2026/</loc>
+    <lastmod>2026-04-21T11:30:17+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-alp-recruitment-mar26/</loc>
+    <lastmod>2026-04-21T11:30:17+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/force/ssb-si-recruitment-mar26/</loc>
+    <lastmod>2026-04-21T11:28:30+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/force/ssb-paramedical-staff-mar26/</loc>
+    <lastmod>2026-04-21T11:25:59+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/force/ssb-head-constable-recruitment-mar26/</loc>
+    <lastmod>2026-04-21T11:25:59+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/force/ssb-constable-tradesman-recruitment-mar26/</loc>
+    <lastmod>2026-04-21T11:25:09+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/jee-mains-2026-session-2/</loc>
+    <lastmod>2026-04-21T11:22:27+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/bihar/btsc-instructor-recruitment-2026/</loc>
@@ -33,18 +81,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-havaldar-instructor-recruitment-2026/</loc>
     <lastmod>2026-04-20T10:47:00+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mp-police-band-bharti-2026/</loc>
-    <lastmod>2026-04-20T10:44:23+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/force/crpf-constable-tradesman-2026/</loc>
-    <lastmod>2026-04-20T10:43:17+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -241,12 +277,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/railway/rrb-alp-recruitment-mar26/</loc>
-    <lastmod>2026-04-06T11:56:47+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/railway/irfc-assistant-manager-recruitment-2026/</loc>
     <lastmod>2026-04-04T17:42:12+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -379,12 +409,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/eligibility/jee-mains-2026-session-2/</loc>
-    <lastmod>2026-03-31T12:20:59+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/education/mp-class-9th-and-11th-result-2026/</loc>
     <lastmod>2026-03-31T09:52:07+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -453,30 +477,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-assistant-statistical-officer-aso-mar26/</loc>
     <lastmod>2026-03-21T17:43:38+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/force/ssb-paramedical-staff-mar26/</loc>
-    <lastmod>2026-03-21T16:29:22+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/force/ssb-si-recruitment-mar26/</loc>
-    <lastmod>2026-03-21T15:01:38+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/force/ssb-head-constable-recruitment-mar26/</loc>
-    <lastmod>2026-03-21T14:57:04+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/force/ssb-constable-tradesman-recruitment-mar26/</loc>
-    <lastmod>2026-03-21T14:46:51+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
