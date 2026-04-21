@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bank/pnb-so-engineer-recruitment-2026/</loc>
+    <lastmod>2026-04-21T09:59:47Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mppsc-scientific-officer-pcb-mar26/</loc>
     <lastmod>2026-04-21T06:11:31Z</lastmod>
     <changefreq>daily</changefreq>

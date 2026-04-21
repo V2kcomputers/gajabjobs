@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-21T06:32:22Z</lastmod>
+    <lastmod>2026-04-21T10:06:37Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/pnb-so-engineer-recruitment-2026/</loc>
+    <lastmod>2026-04-21T15:29:47+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/mp/mppsc-scientific-officer-pcb-mar26/</loc>
