@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-21T10:06:37Z</lastmod>
+    <lastmod>2026-04-22T11:21:05Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/education/up-board-10th-12th-result-2026/</loc>
+    <lastmod>2026-04-22T16:48:01+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/up-home-guard-recruitment-2025/</loc>
+    <lastmod>2026-04-22T16:46:47+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/bank/pnb-so-engineer-recruitment-2026/</loc>
@@ -110,12 +122,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/mp-board-second-exam-form-2026/</loc>
-    <lastmod>2026-04-19T11:57:56+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/up-home-guard-recruitment-exam-date-2025/</loc>
     <lastmod>2026-04-19T11:57:56+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -627,12 +633,6 @@
   <url>
     <loc>http://localhost:1313/admission/soe-som-class-9-admission-2026%E2%80%9327/</loc>
     <lastmod>2026-03-11T10:29:53+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/education/up-board-10th-12th-result-2026/</loc>
-    <lastmod>2026-03-10T15:47:20+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
