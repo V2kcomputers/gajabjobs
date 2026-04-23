@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/ssc/ssc-cht-recruitment-2026/</loc>
+    <lastmod>2026-04-23T14:32:31Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mp-police-band-bharti-2026/</loc>
     <lastmod>2026-04-23T10:26:31Z</lastmod>
     <changefreq>daily</changefreq>
