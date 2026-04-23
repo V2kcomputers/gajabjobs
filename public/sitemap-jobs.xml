@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/mp/mp-police-band-bharti-2026/</loc>
+    <lastmod>2026-04-23T10:26:31Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mpesb-forest-guard-jail-prahari-recruitment-feb26/</loc>
+    <lastmod>2026-04-23T10:26:23Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/pgcil-diploma-trainee-recruitment-2026/</loc>
     <lastmod>2026-04-23T07:09:14Z</lastmod>
     <changefreq>daily</changefreq>
@@ -45,12 +57,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/force/crpf-constable-tradesman-2026/</loc>
-    <lastmod>2026-04-21T06:00:17Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mp-police-band-bharti-2026/</loc>
     <lastmod>2026-04-21T06:00:17Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
@@ -100,12 +106,6 @@
   <url>
     <loc>http://localhost:1313/2026/lic-hfl-junior-assistant-recruitment-2026/</loc>
     <lastmod>2026-04-20T06:33:51Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-forest-guard-jail-prahari-recruitment-feb26/</loc>
-    <lastmod>2026-04-20T06:20:48Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
