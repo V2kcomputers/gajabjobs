@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-22T14:46:25Z</lastmod>
+    <lastmod>2026-04-23T05:20:33Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-pcb-various-post-mar26/</loc>
+    <lastmod>2026-04-23T10:49:38+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/eligibility/jhtet-2026/</loc>
@@ -369,12 +375,6 @@
   <url>
     <loc>http://localhost:1313/mp/mppsc-veo-recruitment-mar26/</loc>
     <lastmod>2026-04-02T09:21:05+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-pcb-various-post-mar26/</loc>
-    <lastmod>2026-04-02T09:20:41+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
