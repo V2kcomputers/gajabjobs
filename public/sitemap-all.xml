@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-23T07:15:11Z</lastmod>
+    <lastmod>2026-04-23T10:13:17Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/education/up-board-10th-12th-result-2026/</loc>
+    <lastmod>2026-04-23T15:41:53+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/education/mp-board-10th-12th-result-2026/</loc>
+    <lastmod>2026-04-23T15:40:39+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/education/mp-class-9th-and-11th-result-2026/</loc>
+    <lastmod>2026-04-23T15:40:39+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/pgcil-diploma-trainee-recruitment-2026/</loc>
@@ -21,12 +39,6 @@
   <url>
     <loc>http://localhost:1313/eligibility/jhtet-2026/</loc>
     <lastmod>2026-04-22T20:12:38+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/education/up-board-10th-12th-result-2026/</loc>
-    <lastmod>2026-04-22T16:48:01+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -189,12 +201,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-assistant-boring-technician-mar26/</loc>
     <lastmod>2026-04-15T18:06:17+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/education/mp-board-10th-12th-result-2026/</loc>
-    <lastmod>2026-04-15T10:26:10+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -441,12 +447,6 @@
   <url>
     <loc>http://localhost:1313/eligibility/ctet-february-2026/</loc>
     <lastmod>2026-03-31T12:23:15+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/education/mp-class-9th-and-11th-result-2026/</loc>
-    <lastmod>2026-03-31T09:52:07+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
