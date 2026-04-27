@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/ssc/ssc-stenographer-2026/</loc>
+    <lastmod>2026-04-27T11:43:12Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/force/crpf-constable-tradesman-2026/</loc>
     <lastmod>2026-04-27T11:08:55Z</lastmod>
     <changefreq>daily</changefreq>
