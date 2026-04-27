@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/force/crpf-constable-tradesman-2026/</loc>
+    <lastmod>2026-04-27T11:08:55Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ssc/ssc-gd-constable-admit-card-2026/</loc>
+    <lastmod>2026-04-27T11:05:34Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/ssc/ssc-cht-recruitment-2026/</loc>
     <lastmod>2026-04-23T14:32:31Z</lastmod>
     <changefreq>daily</changefreq>
@@ -62,12 +74,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/force/crpf-constable-tradesman-2026/</loc>
-    <lastmod>2026-04-21T06:00:17Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/railway/rrb-alp-recruitment-mar26/</loc>
     <lastmod>2026-04-21T06:00:17Z</lastmod>
     <changefreq>daily</changefreq>
@@ -118,12 +124,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-havaldar-instructor-recruitment-2026/</loc>
     <lastmod>2026-04-20T05:17:00Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ssc/ssc-gd-constable-admit-card-2026/</loc>
-    <lastmod>2026-04-20T05:11:30Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>

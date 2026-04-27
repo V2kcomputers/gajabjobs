@@ -2,9 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-23T14:40:24Z</lastmod>
+    <lastmod>2026-04-27T11:11:27Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/nta-neet-ug-2026/</loc>
+    <lastmod>2026-04-27T16:39:51+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/force/crpf-constable-tradesman-2026/</loc>
+    <lastmod>2026-04-27T16:38:55+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/uptet-2026/</loc>
+    <lastmod>2026-04-27T16:37:25+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ssc/ssc-gd-constable-admit-card-2026/</loc>
+    <lastmod>2026-04-27T16:35:34+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/mp-board-second-exam-form-2026/</loc>
@@ -91,12 +115,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/force/crpf-constable-tradesman-2026/</loc>
-    <lastmod>2026-04-21T11:30:17+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/railway/rrb-alp-recruitment-mar26/</loc>
     <lastmod>2026-04-21T11:30:17+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -153,12 +171,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-havaldar-instructor-recruitment-2026/</loc>
     <lastmod>2026-04-20T10:47:00+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ssc/ssc-gd-constable-admit-card-2026/</loc>
-    <lastmod>2026-04-20T10:41:30+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -481,12 +493,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/eligibility/uptet-2026/</loc>
-    <lastmod>2026-03-27T16:45:21+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bank/up-co-operative-bank-mar26/</loc>
     <lastmod>2026-03-25T16:03:21+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -675,12 +681,6 @@
   <url>
     <loc>http://localhost:1313/jobs/ssc-chsl-2025/</loc>
     <lastmod>2026-03-09T18:05:05+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/eligibility/nta-neet-ug-2026/</loc>
-    <lastmod>2026-03-08T19:37:50+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
