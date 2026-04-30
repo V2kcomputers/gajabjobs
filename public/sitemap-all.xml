@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-28T06:33:58Z</lastmod>
+    <lastmod>2026-04-30T12:53:54Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mpesb-forest-guard-jail-prahari-recruitment-feb26/</loc>
+    <lastmod>2026-04-30T18:23:36+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mpesb-nursing-officer-sister-tutor-recruitment-2026/</loc>
+    <lastmod>2026-04-30T18:21:37+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/up/upsssc-forest-guard-wildlife-guard-2026/</loc>
@@ -63,12 +75,6 @@
   <url>
     <loc>http://localhost:1313/mp/mp-police-band-bharti-2026/</loc>
     <lastmod>2026-04-23T15:56:31+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-forest-guard-jail-prahari-recruitment-feb26/</loc>
-    <lastmod>2026-04-23T15:56:23+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -249,12 +255,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-vidhan-bhawan-guard-fireman-2026/</loc>
     <lastmod>2026-04-11T17:28:39+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-nursing-officer-sister-tutor-recruitment-2026/</loc>
-    <lastmod>2026-04-11T16:39:06+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
