@@ -6,20 +6,20 @@
     <description>Recent content in Categories on Gajab Jobs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2026 18:21:37 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 12:57:33 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Force</title>
+      <link>http://localhost:1313/categories/force/</link>
+      <pubDate>Sun, 03 May 2026 12:57:33 +0530</pubDate>
+      <guid>http://localhost:1313/categories/force/</guid>
+      <description></description>
+    </item>
     <item>
       <title>MPESB</title>
       <link>http://localhost:1313/categories/mpesb/</link>
       <pubDate>Thu, 30 Apr 2026 18:21:37 +0530</pubDate>
       <guid>http://localhost:1313/categories/mpesb/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Force</title>
-      <link>http://localhost:1313/categories/force/</link>
-      <pubDate>Mon, 27 Apr 2026 16:38:55 +0530</pubDate>
-      <guid>http://localhost:1313/categories/force/</guid>
       <description></description>
     </item>
     <item>
