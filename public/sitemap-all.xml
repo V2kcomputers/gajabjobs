@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-05-05T04:33:12Z</lastmod>
+    <lastmod>2026-05-08T12:05:57Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/education/mp-guest-teacher-atithi-shikshak-2026/</loc>
+    <lastmod>2026-05-08T17:35:04+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mpesb-hospital-assistant-recruitment-2026/</loc>
+    <lastmod>2026-05-08T17:35:04+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/admission/dte-mp-polytechnic-admission-2026/</loc>
@@ -73,12 +85,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/education/mp-guest-teacher-atithi-shikshak-2026/</loc>
-    <lastmod>2026-05-01T12:04:29+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/admission/mp-pat-2026/</loc>
     <lastmod>2026-05-01T10:19:53+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -87,12 +93,6 @@
   <url>
     <loc>http://localhost:1313/admission/mp-epravesh-collage-admission-form-2026/</loc>
     <lastmod>2026-05-01T09:49:12+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-hospital-assistant-recruitment-2026/</loc>
-    <lastmod>2026-04-30T19:27:43+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

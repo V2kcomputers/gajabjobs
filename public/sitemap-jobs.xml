@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/mp/mpesb-hospital-assistant-recruitment-2026/</loc>
+    <lastmod>2026-05-08T12:05:04Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/ssc/ssc-cht-recruitment-2026/</loc>
     <lastmod>2026-05-04T06:37:37Z</lastmod>
     <changefreq>daily</changefreq>
@@ -46,12 +52,6 @@
   <url>
     <loc>http://localhost:1313/bihar/bpssc-havildar-instructor-recruitment-2026/</loc>
     <lastmod>2026-05-03T07:21:21Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-hospital-assistant-recruitment-2026/</loc>
-    <lastmod>2026-04-30T13:57:43Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
