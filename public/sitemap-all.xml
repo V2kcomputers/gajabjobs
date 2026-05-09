@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-05-09T07:04:33Z</lastmod>
+    <lastmod>2026-05-09T10:31:07Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-assistant-statistical-officer-aso-mar26/</loc>
+    <lastmod>2026-05-09T15:58:41+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/indian-navy-ssc-executive-it-2026/</loc>
@@ -206,12 +212,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/mp/mppsc-scientific-officer-pcb-mar26/</loc>
-    <lastmod>2026-04-21T11:41:31+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-assistant-statistical-officer-aso-mar26/</loc>
     <lastmod>2026-04-21T11:41:31+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
