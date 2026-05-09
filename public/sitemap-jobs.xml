@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/mp/mpesb-asi-hc-computer-recruitment-feb26/</loc>
+    <lastmod>2026-05-09T11:02:54Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mpesb-nursing-officer-sister-tutor-recruitment-2026/</loc>
+    <lastmod>2026-05-09T11:00:56Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/up/upsssc-assistant-statistical-officer-aso-mar26/</loc>
     <lastmod>2026-05-09T10:28:41Z</lastmod>
     <changefreq>daily</changefreq>
@@ -76,12 +88,6 @@
   <url>
     <loc>http://localhost:1313/mp/mpesb-forest-guard-jail-prahari-recruitment-feb26/</loc>
     <lastmod>2026-04-30T12:53:36Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-nursing-officer-sister-tutor-recruitment-2026/</loc>
-    <lastmod>2026-04-30T12:51:37Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -478,12 +484,6 @@
   <url>
     <loc>http://localhost:1313/mp/mp-iti-training-officer-recruitment-jan26/</loc>
     <lastmod>2026-03-19T04:58:10Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-asi-hc-computer-recruitment-feb26/</loc>
-    <lastmod>2026-03-18T12:39:22Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
