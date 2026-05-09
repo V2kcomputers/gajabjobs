@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bihar/bpsc-72nd-pre-exam-2026/</loc>
+    <lastmod>2026-05-09T06:19:40Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mpesb-hospital-assistant-recruitment-2026/</loc>
     <lastmod>2026-05-08T12:05:04Z</lastmod>
     <changefreq>daily</changefreq>
