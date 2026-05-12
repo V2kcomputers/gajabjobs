@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/mp/mpesb-hospital-assistant-recruitment-2026/</loc>
+    <lastmod>2026-05-12T05:19:02Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-alp-recruitment-mar26/</loc>
+    <lastmod>2026-05-12T05:19:02Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mpesb-asi-hc-computer-recruitment-feb26/</loc>
     <lastmod>2026-05-09T11:02:54Z</lastmod>
     <changefreq>daily</changefreq>
@@ -34,12 +46,6 @@
   <url>
     <loc>http://localhost:1313/bihar/bpsc-72nd-pre-exam-2026/</loc>
     <lastmod>2026-05-09T06:19:40Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-hospital-assistant-recruitment-2026/</loc>
-    <lastmod>2026-05-08T12:05:04Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -136,12 +142,6 @@
   <url>
     <loc>http://localhost:1313/mp/mppsc-scientific-officer-pcb-mar26/</loc>
     <lastmod>2026-04-21T06:11:31Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-alp-recruitment-mar26/</loc>
-    <lastmod>2026-04-21T06:00:17Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
