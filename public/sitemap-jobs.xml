@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/railway/rrb-alp-recruitment-mar26/</loc>
+    <lastmod>2026-05-15T14:27:39Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/2026/coal-india-mt-recruitment-2026/</loc>
     <lastmod>2026-05-12T11:09:27Z</lastmod>
     <changefreq>daily</changefreq>
@@ -33,12 +39,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/mp/mpesb-hospital-assistant-recruitment-2026/</loc>
-    <lastmod>2026-05-12T05:19:02Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-alp-recruitment-mar26/</loc>
     <lastmod>2026-05-12T05:19:02Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
