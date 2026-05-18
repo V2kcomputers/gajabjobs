@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-05-18T12:04:40Z</lastmod>
+    <lastmod>2026-05-18T12:28:31Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2026/nfl-management-trainee-recruitment-2026/</loc>
+    <lastmod>2026-05-18T17:53:07+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/2026/nfl-field-representative-recruitment-2026/</loc>
