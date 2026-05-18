@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/2026/nfl-field-representative-recruitment-2026/</loc>
+    <lastmod>2026-05-18T11:59:49Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/up/upsssc-cane-supervisor-recruitment-2026/</loc>
     <lastmod>2026-05-18T11:05:13Z</lastmod>
     <changefreq>daily</changefreq>
