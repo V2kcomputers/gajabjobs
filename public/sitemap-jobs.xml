@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bihar/bpssc-asi-technical-recruitment-2026/</loc>
+    <lastmod>2026-05-19T14:53:26Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mpesb-hospital-assistant-recruitment-2026/</loc>
     <lastmod>2026-05-18T13:40:18Z</lastmod>
     <changefreq>daily</changefreq>
