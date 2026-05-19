@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://localhost:1313/apprentice/bob-apprentice-recruitment-may26/</loc>
+    <lastmod>2026-05-19T12:14:24+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/apprentice/sbi-apprentice-recruitment-may26/</loc>
     <lastmod>2026-05-19T11:53:41+05:30</lastmod>
     <changefreq>daily</changefreq>
