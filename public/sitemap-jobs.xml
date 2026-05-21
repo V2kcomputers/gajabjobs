@@ -8,7 +8,19 @@
     <priority>0.20</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/upsc-cds-ii-recruitment-2026/</loc>
+    <loc>http://localhost:1313/mp/mpesb-hospital-assistant-recruitment-2026/</loc>
+    <lastmod>2026-05-21T11:39:50Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mpesb-forest-guard-jail-prahari-recruitment-feb26/</loc>
+    <lastmod>2026-05-21T11:35:19Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/upsc/upsc-cds-ii-recruitment-2026/</loc>
     <lastmod>2026-05-21T11:04:38Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
@@ -22,12 +34,6 @@
   <url>
     <loc>http://localhost:1313/bihar/bpssc-asi-technical-recruitment-2026/</loc>
     <lastmod>2026-05-19T14:53:26Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-hospital-assistant-recruitment-2026/</loc>
-    <lastmod>2026-05-18T13:40:18Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -160,12 +166,6 @@
   <url>
     <loc>http://localhost:1313/bihar/bpssc-havildar-instructor-recruitment-2026/</loc>
     <lastmod>2026-05-03T07:21:21Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-forest-guard-jail-prahari-recruitment-feb26/</loc>
-    <lastmod>2026-04-30T12:53:36Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
