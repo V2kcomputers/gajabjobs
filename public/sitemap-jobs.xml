@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/upsssc-technical-assistant-group-c-2026/</loc>
+    <lastmod>2026-05-23T12:51:21Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mpesb-hospital-assistant-recruitment-2026/</loc>
     <lastmod>2026-05-21T11:39:50Z</lastmod>
     <changefreq>daily</changefreq>
@@ -496,12 +502,6 @@
   <url>
     <loc>http://localhost:1313/bank/up-co-operative-bank-mar26/</loc>
     <lastmod>2026-03-25T10:33:21Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-technical-assistant-group-c-mar26/</loc>
-    <lastmod>2026-03-25T09:27:10Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
