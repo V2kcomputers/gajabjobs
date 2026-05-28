@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/rj/rpsc-apo-recruitment-2026/</loc>
+    <lastmod>2026-05-28T06:45:53Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/rj/rpsc-ras-recruitment-2026/</loc>
     <lastmod>2026-05-28T05:54:05Z</lastmod>
     <changefreq>daily</changefreq>
