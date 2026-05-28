@@ -2,9 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-05-26T05:46:16Z</lastmod>
+    <lastmod>2026-05-28T04:19:03Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mpesb-forest-guard-jail-prahari-recruitment-feb26/</loc>
+    <lastmod>2026-05-28T09:48:14+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/rbi-junior-engineer-recruitment-2026/</loc>
+    <lastmod>2026-05-28T09:46:41+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/rbi-assistant-recruitment-feb26/</loc>
+    <lastmod>2026-05-28T09:40:20+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ssc/ssc-gd-constable-admit-card-2026/</loc>
+    <lastmod>2026-05-28T09:39:31+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/admission/mp-iti-admission-2026/</loc>
@@ -57,12 +81,6 @@
   <url>
     <loc>http://localhost:1313/mp/mpesb-hospital-assistant-recruitment-2026/</loc>
     <lastmod>2026-05-21T17:09:50+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-forest-guard-jail-prahari-recruitment-feb26/</loc>
-    <lastmod>2026-05-21T17:05:19+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -170,12 +188,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/jobs/rrb-ntpc-inter-level-recruitment-sep-2025/</loc>
-    <lastmod>2026-05-12T16:00:59+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ssc/ssc-gd-constable-admit-card-2026/</loc>
     <lastmod>2026-05-12T16:00:59+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -403,12 +415,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bank/rbi-junior-engineer-recruitment-2026/</loc>
-    <lastmod>2026-04-16T12:31:25+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/mp-board-retotaling-answerbook-form-2026/</loc>
     <lastmod>2026-04-15T19:47:43+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -561,12 +567,6 @@
   <url>
     <loc>http://localhost:1313/jobs/nabard-development-assistant-recruitment-jan26/</loc>
     <lastmod>2026-04-04T06:30:13+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/rbi-assistant-recruitment-feb26/</loc>
-    <lastmod>2026-04-04T06:28:18+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
