@@ -28,6 +28,7 @@
 <link rel="preload" as="style" href="{{ .Params.cssStyle | relURL }}" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="{{ .Params.cssStyle | relURL }}"></noscript>
 {{ end }}
+{{ partial "imp-codes/onesignal.html" . }}
 </head>
 
  
