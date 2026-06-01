@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/rj/rpsc-school-lecturer-special-2026/</loc>
+    <lastmod>2026-06-01T03:09:47Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-pcb-various-post-mar26/</loc>
+    <lastmod>2026-06-01T03:09:47Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bihar/btsc-food-analyst-recruitment-2026/</loc>
     <lastmod>2026-05-31T04:52:38Z</lastmod>
     <changefreq>daily</changefreq>
@@ -46,12 +58,6 @@
   <url>
     <loc>http://localhost:1313/rj/rpsc-ras-recruitment-2026/</loc>
     <lastmod>2026-05-28T05:54:05Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/rj/rpsc-school-lecturer-special-2026/</loc>
-    <lastmod>2026-05-28T05:20:43Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -262,12 +268,6 @@
   <url>
     <loc>http://localhost:1313/jobs/pgcil-diploma-trainee-recruitment-2026/</loc>
     <lastmod>2026-04-23T07:09:14Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-pcb-various-post-mar26/</loc>
-    <lastmod>2026-04-23T05:19:38Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
