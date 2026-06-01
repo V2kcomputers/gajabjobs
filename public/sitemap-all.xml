@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-01T08:00:42Z</lastmod>
+    <lastmod>2026-06-01T11:23:43Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/up-police-constable-recruitment-dec25/</loc>
+    <lastmod>2026-06-01T16:51:49+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/up/ahc-ro-aro-ca-recruitment-2026/</loc>
@@ -1221,12 +1227,6 @@
   <url>
     <loc>http://localhost:1313/rj/rajasthan-vanpal-recruitment-jan26/</loc>
     <lastmod>2026-02-03T19:44:58+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/up-police-constable-recruitment-dec25/</loc>
-    <lastmod>2026-02-03T19:42:45+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
