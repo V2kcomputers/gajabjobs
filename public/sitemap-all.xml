@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-01T07:15:00Z</lastmod>
+    <lastmod>2026-06-01T08:00:42Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/ahc-ro-aro-ca-recruitment-2026/</loc>
+    <lastmod>2026-06-01T13:25:47+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/delhi/dsssb-03-2026/</loc>
