@@ -2,9 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-02T13:43:45Z</lastmod>
+    <lastmod>2026-06-03T06:38:31Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/bpsc-stenographer-recruitment-jan26/</loc>
+    <lastmod>2026-06-03T12:03:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/apprentice/bob-apprentice-recruitment-may26/</loc>
+    <lastmod>2026-06-03T12:01:09+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/apprentice/sbi-apprentice-recruitment-may26/</loc>
+    <lastmod>2026-06-03T12:01:09+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/upsc/upsc-nda-ii-recruitment-2026/</loc>
+    <lastmod>2026-06-03T12:01:09+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/jhtet-2026/</loc>
+    <lastmod>2026-06-03T11:59:49+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/admission/cuet-ug-2026/</loc>
@@ -163,12 +193,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/eligibility/jhtet-2026/</loc>
-    <lastmod>2026-05-21T17:14:26+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/eligibility/nta-ugc-net-june-2026/</loc>
     <lastmod>2026-05-21T17:11:26+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -187,26 +211,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/upsc/upsc-nda-ii-recruitment-2026/</loc>
-    <lastmod>2026-05-21T13:06:28+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bihar/bpssc-asi-technical-recruitment-2026/</loc>
     <lastmod>2026-05-19T20:23:26+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/apprentice/bob-apprentice-recruitment-may26/</loc>
-    <lastmod>2026-05-19T12:14:24+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/apprentice/sbi-apprentice-recruitment-may26/</loc>
-    <lastmod>2026-05-19T11:53:41+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1413,12 +1419,6 @@
   <url>
     <loc>http://localhost:1313/bihar/bpsc-acf-recruitment-jan26/</loc>
     <lastmod>2026-01-16T15:55:24+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bihar/bpsc-stenographer-recruitment-jan26/</loc>
-    <lastmod>2026-01-16T13:23:41+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
