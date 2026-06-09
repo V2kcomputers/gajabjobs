@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/upsssc-vidhan-bhawan-guard-fireman-2026/</loc>
+    <lastmod>2026-06-09T03:20:08Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/2026/india-post-gds-recruitment-jan26/</loc>
     <lastmod>2026-06-09T03:17:03Z</lastmod>
     <changefreq>daily</changefreq>
@@ -418,12 +424,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-assistant-boring-technician-mar26/</loc>
     <lastmod>2026-04-15T12:36:17Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-vidhan-bhawan-guard-fireman-2026/</loc>
-    <lastmod>2026-04-11T11:58:39Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
