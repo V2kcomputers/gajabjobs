@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-08T06:59:16Z</lastmod>
+    <lastmod>2026-06-09T03:18:09Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2026/india-post-gds-recruitment-jan26/</loc>
+    <lastmod>2026-06-09T08:47:03+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/hindustan-copper-limited-executive-2026/</loc>
@@ -603,12 +609,6 @@
   <url>
     <loc>http://localhost:1313/mp/mpesb-group-5-recruitment-mar26/</loc>
     <lastmod>2026-04-11T10:51:10+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/2026/india-post-gds-recruitment-jan26/</loc>
-    <lastmod>2026-04-11T10:46:20+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
