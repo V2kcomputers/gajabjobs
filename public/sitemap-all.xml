@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-10T02:30:08Z</lastmod>
+    <lastmod>2026-06-10T03:24:32Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mpesb-group-5-recruitment-mar26/</loc>
+    <lastmod>2026-06-10T08:53:40+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/upsc/upsc-nda-ii-recruitment-2026/</loc>
@@ -609,12 +615,6 @@
   <url>
     <loc>http://localhost:1313/2026/npcil-executive-trainee-recruitment-2026/</loc>
     <lastmod>2026-04-11T11:38:42+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-group-5-recruitment-mar26/</loc>
-    <lastmod>2026-04-11T10:51:10+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
