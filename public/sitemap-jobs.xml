@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/upsc/upsc-nda-ii-recruitment-2026/</loc>
+    <lastmod>2026-06-10T02:29:40Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/upsc/upsc-cds-ii-recruitment-2026/</loc>
+    <lastmod>2026-06-10T02:28:39Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/up/upsssc-vidhan-bhawan-guard-fireman-2026/</loc>
     <lastmod>2026-06-09T03:20:08Z</lastmod>
     <changefreq>daily</changefreq>
@@ -58,12 +70,6 @@
   <url>
     <loc>http://localhost:1313/bihar/bpsc-stenographer-recruitment-jan26/</loc>
     <lastmod>2026-06-03T06:33:42Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/upsc/upsc-nda-ii-recruitment-2026/</loc>
-    <lastmod>2026-06-03T06:31:09Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -184,12 +190,6 @@
   <url>
     <loc>http://localhost:1313/mp/mpesb-hospital-assistant-recruitment-2026/</loc>
     <lastmod>2026-05-21T11:39:50Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/upsc/upsc-cds-ii-recruitment-2026/</loc>
-    <lastmod>2026-05-21T11:04:38Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
