@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/rrb-ntpc-graduate-level-recruitment-2025/</loc>
+    <lastmod>2026-06-12T05:08:22Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/nalco-non-executive-recruitment-may26/</loc>
     <lastmod>2026-06-12T04:50:31Z</lastmod>
     <changefreq>daily</changefreq>
@@ -496,12 +502,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-assistant-teacher-jtc-mar26/</loc>
     <lastmod>2026-04-06T13:16:09Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/rrb-ntpc-graduate-level-recruitment-2025/</loc>
-    <lastmod>2026-04-06T13:11:49Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
