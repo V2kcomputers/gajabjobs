@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-11T15:06:34Z</lastmod>
+    <lastmod>2026-06-12T04:51:48Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/nalco-non-executive-recruitment-may26/</loc>
+    <lastmod>2026-06-12T10:20:31+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2026/coal-india-mt-recruitment-2026/</loc>
+    <lastmod>2026-06-12T10:19:18+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/mp-board-second-exam-form-2026/</loc>
@@ -211,12 +223,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/nalco-non-executive-recruitment-may26/</loc>
-    <lastmod>2026-05-28T18:56:19+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/eligibility/nta-csir-ugc-net-june-2026/</loc>
     <lastmod>2026-05-28T18:17:29+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -351,12 +357,6 @@
   <url>
     <loc>http://localhost:1313/railway/rrb-alp-recruitment-mar26/</loc>
     <lastmod>2026-05-15T19:57:39+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/2026/coal-india-mt-recruitment-2026/</loc>
-    <lastmod>2026-05-12T16:39:27+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
