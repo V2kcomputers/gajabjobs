@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/drdo/drdo-ceptam-11-recruitment-dec25/</loc>
+    <lastmod>2026-06-13T04:56:12Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/rrb-ntpc-graduate-level-recruitment-2025/</loc>
     <lastmod>2026-06-12T05:08:22Z</lastmod>
     <changefreq>daily</changefreq>
@@ -628,12 +634,6 @@
   <url>
     <loc>http://localhost:1313/jobs/rrb-technician-2025/</loc>
     <lastmod>2026-03-21T05:26:51Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/drdo/drdo-ceptam-11-recruitment-dec25/</loc>
-    <lastmod>2026-03-21T05:24:52Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
