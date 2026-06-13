@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/rrb-ntpc-graduate-level-recruitment-2025/</loc>
+    <lastmod>2026-06-13T11:15:54Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/rrb-ntpc-inter-level-recruitment-sep-2025/</loc>
+    <lastmod>2026-06-13T11:14:42Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/upsc/upsc-ies-iss-recruitment-feb26/</loc>
     <lastmod>2026-06-13T10:54:01Z</lastmod>
     <changefreq>daily</changefreq>
@@ -16,12 +28,6 @@
   <url>
     <loc>http://localhost:1313/drdo/drdo-ceptam-11-recruitment-dec25/</loc>
     <lastmod>2026-06-13T04:56:12Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/rrb-ntpc-graduate-level-recruitment-2025/</loc>
-    <lastmod>2026-06-12T05:08:22Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -286,12 +292,6 @@
   <url>
     <loc>http://localhost:1313/railway/rrb-alp-recruitment-mar26/</loc>
     <lastmod>2026-05-15T14:27:39Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/rrb-ntpc-inter-level-recruitment-sep-2025/</loc>
-    <lastmod>2026-05-12T10:30:59Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
