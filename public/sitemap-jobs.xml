@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/mp/mp-police-band-bharti-2026/</loc>
+    <lastmod>2026-06-15T12:31:27Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/ssc/ssc-cgl-recruitment-2026/</loc>
     <lastmod>2026-06-14T05:00:28Z</lastmod>
     <changefreq>daily</changefreq>
@@ -358,12 +364,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-forest-guard-wildlife-guard-2026/</loc>
     <lastmod>2026-04-28T06:29:27Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mp-police-band-bharti-2026/</loc>
-    <lastmod>2026-04-23T10:26:31Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
