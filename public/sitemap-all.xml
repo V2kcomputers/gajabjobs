@@ -2,9 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-16T02:09:31Z</lastmod>
+    <lastmod>2026-06-16T04:26:51Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/upsc/upsc-civil-services-ias-ifs-form-feb26/</loc>
+    <lastmod>2026-06-16T09:54:30+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/csbc-constable-operator-recruitment-feb26/</loc>
+    <lastmod>2026-06-16T09:53:09+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/delhi/dsssb-03-2026/</loc>
+    <lastmod>2026-06-16T09:51:29+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-platoon-commander-block-organizer-2026/</loc>
+    <lastmod>2026-06-16T09:51:29+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/mp-board-second-exam-form-2026/</loc>
@@ -243,12 +267,6 @@
   <url>
     <loc>http://localhost:1313/up/ahc-ro-aro-ca-recruitment-2026/</loc>
     <lastmod>2026-06-01T13:25:47+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/delhi/dsssb-03-2026/</loc>
-    <lastmod>2026-06-01T12:40:53+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -597,12 +615,6 @@
   <url>
     <loc>http://localhost:1313/admission/bihar-iti-cat-2026/</loc>
     <lastmod>2026-04-19T11:56:01+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-platoon-commander-block-organizer-2026/</loc>
-    <lastmod>2026-04-16T13:16:03+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1027,12 +1039,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bihar/csbc-constable-operator-recruitment-feb26/</loc>
-    <lastmod>2026-03-01T12:24:42+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/kvs-nvs-recruitment-nov-2025/</loc>
     <lastmod>2026-02-28T15:22:50+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -1071,12 +1077,6 @@
   <url>
     <loc>http://localhost:1313/bank/ibps-deputy-manager-recruitment-feb26/</loc>
     <lastmod>2026-02-25T12:34:47+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/upsc/upsc-civil-services-ias-ifs-form-feb26/</loc>
-    <lastmod>2026-02-24T18:15:01+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
