@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/force/iaf-airmen-group-y-medical-assistant-2026/</loc>
+    <lastmod>2026-06-18T07:21:03Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bank/sbi-po-recruitment-2026/</loc>
     <lastmod>2026-06-18T06:31:42Z</lastmod>
     <changefreq>daily</changefreq>
