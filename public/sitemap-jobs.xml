@@ -8,14 +8,26 @@
     <priority>0.20</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bank/bob-manager-recruitment-2026/</loc>
-    <lastmod>2026-06-17T14:22:28Z</lastmod>
+    <loc>http://localhost:1313/force/cisf-para-medical-staff-recruitment-2026/</loc>
+    <lastmod>2026-06-18T03:07:14Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ssc/ssc-cgl-recruitment-2026/</loc>
+    <lastmod>2026-06-18T03:07:14Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>http://localhost:1313/up/upsssc-lower-pcs-recruitment-mar26/</loc>
-    <lastmod>2026-06-17T14:21:01Z</lastmod>
+    <lastmod>2026-06-18T03:05:38Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/bob-manager-recruitment-2026/</loc>
+    <lastmod>2026-06-17T14:22:28Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -52,12 +64,6 @@
   <url>
     <loc>http://localhost:1313/mp/mp-police-band-bharti-2026/</loc>
     <lastmod>2026-06-15T12:31:27Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ssc/ssc-cgl-recruitment-2026/</loc>
-    <lastmod>2026-06-14T05:00:28Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -136,12 +142,6 @@
   <url>
     <loc>http://localhost:1313/jobs/hindustan-copper-limited-executive-2026/</loc>
     <lastmod>2026-06-08T06:51:12Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/force/cisf-para-medical-staff-recruitment-2026/</loc>
-    <lastmod>2026-06-08T06:09:58Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
