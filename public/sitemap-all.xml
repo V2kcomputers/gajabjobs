@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-18T03:09:13Z</lastmod>
+    <lastmod>2026-06-18T05:25:32Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/upsc/upsc-capf-ac-recruitment-feb26/</loc>
+    <lastmod>2026-06-18T10:54:31+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/admission/dte-mp-polytechnic-admission-2026/</loc>
@@ -1113,12 +1119,6 @@
   <url>
     <loc>http://localhost:1313/2026/sci-assistant-recruitment-feb26/</loc>
     <lastmod>2026-02-23T16:15:37+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/upsc/upsc-capf-ac-recruitment-feb26/</loc>
-    <lastmod>2026-02-21T12:56:22+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

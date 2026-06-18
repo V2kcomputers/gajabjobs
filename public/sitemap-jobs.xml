@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/upsc/upsc-capf-ac-recruitment-feb26/</loc>
+    <lastmod>2026-06-18T05:24:31Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/force/cisf-para-medical-staff-recruitment-2026/</loc>
     <lastmod>2026-06-18T03:07:14Z</lastmod>
     <changefreq>daily</changefreq>
@@ -832,12 +838,6 @@
   <url>
     <loc>http://localhost:1313/2026/sci-assistant-recruitment-feb26/</loc>
     <lastmod>2026-02-23T10:45:37Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/upsc/upsc-capf-ac-recruitment-feb26/</loc>
-    <lastmod>2026-02-21T07:26:22Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
