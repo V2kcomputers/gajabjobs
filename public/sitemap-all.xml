@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-19T10:00:37Z</lastmod>
+    <lastmod>2026-06-19T13:16:25Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/apprentice/bob-apprentice-recruitment-may26/</loc>
+    <lastmod>2026-06-19T18:44:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rj/rajasthan-vanpal-recruitment-jan26/</loc>
+    <lastmod>2026-06-19T18:43:21+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/up/upsssc-havaldar-instructor-recruitment-2026/</loc>
@@ -189,12 +201,6 @@
   <url>
     <loc>http://localhost:1313/apprentice/sbi-apprentice-recruitment-may26/</loc>
     <lastmod>2026-06-12T12:09:19+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/apprentice/bob-apprentice-recruitment-may26/</loc>
-    <lastmod>2026-06-12T12:05:14+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1305,12 +1311,6 @@
   <url>
     <loc>http://localhost:1313/rj/rssb-female-supervisor-recruitment-jan26/</loc>
     <lastmod>2026-02-03T19:46:32+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/rj/rajasthan-vanpal-recruitment-jan26/</loc>
-    <lastmod>2026-02-03T19:44:58+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

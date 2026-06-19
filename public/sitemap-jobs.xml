@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/rj/rajasthan-vanpal-recruitment-jan26/</loc>
+    <lastmod>2026-06-19T13:13:21Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/up/upsssc-havaldar-instructor-recruitment-2026/</loc>
     <lastmod>2026-06-19T10:00:26Z</lastmod>
     <changefreq>daily</changefreq>
@@ -976,12 +982,6 @@
   <url>
     <loc>http://localhost:1313/rj/rssb-female-supervisor-recruitment-jan26/</loc>
     <lastmod>2026-02-03T14:16:32Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/rj/rajasthan-vanpal-recruitment-jan26/</loc>
-    <lastmod>2026-02-03T14:14:58Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
