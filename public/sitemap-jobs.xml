@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/2026/nbems-junior-assistant-and-various-posts-2026/</loc>
+    <lastmod>2026-06-20T10:44:59Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/upsc/upsc-civil-services-ias-ifs-form-feb26/</loc>
     <lastmod>2026-06-20T06:58:06Z</lastmod>
     <changefreq>daily</changefreq>
@@ -88,6 +94,12 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-lower-pcs-recruitment-mar26/</loc>
     <lastmod>2026-06-18T03:05:38Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-alp-recruitment-mar26/</loc>
+    <lastmod>2026-06-16T14:27:39Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -358,12 +370,6 @@
   <url>
     <loc>http://localhost:1313/jobs/indian-navy-ssc-executive-it-2026/</loc>
     <lastmod>2026-05-18T05:36:50Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-alp-recruitment-mar26/</loc>
-    <lastmod>2026-05-15T14:27:39Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
