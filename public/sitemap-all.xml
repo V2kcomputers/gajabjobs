@@ -2,9 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-20T10:55:39Z</lastmod>
+    <lastmod>2026-06-21T05:54:35Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/bob-manager-recruitment-2026/</loc>
+    <lastmod>2026-06-21T11:23:59+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/delhi/dsssb-03-2026/</loc>
+    <lastmod>2026-06-21T11:23:59+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/sbi-po-recruitment-2026/</loc>
+    <lastmod>2026-06-21T11:23:59+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ssc/ssc-cgl-recruitment-2026/</loc>
+    <lastmod>2026-06-21T11:23:59+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cg/cgpsc-adppo-recruitment-2026/</loc>
+    <lastmod>2026-06-21T11:20:28+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/2026/nbems-junior-assistant-and-various-posts-2026/</loc>
@@ -19,19 +49,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bank/bob-manager-recruitment-2026/</loc>
-    <lastmod>2026-06-20T10:06:57+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/force/cisf-para-medical-staff-recruitment-2026/</loc>
-    <lastmod>2026-06-20T10:06:57+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/sbi-po-recruitment-2026/</loc>
     <lastmod>2026-06-20T10:06:57+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -121,12 +139,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ssc/ssc-cgl-recruitment-2026/</loc>
-    <lastmod>2026-06-18T08:37:14+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/up/upsssc-lower-pcs-recruitment-mar26/</loc>
     <lastmod>2026-06-18T08:35:38+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -147,12 +159,6 @@
   <url>
     <loc>http://localhost:1313/bihar/csbc-constable-operator-recruitment-feb26/</loc>
     <lastmod>2026-06-16T09:53:09+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/delhi/dsssb-03-2026/</loc>
-    <lastmod>2026-06-16T09:51:29+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
