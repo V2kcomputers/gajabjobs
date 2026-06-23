@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/2026/csir-aso-recruitment-2026/</loc>
+    <lastmod>2026-06-23T05:37:35Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/cg/cgpsc-adppo-recruitment-2026/</loc>
     <lastmod>2026-06-23T04:09:18Z</lastmod>
     <changefreq>daily</changefreq>
