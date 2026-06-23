@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/railway/rrb-section-controller-recruitment-2026/</loc>
+    <lastmod>2026-06-23T07:14:18Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-technician-recruitment-2026/</loc>
+    <lastmod>2026-06-23T07:13:18Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/2026/csir-aso-recruitment-2026/</loc>
     <lastmod>2026-06-23T05:37:35Z</lastmod>
     <changefreq>daily</changefreq>
@@ -376,12 +388,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-cane-supervisor-recruitment-2026/</loc>
     <lastmod>2026-05-18T11:05:13Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-technician-recruitment-2026/</loc>
-    <lastmod>2026-05-18T07:25:15Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
