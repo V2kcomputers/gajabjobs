@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/force/indian-navy-ssc-officer-jun-2027-batch/</loc>
+    <lastmod>2026-06-23T12:45:14Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/pnb-lbo-recruitment-nov-2025/</loc>
+    <lastmod>2026-06-23T12:43:32Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/railway/rrb-section-controller-recruitment-2026/</loc>
     <lastmod>2026-06-23T07:14:18Z</lastmod>
     <changefreq>daily</changefreq>
@@ -1312,12 +1324,6 @@
   <url>
     <loc>http://localhost:1313/force/bsf-constable-sports-quota-dec25/</loc>
     <lastmod>2025-12-27T05:15:40Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/pnb-lbo-recruitment-nov-2025/</loc>
-    <lastmod>2025-12-27T05:01:50Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>

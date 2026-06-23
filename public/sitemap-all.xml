@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-23T10:50:32Z</lastmod>
+    <lastmod>2026-06-23T12:48:02Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/force/indian-navy-ssc-officer-jun-2027-batch/</loc>
+    <lastmod>2026-06-23T18:15:14+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/pnb-lbo-recruitment-nov-2025/</loc>
+    <lastmod>2026-06-23T18:13:32+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/apprentice/niacl-apprentice-recruitment-june-2026/</loc>
@@ -1701,12 +1713,6 @@
   <url>
     <loc>http://localhost:1313/force/bsf-constable-sports-quota-dec25/</loc>
     <lastmod>2025-12-27T10:45:40+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/pnb-lbo-recruitment-nov-2025/</loc>
-    <lastmod>2025-12-27T10:31:50+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
