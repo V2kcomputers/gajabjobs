@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-25T09:54:35Z</lastmod>
+    <lastmod>2026-06-25T10:40:20Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/htet-2025/</loc>
+    <lastmod>2026-06-25T16:08:25+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rajasthan/rvunl-je-junior-assistant-2026/</loc>
+    <lastmod>2026-06-25T16:01:49+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/eligibility/jhtet-2026/</loc>
@@ -1725,12 +1737,6 @@
   <url>
     <loc>http://localhost:1313/jobs/shs-bihar-anm-result-2025/</loc>
     <lastmod>2025-12-26T14:37:20+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/eligibility/htet-2025/</loc>
-    <lastmod>2025-12-25T17:29:06+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
