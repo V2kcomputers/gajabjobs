@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bihar/bpsc-auditor-recruitment-jan26/</loc>
+    <lastmod>2026-06-25T09:52:01Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rj/rajasthan-vanpal-recruitment-jan26/</loc>
+    <lastmod>2026-06-25T09:52:01Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/rajasthan/rssb-cet-12th-level-2026/</loc>
     <lastmod>2026-06-25T04:17:45Z</lastmod>
     <changefreq>daily</changefreq>
@@ -148,12 +160,6 @@
   <url>
     <loc>http://localhost:1313/mp/mpesb-hospital-assistant-recruitment-2026/</loc>
     <lastmod>2026-06-19T14:22:07Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/rj/rajasthan-vanpal-recruitment-jan26/</loc>
-    <lastmod>2026-06-19T13:13:21Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -1006,12 +1012,6 @@
   <url>
     <loc>http://localhost:1313/bank/bob-manager-recruitment-feb26/</loc>
     <lastmod>2026-02-07T12:51:45Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bihar/bpsc-auditor-recruitment-jan26/</loc>
-    <lastmod>2026-02-05T04:23:06Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
