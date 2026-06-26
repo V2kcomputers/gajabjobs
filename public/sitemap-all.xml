@@ -2,9 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-25T10:40:20Z</lastmod>
+    <lastmod>2026-06-26T03:55:18Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/delhi/dsssb-03-2026/</loc>
+    <lastmod>2026-06-26T09:25:03+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/sbi-po-recruitment-2026/</loc>
+    <lastmod>2026-06-26T09:25:03+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-pharmacist-recruitment-mar26/</loc>
+    <lastmod>2026-06-26T09:23:31+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-pcb-various-post-mar26/</loc>
+    <lastmod>2026-06-26T09:22:26+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/bpssc-radio-asi-recruitment-feb26/</loc>
+    <lastmod>2026-06-26T09:20:53+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/bpssc-havildar-clerk-recruitment-jan26/</loc>
+    <lastmod>2026-06-26T09:19:29+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/pgcil-diploma-trainee-recruitment-2026/</loc>
+    <lastmod>2026-06-26T09:14:52+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/nta-neet-ug-2026/</loc>
+    <lastmod>2026-06-26T09:14:19+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/eligibility/htet-2025/</loc>
@@ -115,18 +163,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/up/upsssc-pharmacist-recruitment-mar26/</loc>
-    <lastmod>2026-06-23T09:36:42+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-pcb-various-post-mar26/</loc>
-    <lastmod>2026-06-23T09:35:42+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/up/up-police-constable-recruitment-dec25/</loc>
     <lastmod>2026-06-23T09:32:48+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -164,18 +200,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/bank/bob-manager-recruitment-2026/</loc>
-    <lastmod>2026-06-21T11:23:59+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/delhi/dsssb-03-2026/</loc>
-    <lastmod>2026-06-21T11:23:59+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/sbi-po-recruitment-2026/</loc>
     <lastmod>2026-06-21T11:23:59+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -427,12 +451,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/eligibility/nta-neet-ug-2026/</loc>
-    <lastmod>2026-06-07T17:24:58+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/apprentice/indian-navy-agniveer-apprentice-inet-2026/</loc>
     <lastmod>2026-06-07T16:11:36+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -669,12 +687,6 @@
   <url>
     <loc>http://localhost:1313/education/mp-class-9th-and-11th-result-2026/</loc>
     <lastmod>2026-04-23T15:40:39+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/pgcil-diploma-trainee-recruitment-2026/</loc>
-    <lastmod>2026-04-23T12:39:14+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1369,12 +1381,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bihar/bpssc-radio-asi-recruitment-feb26/</loc>
-    <lastmod>2026-02-04T10:44:29+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/2026/delhi-hc-jja-restorer-recruitment-jan26/</loc>
     <lastmod>2026-02-04T10:44:29+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -1623,12 +1629,6 @@
   <url>
     <loc>http://localhost:1313/bihar/bpssc-home-guard-havildar-clerk-jan26/</loc>
     <lastmod>2026-01-07T18:41:47+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bihar/bpssc-havildar-clerk-recruitment-jan26/</loc>
-    <lastmod>2026-01-07T18:34:04+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
