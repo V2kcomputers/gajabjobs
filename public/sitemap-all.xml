@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-26T04:57:44Z</lastmod>
+    <lastmod>2026-06-27T02:44:46Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rj/rssb-clerk-grade-ii-jr-assistant-recruitment-jan26/</loc>
+    <lastmod>2026-06-27T08:12:40+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/up/uppsc-pre-2026/</loc>
@@ -1581,12 +1587,6 @@
   <url>
     <loc>http://localhost:1313/admission/eklavya-model-school-class-6-admission-2026-27/</loc>
     <lastmod>2026-01-15T15:03:16+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/rj/rssb-clerk-grade-ii-jr-assistant-recruitment-jan26/</loc>
-    <lastmod>2026-01-15T11:38:50+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
