@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/2026/isro-istrac-various-post-june-2026/</loc>
+    <lastmod>2026-06-27T07:27:08Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bihar/bpssc-company-commander-2026/</loc>
     <lastmod>2026-06-27T03:33:04Z</lastmod>
     <changefreq>daily</changefreq>

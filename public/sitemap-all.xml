@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-27T03:37:12Z</lastmod>
+    <lastmod>2026-06-27T07:29:53Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2026/isro-istrac-various-post-june-2026/</loc>
+    <lastmod>2026-06-27T12:57:08+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/bihar/bpssc-company-commander-2026/</loc>
