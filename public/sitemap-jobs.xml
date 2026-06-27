@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/rrb-ntpc-inter-level-recruitment-sep-2025/</loc>
+    <lastmod>2026-06-27T09:42:27Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/2026/isro-istrac-various-post-june-2026/</loc>
     <lastmod>2026-06-27T07:27:08Z</lastmod>
     <changefreq>daily</changefreq>
@@ -280,12 +286,6 @@
   <url>
     <loc>http://localhost:1313/jobs/rrb-ntpc-graduate-level-recruitment-2025/</loc>
     <lastmod>2026-06-13T11:15:54Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/rrb-ntpc-inter-level-recruitment-sep-2025/</loc>
-    <lastmod>2026-06-13T11:14:42Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
