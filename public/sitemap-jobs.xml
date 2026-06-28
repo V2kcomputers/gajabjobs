@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bihar/bpsc-auditor-recruitment-jan26/</loc>
+    <lastmod>2026-06-28T05:16:06Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
+    <lastmod>2026-06-28T05:05:01Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bank/bob-manager-recruitment-2026/</loc>
     <lastmod>2026-06-28T03:24:22Z</lastmod>
     <changefreq>daily</changefreq>
@@ -124,12 +136,6 @@
   <url>
     <loc>http://localhost:1313/rajasthan/rvunl-je-junior-assistant-2026/</loc>
     <lastmod>2026-06-25T10:31:49Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bihar/bpsc-auditor-recruitment-jan26/</loc>
-    <lastmod>2026-06-25T09:52:01Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
