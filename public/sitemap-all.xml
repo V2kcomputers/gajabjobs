@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-28T06:15:46Z</lastmod>
+    <lastmod>2026-06-28T10:38:58Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/up-home-guard-recruitment-2025/</loc>
+    <lastmod>2026-06-28T16:07:59+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/up/nael-operator-junior-assistant-2026/</loc>
@@ -735,12 +741,6 @@
   <url>
     <loc>http://localhost:1313/education/mp-class-9th-and-11th-result-2026/</loc>
     <lastmod>2026-04-23T15:40:39+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/up-home-guard-recruitment-2025/</loc>
-    <lastmod>2026-04-22T16:46:47+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

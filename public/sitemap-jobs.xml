@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/up-home-guard-recruitment-2025/</loc>
+    <lastmod>2026-06-28T10:37:59Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/up/nael-operator-junior-assistant-2026/</loc>
     <lastmod>2026-06-28T06:12:13Z</lastmod>
     <changefreq>daily</changefreq>
@@ -574,12 +580,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-forest-guard-wildlife-guard-2026/</loc>
     <lastmod>2026-04-28T06:29:27Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/up-home-guard-recruitment-2025/</loc>
-    <lastmod>2026-04-22T11:16:47Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
