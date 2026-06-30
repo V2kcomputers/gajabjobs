@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/upsssc-forest-guard-wildlife-guard-2026/</loc>
+    <lastmod>2026-06-30T10:56:01Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/boi-credit-officer-jun-2026/</loc>
+    <lastmod>2026-06-30T10:50:22Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/railway/rrb-technician-recruitment-2026/</loc>
     <lastmod>2026-06-30T03:46:27Z</lastmod>
     <changefreq>daily</changefreq>
@@ -574,12 +586,6 @@
   <url>
     <loc>http://localhost:1313/bihar/bpssc-havildar-instructor-recruitment-2026/</loc>
     <lastmod>2026-05-03T07:21:21Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-forest-guard-wildlife-guard-2026/</loc>
-    <lastmod>2026-04-28T06:29:27Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>

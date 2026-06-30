@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-30T03:47:12Z</lastmod>
+    <lastmod>2026-06-30T10:56:15Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-forest-guard-wildlife-guard-2026/</loc>
+    <lastmod>2026-06-30T16:26:01+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/apprentice/sbi-apprentice-recruitment-may26/</loc>
+    <lastmod>2026-06-30T16:23:43+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/boi-credit-officer-jun-2026/</loc>
+    <lastmod>2026-06-30T16:20:22+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/railway/rrb-technician-recruitment-2026/</loc>
@@ -439,12 +457,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/apprentice/sbi-apprentice-recruitment-may26/</loc>
-    <lastmod>2026-06-12T12:09:19+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/nalco-non-executive-recruitment-may26/</loc>
     <lastmod>2026-06-12T10:20:31+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -717,12 +729,6 @@
   <url>
     <loc>http://localhost:1313/bihar/bpssc-havildar-instructor-recruitment-2026/</loc>
     <lastmod>2026-05-03T12:51:21+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-forest-guard-wildlife-guard-2026/</loc>
-    <lastmod>2026-04-28T11:59:27+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
