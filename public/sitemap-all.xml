@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-29T13:59:13Z</lastmod>
+    <lastmod>2026-06-30T03:47:12Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-technician-recruitment-2026/</loc>
+    <lastmod>2026-06-30T09:16:27+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/bpssc-company-commander-2026/</loc>
+    <lastmod>2026-06-30T09:15:57+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/uptet-2026/</loc>
+    <lastmod>2026-06-30T09:14:59+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/mp/mpesb-hospital-assistant-recruitment-2026/</loc>
@@ -21,12 +39,6 @@
   <url>
     <loc>http://localhost:1313/2026/nbems-junior-assistant-and-various-posts-2026/</loc>
     <lastmod>2026-06-29T19:26:26+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-technician-recruitment-2026/</loc>
-    <lastmod>2026-06-29T19:23:34+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -117,12 +129,6 @@
   <url>
     <loc>http://localhost:1313/2026/isro-istrac-various-post-june-2026/</loc>
     <lastmod>2026-06-27T12:57:08+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bihar/bpssc-company-commander-2026/</loc>
-    <lastmod>2026-06-27T09:03:04+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -285,12 +291,6 @@
   <url>
     <loc>http://localhost:1313/haryana/hpsc-civil-service-exam-2026/</loc>
     <lastmod>2026-06-23T09:09:12+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/eligibility/uptet-2026/</loc>
-    <lastmod>2026-06-23T09:04:49+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

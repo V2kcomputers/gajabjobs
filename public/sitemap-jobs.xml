@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/railway/rrb-technician-recruitment-2026/</loc>
+    <lastmod>2026-06-30T03:46:27Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/bpssc-company-commander-2026/</loc>
+    <lastmod>2026-06-30T03:45:57Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mpesb-hospital-assistant-recruitment-2026/</loc>
     <lastmod>2026-06-29T13:59:09Z</lastmod>
     <changefreq>daily</changefreq>
@@ -16,12 +28,6 @@
   <url>
     <loc>http://localhost:1313/2026/nbems-junior-assistant-and-various-posts-2026/</loc>
     <lastmod>2026-06-29T13:56:26Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-technician-recruitment-2026/</loc>
-    <lastmod>2026-06-29T13:53:34Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -112,12 +118,6 @@
   <url>
     <loc>http://localhost:1313/2026/isro-istrac-various-post-june-2026/</loc>
     <lastmod>2026-06-27T07:27:08Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bihar/bpssc-company-commander-2026/</loc>
-    <lastmod>2026-06-27T03:33:04Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
