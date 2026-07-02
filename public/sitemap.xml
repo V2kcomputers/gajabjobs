@@ -3,17 +3,17 @@
 
   <sitemap>
     <loc>http://localhost:1313/sitemap-jobs.xml</loc>
-    <lastmod>2026-07-02T03:26:57Z</lastmod>
+    <lastmod>2026-07-02T04:58:36Z</lastmod>
   </sitemap>
 
   <sitemap>
     <loc>http://localhost:1313/sitemap-apprentice.xml</loc>
-    <lastmod>2026-07-02T03:26:57Z</lastmod>
+    <lastmod>2026-07-02T04:58:36Z</lastmod>
   </sitemap>
 
   <sitemap>
     <loc>http://localhost:1313/sitemap-all.xml</loc>
-    <lastmod>2026-07-02T03:26:57Z</lastmod>
+    <lastmod>2026-07-02T04:58:36Z</lastmod>
   </sitemap>
 
 </sitemapindex>
