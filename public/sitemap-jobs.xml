@@ -8,6 +8,24 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/rj/rssb-clerk-grade-ii-jr-assistant-recruitment-jan26/</loc>
+    <lastmod>2026-07-02T07:27:14Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2026/bsnl-set-recruitment-jan26/</loc>
+    <lastmod>2026-07-02T07:25:06Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
+    <lastmod>2026-07-02T07:23:47Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/rajasthan/rssb-cet-graduate-level-2026/</loc>
     <lastmod>2026-07-02T06:43:15Z</lastmod>
     <changefreq>daily</changefreq>
@@ -98,12 +116,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
-    <lastmod>2026-06-28T05:05:01Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bank/bob-manager-recruitment-2026/</loc>
     <lastmod>2026-06-28T03:24:22Z</lastmod>
     <changefreq>daily</changefreq>
@@ -164,12 +176,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/rj/rssb-clerk-grade-ii-jr-assistant-recruitment-jan26/</loc>
-    <lastmod>2026-06-27T02:42:40Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/up/uppsc-pre-2026/</loc>
     <lastmod>2026-06-26T04:45:30Z</lastmod>
     <changefreq>daily</changefreq>
@@ -226,12 +232,6 @@
   <url>
     <loc>http://localhost:1313/force/indian-navy-ssc-officer-jun-2027-batch/</loc>
     <lastmod>2026-06-25T04:07:11Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/2026/bsnl-set-recruitment-jan26/</loc>
-    <lastmod>2026-06-24T06:55:03Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
