@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/delhi/dhc-higher-judicial-service-hjs-2026/</loc>
+    <lastmod>2026-07-02T10:06:13Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/rj/rssb-clerk-grade-ii-jr-assistant-recruitment-jan26/</loc>
     <lastmod>2026-07-02T07:27:14Z</lastmod>
     <changefreq>daily</changefreq>
