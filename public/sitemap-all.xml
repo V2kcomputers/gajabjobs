@@ -2,9 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-03T08:03:45Z</lastmod>
+    <lastmod>2026-07-03T11:25:04Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-assistant-statistical-officer-aso-mar26/</loc>
+    <lastmod>2026-07-03T16:53:31+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-technical-assistant-group-c-2026/</loc>
+    <lastmod>2026-07-03T16:46:31+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-assistant-teacher-jtc-mar26/</loc>
+    <lastmod>2026-07-03T16:45:25+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-assistant-boring-technician-mar26/</loc>
+    <lastmod>2026-07-03T16:43:53+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rj/rpsc-school-lecturer-special-2026/</loc>
+    <lastmod>2026-07-03T16:42:52+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rj/rpsc-ras-recruitment-2026/</loc>
+    <lastmod>2026-07-03T16:28:23+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rj/rpsc-apo-recruitment-2026/</loc>
+    <lastmod>2026-07-03T16:25:24+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jharkhand/jpsc-cce-2026/</loc>
+    <lastmod>2026-07-03T16:23:34+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/bpsc-apo-recruitment-feb26/</loc>
+    <lastmod>2026-07-03T16:05:49+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/cbi-apprentice-recruitment-jun-2026/</loc>
+    <lastmod>2026-07-03T16:04:15+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/mp/mpesb-group-2-sub-group-1-krashi-vistar-adhikari-2026/</loc>
@@ -193,24 +253,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/up/upsssc-assistant-teacher-jtc-mar26/</loc>
-    <lastmod>2026-06-28T08:52:10+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-assistant-statistical-officer-aso-mar26/</loc>
-    <lastmod>2026-06-28T08:50:55+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-assistant-boring-technician-mar26/</loc>
-    <lastmod>2026-06-28T08:49:02+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/rrb-ntpc-inter-level-recruitment-sep-2025/</loc>
     <lastmod>2026-06-27T15:12:27+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -309,12 +351,6 @@
   <url>
     <loc>http://localhost:1313/apprentice/niacl-apprentice-recruitment-june-2026/</loc>
     <lastmod>2026-06-23T16:18:03+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/cbi-apprentice-recruitment-jun-2026/</loc>
-    <lastmod>2026-06-23T15:31:34+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -565,12 +601,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/rj/rpsc-apo-recruitment-2026/</loc>
-    <lastmod>2026-06-08T11:39:58+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/apprentice/indian-navy-agniveer-apprentice-inet-2026/</loc>
     <lastmod>2026-06-07T16:11:36+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -613,12 +643,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/rj/rpsc-school-lecturer-special-2026/</loc>
-    <lastmod>2026-06-01T08:39:47+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bihar/btsc-food-analyst-recruitment-2026/</loc>
     <lastmod>2026-05-31T10:22:38+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -637,12 +661,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/rj/rpsc-ras-recruitment-2026/</loc>
-    <lastmod>2026-05-28T11:24:05+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bank/rbi-junior-engineer-recruitment-2026/</loc>
     <lastmod>2026-05-28T09:46:41+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -657,12 +675,6 @@
   <url>
     <loc>http://localhost:1313/rj/rssb-computer-instructor-recruitment-2026/</loc>
     <lastmod>2026-05-25T18:34:47+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-technical-assistant-group-c-2026/</loc>
-    <lastmod>2026-05-23T18:21:21+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -927,12 +939,6 @@
   <url>
     <loc>http://localhost:1313/bank/indian-bank-so-recruitment-2026/</loc>
     <lastmod>2026-04-08T19:47:22+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jharkhand/jpsc-cce-2026/</loc>
-    <lastmod>2026-04-08T12:15:46+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1263,12 +1269,6 @@
   <url>
     <loc>http://localhost:1313/jobs/kvs-nvs-recruitment-nov-2025/</loc>
     <lastmod>2026-02-28T15:22:50+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bihar/bpsc-apo-recruitment-feb26/</loc>
-    <lastmod>2026-02-27T10:56:01+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

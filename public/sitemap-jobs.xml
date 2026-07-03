@@ -8,6 +8,60 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/upsssc-assistant-statistical-officer-aso-mar26/</loc>
+    <lastmod>2026-07-03T11:23:31Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-technical-assistant-group-c-2026/</loc>
+    <lastmod>2026-07-03T11:16:31Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-assistant-teacher-jtc-mar26/</loc>
+    <lastmod>2026-07-03T11:15:25Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-assistant-boring-technician-mar26/</loc>
+    <lastmod>2026-07-03T11:13:53Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rj/rpsc-school-lecturer-special-2026/</loc>
+    <lastmod>2026-07-03T11:12:52Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rj/rpsc-ras-recruitment-2026/</loc>
+    <lastmod>2026-07-03T10:58:23Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rj/rpsc-apo-recruitment-2026/</loc>
+    <lastmod>2026-07-03T10:55:24Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jharkhand/jpsc-cce-2026/</loc>
+    <lastmod>2026-07-03T10:53:34Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/bpsc-apo-recruitment-feb26/</loc>
+    <lastmod>2026-07-03T10:35:49Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mpesb-group-2-sub-group-1-krashi-vistar-adhikari-2026/</loc>
     <lastmod>2026-07-03T07:58:02Z</lastmod>
     <changefreq>daily</changefreq>
@@ -154,24 +208,6 @@
   <url>
     <loc>http://localhost:1313/mp/mp-police-band-bharti-2026/</loc>
     <lastmod>2026-06-28T03:23:55Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-assistant-teacher-jtc-mar26/</loc>
-    <lastmod>2026-06-28T03:22:10Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-assistant-statistical-officer-aso-mar26/</loc>
-    <lastmod>2026-06-28T03:20:55Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-assistant-boring-technician-mar26/</loc>
-    <lastmod>2026-06-28T03:19:02Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -446,12 +482,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/rj/rpsc-apo-recruitment-2026/</loc>
-    <lastmod>2026-06-08T06:09:58Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/up/upsssc-auditor-assistant-accountant-2026/</loc>
     <lastmod>2026-06-07T06:14:14Z</lastmod>
     <changefreq>daily</changefreq>
@@ -482,12 +512,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/rj/rpsc-school-lecturer-special-2026/</loc>
-    <lastmod>2026-06-01T03:09:47Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bihar/btsc-food-analyst-recruitment-2026/</loc>
     <lastmod>2026-05-31T04:52:38Z</lastmod>
     <changefreq>daily</changefreq>
@@ -496,12 +520,6 @@
   <url>
     <loc>http://localhost:1313/jobs/bsnl-jto-recruitment-2026/</loc>
     <lastmod>2026-05-28T07:19:55Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/rj/rpsc-ras-recruitment-2026/</loc>
-    <lastmod>2026-05-28T05:54:05Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -520,12 +538,6 @@
   <url>
     <loc>http://localhost:1313/rj/rssb-computer-instructor-recruitment-2026/</loc>
     <lastmod>2026-05-25T13:04:47Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-technical-assistant-group-c-2026/</loc>
-    <lastmod>2026-05-23T12:51:21Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -724,12 +736,6 @@
   <url>
     <loc>http://localhost:1313/bank/indian-bank-so-recruitment-2026/</loc>
     <lastmod>2026-04-08T14:17:22Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jharkhand/jpsc-cce-2026/</loc>
-    <lastmod>2026-04-08T06:45:46Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -976,12 +982,6 @@
   <url>
     <loc>http://localhost:1313/jobs/kvs-nvs-recruitment-nov-2025/</loc>
     <lastmod>2026-02-28T09:52:50Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bihar/bpsc-apo-recruitment-feb26/</loc>
-    <lastmod>2026-02-27T05:26:01Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
