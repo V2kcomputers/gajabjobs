@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/mp/mpesb-group-2-sub-group-1-krashi-vistar-adhikari-2026/</loc>
+    <lastmod>2026-07-03T12:46:56Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
+    <lastmod>2026-07-03T12:45:09Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/up/upsssc-assistant-statistical-officer-aso-mar26/</loc>
     <lastmod>2026-07-03T11:23:31Z</lastmod>
     <changefreq>daily</changefreq>
@@ -58,12 +70,6 @@
   <url>
     <loc>http://localhost:1313/bihar/bpsc-apo-recruitment-feb26/</loc>
     <lastmod>2026-07-03T10:35:49Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-group-2-sub-group-1-krashi-vistar-adhikari-2026/</loc>
-    <lastmod>2026-07-03T07:58:02Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -1096,12 +1102,6 @@
   <url>
     <loc>http://localhost:1313/2026/ncert-academic-position-recruitment-jan26/</loc>
     <lastmod>2026-02-09T05:59:30Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
-    <lastmod>2026-02-08T10:11:11Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
