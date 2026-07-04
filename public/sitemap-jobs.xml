@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bihar/bpssc-police-si-recruitment-2026/</loc>
+    <lastmod>2026-07-04T04:41:19Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/haryana/hssc-cet-group-d-2026/</loc>
+    <lastmod>2026-07-04T04:39:54Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/rajasthan/rssb-cet-graduate-level-2026/</loc>
     <lastmod>2026-07-04T03:53:52Z</lastmod>
     <changefreq>daily</changefreq>
@@ -346,12 +358,6 @@
   <url>
     <loc>http://localhost:1313/upsc/upsc-civil-services-ias-ifs-form-feb26/</loc>
     <lastmod>2026-06-20T06:58:06Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/haryana/hssc-cet-group-d-2026/</loc>
-    <lastmod>2026-06-20T04:31:18Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
