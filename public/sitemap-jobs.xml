@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/rajasthan/rssb-cet-graduate-level-2026/</loc>
+    <lastmod>2026-07-04T03:53:52Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/up-home-guard-recruitment-2025/</loc>
+    <lastmod>2026-07-04T03:53:52Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mpesb-group-2-sub-group-1-krashi-vistar-adhikari-2026/</loc>
     <lastmod>2026-07-03T12:46:56Z</lastmod>
     <changefreq>daily</changefreq>
@@ -98,12 +110,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/rajasthan/rssb-cet-graduate-level-2026/</loc>
-    <lastmod>2026-07-02T06:43:15Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bank/ibps-so-xvi-2026/</loc>
     <lastmod>2026-07-02T04:58:25Z</lastmod>
     <changefreq>daily</changefreq>
@@ -166,12 +172,6 @@
   <url>
     <loc>http://localhost:1313/jobs/rrb-je-recruitment-sep-2025/</loc>
     <lastmod>2026-06-29T13:52:40Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/up-home-guard-recruitment-2025/</loc>
-    <lastmod>2026-06-28T10:37:59Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>

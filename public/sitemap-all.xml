@@ -2,9 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-03T12:47:02Z</lastmod>
+    <lastmod>2026-07-04T04:00:23Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/admission/mpesb-pnst-admission-form-2026/</loc>
+    <lastmod>2026-07-04T09:27:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/admission/mpesb-addet-admission-form-2026/</loc>
+    <lastmod>2026-07-04T09:26:01+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rajasthan/rssb-cet-graduate-level-2026/</loc>
+    <lastmod>2026-07-04T09:23:52+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/up-home-guard-recruitment-2025/</loc>
+    <lastmod>2026-07-04T09:23:52+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/mp/mpesb-group-2-sub-group-1-krashi-vistar-adhikari-2026/</loc>
@@ -109,12 +133,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/rajasthan/rssb-cet-graduate-level-2026/</loc>
-    <lastmod>2026-07-02T12:13:15+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bank/ibps-so-xvi-2026/</loc>
     <lastmod>2026-07-02T10:28:25+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -207,12 +225,6 @@
   <url>
     <loc>http://localhost:1313/jobs/rrb-je-recruitment-sep-2025/</loc>
     <lastmod>2026-06-29T19:22:40+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/up-home-guard-recruitment-2025/</loc>
-    <lastmod>2026-06-28T16:07:59+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -583,12 +595,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/admission/mpesb-pnst-admission-form-2026/</loc>
-    <lastmod>2026-06-09T15:30:21+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/up/upsssc-vidhan-bhawan-guard-fireman-2026/</loc>
     <lastmod>2026-06-09T08:50:08+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -621,12 +627,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-excise-constable-recruitment-2026/</loc>
     <lastmod>2026-06-05T16:27:36+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/admission/mpesb-addet-admission-form-2026/</loc>
-    <lastmod>2026-06-05T16:13:29+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
