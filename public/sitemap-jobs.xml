@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
+    <lastmod>2026-07-05T04:24:19Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/railway/rrb-ministerial-isolated-category-dec25/</loc>
     <lastmod>2026-07-05T03:49:19Z</lastmod>
     <changefreq>daily</changefreq>
@@ -124,12 +130,6 @@
   <url>
     <loc>http://localhost:1313/2026/bsnl-set-recruitment-jan26/</loc>
     <lastmod>2026-07-02T07:25:06Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
-    <lastmod>2026-07-02T07:23:47Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
