@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-05T02:44:01Z</lastmod>
+    <lastmod>2026-07-05T03:52:15Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-ministerial-isolated-category-dec25/</loc>
+    <lastmod>2026-07-05T09:19:19+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/sbi-cbo-recruitment-jan26/</loc>
+    <lastmod>2026-07-05T09:17:04+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/bihar/bpssc-police-si-recruitment-2026/</loc>
@@ -153,12 +165,6 @@
   <url>
     <loc>http://localhost:1313/bank/ibps-po-mt-xvi-2026/</loc>
     <lastmod>2026-07-02T08:56:09+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/sbi-cbo-recruitment-jan26/</loc>
-    <lastmod>2026-07-01T09:59:33+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1591,12 +1597,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/railway/rrb-ministerial-isolated-category-dec25/</loc>
-    <lastmod>2026-01-24T11:05:05+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/sci-law-clerk-recruitment-jan26/</loc>
     <lastmod>2026-01-21T13:10:45+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -2499,6 +2499,12 @@
   <url>
     <loc>http://localhost:1313/status/</loc>
     <lastmod>2024-11-08T19:23:23+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/channel.json</loc>
+    <lastmod>0001-01-01T00:00:00Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
