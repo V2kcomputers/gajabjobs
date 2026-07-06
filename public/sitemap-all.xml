@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-05T04:26:46Z</lastmod>
+    <lastmod>2026-07-06T04:00:47Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/force/iaf-airmen-group-y-medical-assistant-Intake-02-2027/</loc>
+    <lastmod>2026-07-06T09:30:23+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/force/iaf-agniveer-vayu-intake-02-2027/</loc>
+    <lastmod>2026-07-06T09:30:23+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
@@ -465,18 +477,6 @@
   <url>
     <loc>http://localhost:1313/admission/mp-pat-2026/</loc>
     <lastmod>2026-06-18T17:39:02+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/force/iaf-agniveer-vayu-intake-02-2027/</loc>
-    <lastmod>2026-06-18T16:08:36+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/force/iaf-airmen-group-y-medical-assistant-Intake-02-2027/</loc>
-    <lastmod>2026-06-18T12:51:03+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
