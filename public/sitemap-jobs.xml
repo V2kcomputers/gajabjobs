@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
+    <lastmod>2026-07-09T11:45:04Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/sbi-bmo-recruitment-2026/</loc>
+    <lastmod>2026-07-09T11:40:28Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bank/sbi-assistant-deputy-manager-2026/</loc>
     <lastmod>2026-07-09T09:39:14Z</lastmod>
     <changefreq>daily</changefreq>
@@ -33,12 +45,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/mp/mpesb-group-2-sub-group-1-krashi-vistar-adhikari-2026/</loc>
-    <lastmod>2026-07-09T04:14:13Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
     <lastmod>2026-07-09T04:14:13Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
