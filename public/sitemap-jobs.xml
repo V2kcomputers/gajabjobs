@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bank/sbi-assistant-deputy-manager-2026/</loc>
+    <lastmod>2026-07-09T09:39:14Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bihar/bpssc-police-si-recruitment-2026/</loc>
     <lastmod>2026-07-09T04:14:13Z</lastmod>
     <changefreq>daily</changefreq>
