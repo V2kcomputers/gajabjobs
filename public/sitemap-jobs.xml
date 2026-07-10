@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/2026/aadhaar-operator-supervisor-bharti/</loc>
+    <lastmod>2026-07-10T04:22:08Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
     <lastmod>2026-07-09T11:45:04Z</lastmod>
     <changefreq>daily</changefreq>
