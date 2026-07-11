@@ -8,6 +8,30 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
+    <lastmod>2026-07-11T03:30:20Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-ministerial-isolated-category-dec25/</loc>
+    <lastmod>2026-07-11T03:30:20Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/upsc/upsc-capf-ac-recruitment-feb26/</loc>
+    <lastmod>2026-07-11T03:29:19Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/bpsc-72nd-pre-exam-2026/</loc>
+    <lastmod>2026-07-11T03:27:23Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mpesb-hospital-assistant-recruitment-2026/</loc>
     <lastmod>2026-07-10T10:44:46Z</lastmod>
     <changefreq>daily</changefreq>
@@ -58,12 +82,6 @@
   <url>
     <loc>http://localhost:1313/mp/mpesb-group-2-sub-group-1-krashi-vistar-adhikari-2026/</loc>
     <lastmod>2026-07-09T04:14:13Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
-    <lastmod>2026-07-09T04:07:55Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -136,12 +154,6 @@
   <url>
     <loc>http://localhost:1313/force/iaf-agniveer-vayu-intake-02-2027/</loc>
     <lastmod>2026-07-06T04:00:23Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-ministerial-isolated-category-dec25/</loc>
-    <lastmod>2026-07-05T03:49:19Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -434,12 +446,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/upsc/upsc-capf-ac-recruitment-feb26/</loc>
-    <lastmod>2026-06-18T05:24:31Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/up/upsssc-lower-pcs-recruitment-mar26/</loc>
     <lastmod>2026-06-18T03:05:38Z</lastmod>
     <changefreq>daily</changefreq>
@@ -646,12 +652,6 @@
   <url>
     <loc>http://localhost:1313/mp/mpesb-nursing-officer-sister-tutor-recruitment-2026/</loc>
     <lastmod>2026-05-09T11:00:56Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bihar/bpsc-72nd-pre-exam-2026/</loc>
-    <lastmod>2026-05-09T06:19:40Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
