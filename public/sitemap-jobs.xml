@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/idbi-bank-so-july-2026/</loc>
+    <lastmod>2026-07-11T07:27:45Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bihar/bpssc-fro-recruitment-2026/</loc>
     <lastmod>2026-07-11T04:11:12Z</lastmod>
     <changefreq>daily</changefreq>
