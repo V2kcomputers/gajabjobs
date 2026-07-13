@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-11T07:30:58Z</lastmod>
+    <lastmod>2026-07-13T12:53:30Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/nta-csir-ugc-net-june-2026/</loc>
+    <lastmod>2026-07-13T18:22:54+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/admission/mpesb-addet-admission-form-2026/</loc>
+    <lastmod>2026-07-13T18:21:43+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/force/indian-army-agniveer-rally-recruitment-feb26/</loc>
+    <lastmod>2026-07-13T18:20:09+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/idbi-bank-so-july-2026/</loc>
@@ -115,12 +133,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/eligibility/nta-csir-ugc-net-june-2026/</loc>
-    <lastmod>2026-07-09T09:32:22+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bihar/bpssc-havildar-instructor-recruitment-2026/</loc>
     <lastmod>2026-07-08T09:39:22+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -219,12 +231,6 @@
   <url>
     <loc>http://localhost:1313/admission/mpesb-pnst-admission-form-2026/</loc>
     <lastmod>2026-07-04T09:27:00+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/admission/mpesb-addet-admission-form-2026/</loc>
-    <lastmod>2026-07-04T09:26:01+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1119,12 +1125,6 @@
   <url>
     <loc>http://localhost:1313/bank/punjab-and-sind-bank-lbo-recruitment-2026/</loc>
     <lastmod>2026-03-31T15:28:05+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/force/indian-army-agniveer-rally-recruitment-feb26/</loc>
-    <lastmod>2026-03-31T12:25:38+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

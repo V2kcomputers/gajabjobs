@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/force/indian-army-agniveer-rally-recruitment-feb26/</loc>
+    <lastmod>2026-07-13T12:50:09Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/idbi-bank-so-july-2026/</loc>
     <lastmod>2026-07-11T07:27:45Z</lastmod>
     <changefreq>daily</changefreq>
@@ -880,12 +886,6 @@
   <url>
     <loc>http://localhost:1313/bank/punjab-and-sind-bank-lbo-recruitment-2026/</loc>
     <lastmod>2026-03-31T09:58:05Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/force/indian-army-agniveer-rally-recruitment-feb26/</loc>
-    <lastmod>2026-03-31T06:55:38Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
