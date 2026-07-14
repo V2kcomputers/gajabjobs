@@ -2,9 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-14T06:31:33Z</lastmod>
+    <lastmod>2026-07-14T12:42:59Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-section-controller-recruitment-2026/</loc>
+    <lastmod>2026-07-14T18:11:52+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/upsc/upsc-civil-services-ias-ifs-form-feb26/</loc>
+    <lastmod>2026-07-14T18:09:56+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-assistant-boring-technician-mar26/</loc>
+    <lastmod>2026-07-14T18:07:57+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/bpssc-havildar-instructor-recruitment-2026/</loc>
+    <lastmod>2026-07-14T18:04:53+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/nta-neet-ug-2026/</loc>
+    <lastmod>2026-07-14T18:04:53+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/idbi-bank-so-july-2026/</loc>
@@ -133,20 +163,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/up/upsssc-assistant-boring-technician-mar26/</loc>
-    <lastmod>2026-07-09T09:35:19+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/eligibility/uptet-2026/</loc>
     <lastmod>2026-07-09T09:33:26+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bihar/bpssc-havildar-instructor-recruitment-2026/</loc>
-    <lastmod>2026-07-08T09:39:22+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -451,12 +469,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/eligibility/nta-neet-ug-2026/</loc>
-    <lastmod>2026-06-26T09:14:19+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/rajasthan/rvunl-je-junior-assistant-2026/</loc>
     <lastmod>2026-06-25T16:01:49+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -511,12 +523,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/railway/rrb-section-controller-recruitment-2026/</loc>
-    <lastmod>2026-06-23T12:44:18+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/2026/csir-aso-recruitment-2026/</loc>
     <lastmod>2026-06-23T11:07:35+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -549,12 +555,6 @@
   <url>
     <loc>http://localhost:1313/bank/rbi-bank-office-attendant-recruitment-jan26/</loc>
     <lastmod>2026-06-23T09:03:25+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/upsc/upsc-civil-services-ias-ifs-form-feb26/</loc>
-    <lastmod>2026-06-20T12:28:06+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
