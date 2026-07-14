@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/idbi-bank-so-july-2026/</loc>
+    <lastmod>2026-07-14T06:31:28Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-auditor-assistant-accountant-2026/</loc>
+    <lastmod>2026-07-14T06:30:29Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
     <lastmod>2026-07-13T13:22:04Z</lastmod>
     <changefreq>daily</changefreq>
@@ -22,12 +34,6 @@
   <url>
     <loc>http://localhost:1313/force/indian-army-agniveer-rally-recruitment-feb26/</loc>
     <lastmod>2026-07-13T12:50:09Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/idbi-bank-so-july-2026/</loc>
-    <lastmod>2026-07-11T07:27:45Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -556,12 +562,6 @@
   <url>
     <loc>http://localhost:1313/jobs/hindustan-copper-limited-executive-2026/</loc>
     <lastmod>2026-06-08T06:51:12Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-auditor-assistant-accountant-2026/</loc>
-    <lastmod>2026-06-07T06:14:14Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
