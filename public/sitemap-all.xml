@@ -2,13 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-14T12:42:59Z</lastmod>
+    <lastmod>2026-07-15T03:26:43Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/admission/mp-epravesh-collage-admission-form-2026/</loc>
+    <lastmod>2026-07-15T08:56:14+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/admission/mpesb-pnst-admission-form-2026/</loc>
+    <lastmod>2026-07-15T08:54:47+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/phc-computer-operator-cum-typist-2026/</loc>
+    <lastmod>2026-07-15T08:50:19+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/bpssc-asi-technical-recruitment-2026/</loc>
+    <lastmod>2026-07-15T08:49:15+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/rbi-junior-engineer-recruitment-2026/</loc>
+    <lastmod>2026-07-15T08:46:37+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/railway/rrb-section-controller-recruitment-2026/</loc>
-    <lastmod>2026-07-14T18:11:52+05:30</lastmod>
+    <lastmod>2026-07-15T08:46:14+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -259,12 +289,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/admission/mpesb-pnst-admission-form-2026/</loc>
-    <lastmod>2026-07-04T09:27:00+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/rajasthan/rssb-cet-graduate-level-2026/</loc>
     <lastmod>2026-07-04T09:23:52+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -339,12 +363,6 @@
   <url>
     <loc>http://localhost:1313/eligibility/htet-2025/</loc>
     <lastmod>2026-07-01T09:58:04+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/admission/mp-epravesh-collage-admission-form-2026/</loc>
-    <lastmod>2026-07-01T09:56:23+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -757,12 +775,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bank/rbi-junior-engineer-recruitment-2026/</loc>
-    <lastmod>2026-05-28T09:46:41+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bank/rbi-assistant-recruitment-feb26/</loc>
     <lastmod>2026-05-28T09:40:20+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -771,12 +783,6 @@
   <url>
     <loc>http://localhost:1313/rj/rssb-computer-instructor-recruitment-2026/</loc>
     <lastmod>2026-05-25T18:34:47+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bihar/bpssc-asi-technical-recruitment-2026/</loc>
-    <lastmod>2026-05-19T20:23:26+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -933,12 +939,6 @@
   <url>
     <loc>http://localhost:1313/bihar/btsc-instructor-recruitment-2026/</loc>
     <lastmod>2026-04-20T15:50:50+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bihar/phc-computer-operator-cum-typist-2026/</loc>
-    <lastmod>2026-04-20T14:59:01+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
