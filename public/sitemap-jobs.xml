@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
+    <lastmod>2026-07-16T07:30:03Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/nalco-non-executive-recruitment-may26/</loc>
     <lastmod>2026-07-16T03:30:46Z</lastmod>
     <changefreq>daily</changefreq>
@@ -76,12 +82,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-auditor-assistant-accountant-2026/</loc>
     <lastmod>2026-07-14T06:30:29Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
-    <lastmod>2026-07-13T13:22:04Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
