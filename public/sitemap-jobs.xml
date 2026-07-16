@@ -8,6 +8,24 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/nalco-non-executive-recruitment-may26/</loc>
+    <lastmod>2026-07-16T03:30:46Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/rrb-ntpc-graduate-level-recruitment-2025/</loc>
+    <lastmod>2026-07-16T03:28:21Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/bpssc-fro-recruitment-2026/</loc>
+    <lastmod>2026-07-16T03:27:13Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bihar/phc-computer-operator-cum-typist-2026/</loc>
     <lastmod>2026-07-15T03:20:19Z</lastmod>
     <changefreq>daily</changefreq>
@@ -76,12 +94,6 @@
   <url>
     <loc>http://localhost:1313/force/indian-army-agniveer-rally-recruitment-feb26/</loc>
     <lastmod>2026-07-13T12:50:09Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bihar/bpssc-fro-recruitment-2026/</loc>
-    <lastmod>2026-07-11T04:11:12Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -184,12 +196,6 @@
   <url>
     <loc>http://localhost:1313/jobs/up-home-guard-recruitment-2025/</loc>
     <lastmod>2026-07-07T03:54:35Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/rrb-ntpc-graduate-level-recruitment-2025/</loc>
-    <lastmod>2026-07-07T03:52:33Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -526,12 +532,6 @@
   <url>
     <loc>http://localhost:1313/drdo/drdo-ceptam-11-recruitment-dec25/</loc>
     <lastmod>2026-06-13T04:56:12Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/nalco-non-executive-recruitment-may26/</loc>
-    <lastmod>2026-06-12T04:50:31Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
