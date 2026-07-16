@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/force/army-ssc-tech-68th-2026/</loc>
+    <lastmod>2026-07-16T11:51:50Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
     <lastmod>2026-07-16T07:30:03Z</lastmod>
     <changefreq>daily</changefreq>
