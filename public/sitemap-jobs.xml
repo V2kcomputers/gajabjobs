@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/upsssc-lower-pcs-recruitment-mar26/</loc>
+    <lastmod>2026-07-17T05:02:13Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/force/army-ssc-tech-68th-2026/</loc>
     <lastmod>2026-07-16T11:51:50Z</lastmod>
     <changefreq>daily</changefreq>
@@ -496,12 +502,6 @@
   <url>
     <loc>http://localhost:1313/force/indian-navy-10-2-btech-jan-2027/</loc>
     <lastmod>2026-06-19T09:59:30Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-lower-pcs-recruitment-mar26/</loc>
-    <lastmod>2026-06-18T03:05:38Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
