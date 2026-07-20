@@ -8,8 +8,26 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/upsssc-technical-assistant-group-c-2026/</loc>
+    <lastmod>2026-07-20T11:08:35Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-lower-pcs-recruitment-mar26/</loc>
+    <lastmod>2026-07-20T11:07:44Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/bpsc-72nd-pre-exam-2026/</loc>
+    <lastmod>2026-07-20T10:57:16Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bank/union-bank-so-recruitment-2026/</loc>
-    <lastmod>2026-07-20T06:15:57Z</lastmod>
+    <lastmod>2026-07-20T10:50:22Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -52,12 +70,6 @@
   <url>
     <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
     <lastmod>2026-07-18T05:42:39Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-lower-pcs-recruitment-mar26/</loc>
-    <lastmod>2026-07-17T05:02:13Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -166,12 +178,6 @@
   <url>
     <loc>http://localhost:1313/upsc/upsc-capf-ac-recruitment-feb26/</loc>
     <lastmod>2026-07-11T03:29:19Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bihar/bpsc-72nd-pre-exam-2026/</loc>
-    <lastmod>2026-07-11T03:27:23Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -292,12 +298,6 @@
   <url>
     <loc>http://localhost:1313/rajasthan/rssb-cet-graduate-level-2026/</loc>
     <lastmod>2026-07-04T03:53:52Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-technical-assistant-group-c-2026/</loc>
-    <lastmod>2026-07-03T11:16:31Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
