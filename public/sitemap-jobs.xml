@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/2026/wcl-mining-sirdar-assistant-foreman-2026/</loc>
+    <lastmod>2026-07-20T12:22:29Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/up/upsssc-technical-assistant-group-c-2026/</loc>
     <lastmod>2026-07-20T11:08:35Z</lastmod>
     <changefreq>daily</changefreq>
@@ -38,7 +44,7 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobsnicl-assistant-recruitment-2026/</loc>
+    <loc>http://localhost:1313/2026/nicl-assistant-recruitment-2026/</loc>
     <lastmod>2026-07-20T03:52:50Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
