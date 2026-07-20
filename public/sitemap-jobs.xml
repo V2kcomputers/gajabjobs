@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bank/pnb-lbo-recruitment-2026/</loc>
+    <lastmod>2026-07-20T13:11:50Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/2026/wcl-mining-sirdar-assistant-foreman-2026/</loc>
     <lastmod>2026-07-20T12:22:29Z</lastmod>
     <changefreq>daily</changefreq>
