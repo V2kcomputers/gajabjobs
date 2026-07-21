@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/2026/isro-assistant-jpa-2026/</loc>
+    <lastmod>2026-07-21T14:13:51Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/upsc/upsc-principal-recruitment-2026/</loc>
     <lastmod>2026-07-21T12:38:15Z</lastmod>
     <changefreq>daily</changefreq>
