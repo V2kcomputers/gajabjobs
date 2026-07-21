@@ -8,6 +8,24 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bank/union-bank-so-recruitment-2026/</loc>
+    <lastmod>2026-07-21T03:29:11Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/ibps-po-mt-xvi-2026/</loc>
+    <lastmod>2026-07-21T03:27:05Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/ibps-so-xvi-2026/</loc>
+    <lastmod>2026-07-21T03:27:05Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bank/pnb-lbo-recruitment-2026/</loc>
     <lastmod>2026-07-20T13:11:50Z</lastmod>
     <changefreq>daily</changefreq>
@@ -34,12 +52,6 @@
   <url>
     <loc>http://localhost:1313/bihar/bpsc-72nd-pre-exam-2026/</loc>
     <lastmod>2026-07-20T10:57:16Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/union-bank-so-recruitment-2026/</loc>
-    <lastmod>2026-07-20T10:50:22Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -219,18 +231,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/bihar/bpssc-police-si-recruitment-2026/</loc>
-    <lastmod>2026-07-09T04:14:13Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/ibps-po-mt-xvi-2026/</loc>
-    <lastmod>2026-07-09T04:14:13Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/ibps-so-xvi-2026/</loc>
     <lastmod>2026-07-09T04:14:13Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>

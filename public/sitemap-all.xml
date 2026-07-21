@@ -2,9 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-20T13:14:32Z</lastmod>
+    <lastmod>2026-07-21T03:29:31Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/union-bank-so-recruitment-2026/</loc>
+    <lastmod>2026-07-21T08:59:11+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/ibps-po-mt-xvi-2026/</loc>
+    <lastmod>2026-07-21T08:57:05+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/ibps-so-xvi-2026/</loc>
+    <lastmod>2026-07-21T08:57:05+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/admission/mp-deled-counselling-2026/</loc>
+    <lastmod>2026-07-21T08:56:37+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/admission/mp-iti-admission-2026/</loc>
+    <lastmod>2026-07-21T08:54:30+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/bank/pnb-lbo-recruitment-2026/</loc>
@@ -33,12 +63,6 @@
   <url>
     <loc>http://localhost:1313/bihar/bpsc-72nd-pre-exam-2026/</loc>
     <lastmod>2026-07-20T16:27:16+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/union-bank-so-recruitment-2026/</loc>
-    <lastmod>2026-07-20T16:20:22+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -271,18 +295,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bank/ibps-po-mt-xvi-2026/</loc>
-    <lastmod>2026-07-09T09:44:13+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/ibps-so-xvi-2026/</loc>
-    <lastmod>2026-07-09T09:44:13+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/mp/mpesb-group-2-sub-group-1-krashi-vistar-adhikari-2026/</loc>
     <lastmod>2026-07-09T09:44:13+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -321,12 +333,6 @@
   <url>
     <loc>http://localhost:1313/admission/jnvst-class-6-admission-2027/</loc>
     <lastmod>2026-07-07T18:38:08+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/admission/mp-deled-counselling-2026/</loc>
-    <lastmod>2026-07-07T09:29:31+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -680,12 +686,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/admission/dte-mp-polytechnic-admission-2026/</loc>
-    <lastmod>2026-06-18T08:38:34+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/admission/mp-iti-admission-2026/</loc>
     <lastmod>2026-06-18T08:38:34+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
