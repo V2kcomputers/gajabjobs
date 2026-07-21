@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-21T06:50:25Z</lastmod>
+    <lastmod>2026-07-21T11:13:13Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-junior-engineer-recruitment-2026/</loc>
+    <lastmod>2026-07-21T16:40:49+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/rajasthan/rajasthan-high-court-stenographer-2026/</loc>
