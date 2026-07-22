@@ -8,6 +8,30 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bank/ibps-so-xvi-2026/</loc>
+    <lastmod>2026-07-22T05:28:05Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/ibps-po-mt-xvi-2026/</loc>
+    <lastmod>2026-07-22T05:19:16Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rajasthan/rajasthan-high-court-stenographer-2026/</loc>
+    <lastmod>2026-07-22T05:19:16Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-auditor-assistant-accountant-2026/</loc>
+    <lastmod>2026-07-22T05:14:37Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/2026/isro-assistant-jpa-2026/</loc>
     <lastmod>2026-07-21T14:13:51Z</lastmod>
     <changefreq>daily</changefreq>
@@ -26,26 +50,8 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/rajasthan/rajasthan-high-court-stenographer-2026/</loc>
-    <lastmod>2026-07-21T06:45:34Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bank/union-bank-so-recruitment-2026/</loc>
     <lastmod>2026-07-21T03:29:11Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/ibps-po-mt-xvi-2026/</loc>
-    <lastmod>2026-07-21T03:27:05Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/ibps-so-xvi-2026/</loc>
-    <lastmod>2026-07-21T03:27:05Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -190,12 +196,6 @@
   <url>
     <loc>http://localhost:1313/jobs/idbi-bank-so-july-2026/</loc>
     <lastmod>2026-07-14T06:31:28Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-auditor-assistant-accountant-2026/</loc>
-    <lastmod>2026-07-14T06:30:29Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
