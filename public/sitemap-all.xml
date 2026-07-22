@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-22T06:15:24Z</lastmod>
+    <lastmod>2026-07-22T10:05:30Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/delhi/dhc-higher-judicial-service-hjs-2026/</loc>
+    <lastmod>2026-07-22T15:35:25+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
+    <lastmod>2026-07-22T15:32:51+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-assistant-statistical-officer-aso-mar26/</loc>
+    <lastmod>2026-07-22T15:31:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/up/upessc-principal-recruitment-2026/</loc>
@@ -141,18 +159,6 @@
   <url>
     <loc>http://localhost:1313/rj/rssb-female-supervisor-recruitment-jan26/</loc>
     <lastmod>2026-07-18T11:14:41+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-assistant-statistical-officer-aso-mar26/</loc>
-    <lastmod>2026-07-18T11:13:11+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
-    <lastmod>2026-07-18T11:12:39+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -459,12 +465,6 @@
   <url>
     <loc>http://localhost:1313/admission/neet-pg-2026/</loc>
     <lastmod>2026-07-02T16:57:14+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/delhi/dhc-higher-judicial-service-hjs-2026/</loc>
-    <lastmod>2026-07-02T15:36:13+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
