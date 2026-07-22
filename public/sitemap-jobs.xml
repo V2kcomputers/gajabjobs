@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/rajasthan/rpsc-physiotherapist-2026/</loc>
+    <lastmod>2026-07-22T11:29:50Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/delhi/dhc-higher-judicial-service-hjs-2026/</loc>
     <lastmod>2026-07-22T10:05:25Z</lastmod>
     <changefreq>daily</changefreq>
