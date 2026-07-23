@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-23T03:24:56Z</lastmod>
+    <lastmod>2026-07-23T04:19:16Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/pnb-lbo-recruitment-2026/</loc>
+    <lastmod>2026-07-23T09:49:05+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/union-bank-so-recruitment-2026/</loc>
+    <lastmod>2026-07-23T09:49:05+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2026/icert-scientist-b-recruitment-2026/</loc>
+    <lastmod>2026-07-23T09:47:02+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/aai-manager-junior-executive-2026/</loc>
@@ -109,12 +127,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bank/union-bank-so-recruitment-2026/</loc>
-    <lastmod>2026-07-21T08:59:11+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/admission/mp-deled-counselling-2026/</loc>
     <lastmod>2026-07-21T08:56:37+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -123,12 +135,6 @@
   <url>
     <loc>http://localhost:1313/admission/mp-iti-admission-2026/</loc>
     <lastmod>2026-07-21T08:54:30+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/pnb-lbo-recruitment-2026/</loc>
-    <lastmod>2026-07-20T18:41:50+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
