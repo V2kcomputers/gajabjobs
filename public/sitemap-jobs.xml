@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/force/army-jag-entry-scheme-125th-2026/</loc>
+    <lastmod>2026-07-23T06:12:13Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/force/army-ncc-125th-special-entry-2026/</loc>
     <lastmod>2026-07-23T05:27:13Z</lastmod>
     <changefreq>daily</changefreq>
