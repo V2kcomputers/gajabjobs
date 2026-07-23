@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-22T13:35:17Z</lastmod>
+    <lastmod>2026-07-23T03:24:56Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/aai-manager-junior-executive-2026/</loc>
+    <lastmod>2026-07-23T08:52:04+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rajasthan/rpsc-physiotherapist-2026/</loc>
+    <lastmod>2026-07-23T08:51:31+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/mp/mp-anganwadi-bharti-2026-phase-1/</loc>
@@ -21,12 +33,6 @@
   <url>
     <loc>http://localhost:1313/bank/sbi-po-recruitment-2026/</loc>
     <lastmod>2026-07-22T18:47:10+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/rajasthan/rpsc-physiotherapist-2026/</loc>
-    <lastmod>2026-07-22T16:59:50+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
