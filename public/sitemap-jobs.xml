@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/up-anganwadi-helper-bharti/</loc>
+    <lastmod>2026-07-24T07:31:16Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
     <lastmod>2026-07-24T06:01:31Z</lastmod>
     <changefreq>daily</changefreq>
