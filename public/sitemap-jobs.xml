@@ -8,6 +8,48 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
+    <lastmod>2026-07-24T06:01:31Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/uppsc-pre-2026/</loc>
+    <lastmod>2026-07-24T05:59:55Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-technician-recruitment-2026/</loc>
+    <lastmod>2026-07-24T05:58:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-junior-engineer-recruitment-2026/</loc>
+    <lastmod>2026-07-24T05:58:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-section-controller-recruitment-2026/</loc>
+    <lastmod>2026-07-24T05:58:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
+    <lastmod>2026-07-24T05:56:42Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/bpssc-asi-technical-recruitment-2026/</loc>
+    <lastmod>2026-07-24T05:55:43Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/force/army-jag-entry-scheme-125th-2026/</loc>
     <lastmod>2026-07-23T06:12:13Z</lastmod>
     <changefreq>daily</changefreq>
@@ -68,12 +110,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
-    <lastmod>2026-07-22T10:02:51Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/up/upsssc-assistant-statistical-officer-aso-mar26/</loc>
     <lastmod>2026-07-22T10:01:42Z</lastmod>
     <changefreq>daily</changefreq>
@@ -118,12 +154,6 @@
   <url>
     <loc>http://localhost:1313/upsc/upsc-principal-recruitment-2026/</loc>
     <lastmod>2026-07-21T12:38:15Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-junior-engineer-recruitment-2026/</loc>
-    <lastmod>2026-07-21T11:10:49Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -206,20 +236,8 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bihar/bpssc-asi-technical-recruitment-2026/</loc>
-    <lastmod>2026-07-15T03:19:15Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bank/rbi-junior-engineer-recruitment-2026/</loc>
     <lastmod>2026-07-15T03:16:37Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-section-controller-recruitment-2026/</loc>
-    <lastmod>2026-07-15T03:16:14Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -256,12 +274,6 @@
   <url>
     <loc>http://localhost:1313/force/indian-army-agniveer-rally-recruitment-feb26/</loc>
     <lastmod>2026-07-13T12:50:09Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
-    <lastmod>2026-07-11T03:30:20Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -434,12 +446,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/railway/rrb-technician-recruitment-2026/</loc>
-    <lastmod>2026-06-30T03:46:27Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bihar/bpssc-company-commander-2026/</loc>
     <lastmod>2026-06-30T03:45:57Z</lastmod>
     <changefreq>daily</changefreq>
@@ -490,12 +496,6 @@
   <url>
     <loc>http://localhost:1313/2026/isro-istrac-various-post-june-2026/</loc>
     <lastmod>2026-06-27T07:27:08Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/uppsc-pre-2026/</loc>
-    <lastmod>2026-06-26T04:45:30Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
