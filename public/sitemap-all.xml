@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-24T12:00:22Z</lastmod>
+    <lastmod>2026-07-25T04:21:15Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mp-iti-training-officer-recruitment-jan26/</loc>
+    <lastmod>2026-07-25T09:51:09+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/upsc/upsc-combined-medical-services-cms-mar26/</loc>
+    <lastmod>2026-07-25T09:46:57+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/force/indian-navy-ssc-officer-jun-2027-batch/</loc>
+    <lastmod>2026-07-25T09:43:23+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/up/up-anganwadi-helper-bharti/</loc>
@@ -663,12 +681,6 @@
   <url>
     <loc>http://localhost:1313/rajasthan/rssb-cet-12th-level-2026/</loc>
     <lastmod>2026-06-25T09:47:45+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/force/indian-navy-ssc-officer-jun-2027-batch/</loc>
-    <lastmod>2026-06-25T09:37:11+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1339,12 +1351,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mp/mp-iti-training-officer-recruitment-jan26/</loc>
-    <lastmod>2026-03-19T10:28:10+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/admission/jnv-navodaya-admission-6th-2026/</loc>
     <lastmod>2026-03-19T10:24:28+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -1395,12 +1401,6 @@
   <url>
     <loc>http://localhost:1313/2026/ahc-private-secretary-grade-i-mar26/</loc>
     <lastmod>2026-03-12T16:14:03+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/upsc/upsc-combined-medical-services-cms-mar26/</loc>
-    <lastmod>2026-03-12T13:40:19+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

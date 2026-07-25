@@ -8,6 +8,24 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/mp/mp-iti-training-officer-recruitment-jan26/</loc>
+    <lastmod>2026-07-25T04:21:09Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/upsc/upsc-combined-medical-services-cms-mar26/</loc>
+    <lastmod>2026-07-25T04:16:57Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/force/indian-navy-ssc-officer-jun-2027-batch/</loc>
+    <lastmod>2026-07-25T04:13:23Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/up/up-anganwadi-helper-bharti/</loc>
     <lastmod>2026-07-24T07:31:16Z</lastmod>
     <changefreq>daily</changefreq>
@@ -548,12 +566,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/force/indian-navy-ssc-officer-jun-2027-batch/</loc>
-    <lastmod>2026-06-25T04:07:11Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/ssc/ssc-cgl-recruitment-2026/</loc>
     <lastmod>2026-06-23T13:18:54Z</lastmod>
     <changefreq>daily</changefreq>
@@ -1052,12 +1064,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mp/mp-iti-training-officer-recruitment-jan26/</loc>
-    <lastmod>2026-03-19T04:58:10Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bihar/bpsc-33rd-judicial-services-recruitment-feb26/</loc>
     <lastmod>2026-03-18T12:37:11Z</lastmod>
     <changefreq>daily</changefreq>
@@ -1090,12 +1096,6 @@
   <url>
     <loc>http://localhost:1313/2026/ahc-private-secretary-grade-i-mar26/</loc>
     <lastmod>2026-03-12T10:44:03Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/upsc/upsc-combined-medical-services-cms-mar26/</loc>
-    <lastmod>2026-03-12T08:10:19Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
