@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/upsssc-fsl-recruitment-2026/</loc>
+    <lastmod>2026-07-25T11:00:31Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/aiims-norcet-11th-nursing-officer-2026/</loc>
     <lastmod>2026-07-25T07:03:33Z</lastmod>
     <changefreq>daily</changefreq>
