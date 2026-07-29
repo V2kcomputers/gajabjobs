@@ -8,6 +8,30 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/2026/aadhaar-operator-supervisor-bharti/</loc>
+    <lastmod>2026-07-29T06:45:52Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/uppsc-pre-2026/</loc>
+    <lastmod>2026-07-29T06:42:46Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-excise-constable-recruitment-2026/</loc>
+    <lastmod>2026-07-29T06:41:13Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/ibps-po-mt-xvi-2026/</loc>
+    <lastmod>2026-07-29T06:35:33Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bank/ibps-clerk-recruitment-2026/</loc>
     <lastmod>2026-07-27T13:03:20Z</lastmod>
     <changefreq>daily</changefreq>
@@ -64,12 +88,6 @@
   <url>
     <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
     <lastmod>2026-07-24T06:01:31Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/uppsc-pre-2026/</loc>
-    <lastmod>2026-07-24T05:59:55Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -178,12 +196,6 @@
   <url>
     <loc>http://localhost:1313/bank/ibps-so-xvi-2026/</loc>
     <lastmod>2026-07-22T05:28:05Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/ibps-po-mt-xvi-2026/</loc>
-    <lastmod>2026-07-22T05:19:16Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -334,12 +346,6 @@
   <url>
     <loc>http://localhost:1313/mp/mpesb-hospital-assistant-recruitment-2026/</loc>
     <lastmod>2026-07-10T10:44:46Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/2026/aadhaar-operator-supervisor-bharti/</loc>
-    <lastmod>2026-07-10T04:22:08Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -724,12 +730,6 @@
   <url>
     <loc>http://localhost:1313/jobs/hindustan-copper-limited-executive-2026/</loc>
     <lastmod>2026-06-08T06:51:12Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-excise-constable-recruitment-2026/</loc>
-    <lastmod>2026-06-05T10:57:36Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>

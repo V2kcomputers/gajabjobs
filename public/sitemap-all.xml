@@ -2,9 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-27T13:06:04Z</lastmod>
+    <lastmod>2026-07-29T06:46:09Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2026/aadhaar-operator-supervisor-bharti/</loc>
+    <lastmod>2026-07-29T12:15:52+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/uppsc-pre-2026/</loc>
+    <lastmod>2026-07-29T12:12:46+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-excise-constable-recruitment-2026/</loc>
+    <lastmod>2026-07-29T12:11:13+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/cbi-apprentice-recruitment-jun-2026/</loc>
+    <lastmod>2026-07-29T12:09:46+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/ibps-po-mt-xvi-2026/</loc>
+    <lastmod>2026-07-29T12:05:33+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/bank/ibps-clerk-recruitment-2026/</loc>
@@ -69,12 +99,6 @@
   <url>
     <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
     <lastmod>2026-07-24T11:31:31+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/uppsc-pre-2026/</loc>
-    <lastmod>2026-07-24T11:29:55+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -189,12 +213,6 @@
   <url>
     <loc>http://localhost:1313/bank/ibps-so-xvi-2026/</loc>
     <lastmod>2026-07-22T10:58:05+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/ibps-po-mt-xvi-2026/</loc>
-    <lastmod>2026-07-22T10:49:16+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -415,12 +433,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/2026/aadhaar-operator-supervisor-bharti/</loc>
-    <lastmod>2026-07-10T09:52:08+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bank/sbi-bmo-recruitment-2026/</loc>
     <lastmod>2026-07-09T17:10:28+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -555,12 +567,6 @@
   <url>
     <loc>http://localhost:1313/jharkhand/jpsc-cce-2026/</loc>
     <lastmod>2026-07-03T16:23:34+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/cbi-apprentice-recruitment-jun-2026/</loc>
-    <lastmod>2026-07-03T16:04:15+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -903,12 +909,6 @@
   <url>
     <loc>http://localhost:1313/apprentice/indian-navy-agniveer-apprentice-inet-2026/</loc>
     <lastmod>2026-06-07T16:11:36+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-excise-constable-recruitment-2026/</loc>
-    <lastmod>2026-06-05T16:27:36+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
