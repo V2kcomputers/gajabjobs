@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/2026/isro-scientist-engineer-2026/</loc>
+    <lastmod>2026-07-30T09:11:55Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/rajasthan-safai-karamchari-bharti-2026/</loc>
     <lastmod>2026-07-29T14:00:25Z</lastmod>
     <changefreq>daily</changefreq>
