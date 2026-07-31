@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-31T10:11:08Z</lastmod>
+    <lastmod>2026-07-31T11:29:05Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rajasthan/rvunl-je-junior-assistant-2026/</loc>
+    <lastmod>2026-07-31T16:57:38+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-technical-assistant-group-c-2026/</loc>
+    <lastmod>2026-07-31T16:48:39+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/up/up-police-constable-recruitment-dec25/</loc>
@@ -279,12 +291,6 @@
   <url>
     <loc>http://localhost:1313/2026/wcl-mining-sirdar-assistant-foreman-2026/</loc>
     <lastmod>2026-07-20T17:52:29+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-technical-assistant-group-c-2026/</loc>
-    <lastmod>2026-07-20T16:38:35+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -717,12 +723,6 @@
   <url>
     <loc>http://localhost:1313/jobs/pgcil-diploma-trainee-recruitment-2026/</loc>
     <lastmod>2026-06-26T09:14:52+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/rajasthan/rvunl-je-junior-assistant-2026/</loc>
-    <lastmod>2026-06-25T16:01:49+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
