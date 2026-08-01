@@ -8,6 +8,30 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bank/ibps-clerk-recruitment-2026/</loc>
+    <lastmod>2026-08-01T04:02:27Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/pnb-lbo-recruitment-2026/</loc>
+    <lastmod>2026-08-01T04:02:27Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/union-bank-so-recruitment-2026/</loc>
+    <lastmod>2026-08-01T04:02:27Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mpesb-group-2-sub-group-1-krashi-vistar-adhikari-2026/</loc>
+    <lastmod>2026-08-01T03:53:06Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bihar/phc-ex-cadre-assistant-2026/</loc>
     <lastmod>2026-07-31T12:39:14Z</lastmod>
     <changefreq>daily</changefreq>
@@ -98,12 +122,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bank/ibps-clerk-recruitment-2026/</loc>
-    <lastmod>2026-07-27T13:03:20Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/2026/isro-assistant-jpa-2026/</loc>
     <lastmod>2026-07-27T05:09:24Z</lastmod>
     <changefreq>daily</changefreq>
@@ -172,18 +190,6 @@
   <url>
     <loc>http://localhost:1313/force/army-ncc-125th-special-entry-2026/</loc>
     <lastmod>2026-07-23T05:27:13Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/pnb-lbo-recruitment-2026/</loc>
-    <lastmod>2026-07-23T04:19:05Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/union-bank-so-recruitment-2026/</loc>
-    <lastmod>2026-07-23T04:19:05Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -399,12 +405,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/bihar/bpssc-police-si-recruitment-2026/</loc>
-    <lastmod>2026-07-09T04:14:13Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-group-2-sub-group-1-krashi-vistar-adhikari-2026/</loc>
     <lastmod>2026-07-09T04:14:13Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
