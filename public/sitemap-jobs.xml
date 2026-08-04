@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/mp/mpesb-group-1-sub-group-2-recruitment-dec25/</loc>
+    <lastmod>2026-08-04T03:55:15Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/sbi-cbo-recruitment-jan26/</loc>
+    <lastmod>2026-08-04T03:53:12Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
     <lastmod>2026-08-01T06:31:16Z</lastmod>
     <changefreq>daily</changefreq>
@@ -472,12 +484,6 @@
   <url>
     <loc>http://localhost:1313/force/iaf-agniveer-vayu-intake-02-2027/</loc>
     <lastmod>2026-07-06T04:00:23Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/sbi-cbo-recruitment-jan26/</loc>
-    <lastmod>2026-07-05T03:47:04Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -1204,12 +1210,6 @@
   <url>
     <loc>http://localhost:1313/bank/ibps-deputy-manager-recruitment-feb26/</loc>
     <lastmod>2026-02-25T07:04:47Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-group-1-sub-group-2-recruitment-dec25/</loc>
-    <lastmod>2026-02-24T10:37:34Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
