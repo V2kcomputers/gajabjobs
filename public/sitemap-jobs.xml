@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/uppsc-computer-operator-2026/</loc>
+    <lastmod>2026-08-04T06:32:57Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/uppsc-architectural-assistant-2026/</loc>
     <lastmod>2026-08-04T05:56:49Z</lastmod>
     <changefreq>daily</changefreq>
