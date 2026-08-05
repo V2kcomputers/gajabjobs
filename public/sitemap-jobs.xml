@@ -8,6 +8,24 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jharkhand/jssc-jilcce-inter-level-2026/</loc>
+    <lastmod>2026-08-05T03:48:01Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rajasthan/rvunl-je-junior-assistant-2026/</loc>
+    <lastmod>2026-08-05T03:41:36Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/upsc/upsc-ies-iss-recruitment-feb26/</loc>
+    <lastmod>2026-08-05T03:41:36Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mpesb-group-2-sub-group-4-patwari-2026/</loc>
     <lastmod>2026-08-04T12:16:44Z</lastmod>
     <changefreq>daily</changefreq>
@@ -74,20 +92,8 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jharkhand/jssc-jilcce-inter-level-2026/</loc>
-    <lastmod>2026-08-01T03:10:35Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bihar/phc-ex-cadre-assistant-2026/</loc>
     <lastmod>2026-07-31T12:39:14Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/rajasthan/rvunl-je-junior-assistant-2026/</loc>
-    <lastmod>2026-07-31T11:27:38Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -730,12 +736,6 @@
   <url>
     <loc>http://localhost:1313/ssc/ssc-gd-constable-admit-card-2026/</loc>
     <lastmod>2026-06-15T12:53:47Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/upsc/upsc-ies-iss-recruitment-feb26/</loc>
-    <lastmod>2026-06-13T10:54:01Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
