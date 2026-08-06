@@ -8,6 +8,30 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/bob-so-recruitment-2026/</loc>
+    <lastmod>2026-08-06T07:13:14Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/ibps-clerk-recruitment-2026/</loc>
+    <lastmod>2026-08-06T07:13:14Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-junior-engineer-recruitment-2026/</loc>
+    <lastmod>2026-08-06T07:13:14Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-section-controller-recruitment-2026/</loc>
+    <lastmod>2026-08-06T07:13:14Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jharkhand/jssc-jilcce-inter-level-2026/</loc>
     <lastmod>2026-08-05T03:48:01Z</lastmod>
     <changefreq>daily</changefreq>
@@ -64,12 +88,6 @@
   <url>
     <loc>http://localhost:1313/jobs/bsnl-jto-recruitment-2026/</loc>
     <lastmod>2026-08-01T06:29:06Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/ibps-clerk-recruitment-2026/</loc>
-    <lastmod>2026-08-01T04:02:27Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -213,18 +231,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/railway/rrb-technician-recruitment-2026/</loc>
-    <lastmod>2026-07-24T05:58:00Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-junior-engineer-recruitment-2026/</loc>
-    <lastmod>2026-07-24T05:58:00Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-section-controller-recruitment-2026/</loc>
     <lastmod>2026-07-24T05:58:00Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
