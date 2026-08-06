@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-08-06T07:13:55Z</lastmod>
+    <lastmod>2026-08-06T10:25:23Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/calendar/mpesb-exam-calendar-2026/</loc>
+    <lastmod>2026-08-06T15:53:36+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-technical-assistant-group-c-2026/</loc>
+    <lastmod>2026-08-06T15:52:12+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/bob-so-recruitment-2026/</loc>
@@ -129,12 +141,6 @@
   <url>
     <loc>http://localhost:1313/bihar/phc-ex-cadre-assistant-2026/</loc>
     <lastmod>2026-07-31T18:09:14+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-technical-assistant-group-c-2026/</loc>
-    <lastmod>2026-07-31T16:48:39+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2211,12 +2217,6 @@
   <url>
     <loc>http://localhost:1313/calendar/mppsc-exam-calendar-2026/</loc>
     <lastmod>2025-12-17T17:01:56+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/calendar/mpesb-exam-calendar-2026/</loc>
-    <lastmod>2025-12-17T16:21:02+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

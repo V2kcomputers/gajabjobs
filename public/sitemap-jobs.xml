@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/upsssc-technical-assistant-group-c-2026/</loc>
+    <lastmod>2026-08-06T10:22:12Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/bob-so-recruitment-2026/</loc>
     <lastmod>2026-08-06T07:13:14Z</lastmod>
     <changefreq>daily</changefreq>
@@ -112,12 +118,6 @@
   <url>
     <loc>http://localhost:1313/bihar/phc-ex-cadre-assistant-2026/</loc>
     <lastmod>2026-07-31T12:39:14Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-technical-assistant-group-c-2026/</loc>
-    <lastmod>2026-07-31T11:18:39Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
