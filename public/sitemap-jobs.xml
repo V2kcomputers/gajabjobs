@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/mp/mpesb-group-2-sub-group-4-patwari-2026/</loc>
+    <lastmod>2026-08-07T14:16:41Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/mpesb-police-constable-recruitment-2026/</loc>
     <lastmod>2026-08-06T12:08:24Z</lastmod>
     <changefreq>daily</changefreq>
@@ -58,12 +64,6 @@
   <url>
     <loc>http://localhost:1313/upsc/upsc-ies-iss-recruitment-feb26/</loc>
     <lastmod>2026-08-05T03:41:36Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-group-2-sub-group-4-patwari-2026/</loc>
-    <lastmod>2026-08-04T12:16:44Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
