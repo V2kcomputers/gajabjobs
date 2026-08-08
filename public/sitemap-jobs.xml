@@ -8,6 +8,36 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/aai-manager-junior-executive-2026/</loc>
+    <lastmod>2026-08-08T05:34:04Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
+    <lastmod>2026-08-08T05:33:42Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cg/cgpsc-adppo-recruitment-2026/</loc>
+    <lastmod>2026-08-08T05:31:30Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/boi-credit-officer-jun-2026/</loc>
+    <lastmod>2026-08-08T05:24:57Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/sbi-clerk-backlog-2026/</loc>
+    <lastmod>2026-08-08T05:09:07Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mpesb-group-2-sub-group-4-patwari-2026/</loc>
     <lastmod>2026-08-07T14:16:41Z</lastmod>
     <changefreq>daily</changefreq>
@@ -88,12 +118,6 @@
   <url>
     <loc>http://localhost:1313/bank/sbi-cbo-recruitment-jan26/</loc>
     <lastmod>2026-08-04T03:53:12Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
-    <lastmod>2026-08-01T06:31:16Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -256,12 +280,6 @@
   <url>
     <loc>http://localhost:1313/2026/icert-scientist-b-recruitment-2026/</loc>
     <lastmod>2026-07-23T04:17:02Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/aai-manager-junior-executive-2026/</loc>
-    <lastmod>2026-07-23T03:22:04Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -578,12 +596,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bank/boi-credit-officer-jun-2026/</loc>
-    <lastmod>2026-06-30T10:50:22Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bihar/bpssc-company-commander-2026/</loc>
     <lastmod>2026-06-30T03:45:57Z</lastmod>
     <changefreq>daily</changefreq>
@@ -688,12 +700,6 @@
   <url>
     <loc>http://localhost:1313/2026/csir-aso-recruitment-2026/</loc>
     <lastmod>2026-06-23T05:37:35Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/cg/cgpsc-adppo-recruitment-2026/</loc>
-    <lastmod>2026-06-23T04:09:18Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
