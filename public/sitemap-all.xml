@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-08-10T05:03:19Z</lastmod>
+    <lastmod>2026-08-10T12:48:47Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/up-anganwadi-helper-bharti/</loc>
+    <lastmod>2026-08-10T18:18:03+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
+    <lastmod>2026-08-10T18:18:03+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/apprentice/rcf-kapurthala-apprentice-2026/</loc>
+    <lastmod>2026-08-10T18:07:47+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/admission/mp-epravesh-collage-admission-form-2026/</loc>
@@ -219,18 +237,6 @@
   <url>
     <loc>http://localhost:1313/bihar/bpssc-asi-technical-recruitment-2026/</loc>
     <lastmod>2026-07-31T09:22:20+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/up-anganwadi-helper-bharti/</loc>
-    <lastmod>2026-07-31T08:47:47+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
-    <lastmod>2026-07-31T08:47:47+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

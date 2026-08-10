@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/up-anganwadi-helper-bharti/</loc>
+    <lastmod>2026-08-10T12:48:03Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
+    <lastmod>2026-08-10T12:48:03Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bank/iob-local-bank-officer-2026/</loc>
     <lastmod>2026-08-08T11:17:09Z</lastmod>
     <changefreq>daily</changefreq>
@@ -172,18 +184,6 @@
   <url>
     <loc>http://localhost:1313/bihar/bpssc-asi-technical-recruitment-2026/</loc>
     <lastmod>2026-07-31T03:52:20Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/up-anganwadi-helper-bharti/</loc>
-    <lastmod>2026-07-31T03:17:47Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
-    <lastmod>2026-07-31T03:17:47Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
