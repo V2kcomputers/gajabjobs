@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bank/ibps-po-mt-xvi-2026/</loc>
+    <lastmod>2026-08-11T12:18:17Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bank/sbi-junior-associate-clerk-2026/</loc>
     <lastmod>2026-08-11T11:51:21Z</lastmod>
     <changefreq>daily</changefreq>
@@ -232,12 +238,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-excise-constable-recruitment-2026/</loc>
     <lastmod>2026-07-29T06:41:13Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/ibps-po-mt-xvi-2026/</loc>
-    <lastmod>2026-07-29T06:35:33Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>

@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-08-11T11:53:30Z</lastmod>
+    <lastmod>2026-08-11T12:20:44Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/ibps-po-mt-xvi-2026/</loc>
+    <lastmod>2026-08-11T17:48:17+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/bank/sbi-junior-associate-clerk-2026/</loc>
@@ -297,12 +303,6 @@
   <url>
     <loc>http://localhost:1313/bank/cbi-apprentice-recruitment-jun-2026/</loc>
     <lastmod>2026-07-29T12:09:46+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/ibps-po-mt-xvi-2026/</loc>
-    <lastmod>2026-07-29T12:05:33+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
