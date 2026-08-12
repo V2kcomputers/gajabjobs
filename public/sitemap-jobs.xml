@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/bsnl-jto-recruitment-2026/</loc>
+    <lastmod>2026-08-12T10:20:09Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/mp-panchayat-sachiv-rojgar-sahayak-bharti-2026/</loc>
     <lastmod>2026-08-12T04:57:08Z</lastmod>
     <changefreq>daily</changefreq>
@@ -184,12 +190,6 @@
   <url>
     <loc>http://localhost:1313/bank/sbi-cbo-recruitment-jan26/</loc>
     <lastmod>2026-08-04T03:53:12Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/bsnl-jto-recruitment-2026/</loc>
-    <lastmod>2026-08-01T06:29:06Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>

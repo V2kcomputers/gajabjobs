@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-08-12T06:05:55Z</lastmod>
+    <lastmod>2026-08-12T10:23:38Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/admission/mp-iti-admission-2026/</loc>
+    <lastmod>2026-08-12T15:52:33+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/bsnl-jto-recruitment-2026/</loc>
+    <lastmod>2026-08-12T15:50:09+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/cpct-exam-2026/</loc>
@@ -253,12 +265,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/bsnl-jto-recruitment-2026/</loc>
-    <lastmod>2026-08-01T11:59:06+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/eligibility/rajasthan-set-2026/</loc>
     <lastmod>2026-08-01T09:45:35+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -465,12 +471,6 @@
   <url>
     <loc>http://localhost:1313/apprentice/iob-apprentice-2026/</loc>
     <lastmod>2026-07-21T12:14:04+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/admission/mp-iti-admission-2026/</loc>
-    <lastmod>2026-07-21T08:54:30+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
