@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/2026/aadhaar-operator-supervisor-bharti/</loc>
+    <lastmod>2026-08-12T03:54:17Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/ibps-clerk-recruitment-2026/</loc>
+    <lastmod>2026-08-12T03:54:17Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bank/sbi-junior-associate-clerk-2026/</loc>
     <lastmod>2026-08-11T11:51:21Z</lastmod>
     <changefreq>daily</changefreq>
@@ -116,12 +128,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bank/ibps-clerk-recruitment-2026/</loc>
-    <lastmod>2026-08-06T07:13:14Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/railway/rrb-junior-engineer-recruitment-2026/</loc>
     <lastmod>2026-08-06T07:13:14Z</lastmod>
     <changefreq>daily</changefreq>
@@ -220,12 +226,6 @@
   <url>
     <loc>http://localhost:1313/jobs/rajasthan-safai-karamchari-bharti-2026/</loc>
     <lastmod>2026-07-29T14:00:25Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/2026/aadhaar-operator-supervisor-bharti/</loc>
-    <lastmod>2026-07-29T06:45:52Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
