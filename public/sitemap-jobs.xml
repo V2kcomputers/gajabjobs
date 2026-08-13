@@ -8,6 +8,36 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
+    <lastmod>2026-08-13T03:50:17Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ssc/ssc-stenographer-2026/</loc>
+    <lastmod>2026-08-13T03:48:38Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ssc/ssc-cht-recruitment-2026/</loc>
+    <lastmod>2026-08-13T03:46:57Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/upsc/upsc-cds-ii-recruitment-2026/</loc>
+    <lastmod>2026-08-13T03:44:08Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/upsc/upsc-nda-ii-recruitment-2026/</loc>
+    <lastmod>2026-08-13T03:44:08Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/bsnl-jto-recruitment-2026/</loc>
     <lastmod>2026-08-12T10:20:09Z</lastmod>
     <changefreq>daily</changefreq>
@@ -82,12 +112,6 @@
   <url>
     <loc>http://localhost:1313/jobs/aai-manager-junior-executive-2026/</loc>
     <lastmod>2026-08-08T05:34:04Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
-    <lastmod>2026-08-08T05:33:42Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -812,18 +836,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/upsc/upsc-nda-ii-recruitment-2026/</loc>
-    <lastmod>2026-06-10T02:29:40Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/upsc/upsc-cds-ii-recruitment-2026/</loc>
-    <lastmod>2026-06-10T02:28:39Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/up/upsssc-vidhan-bhawan-guard-fireman-2026/</loc>
     <lastmod>2026-06-09T03:20:08Z</lastmod>
     <changefreq>daily</changefreq>
@@ -926,19 +938,7 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ssc/ssc-cht-recruitment-2026/</loc>
-    <lastmod>2026-05-04T06:37:37Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/ssc-phase-14-recruitment-2026/</loc>
-    <lastmod>2026-05-04T06:37:37Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ssc/ssc-stenographer-2026/</loc>
     <lastmod>2026-05-04T06:37:37Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
