@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
+    <lastmod>2026-08-13T04:23:47Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/up-anganwadi-helper-bharti/</loc>
+    <lastmod>2026-08-13T04:20:28Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
     <lastmod>2026-08-13T03:50:17Z</lastmod>
     <changefreq>daily</changefreq>
@@ -82,18 +94,6 @@
   <url>
     <loc>http://localhost:1313/bank/ibps-po-mt-xvi-2026/</loc>
     <lastmod>2026-08-10T13:07:27Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/up-anganwadi-helper-bharti/</loc>
-    <lastmod>2026-08-10T12:48:03Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
-    <lastmod>2026-08-10T12:48:03Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
