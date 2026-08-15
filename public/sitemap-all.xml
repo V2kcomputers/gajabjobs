@@ -2,9 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-08-14T14:21:42Z</lastmod>
+    <lastmod>2026-08-15T05:32:12Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
+    <lastmod>2026-08-15T11:01:57+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/ibps-po-mt-xvi-2026/</loc>
+    <lastmod>2026-08-15T10:57:48+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/bpsc-72nd-pre-exam-2026/</loc>
+    <lastmod>2026-08-15T10:56:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mpesb-forest-guard-jail-prahari-recruitment-feb26/</loc>
+    <lastmod>2026-08-15T10:54:15+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/rajasthan-safai-karamchari-bharti-2026/</loc>
+    <lastmod>2026-08-15T10:53:29+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/upsc/upsc-civil-services-ias-ifs-form-feb26/</loc>
@@ -45,12 +75,6 @@
   <url>
     <loc>http://localhost:1313/up/up-anganwadi-helper-bharti/</loc>
     <lastmod>2026-08-13T09:50:28+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
-    <lastmod>2026-08-13T09:20:17+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -141,12 +165,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-leo-recruitment-2026/</loc>
     <lastmod>2026-08-10T19:36:01+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/ibps-po-mt-xvi-2026/</loc>
-    <lastmod>2026-08-10T18:37:27+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -361,12 +379,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/rajasthan-safai-karamchari-bharti-2026/</loc>
-    <lastmod>2026-07-29T19:30:25+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/up/uppsc-pre-2026/</loc>
     <lastmod>2026-07-29T12:12:46+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -525,12 +537,6 @@
   <url>
     <loc>http://localhost:1313/2026/wcl-mining-sirdar-assistant-foreman-2026/</loc>
     <lastmod>2026-07-20T17:52:29+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bihar/bpsc-72nd-pre-exam-2026/</loc>
-    <lastmod>2026-07-20T16:27:16+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -939,12 +945,6 @@
   <url>
     <loc>http://localhost:1313/2026/csir-aso-recruitment-2026/</loc>
     <lastmod>2026-06-23T11:07:35+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-forest-guard-jail-prahari-recruitment-feb26/</loc>
-    <lastmod>2026-06-23T09:12:11+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
