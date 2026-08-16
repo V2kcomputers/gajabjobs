@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/rajasthan/rssb-junior-engineer-2026/</loc>
+    <lastmod>2026-08-16T06:31:35Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/rajasthan-safai-karamchari-bharti-2026/</loc>
     <lastmod>2026-08-16T03:49:44Z</lastmod>
     <changefreq>daily</changefreq>

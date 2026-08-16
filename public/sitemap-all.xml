@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-08-16T03:50:15Z</lastmod>
+    <lastmod>2026-08-16T06:38:56Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/nta-ugc-net-june-2026/</loc>
+    <lastmod>2026-08-16T12:08:08+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/nta-csir-ugc-net-june-2026/</loc>
+    <lastmod>2026-08-16T12:07:21+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rajasthan/rssb-junior-engineer-2026/</loc>
+    <lastmod>2026-08-16T12:01:35+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/rajasthan-safai-karamchari-bharti-2026/</loc>
@@ -667,12 +685,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/eligibility/nta-csir-ugc-net-june-2026/</loc>
-    <lastmod>2026-07-13T18:22:54+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/force/indian-army-agniveer-rally-recruitment-feb26/</loc>
     <lastmod>2026-07-13T18:20:09+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -1047,12 +1059,6 @@
   <url>
     <loc>http://localhost:1313/eligibility/ctet-september-2026/</loc>
     <lastmod>2026-06-15T17:25:50+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/eligibility/nta-ugc-net-june-2026/</loc>
-    <lastmod>2026-06-14T19:50:05+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
