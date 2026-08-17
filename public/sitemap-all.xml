@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-08-16T06:38:56Z</lastmod>
+    <lastmod>2026-08-17T05:48:55Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mphc-assistant-grade-3-2026/</loc>
+    <lastmod>2026-08-17T11:18:48+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/eligibility/nta-ugc-net-june-2026/</loc>
@@ -45,12 +51,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-veterinary-pharmacist-2026/</loc>
     <lastmod>2026-08-15T13:00:09+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mphc-assistant-grade-3-2026/</loc>
-    <lastmod>2026-08-15T12:09:55+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
