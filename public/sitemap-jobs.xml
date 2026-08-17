@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/mp/mpesb-group-3-sub-engineer-2026/</loc>
+    <lastmod>2026-08-17T15:22:49Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mp-anganwadi-bharti-2026-phase-1/</loc>
     <lastmod>2026-08-17T10:31:27Z</lastmod>
     <changefreq>daily</changefreq>
