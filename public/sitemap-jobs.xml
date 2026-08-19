@@ -8,6 +8,24 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/rj/rssb-computer-instructor-recruitment-2026/</loc>
+    <lastmod>2026-08-19T10:28:18Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-lower-pcs-recruitment-mar26/</loc>
+    <lastmod>2026-08-19T10:21:12Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-junior-engineer-recruitment-2026/</loc>
+    <lastmod>2026-08-19T10:18:05Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/bpsc-school-teacher-tre-4.0-2026/</loc>
     <lastmod>2026-08-19T07:13:54Z</lastmod>
     <changefreq>daily</changefreq>
@@ -98,20 +116,8 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/up/upsssc-lower-pcs-recruitment-mar26/</loc>
-    <lastmod>2026-08-14T14:20:03Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/up/ahc-research-associate-recruitment-2026/</loc>
     <lastmod>2026-08-14T14:18:44Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-junior-engineer-recruitment-2026/</loc>
-    <lastmod>2026-08-14T04:01:39Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -922,12 +928,6 @@
   <url>
     <loc>http://localhost:1313/bank/rbi-assistant-recruitment-feb26/</loc>
     <lastmod>2026-05-28T04:10:20Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/rj/rssb-computer-instructor-recruitment-2026/</loc>
-    <lastmod>2026-05-25T13:04:47Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>

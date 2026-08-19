@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-08-19T07:16:03Z</lastmod>
+    <lastmod>2026-08-19T10:28:52Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rj/rssb-computer-instructor-recruitment-2026/</loc>
+    <lastmod>2026-08-19T15:58:18+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-lower-pcs-recruitment-mar26/</loc>
+    <lastmod>2026-08-19T15:51:12+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-junior-engineer-recruitment-2026/</loc>
+    <lastmod>2026-08-19T15:48:05+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/bpsc-school-teacher-tre-4.0-2026/</loc>
@@ -121,12 +139,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/up/upsssc-lower-pcs-recruitment-mar26/</loc>
-    <lastmod>2026-08-14T19:50:03+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/up/ahc-research-associate-recruitment-2026/</loc>
     <lastmod>2026-08-14T19:48:44+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -135,12 +147,6 @@
   <url>
     <loc>http://localhost:1313/education/mp-board-time-table-2027/</loc>
     <lastmod>2026-08-14T11:19:29+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-junior-engineer-recruitment-2026/</loc>
-    <lastmod>2026-08-14T09:31:39+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1155,12 +1161,6 @@
   <url>
     <loc>http://localhost:1313/bank/rbi-assistant-recruitment-feb26/</loc>
     <lastmod>2026-05-28T09:40:20+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/rj/rssb-computer-instructor-recruitment-2026/</loc>
-    <lastmod>2026-05-25T18:34:47+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
