@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
+    <lastmod>2026-08-21T05:15:29Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/up-anganwadi-helper-bharti/</loc>
+    <lastmod>2026-08-21T05:13:09Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bank/ibps-so-xvi-2026/</loc>
     <lastmod>2026-08-21T03:44:32Z</lastmod>
     <changefreq>daily</changefreq>
@@ -172,18 +184,6 @@
   <url>
     <loc>http://localhost:1313/up/ahc-research-associate-recruitment-2026/</loc>
     <lastmod>2026-08-14T14:18:44Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
-    <lastmod>2026-08-13T04:23:47Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/up-anganwadi-helper-bharti/</loc>
-    <lastmod>2026-08-13T04:20:28Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
