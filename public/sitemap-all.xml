@@ -2,9 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-08-21T10:41:48Z</lastmod>
+    <lastmod>2026-08-22T03:55:37Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
+    <lastmod>2026-08-22T09:25:33+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-alp-recruitment-mar26/</loc>
+    <lastmod>2026-08-22T09:22:18+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ssc-phase-14-recruitment-2026/</loc>
+    <lastmod>2026-08-22T09:22:18+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/ibps-clerk-recruitment-2026/</loc>
+    <lastmod>2026-08-22T09:19:20+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/upsc/upsc-epfo-apfc-2026/</loc>
@@ -57,12 +81,6 @@
   <url>
     <loc>http://localhost:1313/admission/mp-epravesh-collage-admission-form-2026/</loc>
     <lastmod>2026-08-20T16:18:02+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/ibps-clerk-recruitment-2026/</loc>
-    <lastmod>2026-08-20T11:21:04+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -183,12 +201,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-veterinary-pharmacist-2026/</loc>
     <lastmod>2026-08-15T13:00:09+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
-    <lastmod>2026-08-15T11:01:57+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1081,12 +1093,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/railway/rrb-alp-recruitment-mar26/</loc>
-    <lastmod>2026-06-16T19:57:39+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/mp-board-second-exam-form-2026/</loc>
     <lastmod>2026-06-16T15:42:39+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -1239,12 +1245,6 @@
   <url>
     <loc>http://localhost:1313/education/mp-guest-teacher-atithi-shikshak-2026/</loc>
     <lastmod>2026-05-08T17:35:04+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/ssc-phase-14-recruitment-2026/</loc>
-    <lastmod>2026-05-04T12:07:37+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
