@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-08-23T11:03:11Z</lastmod>
+    <lastmod>2026-08-23T11:50:11Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/sbi-junior-associate-clerk-2026/</loc>
+    <lastmod>2026-08-23T17:20:05+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
@@ -81,12 +87,6 @@
   <url>
     <loc>http://localhost:1313/admission/mp-epravesh-collage-admission-form-2026/</loc>
     <lastmod>2026-08-20T16:18:02+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/sbi-junior-associate-clerk-2026/</loc>
-    <lastmod>2026-08-20T11:21:04+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
