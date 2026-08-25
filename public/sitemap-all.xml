@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-08-25T06:18:25Z</lastmod>
+    <lastmod>2026-08-25T11:02:09Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/apprentice/sbi-apprentice-recruitment-may26/</loc>
+    <lastmod>2026-08-25T16:31:26+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-excise-constable-recruitment-2026/</loc>
+    <lastmod>2026-08-25T16:21:13+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/ctet-september-2026/</loc>
+    <lastmod>2026-08-25T16:19:15+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/2026/rcfl-management-trainee-2026/</loc>
@@ -517,12 +535,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/up/upsssc-excise-constable-recruitment-2026/</loc>
-    <lastmod>2026-07-29T12:11:13+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bank/cbi-apprentice-recruitment-jun-2026/</loc>
     <lastmod>2026-07-29T12:09:46+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -925,12 +937,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/apprentice/sbi-apprentice-recruitment-may26/</loc>
-    <lastmod>2026-06-30T16:23:43+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bihar/bpssc-company-commander-2026/</loc>
     <lastmod>2026-06-30T09:15:57+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -1113,12 +1119,6 @@
   <url>
     <loc>http://localhost:1313/ssc/ssc-gd-constable-admit-card-2026/</loc>
     <lastmod>2026-06-15T18:23:47+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/eligibility/ctet-september-2026/</loc>
-    <lastmod>2026-06-15T17:25:50+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

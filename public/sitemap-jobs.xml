@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/upsssc-excise-constable-recruitment-2026/</loc>
+    <lastmod>2026-08-25T10:51:13Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/2026/rcfl-management-trainee-2026/</loc>
     <lastmod>2026-08-25T06:17:37Z</lastmod>
     <changefreq>daily</changefreq>
@@ -400,12 +406,6 @@
   <url>
     <loc>http://localhost:1313/up/uppsc-pre-2026/</loc>
     <lastmod>2026-07-29T06:42:46Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-excise-constable-recruitment-2026/</loc>
-    <lastmod>2026-07-29T06:41:13Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
