@@ -2,9 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-08-25T11:02:09Z</lastmod>
+    <lastmod>2026-08-26T03:34:08Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rajasthan/rvunl-je-junior-assistant-2026/</loc>
+    <lastmod>2026-08-26T09:02:07+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/upsc/upsc-capf-ac-recruitment-feb26/</loc>
+    <lastmod>2026-08-26T09:02:07+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/admission/neet-pg-2026/</loc>
+    <lastmod>2026-08-26T09:01:05+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/admission/mp-iti-admission-2026/</loc>
+    <lastmod>2026-08-26T08:59:35+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/apprentice/sbi-apprentice-recruitment-may26/</loc>
@@ -295,12 +319,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/admission/mp-iti-admission-2026/</loc>
-    <lastmod>2026-08-12T15:52:33+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/cpct-exam-2026/</loc>
     <lastmod>2026-08-12T11:33:51+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -309,12 +327,6 @@
   <url>
     <loc>http://localhost:1313/jobs/mp-panchayat-sachiv-rojgar-sahayak-bharti-2026/</loc>
     <lastmod>2026-08-12T10:27:08+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/admission/neet-pg-2026/</loc>
-    <lastmod>2026-08-12T09:23:08+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -435,12 +447,6 @@
   <url>
     <loc>http://localhost:1313/jharkhand/jssc-jilcce-inter-level-2026/</loc>
     <lastmod>2026-08-05T09:18:01+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/rajasthan/rvunl-je-junior-assistant-2026/</loc>
-    <lastmod>2026-08-05T09:11:36+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -777,12 +783,6 @@
   <url>
     <loc>http://localhost:1313/railway/rrb-ministerial-isolated-category-dec25/</loc>
     <lastmod>2026-07-11T09:00:20+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/upsc/upsc-capf-ac-recruitment-feb26/</loc>
-    <lastmod>2026-07-11T08:59:19+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
