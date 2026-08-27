@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/2026/india-post-gds-july-2026/</loc>
+    <lastmod>2026-08-27T06:03:22Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
     <lastmod>2026-08-27T05:03:39Z</lastmod>
     <changefreq>daily</changefreq>
