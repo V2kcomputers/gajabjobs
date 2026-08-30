@@ -2,9 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-08-30T03:53:52Z</lastmod>
+    <lastmod>2026-08-30T05:16:28Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/nta-csir-ugc-net-june-2026/</loc>
+    <lastmod>2026-08-30T10:42:59+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/nta-neet-ug-2026/</loc>
+    <lastmod>2026-08-30T10:42:59+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/sbi-po-recruitment-2026/</loc>
+    <lastmod>2026-08-30T10:37:29+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/pnb-lbo-recruitment-2026/</loc>
+    <lastmod>2026-08-30T10:34:09+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-fsl-recruitment-2026/</loc>
+    <lastmod>2026-08-30T10:32:21+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-forest-guard-wildlife-guard-2026/</loc>
+    <lastmod>2026-08-30T10:31:04+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/mp/mpesb-group-3-sub-engineer-2026/</loc>
@@ -253,12 +289,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/eligibility/nta-csir-ugc-net-june-2026/</loc>
-    <lastmod>2026-08-16T12:07:21+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/rajasthan/rssb-junior-engineer-2026/</loc>
     <lastmod>2026-08-16T12:01:35+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -381,12 +411,6 @@
   <url>
     <loc>http://localhost:1313/bank/iob-local-bank-officer-2026/</loc>
     <lastmod>2026-08-08T16:47:09+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/pnb-lbo-recruitment-2026/</loc>
-    <lastmod>2026-08-08T16:46:17+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -577,12 +601,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/up/upsssc-fsl-recruitment-2026/</loc>
-    <lastmod>2026-07-27T10:37:58+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/aiims-norcet-11th-nursing-officer-2026/</loc>
     <lastmod>2026-07-25T12:33:33+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -655,12 +673,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bank/sbi-po-recruitment-2026/</loc>
-    <lastmod>2026-07-22T18:47:10+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/delhi/dhc-higher-judicial-service-hjs-2026/</loc>
     <lastmod>2026-07-22T15:35:25+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -723,12 +735,6 @@
   <url>
     <loc>http://localhost:1313/rj/rssb-female-supervisor-recruitment-jan26/</loc>
     <lastmod>2026-07-18T11:14:41+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/eligibility/nta-neet-ug-2026/</loc>
-    <lastmod>2026-07-17T10:30:43+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -939,12 +945,6 @@
   <url>
     <loc>http://localhost:1313/eligibility/htet-2025/</loc>
     <lastmod>2026-07-01T09:58:04+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-forest-guard-wildlife-guard-2026/</loc>
-    <lastmod>2026-06-30T16:26:01+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
