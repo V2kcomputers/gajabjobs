@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-08-30T07:20:16Z</lastmod>
+    <lastmod>2026-08-30T10:10:58Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2026/isro-icrb-scientist-engineer-sc-2026/</loc>
+    <lastmod>2026-08-30T15:37:30+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/bank/sbi-tfo-recruitment-2026/</loc>
