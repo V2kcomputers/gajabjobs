@@ -8,8 +8,14 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/mp/mpesb-group-3-sub-engineer-2026/</loc>
+    <lastmod>2026-08-30T03:51:33Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/2026/india-post-gds-july-2026/</loc>
-    <lastmod>2026-08-27T06:03:22Z</lastmod>
+    <lastmod>2026-08-30T03:47:56Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -58,12 +64,6 @@
   <url>
     <loc>http://localhost:1313/2026/rcfl-management-trainee-2026/</loc>
     <lastmod>2026-08-25T06:17:37Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-group-3-sub-engineer-2026/</loc>
-    <lastmod>2026-08-25T06:12:38Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
