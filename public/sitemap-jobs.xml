@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bank/bank-of-india-so-recruitment-2026/</loc>
+    <lastmod>2026-08-31T11:39:26Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bank/ibps-rrb-15th-recruitment-2026/</loc>
     <lastmod>2026-08-31T07:06:42Z</lastmod>
     <changefreq>daily</changefreq>
