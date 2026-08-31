@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-08-30T10:10:58Z</lastmod>
+    <lastmod>2026-08-31T07:09:09Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/ibps-rrb-15th-recruitment-2026/</loc>
+    <lastmod>2026-08-31T12:36:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2026/india-post-gds-july-2026/</loc>
+    <lastmod>2026-08-31T12:36:06+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/2026/isro-icrb-scientist-engineer-sc-2026/</loc>
@@ -63,12 +75,6 @@
   <url>
     <loc>http://localhost:1313/mp/mpesb-group-3-sub-engineer-2026/</loc>
     <lastmod>2026-08-30T09:21:33+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/2026/india-post-gds-july-2026/</loc>
-    <lastmod>2026-08-30T09:17:56+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
