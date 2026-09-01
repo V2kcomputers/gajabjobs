@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-09-01T05:35:18Z</lastmod>
+    <lastmod>2026-09-01T12:43:14Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/upsssc-pet-2026/</loc>
+    <lastmod>2026-09-01T18:12:38+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/nta-ugc-net-june-2026/</loc>
+    <lastmod>2026-09-01T18:11:28+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/bank/ibps-rrb-15th-recruitment-2026/</loc>
@@ -75,12 +87,6 @@
   <url>
     <loc>http://localhost:1313/bank/uco-bank-so-recruitment-2026/</loc>
     <lastmod>2026-08-30T11:50:17+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/eligibility/nta-ugc-net-june-2026/</loc>
-    <lastmod>2026-08-30T11:08:27+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -555,12 +561,6 @@
   <url>
     <loc>http://localhost:1313/bank/sbi-cbo-recruitment-jan26/</loc>
     <lastmod>2026-08-04T09:23:12+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/eligibility/upsssc-pet-2026/</loc>
-    <lastmod>2026-08-04T09:20:51+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
