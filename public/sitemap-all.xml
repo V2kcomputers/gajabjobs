@@ -2,13 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-09-01T04:20:49Z</lastmod>
+    <lastmod>2026-09-01T05:35:18Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://localhost:1313/bank/ibps-rrb-15th-recruitment-2026/</loc>
-    <lastmod>2026-09-01T09:49:41+05:30</lastmod>
+    <lastmod>2026-09-01T11:05:09+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
+    <lastmod>2026-09-01T11:04:57+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/up-anganwadi-helper-bharti/</loc>
+    <lastmod>2026-09-01T10:59:20+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/union-bank-so-recruitment-2026/</loc>
+    <lastmod>2026-09-01T10:58:04+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ssc/ssc-stenographer-2026/</loc>
+    <lastmod>2026-09-01T10:57:02+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ssc/ssc-cht-recruitment-2026/</loc>
+    <lastmod>2026-09-01T10:54:56+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -87,18 +117,6 @@
   <url>
     <loc>http://localhost:1313/mp/mpesb-group-3-sub-engineer-2026/</loc>
     <lastmod>2026-08-30T09:21:33+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
-    <lastmod>2026-08-27T10:33:39+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/up-anganwadi-helper-bharti/</loc>
-    <lastmod>2026-08-27T10:31:50+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -379,18 +397,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ssc/ssc-stenographer-2026/</loc>
-    <lastmod>2026-08-13T09:18:38+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ssc/ssc-cht-recruitment-2026/</loc>
-    <lastmod>2026-08-13T09:16:57+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/upsc/upsc-cds-ii-recruitment-2026/</loc>
     <lastmod>2026-08-13T09:14:08+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -417,12 +423,6 @@
   <url>
     <loc>http://localhost:1313/apprentice/icf-apprentice-aug2026/</loc>
     <lastmod>2026-08-11T15:09:29+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/union-bank-so-recruitment-2026/</loc>
-    <lastmod>2026-08-11T08:21:26+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
