@@ -1,0 +1,15 @@
+{{- $jobs := where site.RegularPages "Type" "latest-jobs" -}}
+{{- $jobs = $jobs.ByDate.Reverse -}}
+[
+{{- range $index, $job := $jobs -}}
+{{- if $index }},{{ end -}}
+{
+    "title": {{ $job.Title | jsonify }},
+    "seo_title": {{ with $job.Params.seo_title }}{{ . | jsonify }}{{ else }}{{ $job.Title | jsonify }}{{ end }},
+    "lastdate": {{ with $job.Params.lastdate }}{{ . | jsonify }}{{ else }}{{ "" | jsonify }}{{ end }},
+    "description": {{ with $job.Params.description }}{{ . | jsonify }}{{ else }}{{ $job.Summary | plainify | jsonify }}{{ end }},
+    "img": {{ with $job.Params.img }}{{ . | absURL | jsonify }}{{ else }}{{ "" | jsonify }}{{ end }},
+    "url": {{ printf "https://www.gajabjobs.com%s" $job.RelPermalink | jsonify }},
+}
+{{- end -}}
+]
