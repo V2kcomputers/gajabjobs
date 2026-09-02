@@ -2,9 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-09-01T14:26:19Z</lastmod>
+    <lastmod>2026-09-02T04:55:55Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mpesb-group-3-sub-engineer-2026/</loc>
+    <lastmod>2026-09-02T10:25:24+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-junior-engineer-recruitment-2026/</loc>
+    <lastmod>2026-09-02T10:25:06+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/bpsc-school-teacher-tre-4.0-2026/</loc>
+    <lastmod>2026-09-02T10:23:52+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/sbi-po-recruitment-2026/</loc>
+    <lastmod>2026-09-02T10:19:32+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/up-home-guard-recruitment-2025/</loc>
+    <lastmod>2026-09-02T10:19:32+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/upsc/upsc-combined-medical-services-cms-mar26/</loc>
+    <lastmod>2026-09-02T10:15:34+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/eligibility/upsssc-pet-2026/</loc>
@@ -97,12 +133,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bank/sbi-po-recruitment-2026/</loc>
-    <lastmod>2026-08-30T10:37:29+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bank/pnb-lbo-recruitment-2026/</loc>
     <lastmod>2026-08-30T10:34:09+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -117,12 +147,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-forest-guard-wildlife-guard-2026/</loc>
     <lastmod>2026-08-30T10:31:04+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-group-3-sub-engineer-2026/</loc>
-    <lastmod>2026-08-30T09:21:33+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -297,18 +321,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-lower-pcs-recruitment-mar26/</loc>
     <lastmod>2026-08-19T15:51:12+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-junior-engineer-recruitment-2026/</loc>
-    <lastmod>2026-08-19T15:48:05+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/bpsc-school-teacher-tre-4.0-2026/</loc>
-    <lastmod>2026-08-19T12:43:54+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -655,12 +667,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/upsc/upsc-combined-medical-services-cms-mar26/</loc>
-    <lastmod>2026-07-25T09:46:57+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/force/indian-navy-ssc-officer-jun-2027-batch/</loc>
     <lastmod>2026-07-25T09:43:23+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -902,12 +908,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/up/upsssc-cane-supervisor-recruitment-2026/</loc>
-    <lastmod>2026-07-07T09:24:35+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/up-home-guard-recruitment-2025/</loc>
     <lastmod>2026-07-07T09:24:35+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
