@@ -8,6 +8,24 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/upsc-geo-scientist-2027/</loc>
+    <lastmod>2026-09-03T14:11:28Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/upsc/upsc-cds-ii-recruitment-2026/</loc>
+    <lastmod>2026-09-03T14:08:38Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/upsc/upsc-nda-ii-recruitment-2026/</loc>
+    <lastmod>2026-09-03T14:08:38Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/aiims-norcet-11th-nursing-officer-2026/</loc>
     <lastmod>2026-09-03T12:05:32Z</lastmod>
     <changefreq>daily</changefreq>
@@ -364,18 +382,6 @@
   <url>
     <loc>http://localhost:1313/up/ahc-research-associate-recruitment-2026/</loc>
     <lastmod>2026-08-14T14:18:44Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/upsc/upsc-cds-ii-recruitment-2026/</loc>
-    <lastmod>2026-08-13T03:44:08Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/upsc/upsc-nda-ii-recruitment-2026/</loc>
-    <lastmod>2026-08-13T03:44:08Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
