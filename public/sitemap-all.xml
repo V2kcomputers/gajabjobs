@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-09-04T04:51:36Z</lastmod>
+    <lastmod>2026-09-04T06:31:36Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/upsssc-computer-cadre-2026/</loc>
+    <lastmod>2026-09-04T11:58:55+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/admission/mp-iti-admission-2026/</loc>

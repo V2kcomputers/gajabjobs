@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/upsssc-computer-cadre-2026/</loc>
+    <lastmod>2026-09-04T06:28:55Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/upsc-geo-scientist-2027/</loc>
     <lastmod>2026-09-03T14:11:28Z</lastmod>
     <changefreq>daily</changefreq>
