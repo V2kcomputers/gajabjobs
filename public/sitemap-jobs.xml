@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/up-anganwadi-helper-bharti/</loc>
+    <lastmod>2026-09-05T06:50:19Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
+    <lastmod>2026-09-05T06:50:19Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/bob-wealth-executive-2026/</loc>
     <lastmod>2026-09-04T07:24:03Z</lastmod>
     <changefreq>daily</changefreq>
@@ -100,18 +112,6 @@
   <url>
     <loc>http://localhost:1313/bank/ibps-rrb-15th-recruitment-2026/</loc>
     <lastmod>2026-09-01T05:35:09Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
-    <lastmod>2026-09-01T05:34:57Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/up-anganwadi-helper-bharti/</loc>
-    <lastmod>2026-09-01T05:29:20Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
