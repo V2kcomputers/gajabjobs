@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
+    <lastmod>2026-09-07T13:13:03Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/upsssc-computer-cadre-2026/</loc>
+    <lastmod>2026-09-07T13:09:49Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/delhi/delhi-hc-spa-pa-2026/</loc>
     <lastmod>2026-09-05T11:32:39Z</lastmod>
     <changefreq>daily</changefreq>
@@ -34,12 +46,6 @@
   <url>
     <loc>http://localhost:1313/jobs/bob-wealth-executive-2026/</loc>
     <lastmod>2026-09-04T07:24:03Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/upsssc-computer-cadre-2026/</loc>
-    <lastmod>2026-09-04T06:28:55Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -244,12 +250,6 @@
   <url>
     <loc>http://localhost:1313/bank/sbi-junior-associate-clerk-2026/</loc>
     <lastmod>2026-08-23T11:50:05Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
-    <lastmod>2026-08-22T03:55:33Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
