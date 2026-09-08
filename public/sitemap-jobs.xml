@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/railway/rrb-paramedical-2026/</loc>
+    <lastmod>2026-09-08T07:40:29Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bihar/bpssc-hg-company-commander-2026/</loc>
     <lastmod>2026-09-08T06:07:51Z</lastmod>
     <changefreq>daily</changefreq>
