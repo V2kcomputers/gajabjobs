@@ -8,6 +8,48 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/aiims-norcet-11th-nursing-officer-2026/</loc>
+    <lastmod>2026-09-09T05:47:58Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-fsl-recruitment-2026/</loc>
+    <lastmod>2026-09-09T05:46:23Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-forest-guard-wildlife-guard-2026/</loc>
+    <lastmod>2026-09-09T05:45:24Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ssc-phase-14-recruitment-2026/</loc>
+    <lastmod>2026-09-09T05:44:02Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/phc-ex-cadre-assistant-2026/</loc>
+    <lastmod>2026-09-09T05:42:08Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/mpesb-si-subedar-bharti-2026/</loc>
+    <lastmod>2026-09-09T05:39:23Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-leo-recruitment-2026/</loc>
+    <lastmod>2026-09-09T05:39:04Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/railway/rrb-paramedical-2026/</loc>
     <lastmod>2026-09-08T07:40:29Z</lastmod>
     <changefreq>daily</changefreq>
@@ -104,12 +146,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/aiims-norcet-11th-nursing-officer-2026/</loc>
-    <lastmod>2026-09-03T12:05:32Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bank/sbi-po-recruitment-2026/</loc>
     <lastmod>2026-09-03T12:05:32Z</lastmod>
     <changefreq>daily</changefreq>
@@ -124,12 +160,6 @@
   <url>
     <loc>http://localhost:1313/ssc/ssc-je-2026/</loc>
     <lastmod>2026-09-02T13:43:57Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/mpesb-si-subedar-bharti-2026/</loc>
-    <lastmod>2026-09-02T07:35:49Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -230,18 +260,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/up/upsssc-fsl-recruitment-2026/</loc>
-    <lastmod>2026-08-30T05:02:21Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-forest-guard-wildlife-guard-2026/</loc>
-    <lastmod>2026-08-30T05:01:04Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bank/iob-security-guard-recruitment-2026/</loc>
     <lastmod>2026-08-26T05:06:12Z</lastmod>
     <changefreq>daily</changefreq>
@@ -285,12 +303,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/railway/rrb-alp-recruitment-mar26/</loc>
-    <lastmod>2026-08-22T03:52:18Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/ssc-phase-14-recruitment-2026/</loc>
     <lastmod>2026-08-22T03:52:18Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
@@ -440,12 +452,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/up/upsssc-leo-recruitment-2026/</loc>
-    <lastmod>2026-08-10T14:06:01Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bank/iob-local-bank-officer-2026/</loc>
     <lastmod>2026-08-08T11:17:09Z</lastmod>
     <changefreq>daily</changefreq>
@@ -538,12 +544,6 @@
   <url>
     <loc>http://localhost:1313/mp/mpesb-group-2-sub-group-1-krashi-vistar-adhikari-2026/</loc>
     <lastmod>2026-08-01T03:53:06Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bihar/phc-ex-cadre-assistant-2026/</loc>
-    <lastmod>2026-07-31T12:39:14Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
