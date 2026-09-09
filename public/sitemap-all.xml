@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-09-09T05:48:29Z</lastmod>
+    <lastmod>2026-09-09T11:37:54Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upessc-assistant-professor-2026/</loc>
+    <lastmod>2026-09-09T17:06:20+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mpesb-asi-hc-computer-recruitment-feb26/</loc>
+    <lastmod>2026-09-09T17:03:19+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/aiims-norcet-11th-nursing-officer-2026/</loc>
@@ -1359,12 +1371,6 @@
   <url>
     <loc>http://localhost:1313/jobs/indian-navy-ssc-executive-it-2026/</loc>
     <lastmod>2026-05-18T11:06:50+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-asi-hc-computer-recruitment-feb26/</loc>
-    <lastmod>2026-05-09T16:32:54+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
