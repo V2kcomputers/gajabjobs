@@ -8,6 +8,24 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/mp/mpesb-group-2-sub-group-1-krashi-vistar-adhikari-2026/</loc>
+    <lastmod>2026-09-10T13:38:37Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-technician-recruitment-2026/</loc>
+    <lastmod>2026-09-10T13:37:37Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2026/isro-assistant-jpa-2026/</loc>
+    <lastmod>2026-09-10T13:36:42Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/ssc/ssc-cpo-capf-si-2026/</loc>
     <lastmod>2026-09-10T12:02:58Z</lastmod>
     <changefreq>daily</changefreq>
@@ -560,12 +578,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mp/mpesb-group-2-sub-group-1-krashi-vistar-adhikari-2026/</loc>
-    <lastmod>2026-08-01T03:53:06Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/up/up-police-constable-recruitment-dec25/</loc>
     <lastmod>2026-07-31T10:10:02Z</lastmod>
     <changefreq>daily</changefreq>
@@ -596,12 +608,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/2026/isro-assistant-jpa-2026/</loc>
-    <lastmod>2026-07-27T05:09:24Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/upsc/upsc-principal-recruitment-2026/</loc>
     <lastmod>2026-07-25T06:11:06Z</lastmod>
     <changefreq>daily</changefreq>
@@ -616,12 +622,6 @@
   <url>
     <loc>http://localhost:1313/force/indian-navy-ssc-officer-jun-2027-batch/</loc>
     <lastmod>2026-07-25T04:13:23Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-technician-recruitment-2026/</loc>
-    <lastmod>2026-07-24T05:58:00Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>

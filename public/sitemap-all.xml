@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-09-10T12:04:52Z</lastmod>
+    <lastmod>2026-09-10T13:39:26Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mpesb-group-2-sub-group-1-krashi-vistar-adhikari-2026/</loc>
+    <lastmod>2026-09-10T19:08:37+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-technician-recruitment-2026/</loc>
+    <lastmod>2026-09-10T19:07:37+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2026/isro-assistant-jpa-2026/</loc>
+    <lastmod>2026-09-10T19:06:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/ssc/ssc-cpo-capf-si-2026/</loc>
@@ -703,12 +721,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mp/mpesb-group-2-sub-group-1-krashi-vistar-adhikari-2026/</loc>
-    <lastmod>2026-08-01T09:23:06+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/up/up-police-constable-recruitment-dec25/</loc>
     <lastmod>2026-07-31T15:40:02+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -751,12 +763,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/2026/isro-assistant-jpa-2026/</loc>
-    <lastmod>2026-07-27T10:39:24+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/apprentice/union-bank-of-india-apprentice-2026/</loc>
     <lastmod>2026-07-25T11:45:24+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -777,12 +783,6 @@
   <url>
     <loc>http://localhost:1313/force/indian-navy-ssc-officer-jun-2027-batch/</loc>
     <lastmod>2026-07-25T09:43:23+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-technician-recruitment-2026/</loc>
-    <lastmod>2026-07-24T11:28:00+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
