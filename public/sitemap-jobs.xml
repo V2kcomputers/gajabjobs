@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/ssc/ssc-cpo-capf-si-2026/</loc>
+    <lastmod>2026-09-10T12:02:58Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bank/sbi-clerk-backlog-2026/</loc>
     <lastmod>2026-09-10T04:50:41Z</lastmod>
     <changefreq>daily</changefreq>

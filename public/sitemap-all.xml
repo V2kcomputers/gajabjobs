@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-09-10T04:52:13Z</lastmod>
+    <lastmod>2026-09-10T12:04:52Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ssc/ssc-cpo-capf-si-2026/</loc>
+    <lastmod>2026-09-10T17:32:58+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/bank/sbi-clerk-backlog-2026/</loc>
