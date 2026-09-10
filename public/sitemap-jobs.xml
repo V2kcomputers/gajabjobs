@@ -8,6 +8,30 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bihar/bpssc-hg-company-commander-2026/</loc>
+    <lastmod>2026-09-10T04:17:10Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/bank-of-india-so-recruitment-2026/</loc>
+    <lastmod>2026-09-10T04:16:39Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
+    <lastmod>2026-09-10T04:14:39Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/up-anganwadi-helper-bharti/</loc>
+    <lastmod>2026-09-10T04:13:22Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/mpesb-police-constable-recruitment-2026/</loc>
     <lastmod>2026-09-09T12:27:45Z</lastmod>
     <changefreq>daily</changefreq>
@@ -74,12 +98,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bihar/bpssc-hg-company-commander-2026/</loc>
-    <lastmod>2026-09-08T06:07:51Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/ssc/ssc-chsl-2026/</loc>
     <lastmod>2026-09-08T05:17:05Z</lastmod>
     <changefreq>daily</changefreq>
@@ -124,18 +142,6 @@
   <url>
     <loc>http://localhost:1313/2026/pfrda-assistant-manager-2026/</loc>
     <lastmod>2026-09-05T10:08:22Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/up-anganwadi-helper-bharti/</loc>
-    <lastmod>2026-09-05T06:50:19Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/up-anganwadi-worker-bharti/</loc>
-    <lastmod>2026-09-05T06:50:19Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -238,12 +244,6 @@
   <url>
     <loc>http://localhost:1313/jobs/mppeb-group-2-sub-group-3-vacancy-2025/</loc>
     <lastmod>2026-09-01T04:15:55Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/bank-of-india-so-recruitment-2026/</loc>
-    <lastmod>2026-08-31T11:39:26Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
