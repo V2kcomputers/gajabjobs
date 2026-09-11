@@ -2,9 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-09-10T13:39:26Z</lastmod>
+    <lastmod>2026-09-11T10:54:45Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-senior-instructor-2026/</loc>
+    <lastmod>2026-09-11T16:22:21+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/nta-ugc-net-june-2026/</loc>
+    <lastmod>2026-09-11T16:20:40+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/nta-csir-ugc-net-june-2026/</loc>
+    <lastmod>2026-09-11T16:19:51+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/force/iaf-airmen-group-y-medical-assistant-Intake-02-2027/</loc>
+    <lastmod>2026-09-11T16:18:11+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/force/iaf-agniveer-vayu-intake-02-2027/</loc>
+    <lastmod>2026-09-11T16:17:09+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-section-controller-recruitment-2026/</loc>
+    <lastmod>2026-09-11T16:10:13+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/mp/mpesb-group-2-sub-group-1-krashi-vistar-adhikari-2026/</loc>
@@ -205,12 +241,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/eligibility/nta-ugc-net-june-2026/</loc>
-    <lastmod>2026-09-05T12:16:58+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/bob-wealth-executive-2026/</loc>
     <lastmod>2026-09-04T12:54:03+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -351,12 +381,6 @@
   <url>
     <loc>http://localhost:1313/bank/uco-bank-so-recruitment-2026/</loc>
     <lastmod>2026-08-30T11:50:17+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/eligibility/nta-csir-ugc-net-june-2026/</loc>
-    <lastmod>2026-08-30T10:42:59+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -674,12 +698,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/jobs/bob-so-recruitment-2026/</loc>
-    <lastmod>2026-08-06T12:43:14+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-section-controller-recruitment-2026/</loc>
     <lastmod>2026-08-06T12:43:14+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1023,18 +1041,6 @@
   <url>
     <loc>http://localhost:1313/bihar/bpsc-apo-recruitment-feb26/</loc>
     <lastmod>2026-07-07T09:20:48+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/force/iaf-airmen-group-y-medical-assistant-Intake-02-2027/</loc>
-    <lastmod>2026-07-06T09:30:23+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/force/iaf-agniveer-vayu-intake-02-2027/</loc>
-    <lastmod>2026-07-06T09:30:23+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

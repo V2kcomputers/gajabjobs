@@ -8,6 +8,30 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/upsssc-senior-instructor-2026/</loc>
+    <lastmod>2026-09-11T10:52:21Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/force/iaf-airmen-group-y-medical-assistant-Intake-02-2027/</loc>
+    <lastmod>2026-09-11T10:48:11Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/force/iaf-agniveer-vayu-intake-02-2027/</loc>
+    <lastmod>2026-09-11T10:47:09Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-section-controller-recruitment-2026/</loc>
+    <lastmod>2026-09-11T10:40:13Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mpesb-group-2-sub-group-1-krashi-vistar-adhikari-2026/</loc>
     <lastmod>2026-09-10T13:38:37Z</lastmod>
     <changefreq>daily</changefreq>
@@ -536,12 +560,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/railway/rrb-section-controller-recruitment-2026/</loc>
-    <lastmod>2026-08-06T07:13:14Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jharkhand/jssc-jilcce-inter-level-2026/</loc>
     <lastmod>2026-08-05T03:48:01Z</lastmod>
     <changefreq>daily</changefreq>
@@ -826,18 +844,6 @@
   <url>
     <loc>http://localhost:1313/bihar/bpsc-apo-recruitment-feb26/</loc>
     <lastmod>2026-07-07T03:50:48Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/force/iaf-airmen-group-y-medical-assistant-Intake-02-2027/</loc>
-    <lastmod>2026-07-06T04:00:23Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/force/iaf-agniveer-vayu-intake-02-2027/</loc>
-    <lastmod>2026-07-06T04:00:23Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
