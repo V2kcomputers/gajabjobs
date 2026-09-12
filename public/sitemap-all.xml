@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-09-12T05:08:39Z</lastmod>
+    <lastmod>2026-09-12T12:40:05Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/phc-ex-cadre-assistant-2026/</loc>
+    <lastmod>2026-09-12T18:09:09+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/admission/mp-epravesh-collage-admission-form-2026/</loc>
+    <lastmod>2026-09-12T18:08:14+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/mp/mpesb-nayab-tehsildar-2026/</loc>
@@ -183,12 +195,6 @@
   <url>
     <loc>http://localhost:1313/jobs/ssc-phase-14-recruitment-2026/</loc>
     <lastmod>2026-09-09T11:14:02+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bihar/phc-ex-cadre-assistant-2026/</loc>
-    <lastmod>2026-09-09T11:12:08+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -507,12 +513,6 @@
   <url>
     <loc>http://localhost:1313/bank/nainital-bank-so-recruitment-2026/</loc>
     <lastmod>2026-08-20T18:28:02+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/admission/mp-epravesh-collage-admission-form-2026/</loc>
-    <lastmod>2026-08-20T16:18:02+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
