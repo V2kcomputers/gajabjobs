@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-09-12T04:03:33Z</lastmod>
+    <lastmod>2026-09-12T05:08:39Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mpesb-nayab-tehsildar-2026/</loc>
+    <lastmod>2026-09-12T10:38:30+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/mpesb-si-subedar-bharti-2026/</loc>
+    <lastmod>2026-09-12T10:38:06+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/mpesb-police-constable-recruitment-2026/</loc>
+    <lastmod>2026-09-12T10:38:06+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/up/upsssc-lekhpal-recruitment-dec25/</loc>
@@ -133,12 +151,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/mpesb-police-constable-recruitment-2026/</loc>
-    <lastmod>2026-09-09T17:57:45+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/up/upessc-assistant-professor-2026/</loc>
     <lastmod>2026-09-09T17:06:20+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -177,12 +189,6 @@
   <url>
     <loc>http://localhost:1313/bihar/phc-ex-cadre-assistant-2026/</loc>
     <lastmod>2026-09-09T11:12:08+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/mpesb-si-subedar-bharti-2026/</loc>
-    <lastmod>2026-09-09T11:09:23+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
