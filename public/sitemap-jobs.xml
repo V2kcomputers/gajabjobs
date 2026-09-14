@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/railway/rrb-paramedical-2026/</loc>
+    <lastmod>2026-09-14T11:36:52Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ssc-phase-14-recruitment-2026/</loc>
+    <lastmod>2026-09-14T11:33:59Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/rrb-ntpc-inter-level-recruitment-sep-2025/</loc>
     <lastmod>2026-09-14T03:53:06Z</lastmod>
     <changefreq>daily</changefreq>
@@ -194,20 +206,8 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/ssc-phase-14-recruitment-2026/</loc>
-    <lastmod>2026-09-09T05:44:02Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/up/upsssc-leo-recruitment-2026/</loc>
     <lastmod>2026-09-09T05:39:04Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-paramedical-2026/</loc>
-    <lastmod>2026-09-08T07:40:29Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>

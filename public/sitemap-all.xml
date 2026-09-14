@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-09-14T03:54:10Z</lastmod>
+    <lastmod>2026-09-14T11:37:42Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-paramedical-2026/</loc>
+    <lastmod>2026-09-14T17:06:52+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ssc-phase-14-recruitment-2026/</loc>
+    <lastmod>2026-09-14T17:03:59+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/rrb-ntpc-inter-level-recruitment-sep-2025/</loc>
@@ -217,20 +229,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/ssc-phase-14-recruitment-2026/</loc>
-    <lastmod>2026-09-09T11:14:02+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/up/upsssc-leo-recruitment-2026/</loc>
     <lastmod>2026-09-09T11:09:04+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-paramedical-2026/</loc>
-    <lastmod>2026-09-08T13:10:29+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
