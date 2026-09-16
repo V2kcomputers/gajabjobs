@@ -2,9 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-09-16T06:41:11Z</lastmod>
+    <lastmod>2026-09-16T07:46:17Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-junior-engineer-recruitment-2026/</loc>
+    <lastmod>2026-09-16T13:15:28+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upessc-principal-recruitment-2026/</loc>
+    <lastmod>2026-09-16T13:14:36+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/sbi-junior-associate-clerk-2026/</loc>
+    <lastmod>2026-09-16T13:13:17+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/ctet-september-2026/</loc>
+    <lastmod>2026-09-16T13:12:10+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/delhi/delhi-hc-spa-pa-2026/</loc>
@@ -379,12 +403,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/railway/rrb-junior-engineer-recruitment-2026/</loc>
-    <lastmod>2026-09-02T10:25:06+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/bpsc-school-teacher-tre-4.0-2026/</loc>
     <lastmod>2026-09-02T10:23:52+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -489,18 +507,6 @@
   <url>
     <loc>http://localhost:1313/apprentice/sbi-apprentice-recruitment-may26/</loc>
     <lastmod>2026-08-25T16:31:26+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/eligibility/ctet-september-2026/</loc>
-    <lastmod>2026-08-25T16:19:15+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/sbi-junior-associate-clerk-2026/</loc>
-    <lastmod>2026-08-23T17:20:05+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -855,12 +861,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-assistant-statistical-officer-aso-mar26/</loc>
     <lastmod>2026-07-22T15:31:42+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upessc-principal-recruitment-2026/</loc>
-    <lastmod>2026-07-22T11:41:30+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
