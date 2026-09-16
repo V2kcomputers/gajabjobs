@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/delhi/delhi-hc-spa-pa-2026/</loc>
+    <lastmod>2026-09-16T06:36:31Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mphc-assistant-grade-3-2026/</loc>
+    <lastmod>2026-09-16T06:32:51Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/railway/rrb-paramedical-2026/</loc>
     <lastmod>2026-09-14T11:36:52Z</lastmod>
     <changefreq>daily</changefreq>
@@ -242,12 +254,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/delhi/delhi-hc-spa-pa-2026/</loc>
-    <lastmod>2026-09-05T11:32:39Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/2026/pfrda-assistant-manager-2026/</loc>
     <lastmod>2026-09-05T10:08:22Z</lastmod>
     <changefreq>daily</changefreq>
@@ -478,12 +484,6 @@
   <url>
     <loc>http://localhost:1313/mp/mp-anganwadi-bharti-2026-phase-1/</loc>
     <lastmod>2026-08-17T10:31:27Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mphc-assistant-grade-3-2026/</loc>
-    <lastmod>2026-08-17T05:48:48Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>

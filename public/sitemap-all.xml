@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-09-14T11:37:42Z</lastmod>
+    <lastmod>2026-09-16T06:36:54Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/delhi/delhi-hc-spa-pa-2026/</loc>
+    <lastmod>2026-09-16T12:06:31+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/bihar-stet-2026/</loc>
+    <lastmod>2026-09-16T12:05:21+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mphc-assistant-grade-3-2026/</loc>
+    <lastmod>2026-09-16T12:02:51+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/railway/rrb-paramedical-2026/</loc>
@@ -283,12 +301,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/delhi/delhi-hc-spa-pa-2026/</loc>
-    <lastmod>2026-09-05T17:02:39+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/2026/pfrda-assistant-manager-2026/</loc>
     <lastmod>2026-09-05T15:38:22+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -561,18 +573,6 @@
   <url>
     <loc>http://localhost:1313/mp/mp-anganwadi-bharti-2026-phase-1/</loc>
     <lastmod>2026-08-17T16:01:27+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/eligibility/bihar-stet-2026/</loc>
-    <lastmod>2026-08-17T12:39:35+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mphc-assistant-grade-3-2026/</loc>
-    <lastmod>2026-08-17T11:18:48+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
