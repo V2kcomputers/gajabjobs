@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/upessc-pgt-teacher-2026/</loc>
+    <lastmod>2026-09-16T12:24:09Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/up/upessc-prt-assistant-teacher-2026/</loc>
     <lastmod>2026-09-16T11:18:02Z</lastmod>
     <changefreq>daily</changefreq>
