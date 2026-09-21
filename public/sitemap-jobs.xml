@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/railway/rrb-ntpc-graduate-level-2026/</loc>
+    <lastmod>2026-09-21T07:36:23Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/mpesb-asi-subedar-steno-2026/</loc>
     <lastmod>2026-09-19T11:52:42Z</lastmod>
     <changefreq>daily</changefreq>
