@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/force/itbp-hc-motor-mechanic-2026/</loc>
+    <lastmod>2026-09-22T07:29:10Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/mpesb-police-constable-recruitment-2026/</loc>
     <lastmod>2026-09-22T06:43:50Z</lastmod>
     <changefreq>daily</changefreq>
