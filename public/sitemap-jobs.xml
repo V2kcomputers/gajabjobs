@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/mpesb-police-constable-recruitment-2026/</loc>
+    <lastmod>2026-09-22T06:43:50Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-ntpc-inter-level-2026/</loc>
+    <lastmod>2026-09-22T06:30:36Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/ssc/ssc-cgl-recruitment-2026/</loc>
     <lastmod>2026-09-22T03:44:40Z</lastmod>
     <changefreq>daily</changefreq>
@@ -207,12 +219,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/jobs/mpesb-si-subedar-bharti-2026/</loc>
-    <lastmod>2026-09-12T05:08:06Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/mpesb-police-constable-recruitment-2026/</loc>
     <lastmod>2026-09-12T05:08:06Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
