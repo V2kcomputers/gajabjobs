@@ -2,9 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-09-24T03:26:25Z</lastmod>
+    <lastmod>2026-09-24T06:25:20Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ssc/ssc-stenographer-2026/</loc>
+    <lastmod>2026-09-24T11:54:07+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/phc-ex-cadre-assistant-2026/</loc>
+    <lastmod>2026-09-24T11:51:33+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/ibps-po-mt-xvi-2026/</loc>
+    <lastmod>2026-09-24T11:49:42+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/bob-lbo-recruitment-2026/</loc>
+    <lastmod>2026-09-24T11:48:10+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/aai-manager-junior-executive-2026/</loc>
+    <lastmod>2026-09-24T11:45:51+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/mpesb-asi-subedar-steno-2026/</loc>
+    <lastmod>2026-09-24T11:39:50+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-fsl-recruitment-2026/</loc>
+    <lastmod>2026-09-24T11:39:50+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-forest-guard-wildlife-guard-2026/</loc>
+    <lastmod>2026-09-24T11:39:50+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/bpsc-school-teacher-tre-4.0-2026/</loc>
@@ -85,12 +133,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/mpesb-asi-subedar-steno-2026/</loc>
-    <lastmod>2026-09-19T17:22:42+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/mp/mpesb-group-2-sub-group-4-patwari-2026/</loc>
     <lastmod>2026-09-19T17:21:06+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -104,18 +146,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/eligibility/mpesb-mspstet-2026/</loc>
-    <lastmod>2026-09-19T17:15:14+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-fsl-recruitment-2026/</loc>
-    <lastmod>2026-09-19T17:15:14+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-forest-guard-wildlife-guard-2026/</loc>
     <lastmod>2026-09-19T17:15:14+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -237,12 +267,6 @@
   <url>
     <loc>http://localhost:1313/jobs/up-home-guard-recruitment-2025/</loc>
     <lastmod>2026-09-13T10:10:17+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bihar/phc-ex-cadre-assistant-2026/</loc>
-    <lastmod>2026-09-12T18:09:09+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -391,12 +415,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/bob-lbo-recruitment-2026/</loc>
-    <lastmod>2026-09-08T08:53:28+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/eligibility/uptet-2026/</loc>
     <lastmod>2026-09-08T08:50:27+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -501,12 +519,6 @@
   <url>
     <loc>http://localhost:1313/bank/union-bank-so-recruitment-2026/</loc>
     <lastmod>2026-09-01T10:58:04+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ssc/ssc-stenographer-2026/</loc>
-    <lastmod>2026-09-01T10:57:02+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -649,12 +661,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bank/ibps-po-mt-xvi-2026/</loc>
-    <lastmod>2026-08-15T10:57:48+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bihar/bpsc-72nd-pre-exam-2026/</loc>
     <lastmod>2026-08-15T10:56:00+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -717,12 +723,6 @@
   <url>
     <loc>http://localhost:1313/admission/mp-deled-counselling-2026/</loc>
     <lastmod>2026-08-08T11:04:32+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/aai-manager-junior-executive-2026/</loc>
-    <lastmod>2026-08-08T11:04:04+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
