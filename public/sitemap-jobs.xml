@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bihar/btsc-fisheries-extension-officer-2026/</loc>
+    <lastmod>2026-09-27T10:20:27Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bihar/btsc-touring-veterinary-officer-2026/</loc>
     <lastmod>2026-09-27T06:55:37Z</lastmod>
     <changefreq>daily</changefreq>
