@@ -8,6 +8,30 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/ssc/ssc-cgl-recruitment-2026/</loc>
+    <lastmod>2026-09-29T04:26:47Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/force/itbp-hc-motor-mechanic-2026/</loc>
+    <lastmod>2026-09-29T04:23:33Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/rajasthan-safai-karamchari-bharti-2026/</loc>
+    <lastmod>2026-09-29T04:23:33Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/uiic-ao-recruitment-2026/</loc>
+    <lastmod>2026-09-29T04:23:33Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bihar/btsc-food-safety-officer-2026/</loc>
     <lastmod>2026-09-27T11:19:39Z</lastmod>
     <changefreq>daily</changefreq>
@@ -134,12 +158,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/force/itbp-hc-motor-mechanic-2026/</loc>
-    <lastmod>2026-09-22T07:29:10Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/mpesb-police-constable-recruitment-2026/</loc>
     <lastmod>2026-09-22T06:43:50Z</lastmod>
     <changefreq>daily</changefreq>
@@ -148,12 +166,6 @@
   <url>
     <loc>http://localhost:1313/railway/rrb-ntpc-inter-level-2026/</loc>
     <lastmod>2026-09-22T06:30:36Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ssc/ssc-cgl-recruitment-2026/</loc>
-    <lastmod>2026-09-22T03:44:40Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -416,12 +428,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/uiic-ao-recruitment-2026/</loc>
-    <lastmod>2026-09-08T03:17:41Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
     <lastmod>2026-09-07T13:13:03Z</lastmod>
     <changefreq>daily</changefreq>
@@ -598,12 +604,6 @@
   <url>
     <loc>http://localhost:1313/rajasthan/rssb-junior-engineer-2026/</loc>
     <lastmod>2026-08-16T06:31:35Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/rajasthan-safai-karamchari-bharti-2026/</loc>
-    <lastmod>2026-08-16T03:49:44Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
