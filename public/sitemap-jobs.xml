@@ -8,6 +8,30 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/upessc-prt-assistant-teacher-2026/</loc>
+    <lastmod>2026-10-01T04:00:09Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upessc-pgt-teacher-2026/</loc>
+    <lastmod>2026-10-01T04:00:09Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-platoon-commander-block-organizer-2026/</loc>
+    <lastmod>2026-10-01T03:59:21Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-havaldar-instructor-recruitment-2026/</loc>
+    <lastmod>2026-10-01T03:57:03Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bihar/bpsc-school-teacher-tre-4.0-2026/</loc>
     <lastmod>2026-09-29T10:34:17Z</lastmod>
     <changefreq>daily</changefreq>
@@ -250,18 +274,6 @@
   <url>
     <loc>http://localhost:1313/railway/rrb-section-controller-recruitment-2026/</loc>
     <lastmod>2026-09-16T13:01:02Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upessc-pgt-teacher-2026/</loc>
-    <lastmod>2026-09-16T12:24:09Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upessc-prt-assistant-teacher-2026/</loc>
-    <lastmod>2026-09-16T11:18:02Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -1088,12 +1100,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/up/upsssc-havaldar-instructor-recruitment-2026/</loc>
-    <lastmod>2026-06-19T10:00:26Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/force/indian-navy-10-2-btech-jan-2027/</loc>
     <lastmod>2026-06-19T09:59:30Z</lastmod>
     <changefreq>daily</changefreq>
@@ -1102,12 +1108,6 @@
   <url>
     <loc>http://localhost:1313/bihar/csbc-constable-operator-recruitment-feb26/</loc>
     <lastmod>2026-06-16T04:23:09Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-platoon-commander-block-organizer-2026/</loc>
-    <lastmod>2026-06-16T04:21:29Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
