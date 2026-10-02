@@ -8,6 +8,36 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bank/ibps-clerk-recruitment-2026/</loc>
+    <lastmod>2026-10-02T04:19:35Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ssc/ssc-je-2026/</loc>
+    <lastmod>2026-10-02T04:17:30Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ssc/ssc-cpo-capf-si-2026/</loc>
+    <lastmod>2026-10-02T04:16:13Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ssc/ssc-chsl-2026/</loc>
+    <lastmod>2026-10-02T04:05:43Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mpesb-group-3-sub-engineer-2026/</loc>
+    <lastmod>2026-10-02T04:02:45Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/up/upessc-prt-assistant-teacher-2026/</loc>
     <lastmod>2026-10-01T04:00:09Z</lastmod>
     <changefreq>daily</changefreq>
@@ -380,12 +410,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ssc/ssc-cpo-capf-si-2026/</loc>
-    <lastmod>2026-09-10T12:02:58Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bank/sbi-clerk-backlog-2026/</loc>
     <lastmod>2026-09-10T04:50:41Z</lastmod>
     <changefreq>daily</changefreq>
@@ -434,12 +458,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ssc/ssc-chsl-2026/</loc>
-    <lastmod>2026-09-08T05:17:05Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
     <lastmod>2026-09-07T13:13:03Z</lastmod>
     <changefreq>daily</changefreq>
@@ -472,18 +490,6 @@
   <url>
     <loc>http://localhost:1313/delhi/dhc-higher-judicial-service-hjs-2026/</loc>
     <lastmod>2026-09-03T12:04:33Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ssc/ssc-je-2026/</loc>
-    <lastmod>2026-09-02T13:43:57Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-group-3-sub-engineer-2026/</loc>
-    <lastmod>2026-09-02T04:55:24Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -550,12 +556,6 @@
   <url>
     <loc>http://localhost:1313/upsc/upsc-capf-ac-recruitment-feb26/</loc>
     <lastmod>2026-08-26T03:32:07Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/ibps-clerk-recruitment-2026/</loc>
-    <lastmod>2026-08-22T03:49:20Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
