@@ -8,6 +8,36 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/railway/rrb-ntpc-graduate-level-2026/</loc>
+    <lastmod>2026-10-03T04:15:20Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-ntpc-inter-level-2026/</loc>
+    <lastmod>2026-10-03T04:15:20Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-junior-engineer-recruitment-2026/</loc>
+    <lastmod>2026-10-03T04:14:32Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-section-controller-recruitment-2026/</loc>
+    <lastmod>2026-10-03T04:13:39Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-technician-recruitment-2026/</loc>
+    <lastmod>2026-10-03T04:12:49Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bank/ibps-clerk-recruitment-2026/</loc>
     <lastmod>2026-10-02T04:19:35Z</lastmod>
     <changefreq>daily</changefreq>
@@ -122,12 +152,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/railway/rrb-technician-recruitment-2026/</loc>
-    <lastmod>2026-09-27T10:43:01Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bihar/btsc-fisheries-extension-officer-2026/</loc>
     <lastmod>2026-09-27T10:20:27Z</lastmod>
     <changefreq>daily</changefreq>
@@ -218,12 +242,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/railway/rrb-ntpc-inter-level-2026/</loc>
-    <lastmod>2026-09-22T06:30:36Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/ssc/ssc-cht-recruitment-2026/</loc>
     <lastmod>2026-09-22T03:43:01Z</lastmod>
     <changefreq>daily</changefreq>
@@ -256,12 +274,6 @@
   <url>
     <loc>http://localhost:1313/bank/sbi-tfo-recruitment-2026/</loc>
     <lastmod>2026-09-22T03:36:20Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-ntpc-graduate-level-2026/</loc>
-    <lastmod>2026-09-21T07:36:23Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -302,20 +314,8 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/railway/rrb-section-controller-recruitment-2026/</loc>
-    <lastmod>2026-09-16T13:01:02Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/upsc/upsc-various-posts-11-2026/</loc>
     <lastmod>2026-09-16T09:59:49Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-junior-engineer-recruitment-2026/</loc>
-    <lastmod>2026-09-16T07:45:28Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
