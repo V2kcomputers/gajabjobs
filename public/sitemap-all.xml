@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-10-03T04:15:35Z</lastmod>
+    <lastmod>2026-10-03T06:24:28Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/apprentice/canara-bank-apprentice-2026/</loc>
+    <lastmod>2026-10-03T11:47:15+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/railway/rrb-ntpc-graduate-level-2026/</loc>
