@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/up-home-guard-recruitment-2025/</loc>
+    <lastmod>2026-10-04T03:23:27Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bihar/bpsc-school-teacher-tre-4.0-2026/</loc>
+    <lastmod>2026-10-04T03:22:21Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/railway/rrb-ntpc-graduate-level-2026/</loc>
     <lastmod>2026-10-03T04:15:20Z</lastmod>
     <changefreq>daily</changefreq>
@@ -88,12 +100,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-havaldar-instructor-recruitment-2026/</loc>
     <lastmod>2026-10-01T03:57:03Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bihar/bpsc-school-teacher-tre-4.0-2026/</loc>
-    <lastmod>2026-09-29T10:34:17Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -352,12 +358,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-veterinary-pharmacist-2026/</loc>
     <lastmod>2026-09-14T03:52:28Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/up-home-guard-recruitment-2025/</loc>
-    <lastmod>2026-09-13T04:40:17Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
