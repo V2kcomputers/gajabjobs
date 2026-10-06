@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-10-06T11:49:31Z</lastmod>
+    <lastmod>2026-10-06T12:08:05Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mpesb-nayab-tehsildar-2026/</loc>
+    <lastmod>2026-10-06T17:37:34+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/mpesb-mspstet-2026/</loc>
+    <lastmod>2026-10-06T17:35:32+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/rajasthan-set-2026/</loc>
+    <lastmod>2026-10-06T17:35:32+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/up/upsssc-regional-youth-welfare-officer-2026/</loc>
@@ -337,18 +355,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/eligibility/mpesb-mspstet-2026/</loc>
-    <lastmod>2026-09-19T17:15:14+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-nayab-tehsildar-2026/</loc>
-    <lastmod>2026-09-17T15:48:51+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/up/upsssc-je-agriculture-2026/</loc>
     <lastmod>2026-09-17T15:48:27+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -525,12 +531,6 @@
   <url>
     <loc>http://localhost:1313/eligibility/uptet-2026/</loc>
     <lastmod>2026-09-08T08:50:27+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/eligibility/rajasthan-set-2026/</loc>
-    <lastmod>2026-09-07T18:44:44+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

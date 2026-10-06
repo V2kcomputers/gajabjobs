@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/mp/mpesb-nayab-tehsildar-2026/</loc>
+    <lastmod>2026-10-06T12:07:34Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/up/upsssc-regional-youth-welfare-officer-2026/</loc>
     <lastmod>2026-10-06T11:47:11Z</lastmod>
     <changefreq>daily</changefreq>
@@ -304,12 +310,6 @@
   <url>
     <loc>http://localhost:1313/bank/iob-local-bank-officer-2026/</loc>
     <lastmod>2026-09-19T11:45:14Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mpesb-nayab-tehsildar-2026/</loc>
-    <lastmod>2026-09-17T10:18:51Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
