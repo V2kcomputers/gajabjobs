@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/mp/mpseb-police-constable-driver-2026/</loc>
+    <lastmod>2026-10-09T06:26:33Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/railway/rrb-ntpc-graduate-level-2026/</loc>
     <lastmod>2026-10-08T11:27:00Z</lastmod>
     <changefreq>daily</changefreq>
