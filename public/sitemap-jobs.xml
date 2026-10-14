@@ -8,6 +8,36 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/2026/india-post-gds-july-2026/</loc>
+    <lastmod>2026-10-14T07:33:32Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ssc/ssc-gd-constable-dec25/</loc>
+    <lastmod>2026-10-14T07:31:52Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-sports-directorate-2026/</loc>
+    <lastmod>2026-10-14T07:10:51Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/rajasthan-safai-karamchari-bharti-2026/</loc>
+    <lastmod>2026-10-14T07:09:04Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mpesb-group-3-sub-engineer-2026/</loc>
+    <lastmod>2026-10-14T07:06:21Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mpseb-police-constable-driver-2026/</loc>
     <lastmod>2026-10-09T06:26:33Z</lastmod>
     <changefreq>daily</changefreq>
@@ -34,12 +64,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-regional-youth-welfare-officer-2026/</loc>
     <lastmod>2026-10-06T11:47:11Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-sports-directorate-2026/</loc>
-    <lastmod>2026-10-05T11:23:35Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -104,12 +128,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mp/mpesb-group-3-sub-engineer-2026/</loc>
-    <lastmod>2026-10-02T04:02:45Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/up/upessc-prt-assistant-teacher-2026/</loc>
     <lastmod>2026-10-01T04:00:09Z</lastmod>
     <changefreq>daily</changefreq>
@@ -153,12 +171,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/force/itbp-hc-motor-mechanic-2026/</loc>
-    <lastmod>2026-09-29T04:23:33Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/rajasthan-safai-karamchari-bharti-2026/</loc>
     <lastmod>2026-09-29T04:23:33Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
@@ -526,12 +538,6 @@
   <url>
     <loc>http://localhost:1313/jobs/mppeb-group-2-sub-group-3-vacancy-2025/</loc>
     <lastmod>2026-09-01T04:15:55Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/2026/india-post-gds-july-2026/</loc>
-    <lastmod>2026-08-31T07:06:06Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -1126,12 +1132,6 @@
   <url>
     <loc>http://localhost:1313/bihar/csbc-constable-operator-recruitment-feb26/</loc>
     <lastmod>2026-06-16T04:23:09Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ssc/ssc-gd-constable-admit-card-2026/</loc>
-    <lastmod>2026-06-15T12:53:47Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
