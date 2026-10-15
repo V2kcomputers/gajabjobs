@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/mp/mpseb-police-constable-driver-2026/</loc>
+    <lastmod>2026-10-15T03:38:54Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-ntpc-inter-level-2026/</loc>
+    <lastmod>2026-10-15T03:36:48Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mphc-stenographer-assistant-grade-iii-2026/</loc>
     <lastmod>2026-10-14T11:36:26Z</lastmod>
     <changefreq>daily</changefreq>
@@ -44,12 +56,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mp/mpseb-police-constable-driver-2026/</loc>
-    <lastmod>2026-10-09T06:26:33Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/railway/rrb-ntpc-graduate-level-2026/</loc>
     <lastmod>2026-10-08T11:27:00Z</lastmod>
     <changefreq>daily</changefreq>
@@ -82,12 +88,6 @@
   <url>
     <loc>http://localhost:1313/bihar/bpsc-school-teacher-tre-4.0-2026/</loc>
     <lastmod>2026-10-04T03:22:21Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-ntpc-inter-level-2026/</loc>
-    <lastmod>2026-10-03T04:15:20Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
