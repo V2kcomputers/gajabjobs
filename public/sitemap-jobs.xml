@@ -8,6 +8,72 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/aai-manager-junior-executive-2026/</loc>
+    <lastmod>2026-10-16T11:58:25Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/uiic-ao-recruitment-2026/</loc>
+    <lastmod>2026-10-16T11:58:25Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-section-controller-recruitment-2026/</loc>
+    <lastmod>2026-10-16T11:57:37Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-technician-recruitment-2026/</loc>
+    <lastmod>2026-10-16T11:49:22Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/ibps-so-xvi-2026/</loc>
+    <lastmod>2026-10-16T11:47:51Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/sbi-po-recruitment-2026/</loc>
+    <lastmod>2026-10-16T11:46:53Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/ssc-phase-14-recruitment-2026/</loc>
+    <lastmod>2026-10-16T11:44:38Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/up-police-constable-recruitment-dec25/</loc>
+    <lastmod>2026-10-16T11:42:46Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-regional-youth-welfare-officer-2026/</loc>
+    <lastmod>2026-10-16T11:42:46Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upessc-prt-assistant-teacher-2026/</loc>
+    <lastmod>2026-10-16T11:41:21Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upessc-pgt-teacher-2026/</loc>
+    <lastmod>2026-10-16T11:41:21Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mp/mpseb-police-constable-driver-2026/</loc>
     <lastmod>2026-10-15T03:38:54Z</lastmod>
     <changefreq>daily</changefreq>
@@ -74,12 +140,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/up/upsssc-regional-youth-welfare-officer-2026/</loc>
-    <lastmod>2026-10-06T11:47:11Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/up-home-guard-recruitment-2025/</loc>
     <lastmod>2026-10-04T03:23:27Z</lastmod>
     <changefreq>daily</changefreq>
@@ -94,18 +154,6 @@
   <url>
     <loc>http://localhost:1313/railway/rrb-junior-engineer-recruitment-2026/</loc>
     <lastmod>2026-10-03T04:14:32Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-section-controller-recruitment-2026/</loc>
-    <lastmod>2026-10-03T04:13:39Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-technician-recruitment-2026/</loc>
-    <lastmod>2026-10-03T04:12:49Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -130,18 +178,6 @@
   <url>
     <loc>http://localhost:1313/ssc/ssc-chsl-2026/</loc>
     <lastmod>2026-10-02T04:05:43Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upessc-prt-assistant-teacher-2026/</loc>
-    <lastmod>2026-10-01T04:00:09Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upessc-pgt-teacher-2026/</loc>
-    <lastmod>2026-10-01T04:00:09Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -177,12 +213,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/force/itbp-hc-motor-mechanic-2026/</loc>
-    <lastmod>2026-09-29T04:23:33Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/uiic-ao-recruitment-2026/</loc>
     <lastmod>2026-09-29T04:23:33Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
@@ -230,12 +260,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/up/up-police-constable-recruitment-dec25/</loc>
-    <lastmod>2026-09-25T03:36:04Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/rrb-ntpc-inter-level-recruitment-sep-2025/</loc>
     <lastmod>2026-09-25T03:33:54Z</lastmod>
     <changefreq>daily</changefreq>
@@ -268,12 +292,6 @@
   <url>
     <loc>http://localhost:1313/bihar/phc-ex-cadre-assistant-2026/</loc>
     <lastmod>2026-09-24T06:21:33Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/aai-manager-junior-executive-2026/</loc>
-    <lastmod>2026-09-24T06:15:51Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -376,12 +394,6 @@
   <url>
     <loc>http://localhost:1313/railway/rrb-paramedical-2026/</loc>
     <lastmod>2026-09-14T11:36:52Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/ssc-phase-14-recruitment-2026/</loc>
-    <lastmod>2026-09-14T11:33:59Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -518,12 +530,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bank/sbi-po-recruitment-2026/</loc>
-    <lastmod>2026-09-03T12:05:32Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/delhi/dhc-higher-judicial-service-hjs-2026/</loc>
     <lastmod>2026-09-03T12:04:33Z</lastmod>
     <changefreq>daily</changefreq>
@@ -586,12 +592,6 @@
   <url>
     <loc>http://localhost:1313/upsc/upsc-capf-ac-recruitment-feb26/</loc>
     <lastmod>2026-08-26T03:32:07Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/ibps-so-xvi-2026/</loc>
-    <lastmod>2026-08-21T03:44:32Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
