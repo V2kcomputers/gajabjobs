@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/upsssc-10-2-inter-level-2026/</loc>
+    <lastmod>2026-10-19T06:21:06Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/railway/rrb-junior-engineer-recruitment-2026/</loc>
     <lastmod>2026-10-19T04:56:31Z</lastmod>
     <changefreq>daily</changefreq>
