@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/2026/bhel-artisan-2026/</loc>
+    <lastmod>2026-10-21T14:02:44Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/railway/rrb-isolated-categories-2026/</loc>
     <lastmod>2026-10-21T13:13:53Z</lastmod>
     <changefreq>daily</changefreq>
