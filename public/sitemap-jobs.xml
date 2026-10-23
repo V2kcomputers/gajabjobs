@@ -8,6 +8,36 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/2026/nicl-assistant-recruitment-2026/</loc>
+    <lastmod>2026-10-23T04:12:44Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/sbi-clerk-backlog-2026/</loc>
+    <lastmod>2026-10-23T04:07:39Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/ibps-so-xvi-2026/</loc>
+    <lastmod>2026-10-23T04:03:39Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-ntpc-graduate-level-2026/</loc>
+    <lastmod>2026-10-23T04:00:34Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-ntpc-inter-level-2026/</loc>
+    <lastmod>2026-10-23T04:00:34Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/2026/bhel-artisan-2026/</loc>
     <lastmod>2026-10-21T14:02:44Z</lastmod>
     <changefreq>daily</changefreq>
@@ -56,12 +86,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bank/sbi-clerk-backlog-2026/</loc>
-    <lastmod>2026-10-19T04:55:08Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/aai-manager-junior-executive-2026/</loc>
     <lastmod>2026-10-16T11:58:25Z</lastmod>
     <changefreq>daily</changefreq>
@@ -82,12 +106,6 @@
   <url>
     <loc>http://localhost:1313/railway/rrb-technician-recruitment-2026/</loc>
     <lastmod>2026-10-16T11:49:22Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bank/ibps-so-xvi-2026/</loc>
-    <lastmod>2026-10-16T11:47:51Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -134,12 +152,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/railway/rrb-ntpc-inter-level-2026/</loc>
-    <lastmod>2026-10-15T03:36:48Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/mp/mphc-stenographer-assistant-grade-iii-2026/</loc>
     <lastmod>2026-10-14T11:36:26Z</lastmod>
     <changefreq>daily</changefreq>
@@ -172,12 +184,6 @@
   <url>
     <loc>http://localhost:1313/mp/mpesb-group-3-sub-engineer-2026/</loc>
     <lastmod>2026-10-14T07:06:21Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-ntpc-graduate-level-2026/</loc>
-    <lastmod>2026-10-08T11:27:00Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -640,12 +646,6 @@
   <url>
     <loc>http://localhost:1313/jobs/bsnl-jto-recruitment-2026/</loc>
     <lastmod>2026-08-21T03:43:06Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/2026/nicl-assistant-recruitment-2026/</loc>
-    <lastmod>2026-08-21T03:41:21Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
