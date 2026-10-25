@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/upessc-up-headmaster-recruitment-2026/</loc>
+    <lastmod>2026-10-25T07:16:11Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/up/upessc-up-tgt-2026/</loc>
     <lastmod>2026-10-25T06:33:35Z</lastmod>
     <changefreq>daily</changefreq>
