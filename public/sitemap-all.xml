@@ -2,9 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-10-23T04:13:27Z</lastmod>
+    <lastmod>2026-10-25T04:37:16Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/bob-so-recruitment-2026/</loc>
+    <lastmod>2026-10-25T10:06:12+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-alp-recruitment-mar26/</loc>
+    <lastmod>2026-10-25T10:03:44+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ssc/ssc-je-2026/</loc>
+    <lastmod>2026-10-25T10:02:27+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2026/isro-assistant-jpa-2026/</loc>
+    <lastmod>2026-10-25T09:59:52+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ssc/ssc-gd-constable-dec25/</loc>
+    <lastmod>2026-10-25T09:58:48+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2026/sci-court-master-recruitment-2026/</loc>
+    <lastmod>2026-10-25T09:57:43+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/2026/nicl-assistant-recruitment-2026/</loc>
@@ -51,12 +87,6 @@
   <url>
     <loc>http://localhost:1313/railway/rrb-station-master-2026/</loc>
     <lastmod>2026-10-21T16:56:51+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/2026/sci-court-master-recruitment-2026/</loc>
-    <lastmod>2026-10-20T10:45:44+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -187,12 +217,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ssc/ssc-gd-constable-dec25/</loc>
-    <lastmod>2026-10-14T13:01:52+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/up/upsssc-sports-directorate-2026/</loc>
     <lastmod>2026-10-14T12:40:51+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -255,12 +279,6 @@
   <url>
     <loc>http://localhost:1313/bank/ibps-clerk-recruitment-2026/</loc>
     <lastmod>2026-10-02T09:49:35+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ssc/ssc-je-2026/</loc>
-    <lastmod>2026-10-02T09:47:30+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -439,12 +457,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/railway/rrb-alp-recruitment-mar26/</loc>
-    <lastmod>2026-09-22T09:10:12+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bank/ibps-rrb-15th-recruitment-2026/</loc>
     <lastmod>2026-09-22T09:07:05+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -573,12 +585,6 @@
   <url>
     <loc>http://localhost:1313/force/iaf-agniveer-vayu-intake-02-2027/</loc>
     <lastmod>2026-09-11T16:17:09+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/2026/isro-assistant-jpa-2026/</loc>
-    <lastmod>2026-09-10T19:06:42+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -897,12 +903,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-technical-assistant-group-c-2026/</loc>
     <lastmod>2026-08-06T15:52:12+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/bob-so-recruitment-2026/</loc>
-    <lastmod>2026-08-06T12:43:14+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
