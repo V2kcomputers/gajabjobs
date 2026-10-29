@@ -2,9 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-10-25T10:58:33Z</lastmod>
+    <lastmod>2026-10-29T07:11:04Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-station-master-2026/</loc>
+    <lastmod>2026-10-29T12:40:52+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upessc-prt-assistant-teacher-2026/</loc>
+    <lastmod>2026-10-29T12:40:10+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/admission/jnvst-class-6-admission-2027/</loc>
+    <lastmod>2026-10-29T12:37:48+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/mpesb-si-subedar-bharti-2026/</loc>
+    <lastmod>2026-10-29T12:35:54+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/up/upessc-up-principal-inter-level-2026/</loc>
@@ -103,12 +127,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/railway/rrb-station-master-2026/</loc>
-    <lastmod>2026-10-21T16:56:51+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/eligibility/nta-csir-ugc-net-december-2026/</loc>
     <lastmod>2026-10-19T16:47:00+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -201,12 +219,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-regional-youth-welfare-officer-2026/</loc>
     <lastmod>2026-10-16T17:12:46+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upessc-prt-assistant-teacher-2026/</loc>
-    <lastmod>2026-10-16T17:11:21+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -565,12 +577,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/mpesb-si-subedar-bharti-2026/</loc>
-    <lastmod>2026-09-12T10:38:06+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/up/upsssc-lekhpal-recruitment-dec25/</loc>
     <lastmod>2026-09-12T09:32:45+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -873,12 +879,6 @@
   <url>
     <loc>http://localhost:1313/apprentice/rcf-kapurthala-apprentice-2026/</loc>
     <lastmod>2026-08-10T18:07:47+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/admission/jnvst-class-6-admission-2027/</loc>
-    <lastmod>2026-08-08T11:06:16+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
