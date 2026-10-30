@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/up/uppsc-ro-aro-2026/</loc>
+    <lastmod>2026-10-30T06:57:28Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/rajasthan/rvunl-je-junior-assistant-2026/</loc>
     <lastmod>2026-10-30T06:10:12Z</lastmod>
     <changefreq>daily</changefreq>
