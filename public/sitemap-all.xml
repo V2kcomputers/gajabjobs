@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-10-31T12:17:53Z</lastmod>
+    <lastmod>2026-10-31T13:31:42Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/nta/nta-jeemain-session-1-2027/</loc>
+    <lastmod>2026-10-31T19:00:22+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/2026/isro-ursc-technician-driver-2026/</loc>
