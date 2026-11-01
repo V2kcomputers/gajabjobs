@@ -8,6 +8,30 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/railway/rrb-ntpc-graduate-level-2026/</loc>
+    <lastmod>2026-11-01T05:55:45Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-ntpc-inter-level-2026/</loc>
+    <lastmod>2026-11-01T05:55:45Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-station-master-2026/</loc>
+    <lastmod>2026-11-01T05:55:45Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2026/rites-assistant-manager-2026/</loc>
+    <lastmod>2026-11-01T05:54:27Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/2026/isro-ursc-technician-driver-2026/</loc>
     <lastmod>2026-10-31T12:14:25Z</lastmod>
     <changefreq>daily</changefreq>
@@ -46,12 +70,6 @@
   <url>
     <loc>http://localhost:1313/bihar/bpsc-school-teacher-tre-4.0-2026/</loc>
     <lastmod>2026-10-30T06:06:48Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-station-master-2026/</loc>
-    <lastmod>2026-10-29T07:10:52Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -124,18 +142,6 @@
   <url>
     <loc>http://localhost:1313/bank/ibps-so-xvi-2026/</loc>
     <lastmod>2026-10-23T04:03:39Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-ntpc-graduate-level-2026/</loc>
-    <lastmod>2026-10-23T04:00:34Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-ntpc-inter-level-2026/</loc>
-    <lastmod>2026-10-23T04:00:34Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
