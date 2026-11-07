@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/dsssb-mts-je-2026/</loc>
+    <lastmod>2026-11-07T07:53:07Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/railway/rrb-ntpc-graduate-level-2026/</loc>
     <lastmod>2026-11-07T04:47:51Z</lastmod>
     <changefreq>daily</changefreq>
