@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bihar/bihar-vidhan-sabha-jsa-office-attendant-2026/</loc>
+    <lastmod>2026-11-09T06:05:02Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/2026/pgcil-engineer-trainee-2026/</loc>
     <lastmod>2026-11-08T06:45:51Z</lastmod>
     <changefreq>daily</changefreq>
