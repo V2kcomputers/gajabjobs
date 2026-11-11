@@ -2,9 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-11-09T06:09:57Z</lastmod>
+    <lastmod>2026-11-11T05:19:42Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/ibps-rrb-15th-recruitment-2026/</loc>
+    <lastmod>2026-11-11T10:48:53+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upessc-assistant-professor-2026/</loc>
+    <lastmod>2026-11-11T10:40:47+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-junior-engineer-recruitment-2026/</loc>
+    <lastmod>2026-11-11T10:39:19+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/rajasthan-set-2026/</loc>
+    <lastmod>2026-11-11T10:32:46+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/upsc/upsc-civil-services-ias-ifs-form-feb26/</loc>
+    <lastmod>2026-11-10T09:09:51+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/bihar/bihar-vidhan-sabha-jsa-office-attendant-2026/</loc>
@@ -271,12 +301,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/railway/rrb-junior-engineer-recruitment-2026/</loc>
-    <lastmod>2026-10-19T10:26:31+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/eligibility/bihar-stet-2026/</loc>
     <lastmod>2026-10-19T10:23:27+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -386,12 +410,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/eligibility/mpesb-mspstet-2026/</loc>
-    <lastmod>2026-10-06T17:35:32+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/eligibility/rajasthan-set-2026/</loc>
     <lastmod>2026-10-06T17:35:32+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -577,12 +595,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bank/ibps-rrb-15th-recruitment-2026/</loc>
-    <lastmod>2026-09-22T09:07:05+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bank/sbi-junior-associate-clerk-2026/</loc>
     <lastmod>2026-09-22T09:07:05+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -717,12 +729,6 @@
   <url>
     <loc>http://localhost:1313/up/up-anganwadi-helper-bharti/</loc>
     <lastmod>2026-09-10T09:43:22+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upessc-assistant-professor-2026/</loc>
-    <lastmod>2026-09-09T17:06:20+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -915,12 +921,6 @@
   <url>
     <loc>http://localhost:1313/mp/mpesb-forest-guard-jail-prahari-recruitment-feb26/</loc>
     <lastmod>2026-08-15T10:54:15+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/upsc/upsc-civil-services-ias-ifs-form-feb26/</loc>
-    <lastmod>2026-08-14T19:51:02+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

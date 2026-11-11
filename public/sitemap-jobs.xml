@@ -8,6 +8,30 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bank/ibps-rrb-15th-recruitment-2026/</loc>
+    <lastmod>2026-11-11T05:18:53Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upessc-assistant-professor-2026/</loc>
+    <lastmod>2026-11-11T05:10:47Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-junior-engineer-recruitment-2026/</loc>
+    <lastmod>2026-11-11T05:09:19Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/upsc/upsc-civil-services-ias-ifs-form-feb26/</loc>
+    <lastmod>2026-11-10T03:39:51Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bihar/bihar-vidhan-sabha-jsa-office-attendant-2026/</loc>
     <lastmod>2026-11-09T06:05:02Z</lastmod>
     <changefreq>daily</changefreq>
@@ -208,12 +232,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-10-2-inter-level-2026/</loc>
     <lastmod>2026-10-19T06:21:06Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-junior-engineer-recruitment-2026/</loc>
-    <lastmod>2026-10-19T04:56:31Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -476,12 +494,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bank/ibps-rrb-15th-recruitment-2026/</loc>
-    <lastmod>2026-09-22T03:37:05Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bank/sbi-junior-associate-clerk-2026/</loc>
     <lastmod>2026-09-22T03:37:05Z</lastmod>
     <changefreq>daily</changefreq>
@@ -604,12 +616,6 @@
   <url>
     <loc>http://localhost:1313/up/up-anganwadi-helper-bharti/</loc>
     <lastmod>2026-09-10T04:13:22Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upessc-assistant-professor-2026/</loc>
-    <lastmod>2026-09-09T11:36:20Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -772,12 +778,6 @@
   <url>
     <loc>http://localhost:1313/mp/mpesb-forest-guard-jail-prahari-recruitment-feb26/</loc>
     <lastmod>2026-08-15T05:24:15Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/upsc/upsc-civil-services-ias-ifs-form-feb26/</loc>
-    <lastmod>2026-08-14T14:21:02Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
