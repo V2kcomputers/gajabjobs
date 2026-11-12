@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Gajab Jobs</title>
-    <link>http://localhost:50820/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Gajab Jobs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Nov 2026 12:00:11 +0530</lastBuildDate>
-    <atom:link href="http://localhost:50820/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Graduation</title>
-      <link>http://localhost:50820/categories/graduation/</link>
+      <link>http://localhost:1313/categories/graduation/</link>
       <pubDate>Fri, 06 Nov 2026 12:00:11 +0530</pubDate>
-      <guid>http://localhost:50820/categories/graduation/</guid>
+      <guid>http://localhost:1313/categories/graduation/</guid>
       <description></description>
     </item>
     <item>
       <title>Railway</title>
-      <link>http://localhost:50820/categories/railway/</link>
+      <link>http://localhost:1313/categories/railway/</link>
       <pubDate>Fri, 06 Nov 2026 12:00:11 +0530</pubDate>
-      <guid>http://localhost:50820/categories/railway/</guid>
+      <guid>http://localhost:1313/categories/railway/</guid>
       <description></description>
     </item>
     <item>
       <title>UP</title>
-      <link>http://localhost:50820/categories/up/</link>
+      <link>http://localhost:1313/categories/up/</link>
       <pubDate>Fri, 30 Oct 2026 12:27:28 +0530</pubDate>
-      <guid>http://localhost:50820/categories/up/</guid>
+      <guid>http://localhost:1313/categories/up/</guid>
       <description></description>
     </item>
     <item>
       <title>Teacher</title>
-      <link>http://localhost:50820/categories/teacher/</link>
+      <link>http://localhost:1313/categories/teacher/</link>
       <pubDate>Sun, 25 Oct 2026 16:26:29 +0530</pubDate>
-      <guid>http://localhost:50820/categories/teacher/</guid>
+      <guid>http://localhost:1313/categories/teacher/</guid>
       <description></description>
     </item>
     <item>
       <title>Court</title>
-      <link>http://localhost:50820/categories/court/</link>
+      <link>http://localhost:1313/categories/court/</link>
       <pubDate>Sun, 25 Oct 2026 09:57:43 +0530</pubDate>
-      <guid>http://localhost:50820/categories/court/</guid>
+      <guid>http://localhost:1313/categories/court/</guid>
       <description></description>
     </item>
     <item>
       <title>High Court</title>
-      <link>http://localhost:50820/categories/high-court/</link>
+      <link>http://localhost:1313/categories/high-court/</link>
       <pubDate>Sun, 25 Oct 2026 09:57:43 +0530</pubDate>
-      <guid>http://localhost:50820/categories/high-court/</guid>
+      <guid>http://localhost:1313/categories/high-court/</guid>
       <description></description>
     </item>
     <item>
       <title>ITI</title>
-      <link>http://localhost:50820/categories/iti/</link>
+      <link>http://localhost:1313/categories/iti/</link>
       <pubDate>Wed, 21 Oct 2026 19:32:44 +0530</pubDate>
-      <guid>http://localhost:50820/categories/iti/</guid>
+      <guid>http://localhost:1313/categories/iti/</guid>
       <description></description>
     </item>
     <item>
       <title>Apprentice</title>
-      <link>http://localhost:50820/categories/apprentice/</link>
+      <link>http://localhost:1313/categories/apprentice/</link>
       <pubDate>Sat, 03 Oct 2026 11:47:15 +0530</pubDate>
-      <guid>http://localhost:50820/categories/apprentice/</guid>
+      <guid>http://localhost:1313/categories/apprentice/</guid>
       <description></description>
     </item>
     <item>
       <title>Bank</title>
-      <link>http://localhost:50820/categories/bank/</link>
+      <link>http://localhost:1313/categories/bank/</link>
       <pubDate>Sat, 03 Oct 2026 11:47:15 +0530</pubDate>
-      <guid>http://localhost:50820/categories/bank/</guid>
+      <guid>http://localhost:1313/categories/bank/</guid>
       <description></description>
     </item>
     <item>
       <title>Force</title>
-      <link>http://localhost:50820/categories/force/</link>
+      <link>http://localhost:1313/categories/force/</link>
       <pubDate>Sun, 03 May 2026 12:57:33 +0530</pubDate>
-      <guid>http://localhost:50820/categories/force/</guid>
+      <guid>http://localhost:1313/categories/force/</guid>
       <description></description>
     </item>
     <item>
       <title>2026</title>
-      <link>http://localhost:50820/categories/2026/</link>
+      <link>http://localhost:1313/categories/2026/</link>
       <pubDate>Wed, 15 Apr 2026 18:06:17 +0530</pubDate>
-      <guid>http://localhost:50820/categories/2026/</guid>
+      <guid>http://localhost:1313/categories/2026/</guid>
       <description></description>
     </item>
     <item>
       <title>Bihar</title>
-      <link>http://localhost:50820/categories/bihar/</link>
+      <link>http://localhost:1313/categories/bihar/</link>
       <pubDate>Sat, 11 Apr 2026 15:45:40 +0530</pubDate>
-      <guid>http://localhost:50820/categories/bihar/</guid>
+      <guid>http://localhost:1313/categories/bihar/</guid>
       <description></description>
     </item>
     <item>
       <title>Police Jobs</title>
-      <link>http://localhost:50820/categories/police-jobs/</link>
+      <link>http://localhost:1313/categories/police-jobs/</link>
       <pubDate>Wed, 01 Apr 2026 16:54:29 +0530</pubDate>
-      <guid>http://localhost:50820/categories/police-jobs/</guid>
+      <guid>http://localhost:1313/categories/police-jobs/</guid>
       <description></description>
     </item>
   </channel>

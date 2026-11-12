@@ -2,18 +2,18 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
-    <loc>http://localhost:50820/sitemap-jobs.xml</loc>
-    <lastmod>2026-11-11T12:39:23Z</lastmod>
+    <loc>http://localhost:1313/sitemap-jobs.xml</loc>
+    <lastmod>2026-11-12T12:38:57Z</lastmod>
   </sitemap>
 
   <sitemap>
-    <loc>http://localhost:50820/sitemap-apprentice.xml</loc>
-    <lastmod>2026-11-11T12:39:23Z</lastmod>
+    <loc>http://localhost:1313/sitemap-apprentice.xml</loc>
+    <lastmod>2026-11-12T12:38:57Z</lastmod>
   </sitemap>
 
   <sitemap>
-    <loc>http://localhost:50820/sitemap-all.xml</loc>
-    <lastmod>2026-11-11T12:39:23Z</lastmod>
+    <loc>http://localhost:1313/sitemap-all.xml</loc>
+    <lastmod>2026-11-12T12:38:57Z</lastmod>
   </sitemap>
 
 </sitemapindex>

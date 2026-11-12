@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bihar on Gajab Jobs</title>
-    <link>http://localhost:50820/categories/bihar/</link>
+    <link>http://localhost:1313/categories/bihar/</link>
     <description>Recent content in Bihar on Gajab Jobs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Apr 2026 15:45:40 +0530</lastBuildDate>
-    <atom:link href="http://localhost:50820/categories/bihar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/bihar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BTSC Laboratory Assistant Online Form 2026</title>
-      <link>http://localhost:50820/bihar/btsc-laboratory-assistant-recruitment-2026/</link>
+      <link>http://localhost:1313/bihar/btsc-laboratory-assistant-recruitment-2026/</link>
       <pubDate>Sat, 11 Apr 2026 15:45:40 +0530</pubDate>
-      <guid>http://localhost:50820/bihar/btsc-laboratory-assistant-recruitment-2026/</guid>
+      <guid>http://localhost:1313/bihar/btsc-laboratory-assistant-recruitment-2026/</guid>
       <description>BTSC has announced Laboratory Assistant Recruitment 2026 for 1090 vacancies. Eligible candidates with Diploma or B.E./B.Tech can apply online between 06/04/2026 and 06/05/2026. Check complete details including eligibility, fee, age limit and apply before the last date.</description>
     </item>
     <item>
       <title>Patna High Court Technical Assistant Online Form 2026</title>
-      <link>http://localhost:50820/bihar/phc-technical-assistant-recruitment-2026/</link>
+      <link>http://localhost:1313/bihar/phc-technical-assistant-recruitment-2026/</link>
       <pubDate>Wed, 01 Apr 2026 16:54:29 +0530</pubDate>
-      <guid>http://localhost:50820/bihar/phc-technical-assistant-recruitment-2026/</guid>
+      <guid>http://localhost:1313/bihar/phc-technical-assistant-recruitment-2026/</guid>
       <description>Patna High Court has invited online applications for Technical Assistant Recruitment 2026. A total of 53 posts are available. Candidates having BCA, ITI or Diploma with 1 year experience can apply between 01 April and 30 April 2026.</description>
     </item>
   </channel>
