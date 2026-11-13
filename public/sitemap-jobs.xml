@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/force/air-force-afcat-01-2027/</loc>
+    <lastmod>2026-11-13T10:02:35Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/dsssb-mts-je-2026/</loc>
     <lastmod>2026-11-12T12:50:40Z</lastmod>
     <changefreq>daily</changefreq>
