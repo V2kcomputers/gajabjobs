@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/2026/isro-ursc-technician-driver-2026/</loc>
+    <lastmod>2026-11-14T12:28:21Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-paramedical-2026/</loc>
+    <lastmod>2026-11-14T12:24:17Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/railway/rrb-ntpc-inter-level-2026/</loc>
     <lastmod>2026-11-14T04:36:21Z</lastmod>
     <changefreq>daily</changefreq>
@@ -148,12 +160,6 @@
   <url>
     <loc>http://localhost:1313/2026/rites-assistant-manager-2026/</loc>
     <lastmod>2026-11-01T05:54:27Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/2026/isro-ursc-technician-driver-2026/</loc>
-    <lastmod>2026-10-31T12:14:25Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -556,12 +562,6 @@
   <url>
     <loc>http://localhost:1313/mp/mphc-assistant-grade-3-2026/</loc>
     <lastmod>2026-09-16T06:32:51Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-paramedical-2026/</loc>
-    <lastmod>2026-09-14T11:36:52Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>

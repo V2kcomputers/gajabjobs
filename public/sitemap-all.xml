@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-11-14T04:39:30Z</lastmod>
+    <lastmod>2026-11-14T12:29:08Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/2026/isro-ursc-technician-driver-2026/</loc>
+    <lastmod>2026-11-14T17:58:21+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-paramedical-2026/</loc>
+    <lastmod>2026-11-14T17:54:17+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/education/mp-board-time-table-2027/</loc>
@@ -213,12 +225,6 @@
   <url>
     <loc>http://localhost:1313/nta/nta-jeemain-session-1-2027/</loc>
     <lastmod>2026-10-31T19:00:22+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/2026/isro-ursc-technician-driver-2026/</loc>
-    <lastmod>2026-10-31T17:44:25+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -675,12 +681,6 @@
   <url>
     <loc>http://localhost:1313/mp/mphc-assistant-grade-3-2026/</loc>
     <lastmod>2026-09-16T12:02:51+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-paramedical-2026/</loc>
-    <lastmod>2026-09-14T17:06:52+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
