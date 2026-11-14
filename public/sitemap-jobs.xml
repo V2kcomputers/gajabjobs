@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/railway/rrb-ntpc-inter-level-2026/</loc>
+    <lastmod>2026-11-14T04:36:21Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-station-master-2026/</loc>
+    <lastmod>2026-11-14T04:36:21Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/force/air-force-afcat-01-2027/</loc>
     <lastmod>2026-11-13T10:02:35Z</lastmod>
     <changefreq>daily</changefreq>
@@ -130,18 +142,6 @@
   <url>
     <loc>http://localhost:1313/up/upsssc-combined-je-mechanical-2026/</loc>
     <lastmod>2026-11-03T10:02:52Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-ntpc-inter-level-2026/</loc>
-    <lastmod>2026-11-01T05:55:45Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/railway/rrb-station-master-2026/</loc>
-    <lastmod>2026-11-01T05:55:45Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
