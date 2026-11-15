@@ -8,6 +8,18 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/mpesb-asi-subedar-steno-2026/</loc>
+    <lastmod>2026-11-15T06:36:49Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/mpesb-si-subedar-bharti-2026/</loc>
+    <lastmod>2026-11-15T06:35:36Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/2026/isro-ursc-technician-driver-2026/</loc>
     <lastmod>2026-11-14T12:28:21Z</lastmod>
     <changefreq>daily</changefreq>
@@ -190,12 +202,6 @@
   <url>
     <loc>http://localhost:1313/bihar/bpsc-school-teacher-tre-4.0-2026/</loc>
     <lastmod>2026-10-30T06:06:48Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/mpesb-si-subedar-bharti-2026/</loc>
-    <lastmod>2026-10-29T07:05:54Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -478,12 +484,6 @@
   <url>
     <loc>http://localhost:1313/bihar/phc-ex-cadre-assistant-2026/</loc>
     <lastmod>2026-09-24T06:21:33Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/mpesb-asi-subedar-steno-2026/</loc>
-    <lastmod>2026-09-24T06:09:50Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
