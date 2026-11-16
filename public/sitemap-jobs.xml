@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/force/assam-rifles-technical-tradesman-2026/</loc>
+    <lastmod>2026-11-16T06:58:50Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/railway/rrb-ntpc-inter-level-2026/</loc>
     <lastmod>2026-11-16T06:05:21Z</lastmod>
     <changefreq>daily</changefreq>
