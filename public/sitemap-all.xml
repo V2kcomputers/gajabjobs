@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-11-15T06:37:38Z</lastmod>
+    <lastmod>2026-11-16T06:05:35Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-ntpc-inter-level-2026/</loc>
+    <lastmod>2026-11-16T11:35:21+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upessc-assistant-professor-2026/</loc>
+    <lastmod>2026-11-16T11:34:01+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mp-asha-karyakarta-bharti-2026/</loc>
+    <lastmod>2026-11-16T11:33:45+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/mpesb-asi-subedar-steno-2026/</loc>
@@ -37,12 +55,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/railway/rrb-ntpc-inter-level-2026/</loc>
-    <lastmod>2026-11-14T10:06:21+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/railway/rrb-station-master-2026/</loc>
     <lastmod>2026-11-14T10:06:21+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -62,12 +74,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/jobs/dsssb-mts-je-2026/</loc>
-    <lastmod>2026-11-12T18:20:40+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mp-asha-karyakarta-bharti-2026/</loc>
     <lastmod>2026-11-12T18:20:40+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -105,12 +111,6 @@
   <url>
     <loc>http://localhost:1313/bank/ibps-rrb-15th-recruitment-2026/</loc>
     <lastmod>2026-11-11T10:48:53+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upessc-assistant-professor-2026/</loc>
-    <lastmod>2026-11-11T10:40:47+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
