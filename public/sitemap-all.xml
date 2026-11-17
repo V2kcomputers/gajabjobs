@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-11-16T07:00:33Z</lastmod>
+    <lastmod>2026-11-17T04:21:50Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mphc-assistant-grade-3-2026/</loc>
+    <lastmod>2026-11-17T09:48:29+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/sbi-junior-associate-clerk-2026/</loc>
+    <lastmod>2026-11-17T09:48:29+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mp/mp-asha-karyakarta-bharti-2026/</loc>
+    <lastmod>2026-11-17T09:47:59+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/force/assam-rifles-technical-tradesman-2026/</loc>
@@ -21,12 +39,6 @@
   <url>
     <loc>http://localhost:1313/up/upessc-assistant-professor-2026/</loc>
     <lastmod>2026-11-16T11:34:01+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mp-asha-karyakarta-bharti-2026/</loc>
-    <lastmod>2026-11-16T11:33:45+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -631,12 +643,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bank/sbi-junior-associate-clerk-2026/</loc>
-    <lastmod>2026-09-22T09:07:05+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bank/sbi-tfo-recruitment-2026/</loc>
     <lastmod>2026-09-22T09:06:20+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -681,12 +687,6 @@
   <url>
     <loc>http://localhost:1313/delhi/delhi-hc-spa-pa-2026/</loc>
     <lastmod>2026-09-16T12:06:31+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/mp/mphc-assistant-grade-3-2026/</loc>
-    <lastmod>2026-09-16T12:02:51+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

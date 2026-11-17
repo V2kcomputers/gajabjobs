@@ -613,22 +613,28 @@
 
     <button class="btn btn-copy" onclick="copyLink()">Copy Link</button>
 
-      <a class="btn btn-share" href="https://wa.me/?text=✅Contact%20Us%20%e2%80%93%20GajabJobs.com%0A✅Check%20Details%20👇%0A🔗http%3a%2f%2flocalhost%3a1313%2fcontact%2f" target="_blank">
-        Share on WhatsApp
-      </a>
+      <a class="btn btn-share"
+   href="https://wa.me/?text=✅Contact%20Us%20%e2%80%93%20GajabJobs.com%0A✅Check%20Details%20👇%0A🔗http%3a%2f%2flocalhost%3a1313%2fcontact%2f"
+   target="_blank"
+   rel="noopener noreferrer">
+   Share on WhatsApp
+</a>
       
   </div>
 
-  <script>
-    function copyLink() {
-      const link = "http:\/\/localhost:1313\/contact\/";
-      navigator.clipboard.writeText(link).then(() => {
-        alert("✅ Link copied to clipboard!");
-      }).catch(err => {
-        alert("❌ Failed to copy: " + err);
-      });
-    }
-  </script>
+ <script>
+  function copyLink() {
+    const link = 
+      "http://localhost:1313/contact/"
+    ;
+
+    navigator.clipboard.writeText(link).then(() => {
+      alert("✅ Link copied to clipboard!");
+    }).catch(err => {
+      alert("❌ Failed to copy: " + err);
+    });
+  }
+</script>
 </body>
 
 
