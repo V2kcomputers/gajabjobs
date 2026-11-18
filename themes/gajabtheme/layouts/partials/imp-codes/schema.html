@@ -1,28 +1,107 @@
+{{/* Schema Image */}}
+{{ $imageURL := "" }}
+
+{{ with .Params.imageBanner }}
+  {{ $image := . }}
+  {{ $isRemote := or (hasPrefix $image "http://") (hasPrefix $image "https://") }}
+
+  {{ if $isRemote }}
+
+    {{/* Remote Image */}}
+    {{ with try (resources.GetRemote $image) }}
+
+      {{/* Check for Download Error */}}
+      {{ if .Err }}
+
+        {{ warnf "Schema image download failed: %s" .Err }}
+        {{ $imageURL = $image }}
+
+      {{ else }}
+
+        {{/* Safely Check Resource Value */}}
+        {{ with .Value }}
+          {{ $imageURL = .Permalink }}
+        {{ else }}
+          {{ $imageURL = $image }}
+        {{ end }}
+
+      {{ end }}
+
+    {{ else }}
+      {{ $imageURL = $image }}
+    {{ end }}
+
+  {{ else }}
+
+    {{/* Local Image: Page Resources */}}
+    {{ with $.Resources.Get $image }}
+      {{ $imageURL = .Permalink }}
+
+    {{ else }}
+
+      {{/* Global Assets */}}
+      {{ with resources.Get $image }}
+        {{ $imageURL = .Permalink }}
+
+      {{ else }}
+
+        {{/* Static Image Fallback */}}
+        {{ $imageURL = $image | absURL }}
+
+      {{ end }}
+
+    {{ end }}
+
+  {{ end }}
+
+{{ end }}
+
+{{/* Logo Fallback */}}
+{{ if not $imageURL }}
+  {{ with .Site.Params.logo }}
+    {{ $imageURL = . | absURL }}
+  {{ end }}
+{{ end }}
+
+{{/* Schema Content */}}
+{{ $headline := .Params.seo_title | default .Title | plainify }}
+{{ $description := .Params.description | default .Summary | plainify }}
+
+{{ $datePublished := .Date }}
+{{ if not $datePublished }}
+  {{ $datePublished = now }}
+{{ end }}
+
+{{ $dateModified := .Lastmod }}
+{{ if not $dateModified }}
+  {{ $dateModified = now }}
+{{ end }}
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "{{ .Permalink }}"
+    "@id": {{ .Permalink | jsonify }}
   },
-  "headline": {{ with .Params.seo_title }}"{{ . | plainify | htmlEscape }}"{{ else }}"{{ .Title | plainify | htmlEscape }}"{{ end }},
-  "description": {{ with .Params.description }}"{{ . | plainify | htmlEscape }}"{{ else }}"{{ .Summary | plainify | htmlEscape }}"{{ end }},
-  "image": "{{ with .Params.imageBanner }}{{ . | absURL }}{{ else }}{{ .Site.Params.logo | relURL }}{{ end }}",
+  "headline": {{ $headline | jsonify }},
+  "description": {{ $description | jsonify }},
+  "image": {{ $imageURL | jsonify }},
   "author": {
     "@type": "Organization",
-    "name": "{{ .Site.Title }}",
-    "url": "{{ .Site.BaseURL }}"
+    "name": {{ .Site.Title | jsonify }},
+    "url": {{ .Site.BaseURL | jsonify }}
   },
   "publisher": {
     "@type": "Organization",
-    "name": "{{ .Site.Title }}",
+    "name": {{ .Site.Title | jsonify }}{{ with .Site.Params.logo }},
     "logo": {
       "@type": "ImageObject",
-      "url": "{{ .Site.Params.logo | relURL }}"
-    }
+      "url": {{ . | absURL | jsonify }}
+    }{{ end }}
   },
-  "datePublished": "{{ with .Date }}{{ .Format "2006-01-02" }}{{ else }}{{ now.Format "2006-01-02" }}{{ end }}",
-  "dateModified": "{{ with .Lastmod }}{{ .Format "2006-01-02" }}{{ else }}{{ now.Format "2006-01-02" }}{{ end }}"
+  "datePublished": {{ $datePublished.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
+  "dateModified": {{ $dateModified.Format "2006-01-02T15:04:05Z07:00" | jsonify }}
 }
 </script>
