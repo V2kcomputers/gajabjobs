@@ -8,6 +8,42 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/mp/mphc-stenographer-assistant-grade-iii-2026/</loc>
+    <lastmod>2026-11-21T06:40:21Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ssc/ssc-cpo-capf-si-2026/</loc>
+    <lastmod>2026-11-21T06:38:42Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upessc-principal-recruitment-2026/</loc>
+    <lastmod>2026-11-21T06:28:39Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-cane-supervisor-recruitment-2026/</loc>
+    <lastmod>2026-11-21T06:26:02Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-platoon-commander-block-organizer-2026/</loc>
+    <lastmod>2026-11-21T06:21:36Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-havaldar-instructor-recruitment-2026/</loc>
+    <lastmod>2026-11-21T06:19:59Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/jobs/nlc-india-executive-2026/</loc>
     <lastmod>2026-11-18T06:03:30Z</lastmod>
     <changefreq>daily</changefreq>
@@ -88,18 +124,6 @@
   <url>
     <loc>http://localhost:1313/jobs/dsssb-mts-je-2026/</loc>
     <lastmod>2026-11-12T12:50:40Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-platoon-commander-block-organizer-2026/</loc>
-    <lastmod>2026-11-12T12:49:49Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-havaldar-instructor-recruitment-2026/</loc>
-    <lastmod>2026-11-12T12:48:29Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -356,12 +380,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mp/mphc-stenographer-assistant-grade-iii-2026/</loc>
-    <lastmod>2026-10-14T11:36:26Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/2026/india-post-gds-july-2026/</loc>
     <lastmod>2026-10-14T07:33:32Z</lastmod>
     <changefreq>daily</changefreq>
@@ -410,12 +428,6 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ssc/ssc-cpo-capf-si-2026/</loc>
-    <lastmod>2026-10-02T04:16:13Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/ssc/ssc-chsl-2026/</loc>
     <lastmod>2026-10-02T04:05:43Z</lastmod>
     <changefreq>daily</changefreq>
@@ -448,12 +460,6 @@
   <url>
     <loc>http://localhost:1313/jobs/bob-lbo-recruitment-2026/</loc>
     <lastmod>2026-09-27T10:46:29Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upessc-principal-recruitment-2026/</loc>
-    <lastmod>2026-09-27T10:44:23Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -1084,12 +1090,6 @@
   <url>
     <loc>http://localhost:1313/2026/nbems-junior-assistant-and-various-posts-2026/</loc>
     <lastmod>2026-07-08T03:44:15Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-cane-supervisor-recruitment-2026/</loc>
-    <lastmod>2026-07-07T03:54:35Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
