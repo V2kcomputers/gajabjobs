@@ -2,9 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-11-21T10:35:28Z</lastmod>
+    <lastmod>2026-11-23T04:22:17Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-veterinary-pharmacist-2026/</loc>
+    <lastmod>2026-11-23T09:52:12+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upsssc-leo-recruitment-2026/</loc>
+    <lastmod>2026-11-23T09:50:11+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/upsssc-computer-cadre-2026/</loc>
+    <lastmod>2026-11-23T09:48:54+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upessc-up-tgt-2026/</loc>
+    <lastmod>2026-11-23T09:47:46+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/mpesb-police-constable-recruitment-2026/</loc>
+    <lastmod>2026-11-23T09:46:19+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/rajasthan/rssb-cet-12th-level-2026/</loc>
+    <lastmod>2026-11-23T09:45:08+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/jobs/uksssc-constable-and-other-posts-2026/</loc>
@@ -349,12 +385,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/up/upessc-up-tgt-2026/</loc>
-    <lastmod>2026-10-25T12:03:35+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/jobs/bob-so-recruitment-2026/</loc>
     <lastmod>2026-10-25T10:06:12+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -643,12 +673,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/jobs/mpesb-police-constable-recruitment-2026/</loc>
-    <lastmod>2026-09-22T12:13:50+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/ssc/ssc-cht-recruitment-2026/</loc>
     <lastmod>2026-09-22T09:13:01+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -710,12 +734,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/up/upsssc-senior-instructor-2026/</loc>
-    <lastmod>2026-09-14T09:22:28+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upsssc-veterinary-pharmacist-2026/</loc>
     <lastmod>2026-09-14T09:22:28+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -793,12 +811,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/up/upsssc-leo-recruitment-2026/</loc>
-    <lastmod>2026-09-09T11:09:04+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/eligibility/uptet-2026/</loc>
     <lastmod>2026-09-08T08:50:27+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -807,12 +819,6 @@
   <url>
     <loc>http://localhost:1313/railway/rrb-group-d-recruitment-dec25/</loc>
     <lastmod>2026-09-07T18:43:03+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/upsssc-computer-cadre-2026/</loc>
-    <lastmod>2026-09-07T18:39:49+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1491,12 +1497,6 @@
   <url>
     <loc>http://localhost:1313/rj/rajasthan-vanpal-recruitment-jan26/</loc>
     <lastmod>2026-06-25T15:22:01+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/rajasthan/rssb-cet-12th-level-2026/</loc>
-    <lastmod>2026-06-25T09:47:45+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
