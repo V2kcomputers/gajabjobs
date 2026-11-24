@@ -8,6 +8,36 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/jobs/mpesb-police-constable-recruitment-2026/</loc>
+    <lastmod>2026-11-24T05:12:10Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/jobs/mpesb-asi-subedar-steno-2026/</loc>
+    <lastmod>2026-11-24T05:09:06Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ssc/ssc-chsl-2026/</loc>
+    <lastmod>2026-11-24T05:07:53Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upessc-assistant-professor-2026/</loc>
+    <lastmod>2026-11-24T05:05:42Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/upessc-prt-assistant-teacher-2026/</loc>
+    <lastmod>2026-11-24T05:03:24Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/up/upsssc-veterinary-pharmacist-2026/</loc>
     <lastmod>2026-11-23T04:22:12Z</lastmod>
     <changefreq>daily</changefreq>
@@ -28,12 +58,6 @@
   <url>
     <loc>http://localhost:1313/up/upessc-up-tgt-2026/</loc>
     <lastmod>2026-11-23T04:17:46Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/mpesb-police-constable-recruitment-2026/</loc>
-    <lastmod>2026-11-23T04:16:19Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -118,18 +142,6 @@
   <url>
     <loc>http://localhost:1313/railway/rrb-ntpc-inter-level-2026/</loc>
     <lastmod>2026-11-16T06:05:21Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upessc-assistant-professor-2026/</loc>
-    <lastmod>2026-11-16T06:04:01Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/jobs/mpesb-asi-subedar-steno-2026/</loc>
-    <lastmod>2026-11-15T06:36:49Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -220,12 +232,6 @@
   <url>
     <loc>http://localhost:1313/railway/rrb-ntpc-graduate-level-2026/</loc>
     <lastmod>2026-11-07T04:47:51Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/upessc-prt-assistant-teacher-2026/</loc>
-    <lastmod>2026-11-07T04:47:16Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
@@ -460,12 +466,6 @@
   <url>
     <loc>http://localhost:1313/bank/ibps-clerk-recruitment-2026/</loc>
     <lastmod>2026-10-02T04:19:35Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ssc/ssc-chsl-2026/</loc>
-    <lastmod>2026-10-02T04:05:43Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.80</priority>
   </url>
