@@ -8,6 +8,12 @@
     <priority>0.20</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bank/exim-bank-mt-manager-2026/</loc>
+    <lastmod>2026-11-27T07:16:52Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bihar/bpsc-aedo-2026/</loc>
     <lastmod>2026-11-27T06:25:57Z</lastmod>
     <changefreq>daily</changefreq>

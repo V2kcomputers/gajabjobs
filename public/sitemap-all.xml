@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-11-27T06:27:28Z</lastmod>
+    <lastmod>2026-11-27T07:18:11Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/exim-bank-mt-manager-2026/</loc>
+    <lastmod>2026-11-27T12:46:52+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/bihar/bpsc-aedo-2026/</loc>
