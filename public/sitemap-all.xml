@@ -2,9 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-11-27T07:18:11Z</lastmod>
+    <lastmod>2026-11-28T09:22:03Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/railway/rrb-station-master-2026/</loc>
+    <lastmod>2026-11-28T14:51:23+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/up/uppsc-pre-2026/</loc>
+    <lastmod>2026-11-28T14:49:48+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/ctet-september-2026/</loc>
+    <lastmod>2026-11-28T14:48:38+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/eligibility/nta-csir-ugc-net-december-2026/</loc>
+    <lastmod>2026-11-28T14:47:45+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bank/ibps-po-mt-xvi-2026/</loc>
+    <lastmod>2026-11-28T14:46:32+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://localhost:1313/bank/exim-bank-mt-manager-2026/</loc>
@@ -229,12 +259,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/railway/rrb-station-master-2026/</loc>
-    <lastmod>2026-11-14T10:06:21+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/railway/rrc-nr-apprentice-2026/</loc>
     <lastmod>2026-11-13T17:55:14+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -321,12 +345,6 @@
   <url>
     <loc>http://localhost:1313/ssc/ssc-cgl-recruitment-2026/</loc>
     <lastmod>2026-11-06T12:06:46+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/eligibility/nta-csir-ugc-net-december-2026/</loc>
-    <lastmod>2026-11-06T12:02:35+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -667,12 +685,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bank/ibps-po-mt-xvi-2026/</loc>
-    <lastmod>2026-09-25T09:02:47+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bank/rbi-assistant-recruitment-feb26/</loc>
     <lastmod>2026-09-25T09:01:25+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -759,12 +771,6 @@
   <url>
     <loc>http://localhost:1313/upsc/upsc-various-posts-11-2026/</loc>
     <lastmod>2026-09-16T15:29:49+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/eligibility/ctet-september-2026/</loc>
-    <lastmod>2026-09-16T13:12:10+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1143,12 +1149,6 @@
   <url>
     <loc>http://localhost:1313/2026/isro-scientist-engineer-2026/</loc>
     <lastmod>2026-07-30T14:41:55+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/up/uppsc-pre-2026/</loc>
-    <lastmod>2026-07-29T12:12:46+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
