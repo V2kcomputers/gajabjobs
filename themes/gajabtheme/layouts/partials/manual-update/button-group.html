@@ -48,7 +48,7 @@
 
    <a href="https://wa.me/?text={{ if .Params.seo_title }}📢 *{{ .Params.seo_title }}*%0A{{ else }}📢 {{ .Title }}%0A{{ end }}_______________________________%0A{{ with .Params.Eligibility }}🎓 Min. Qualification: {{ . }}%0A{{ end }}{{ with .Params.TotalPost }}📊 Total Posts: {{ . }}%0A{{ end }}{{ with .Params.lastdate }}📅 Last Date: {{ time . | time.Format "02/01/2006" }}%0A{{ end }}%0A{{ with .Params.department }}> 🏛️ {{ . }}%0A{{ end }}_______________________________%0A🔗 More Details: {{ if .Params.shorturl }}{{ .Site.BaseURL }}{{ .Params.shorturl }}{{ else }}{{ .Permalink }}{{ end }}"
    target="_blank">
-   <button class="btn btn-share"><img src="/svg/share.svg" > Share on WhatsApp</button>
+   <button class="btn btn-share"> Share on WhatsApp</button>
 </a>
       
   </div>
